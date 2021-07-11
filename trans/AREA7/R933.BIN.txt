@@ -1,0 +1,144 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000720)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//こ、ここも！？\n
+//　　二階に用があるのに
+H-here too!? I need to get to the 2nd floor already
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000058
+#WRITE(MYPTR, $00000730)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//どうすっかなぁ
+Hmm, what to do
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000098
+#WRITE(MYPTR, $000008D8)
+<$F5><$FF>
+
+//\n
+//－　防火シャッターが降りている　－
+\n
+- The fire shutter is closed. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「いったい、どうしたんだ？\n
+//　　なにか、あったんだろうか？」
+Inaba\n
+"Why is it closed? Did something happen?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000110
+#WRITE(MYPTR, $00000A04)
+<$F5><$FF>
+
+//\n
+//－　防火シャッターが降りている　－
+\n
+- The fire shutter is closed. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「やっぱり、これは変だ！\n
+//　　誰かが意図的に僕たちを閉じ\n
+//　　込めているとしか思えない！
+Inaba\n
+"This is not normal! Someone's trying to trap us in here...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　誰かが・・・・・・。　　　」
+\n
+...but who?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000001C8
+#WRITE(MYPTR, $00000B34)
+<$F5><$FF>
+
+//\n
+//－　生徒会が作った　学園祭の\n
+//　　ポスターだ　　　　　　　　－
+\n
+- It's a poster for the school festival made by the student council. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000212, "WARNME")

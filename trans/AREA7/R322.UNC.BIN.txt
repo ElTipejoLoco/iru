@@ -1,0 +1,1076 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $000014A4)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//なあ、俺のこと助けてくれよ！\n
+//　　たいした用じゃねえだろ？\n
+//　　頼む
+Hey man, do me a favor, will ya? Come on, it'll only take a second
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　　　　　　　　　　」
+!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//で、でもぉ・・・早く帰らない\n
+//　　と。\n
+//　　もう晩御飯の時間だしぃ
+S-sorry, I need to hurry back so we can finish up. It's already dinner time
+
+<$F3><$FF>
+<$68><$00>
+
+//。　　」
+..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//俺の言うことが聞けねえって\n
+//　　いうのか
+So, you're saying you didn't hear me
+
+<$F3><$FF>
+<$04><$00>
+
+//？
+?
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//偉くなったよ、おまえは。\n
+//　　俺の頼みを断るなんてなぁ
+You see, I don't like it when people don't listen
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//そ、そんなんじゃないよ！\n
+//　　そ、それに僕、ヤダなんて一言\n
+//　　も言ってないよ
+T-that's not what I meant! I never said I wouldn't do it
+
+<$F3><$FF>
+<$68><$00>
+
+//！　　　　　　」
+!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//そうか？\n
+//　　じゃあよろしく頼むぜ
+Is that so? Well, I'm counting on you then
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　」
+!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//広瀬\n
+//　「・・・・・・。　　　　　　　」
+Hirose\n
+"..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 0000027C
+#WRITE(MYPTR, $000016D8)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「今、何を言われたんだ？　　」
+Inaba\n
+"What was that all about?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「・・・
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//何でもないよ。\n
+//　　ちょっと用事を手伝ってくれ\n
+//　　って
+It's nothing, he just wanted some help with something
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000320
+#WRITE(MYPTR, $000016E8)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//氷川君の用事済ませてから\n
+//　　クラスに行くから、それまで\n
+//　　待っててよ
+I'll be back to help you once I've finished with Hikawa, so please wait a little longer
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000003A0
+#WRITE(MYPTR, $000018E8)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//あれ～、ど～したの
+Oh hey! What's up
+
+<$F3><$FF>
+<$04><$00>
+
+//～？　　」
+~?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「ど～したの～？じゃないだろ\n
+//　　広瀬。
+Inaba\n
+"What's up!? What the hell are you doing over here!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　準備ほったらかして、こんな\n
+//　　所で何してるんだ。　　　　」
+\n
+We have work to do, come on!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//だってぇ～、稲葉くんだって\n
+//　　真っ先に、眠っちゃったじゃ\n
+//　　ないかぁ
+That's not fair~ You were fast asleep a moment ago, weren't you
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「・・・そりゃそうだけど。　」
+Inaba\n
+"...I mean, I'm sorry about that, but--"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//あ～あぁ。\n
+//　　準備しなくちゃいけないのは\n
+//　　わかってるんだ
+Don't worry, I'm just poking fun at you~
+
+<$F3><$FF>
+<$04><$00>
+
+//～。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//だけどね、すっご～くお腹\n
+//　　減っちゃって、１センチも\n
+//　　動けないんだ
+Buuut, I'm just so hungry! I can't take another step~
+
+<$F3><$FF>
+<$04><$00>
+
+//～。　　　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「そんなこと言ったって、準備\n
+//　　終わらせなきゃ帰れないぞ。」
+Inaba\n
+"Well, standing around won't get you fed any faster. We can't leave until we're done setting up!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ハァ～、晩御飯食べたいし、\n
+//　　そろそろ帰りたいな
+B-but I wanna eat dinner! I wanna go home
+
+<$F3><$FF>
+<$04><$00>
+
+//～。
+~!"
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//でも～、帰りの遠～い道のり\n
+//　　がユウウツだなぁ
+My home is so far though~ I'll never make it
+
+<$F3><$FF>
+<$04><$00>
+
+//～。　　　」
+~"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「帰りの心配の前にすること\n
+//　　あるだろ？
+Inaba\n
+"Don't stress about the walk home when we're not even ready to leave, okay?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　あっ！\n
+//　　そういえば、パンがある。　」
+\n
+Actually, wait! I have some bread if you want that."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//えっ！　えっ！\n
+//　　これ、もらっていいの？\n
+//　　ホントに？　うわ～い
+Oh! Really?? I can have it?? Yaaaay~
+
+<$F3><$FF>
+<$04><$00>
+
+//！！
+!!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//うわ～っ、後で食べよ～っ
+Let's eaaat~ :D
+
+<$F3><$FF>
+<$04><$00>
+
+//！」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$FF><$FF>
+<$78><$00>
+<$F5><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//これ食べれば、なんとか\n
+//　　帰れるんじゃないかなぁ
+I could probably make it home with this energy
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+~!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「・・・準備に戻れ！！　　　」
+Inaba\n
+"Get back to the classroom!!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000810
+#WRITE(MYPTR, $0000190C)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「それじゃ教室に行こうか。　」
+Inaba\n
+"Alright, let's head back to the classroom."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//なんで
+Why
+
+<$F3><$FF>
+<$04><$00>
+
+//～？　　　　　　　　」
+~?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「準備に決まってるだろ。\n
+//　　本当に帰ろうとしてるのか？」
+Inaba\n
+"We still have work to do! Were you just gonna leave us?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//食べてもすぐには行けないよ～。\n
+//　　親が死んでも食休み、って\n
+//　　言うのがウチの家訓だから～
+I might have had a snack, but I can't move yet~ 'Rest after a meal is sacred' is my family motto, you know
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+~?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//少し休んだら絶対に行くから\n
+//　　先に行っててよ。　ね！　ね
+I'll be there though, don't you worry! Just gonna rest a little bit first
+
+<$F3><$FF>
+<$04><$00>
+
+//！」
+~!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000984
+#WRITE(MYPTR, $0000191C)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//少し休んだら絶対に行くから\n
+//　　先に行っててよ
+I'll be there though, don't you worry! Just gonna rest a little bit first
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　」
+~!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000009E4
+#WRITE(MYPTR, $000019D8)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「！？　氷川！！　　　　　　　」
+Inaba\n
+"Wha-!? Hikawa!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//稲葉！　一ノ宮は頂いたぜ！\n
+//　　あの力を蘇らせるには、\n
+//　　一ノ宮の血が必要なんでな
+Inaba! Ichinomiya is mine! We need her family's blood for the awakening ritual
+
+<$F3><$FF>
+<$04><$00>
+
+//！」
+!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「由麻をどうするつもりだ！　　」
+Inaba\n
+"What are you going to do to Yuma!?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//クックックッ。\n
+//　　これで、この世は俺のものだ
+Hahaha!! This world will soon be mine
+
+<$F3><$FF>
+<$04><$00>
+
+//！
+!!
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//ヤツさえ復活させてしまえば、\n
+//　　フッフフ、ハーッハッハッハ
+All that's left is to summon that great being
+
+<$F3><$FF>
+<$04><$00>
+
+//！」
+!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「ま、待て！　氷川ぁーっ！！」
+Inaba\n
+"W-wait! Hikawa!!!"
+
+<$FF><$FF>
+<$3C><$00>
+<$F6><$FF>
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000B94
+#WRITE(MYPTR, $00001A94)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「な、何だ！！　　　　　　　」
+Inaba\n
+"W-what the!?"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000BD0
+#WRITE(MYPTR, $00001BD8)
+<$F5><$FF>
+
+//\n
+//　魔法陣に向かって　イブン＝グハジ\n
+//　の粉を　振りかけた！
+\n
+- You spread the Powder of Ibn-Ghazi on the magic circle! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000C18
+#WRITE(MYPTR, $000022C8)
+<$F5><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//氷川君の用事の方がちょっと\n
+//　　重要なんだぁ～、だから\n
+//　　それ先にしたら行くねぇ～
+Hiwaka asked me to do something very important, so I'll be back one I finish that
+
+<$F3><$FF>
+<$04><$00>
+
+//。」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000C8C
+#WRITE(MYPTR, $00002304)
+<$F5><$FF>
+
+//稲葉\n
+//　「おい、何時になったら手伝い\n
+//　　に来るんだよ。　　　　　　」
+Inaba\n
+"Hey, how long are you planning on taking?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//もう行こうと思ってたんだ。\n
+//　　ねぇ～、望月君知らな～い
+I'm just about ready to go now~ Have you seen Mochizuki though
+
+<$F3><$FF>
+<$04><$00>
+
+//？」
+~?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「望月なら教室に戻ってると思\n
+//　　うけど？　会わなかったか？」
+Inaba\n
+"I thought he headed back already. Did you not see him go by?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ホント！？\n
+//　　な～んだ、よかったぁ
+Oh really!? Ahh that's good~
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//これで氷川君の用事のほうも\n
+//　　すぐ済みそうだよぉ
+That'll make it easier for me to do what Hikawa wanted
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000C8C
+#WRITE(MYPTR, $00002340)
+<$F5><$FF>
+
+//稲葉\n
+//　「おい、何時になったら手伝い\n
+//　　に来るんだよ。　　　　　　」
+Inaba\n
+"Hey, how long are you planning on taking?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//もう行こうと思ってたんだ。\n
+//　　ねぇ～、望月君知らな～い
+I'm just about ready to go now~ Have you seen Mochizuki though
+
+<$F3><$FF>
+<$04><$00>
+
+//？」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「望月なら教室に戻ってると思\n
+//　　うけど？　会わなかったか？」
+Inaba\n
+"I thought he headed back already. Did you not see him go by?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ホント！？\n
+//　　な～んだ、よかったぁ
+Oh really!? Ahh that's good~
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//これで氷川君の用事のほうも\n
+//　　すぐ済みそうだよぉ
+That'll make it easier for me to do what Hikawa wanted
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000E08
+#WRITE(MYPTR, $00002364)
+<$F5><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//なんか、さっきっから、お腹の\n
+//　　調子が
+Ugh, my stomach's been acting up
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000E64
+#WRITE(MYPTR, $000023AC)
+<$F5><$FF>
+
+//稲葉\n
+//　「これ以上近づいたら、あぶな\n
+//　　いな。　　　　　　　　　　」
+Inaba\n
+"It'd be dangerous to get any closer."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000EB4
+#WRITE(MYPTR, $00003358)
+<$F5><$FF>
+
+//\n
+//－　学校の近くにある　時計塔を\n
+//　　かたどったと言われる時計だ　－
+\n
+- It's a large clock modeled after the clock tower near the school. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「この古時計、なんか薄気味\n
+//　　悪いんだよな・・・。\n
+//　　そう感じるのは僕だけかな？」
+Inaba\n
+"I can't be the only one who thinks this old clock tower is kinda creepy..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000F64
+#WRITE(MYPTR, $00003484)
+<$F5><$FF>
+
+//\n
+//－　学校の近くにある　時計塔を\n
+//　　かたどったと言われる時計だ　－
+\n
+- It's a large clock modeled after the clock tower near the school. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「停電だからかな、いっそう\n
+//　　気味が悪く感じる。　　　　」
+Inaba\n
+"It's even creepier now that the power's out..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000FFA, "WARNME")

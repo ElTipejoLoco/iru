@@ -1,0 +1,10 @@
+cd/*.bin
+cd/orig/*
+cd/iru/*
+
+*.log
+
+error.txt
+exe_error.txt
+format/*
+ins/*

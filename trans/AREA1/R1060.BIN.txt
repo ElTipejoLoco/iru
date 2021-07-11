@@ -1,0 +1,301 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000085C)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「も、望月。　お、おまえ！？」
+Inaba\n
+"M-Mochizuki. D-did you...!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//い、稲葉。\n
+//　　こ、これは・・・お、俺が、\n
+//　　俺がやったのか
+I-Inaba. T-this... I-I... Did I...
+
+<$F3><$FF>
+<$04><$00>
+
+//！？
+!?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//い、いや違う・・・で、でも\n
+//　　・・・そんな
+N-no, I-I couldn't have... but...
+
+<$F3><$FF>
+<$04><$00>
+
+//！？　　　　　」
+maybe I...!?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「落ち着けよ、\n
+//　　冷静になるんだ！！　　　　」
+Inaba\n
+"Woah, woah, just calm down!!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//誰かの声がした。\n
+//　　そしてまた、頭痛におそわれ\n
+//　　て
+I heard someone's voice. Then, it felt like my head split open
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　・・・
+\n
+...
+
+<$F3><$FF>
+<$04><$00>
+
+//そのまま意識が遠のい\n
+//　　たんだ
+then, it felt like my consciousness just faded
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//気がついたら、お、俺は\n
+//　　ここにいた
+When I came to, I-I was here
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//そして、目の前で人が・・・\n
+//　　人が死んでいる
+Then, there was a dead person... in front of me
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//お、俺は、俺は・・・！？\n
+//　　うあぁ・・・まただ！\n
+//　　また頭がぁ
+D-did I-I...!?
+AURGH... NO!! NOT AGAIN
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・！　　　　」
+...!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000002A4
+#WRITE(MYPTR, $00000918)
+<$F5><$FF>
+
+//\n
+//　　－　　生徒の死体がある　　－
+\n
+- There's a dead student here. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002D0
+#WRITE(MYPTR, $00000B18)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+- There are posters on the board. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+"There's nothing really interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000364
+#WRITE(MYPTR, $00000C60)
+<$EF><$FF>
+
+//　　　　　　女子トイレ
+Women's Restroom
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000388
+#WRITE(MYPTR, $00000D08)
+<$F0><$FF>
+
+//　　　　　　　空き室\n
+//　　－　カギが掛かっている　－
+Empty Room\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 000003C8
+#WRITE(MYPTR, $00000DB0)
+<$F0><$FF>
+
+//　　　　　　　放送室\n
+//　　－　カギが掛かっている　－
+Broadcasting Room\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 000003C8
+#WRITE(MYPTR, $00000E58)
+<$F0><$FF>
+
+//　　　　　　　放送室\n
+//　　－　カギが掛かっている　－
+Broadcasting Room\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000408
+#WRITE(MYPTR, $00000F00)
+<$F0><$FF>
+
+//　　　　　　　購買部\n
+//　　－　カギが掛かっている　－
+School Store\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+#WARN($00000446, "WARNME")

@@ -1,0 +1,1035 @@
+system_area {
+  file "cd\iru.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id []
+  volume_set_id []
+  publisher_id []
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1998-01-17 02:18:56.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SLPS_009.65
+  file FAT.TBL
+  file STAFF.EXE
+  dir AREA1 {
+    file R101.BIN
+    file R103.BIN
+    file R105.BIN
+    file R1060.BIN
+    file R1061.BIN
+    file R1062.BIN
+    file R107.BIN
+    file R108.BIN
+    file R109.BIN
+    file R110.BIN
+    dir OBJECT {
+      file R101.ROM
+      file R103.ROM
+      file R105.ROM
+      file R1060.ROM
+      file R1061.ROM
+      file R1062.ROM
+      file R107.ROM
+      file R108.ROM
+      file R109.ROM
+      file R110.ROM
+    }
+  }
+  dir AREA2 {
+    file R111.BIN
+    file R113.BIN
+    file R1160.BIN
+    file R1161.BIN
+    file R1162.BIN
+    file R117.BIN
+    file R119.BIN
+    file R120.BIN
+    file R121.BIN
+    file R122.BIN
+    file R124.BIN
+    dir OBJECT {
+      file R111.ROM
+      file R113.ROM
+      file R1160.ROM
+      file R1161.ROM
+      file R1162.ROM
+      file R117.ROM
+      file R119.ROM
+      file R120.ROM
+      file R121.ROM
+      file R122.ROM
+      file R124.ROM
+    }
+  }
+  dir AREA3 {
+    file R201.BIN
+    file R202.BIN
+    file R203.BIN
+    file R204.BIN
+    file R2060.BIN
+    file R2061.BIN
+    file R2062.BIN
+    file R207.BIN
+    file R208.BIN
+    file R210.BIN
+    dir OBJECT {
+      file R201.ROM
+      file R202.ROM
+      file R203.ROM
+      file R204.ROM
+      file R2060.ROM
+      file R2061.ROM
+      file R2062.ROM
+      file R207.ROM
+      file R208.ROM
+      file R210.ROM
+    }
+  }
+  dir AREA4 {
+    file R212.BIN
+    file R213.BIN
+    file R215.BIN
+    file R2170.BIN
+    file R2171.BIN
+    file R2172.BIN
+    file R218.BIN
+    file R219.BIN
+    file R220.BIN
+    file R221.BIN
+    dir OBJECT {
+      file R212.ROM
+      file R213.ROM
+      file R215.ROM
+      file R2170.ROM
+      file R2171.ROM
+      file R2172.ROM
+      file R218.ROM
+      file R219.ROM
+      file R220.ROM
+      file R221.ROM
+    }
+  }
+  dir AREA5 {
+    file R301.BIN
+    file R302.BIN
+    file R303.BIN
+    file R304.BIN
+    file R3070.BIN
+    file R3071.BIN
+    file R3072.BIN
+    file R308.BIN
+    file R310.BIN
+    dir OBJECT {
+      file R301.ROM
+      file R302.ROM
+      file R303.ROM
+      file R304.ROM
+      file R3070.ROM
+      file R3071.ROM
+      file R3072.ROM
+      file R308.ROM
+      file R310.ROM
+    }
+  }
+  dir AREA6 {
+    file R312.BIN
+    file R313.BIN
+    file R314.BIN
+    file R315.BIN
+    file R316.BIN
+    file R319.BIN
+    file R320.BIN
+    file R3210.BIN
+    file R3211.BIN
+    file R3212.BIN
+    dir OBJECT {
+      file R312.ROM
+      file R313.ROM
+      file R314.ROM
+      file R315.ROM
+      file R316.ROM
+      file R319.ROM
+      file R320.ROM
+      file R3210.ROM
+      file R3211.ROM
+      file R3212.ROM
+    }
+  }
+  dir AREA7 {
+    file R211.BIN
+    file R322.BIN
+    file R323.BIN
+    file R401.BIN
+    file R402.BIN
+    file R403.BIN
+    file R900.BIN
+    file R901.BIN
+    file R902.BIN
+    file R903.BIN
+    file R911.BIN
+    file R930.BIN
+    file R932.BIN
+    file R933.BIN
+    dir OBJECT {
+      file R211.ROM
+      file R322.ROM
+      file R323.ROM
+      file R401.ROM
+      file R402.ROM
+      file R403.ROM
+      file R900.ROM
+      file R901.ROM
+      file R902.ROM
+      file R903.ROM
+      file R911.ROM
+      file R930.ROM
+      file R932.ROM
+      file R933.ROM
+    }
+  }
+  dir AREA8 {
+    file R501.BIN
+    file R502.BIN
+    file R503.BIN
+    file R504.BIN
+    file R505.BIN
+    file R506.BIN
+    file R507.BIN
+    file R508.BIN
+    file R601.BIN
+    file R602.BIN
+    file R603.BIN
+    file R604.BIN
+    dir OBJECT {
+      file R501.ROM
+      file R502.ROM
+      file R503.ROM
+      file R504.ROM
+      file R505.ROM
+      file R506.ROM
+      file R507.ROM
+      file R508.ROM
+      file R601.ROM
+      file R602.ROM
+      file R603.ROM
+      file R604.ROM
+    }
+  }
+  dir AREA9 {
+    file R701.BIN
+    file R702.BIN
+    file R703.BIN
+    file R704.BIN
+    file R705.BIN
+    file R711.BIN
+    file R712.BIN
+    file R713.BIN
+    file R714.BIN
+    file R715.BIN
+    dir OBJECT {
+      file R701.ROM
+      file R702.ROM
+      file R703.ROM
+      file R704.ROM
+      file R705.ROM
+      file R711.ROM
+      file R712.ROM
+      file R713.ROM
+      file R714.ROM
+      file R715.ROM
+    }
+  }
+  dir NPCDATA {
+    file NPC00.PAK
+    file NPC01.PAK
+    file NPC02.PAK
+    file NPC03.PAK
+    file NPC04.PAK
+    file NPC05.PAK
+    file NPC06.PAK
+    file NPC07.PAK
+    file NPC08.PAK
+    file NPC09.PAK
+    file NPC10.PAK
+    file NPC11.PAK
+    file NPC12.PAK
+    file NPC13.PAK
+    file NPC14.PAK
+    file NPC15.PAK
+    file NPC16.PAK
+    file NPC17.PAK
+    file NPC18.PAK
+    file NPC19.PAK
+    file NPC20.PAK
+    file NPC21.PAK
+    file NPC22.PAK
+    file NPC23.PAK
+    file NPC24.PAK
+    file NPC25.PAK
+    file NPC26.PAK
+    file NPC27.PAK
+    file NPC28.PAK
+    file NPC29.PAK
+    file NPC30.PAK
+    file NPC31.PAK
+    file NPC32.PAK
+    file NPC33.PAK
+    file NPC34.PAK
+    file NPC35.PAK
+    file NPC36.PAK
+    file NPC37.PAK
+    file NPC38.PAK
+    file NPC39.PAK
+    file NPC40.PAK
+    file NPC41.PAK
+    file NPC42.PAK
+    file NPC43.PAK
+    file NPC44.PAK
+    file NPC45.PAK
+    file NPC46.PAK
+    file NPC47.PAK
+    file NPC48.PAK
+    file NPC49.PAK
+    file NPC50.PAK
+    file NPC51.PAK
+    file NPC52.PAK
+  }
+  dir TODDAT {
+    dir BX00 {
+      file WBOX_E_A.TOD
+      file WBOX_E_B.TOD
+      file WBX00.TOD
+      file WBX01.TOD
+      file WBX02.TOD
+      file WBX03.TOD
+      file WBX04.TOD
+    }
+    dir DA00 {
+      file DA_00_00.TOD
+      file DA_01_00.TOD
+      file DA_01_31.TOD
+      file DA_02_31.TOD
+      file DA_03_31.TOD
+      file DA_04_31.TOD
+      file DA_06_18.TOD
+      file DA_07_18.TOD
+      file DA_08_18.TOD
+      file DA_09_28.TOD
+      file DA_10_28.TOD
+      file DA_11_28.TOD
+      file DA_12_29.TOD
+      file DA_13_27.TOD
+      file DA_14_27.TOD
+      file DA_15_29.TOD
+      file DA_16_29.TOD
+      file DA_17_17.TOD
+      file DA_18_17.TOD
+      file DA_19_17.TOD
+      file DA_20_18.TOD
+      file DA_22_34.TOD
+      file DA_23_34.TOD
+      file DA_24_34.TOD
+      file DA_25_03.TOD
+      file DA_26_20.TOD
+      file DA_27_20.TOD
+      file DA_29_06.TOD
+    }
+    dir DA01 {
+      file DA_30_06.TOD
+      file DA_32_06.TOD
+      file DA_33_06.TOD
+      file DA_34_06.TOD
+      file DA_35_06.TOD
+      file DA_36_19.TOD
+      file DA_37_19.TOD
+      file DA_38_19.TOD
+      file DA_39_19.TOD
+      file DA_40_22.TOD
+      file DA_41_22.TOD
+      file DA_42_22.TOD
+      file DA_43_24.TOD
+      file DA_44_24.TOD
+      file DA_45_24.TOD
+      file DA_46_24.TOD
+      file DA_47_24.TOD
+      file DA_48_25.TOD
+      file DA_49_26.TOD
+      file DA_50_26.TOD
+      file DA_51_26.TOD
+      file DA_52_26.TOD
+      file DA_53_00.TOD
+      file DA_53_26.TOD
+      file DA_54_21.TOD
+      file DA_55_21.TOD
+      file DA_56_21.TOD
+      file DA_DD_00.TOD
+    }
+    dir DP00 {
+      file DP_00_00.TOD
+      file DP_01_00.TOD
+      file DP_02_00.TOD
+      file DP_03_00.TOD
+      file DP_04_00.TOD
+      file DP_05_00.TOD
+      file DP_06_72.TOD
+      file DP_07_72.TOD
+      file DP_08_72.TOD
+      file DP_09_72.TOD
+      file DP_10_72.TOD
+      file DP_11_72.TOD
+      file DP_12_72.TOD
+      file DP_13_72.TOD
+      file DP_14_21.TOD
+      file DP_14_72.TOD
+      file DP_15_21.TOD
+      file DP_16_00.TOD
+      file DP_17_00.TOD
+      file DP_M0_00.TOD
+      file DP_M0_01.TOD
+      file DP_M1_00.TOD
+      file DP_M1_01.TOD
+    }
+    dir ED00 {
+      file DA_ED_00.TOD
+      file DA_ED_02.TOD
+      file DA_ED_03.TOD
+      file DA_ED_04.TOD
+      file DA_ED_05.TOD
+      file DS_ED_00.TOD
+      file JY_ED_02.TOD
+      file JY_ED_03.TOD
+      file JY_ED_04.TOD
+      file TE_ED_00.TOD
+      file TE_ED_01.TOD
+      file TE_ED_02.TOD
+    }
+    dir GU00 {
+      file GU_41_02.TOD
+      file GU_41_03.TOD
+      file GU_41_04.TOD
+      file GU_41_05.TOD
+      file GU_41_06.TOD
+    }
+    dir HJ00 {
+      file HJ_00_00.TOD
+      file HJ_01_00.TOD
+      file HJ_01_30.TOD
+      file HJ_02_30.TOD
+      file HJ_03_30.TOD
+      file HJ_04_30.TOD
+      file HJ_05_01.TOD
+      file HJ_06_01.TOD
+      file HJ_07_01.TOD
+      file HJ_08_01.TOD
+      file HJ_09_02.TOD
+      file HJ_10_02.TOD
+      file HJ_12_02.TOD
+      file HJ_13_02.TOD
+      file HJ_14_04.TOD
+      file HJ_15_04.TOD
+      file HJ_16_04.TOD
+      file HJ_17_04.TOD
+      file HJ_18_04.TOD
+      file HJ_19_11.TOD
+      file HJ_20_03.TOD
+      file HJ_21_03.TOD
+      file HJ_22_03.TOD
+      file HJ_23_03.TOD
+      file HJ_24_03.TOD
+      file HJ_25_07.TOD
+      file HJ_26_07.TOD
+      file HJ_27_07.TOD
+      file HJ_28_05.TOD
+      file HJ_29_05.TOD
+    }
+    dir HJ01 {
+      file HJ_30_05.TOD
+      file HJ_31_05.TOD
+      file HJ_32_05.TOD
+      file HJ_33_05.TOD
+      file HJ_34_08.TOD
+      file HJ_35_08.TOD
+      file HJ_36_08.TOD
+      file HJ_37_13.TOD
+      file HJ_38_13.TOD
+      file HJ_39_13.TOD
+      file HJ_40_13.TOD
+      file HJ_41_13.TOD
+      file HJ_42_13.TOD
+      file HJ_43_13.TOD
+      file HJ_45_14.TOD
+      file HJ_46_14.TOD
+      file HJ_47_14.TOD
+      file HJ_48_14.TOD
+      file HJ_49_14.TOD
+      file HJ_50_14.TOD
+      file HJ_51_14.TOD
+      file HJ_52_15.TOD
+      file HJ_53_15.TOD
+      file HJ_54_15.TOD
+      file HJ_55_15.TOD
+      file HJ_56_15.TOD
+      file HJ_57_16.TOD
+      file HJ_58_16.TOD
+      file HJ_59_16.TOD
+    }
+    dir HJ02 {
+      file HJ_60_16.TOD
+      file HJ_61_78.TOD
+      file HJ_63_77.TOD
+    }
+    dir HK00 {
+      file HK_01_00.TOD
+      file HK_02_00.TOD
+    }
+    dir HR00 {
+      file HR_00_00.TOD
+      file HR_01_00.TOD
+      file HR_01_28.TOD
+      file HR_02_28.TOD
+      file HR_03_28.TOD
+      file HR_04_28.TOD
+      file HR_05_28.TOD
+      file HR_06_70.TOD
+      file HR_07_70.TOD
+      file HR_08_70.TOD
+      file HR_09_70.TOD
+      file HR_10_70.TOD
+      file HR_11_70.TOD
+      file HR_12_70.TOD
+      file HR_13_36.TOD
+      file HR_14_00.TOD
+    }
+    dir ID00 {
+      file HJ_ID_00.TOD
+      file HJ_ID_01.TOD
+      file HJ_ID_02.TOD
+      file HJ_ID_03.TOD
+      file HJ_ID_04.TOD
+      file HR_ID_00.TOD
+      file HR_ID_01.TOD
+      file JO_ID_00.TOD
+      file JO_ID_01.TOD
+      file JO_ID_02.TOD
+      file MT_ID_00.TOD
+      file MT_ID_01.TOD
+      file MT_ID_02.TOD
+      file MT_ID_03.TOD
+      file MT_ID_04.TOD
+      file MT_ID_05.TOD
+      file MT_ID_06.TOD
+      file MT_ID_08.TOD
+    }
+    dir JA00 {
+      file JAK00.TOD
+      file JAK01.TOD
+      file JAK02.TOD
+      file JAKN00.TOD
+    }
+    dir JO00 {
+      file JO_00_00.TOD
+      file JO_01_00.TOD
+      file JO_01_30.TOD
+      file JO_02_30.TOD
+      file JO_03_30.TOD
+      file JO_04_30.TOD
+      file JO_05_30.TOD
+      file JO_06_30.TOD
+      file JO_07_30.TOD
+      file JO_08_30.TOD
+      file JO_09_30.TOD
+      file JO_10_30.TOD
+      file JO_11_30.TOD
+      file JO_12_30.TOD
+      file JO_13_30.TOD
+      file JO_14_30.TOD
+      file JO_15_30.TOD
+      file JO_16_33.TOD
+      file JO_17_33.TOD
+      file JO_18_33.TOD
+      file JO_19_33.TOD
+      file JO_20_33.TOD
+      file JO_21_33.TOD
+      file JO_22_18.TOD
+      file JO_23_18.TOD
+      file JO_24_18.TOD
+      file JO_25_18.TOD
+      file JO_27_27.TOD
+      file JO_28_27.TOD
+    }
+    dir JO01 {
+      file JO_30_27.TOD
+      file JO_31_05.TOD
+      file JO_32_13.TOD
+      file JO_33_13.TOD
+      file JO_34_13.TOD
+      file JO_35_13.TOD
+      file JO_36_44.TOD
+      file JO_37_44.TOD
+      file JO_38_44.TOD
+      file JO_39_23.TOD
+      file JO_39_33.TOD
+      file JO_40_23.TOD
+      file JO_40_33.TOD
+      file JO_41_23.TOD
+      file JO_41_33.TOD
+      file JO_42_23.TOD
+      file JO_42_33.TOD
+      file JO_43_33.TOD
+      file JO_43_43.TOD
+      file JO_43_73.TOD
+      file JO_44_33.TOD
+      file JO_44_43.TOD
+      file JO_44_73.TOD
+      file JO_45_43.TOD
+      file JO_45_73.TOD
+      file JO_46_00.TOD
+      file JO_46_43.TOD
+      file JO_46_73.TOD
+      file JO_47_43.TOD
+      file JO_47_73.TOD
+      file JO_48_73.TOD
+      file JO_49_73.TOD
+      file JO_50_73.TOD
+      file JO_51_73.TOD
+      file JO_52_73.TOD
+      file JO_53_73.TOD
+      file JO_54_73.TOD
+      file JO_57_74.TOD
+      file JO_58_74.TOD
+      file JO_59_74.TOD
+    }
+    dir JO02 {
+      file JO_60_74.TOD
+      file JO_61_74.TOD
+      file JO_64_74.TOD
+      file JO_65_74.TOD
+      file JO_66_75.TOD
+      file JO_67_75.TOD
+      file JO_68_75.TOD
+      file JO_69_75.TOD
+      file JO_70_75.TOD
+      file JO_71_76.TOD
+      file JO_72_76.TOD
+      file JO_73_76.TOD
+      file JO_74_65.TOD
+      file JO_75_65.TOD
+      file JO_76_65.TOD
+      file JO_77_65.TOD
+      file JO_78_33.TOD
+      file JO_79_33.TOD
+      file JO_80_33.TOD
+      file JO_81_33.TOD
+      file JO_82_33.TOD
+      file JO_83_33.TOD
+      file JO_84_33.TOD
+      file JO_85_33.TOD
+      file JO_86_33.TOD
+      file JO_87_00.TOD
+      file JO_88_00.TOD
+      file JO_89_00.TOD
+    }
+    dir JO03 {
+      file JO_90_00.TOD
+      file JO_91_00.TOD
+      file JO_92_00.TOD
+      file JO_93_00.TOD
+      file JO_94_00.TOD
+      file JO_95_00.TOD
+      file JO_96_00.TOD
+      file JO_OP_00.TOD
+      file JO_OP_01.TOD
+      file JO_OP_02.TOD
+      file JO_OP_03.TOD
+      file JO_OP_04.TOD
+      file JO_OP_05.TOD
+      file JO_OP_06.TOD
+    }
+    dir JOIC {
+      file JO_IC_00.TOD
+      file JO_IC_01.TOD
+      file JO_IC_02.TOD
+      file JO_IC_07.TOD
+      file JO_IC_08.TOD
+      file JO_IC_09.TOD
+      file JO_IC_10.TOD
+      file JO_IC_11.TOD
+      file JO_IC_12.TOD
+      file JO_IC_13.TOD
+      file JO_IC_14.TOD
+      file _JO_IC_1.TOD
+    }
+    dir JOOP {
+      file JO_OP_00.TOD
+      file JO_OP_01.TOD
+      file JO_OP_02.TOD
+      file JO_OP_03.TOD
+      file JO_OP_04.TOD
+      file JO_OP_05.TOD
+      file JO_OP_06.TOD
+    }
+    dir J_33 {
+      file J1_33_00.TOD
+      file J1_33_01.TOD
+      file J1_33_02.TOD
+      file J1_33_03.TOD
+      file J1_33_04.TOD
+      file J1_33_05.TOD
+      file J1_33_06.TOD
+      file J2_33_00.TOD
+      file J2_33_01.TOD
+      file J2_33_02.TOD
+      file J2_33_03.TOD
+    }
+    dir KU00 {
+      file B_DIE_00.TOD
+      file B_DIE_01.TOD
+      file P_DIE_01.TOD
+      file P_DIE_02.TOD
+      file P_DIE_03.TOD
+      file P_DIE_04.TOD
+      file P_DIE_05.TOD
+      file P_DIE_06.TOD
+      file P_DIE_07.TOD
+      file P_DIE_08.TOD
+      file P_DIE_09.TOD
+      file P_DIE_10.TOD
+      file P_DIE_11.TOD
+      file P_DIE_12.TOD
+      file P_DIE_13.TOD
+      file TE_DE_00.TOD
+      file YARARE.TOD
+    }
+    dir KY00 {
+      file KY_00_00.TOD
+      file KY_01_00.TOD
+      file KY_01_62.TOD
+      file KY_02_62.TOD
+      file KY_03_62.TOD
+      file KY_04_62.TOD
+      file KY_05_04.TOD
+      file KY_08_11.TOD
+      file KY_09_11.TOD
+      file KY_10_11.TOD
+      file KY_11_11.TOD
+      file KY_12_11.TOD
+      file KY_13_11.TOD
+      file KY_13_12.TOD
+      file KY_14_12.TOD
+      file KY_15_63.TOD
+      file KY_16_63.TOD
+      file KY_17_63.TOD
+      file KY_18_00.TOD
+      file KY_19_00.TOD
+      file KY_20_00.TOD
+      file KY_21_00.TOD
+      file KY_22_00.TOD
+      file KY_23_00.TOD
+      file KY_DI_00.TOD
+      file KY_DI_01.TOD
+    }
+    dir M200 {
+      file M2_01_40.TOD
+      file M2_02_40.TOD
+    }
+    dir MT00 {
+      file MT_00_00.TOD
+      file MT_01_00.TOD
+      file MT_01_01.TOD
+      file MT_02_01.TOD
+      file MT_03_01.TOD
+      file MT_04_01.TOD
+      file MT_05_01.TOD
+      file MT_06_01.TOD
+      file MT_07_01.TOD
+      file MT_08_45.TOD
+      file MT_09_45.TOD
+      file MT_10_45.TOD
+      file MT_11_61.TOD
+      file MT_12_61.TOD
+      file MT_13_61.TOD
+      file MT_14_29.TOD
+      file MT_15_29.TOD
+      file MT_16_29.TOD
+      file MT_17_29.TOD
+      file MT_18_29.TOD
+      file MT_20_55.TOD
+      file MT_21_55.TOD
+      file MT_22_55.TOD
+      file MT_23_50.TOD
+      file MT_24_50.TOD
+      file MT_25_50.TOD
+      file MT_26_49.TOD
+      file MT_27_49.TOD
+      file MT_28_49.TOD
+      file MT_29_48.TOD
+    }
+    dir MT01 {
+      file MT_30_48.TOD
+      file MT_31_48.TOD
+      file MT_32_56.TOD
+      file MT_33_56.TOD
+      file MT_34_56.TOD
+      file MT_35_56.TOD
+      file MT_36_46.TOD
+      file MT_36_50.TOD
+      file MT_37_46.TOD
+      file MT_38_46.TOD
+      file MT_41_51.TOD
+      file MT_42_51.TOD
+      file MT_43_51.TOD
+      file MT_44_51.TOD
+      file MT_45_51.TOD
+      file MT_47_52.TOD
+      file MT_48_52.TOD
+      file MT_49_52.TOD
+      file MT_50_53.TOD
+      file MT_51_57.TOD
+      file MT_52_57.TOD
+      file MT_53_57.TOD
+      file MT_54_57.TOD
+      file MT_55_57.TOD
+      file MT_55_58.TOD
+      file MT_56_58.TOD
+      file MT_57_58.TOD
+      file MT_58_58.TOD
+      file MT_59_58.TOD
+    }
+    dir MT02 {
+      file MT_60_54.TOD
+      file MT_61_54.TOD
+      file MT_62_54.TOD
+      file MT_63_60.TOD
+      file MT_64_60.TOD
+      file MT_65_60.TOD
+      file MT_66_60.TOD
+      file MT_67_00.TOD
+      file MT_67_16.TOD
+      file MT_68_00.TOD
+      file MT_68_16.TOD
+      file MT_69_16.TOD
+      file MT_70_16.TOD
+      file MT_71_16.TOD
+      file MT_N3_00.TOD
+    }
+  }
+  dir SND {
+    dir VAB {
+      file CHAP1_01.VB
+      file CHAP1_01.VH
+      file CHAP1_02.VB
+      file CHAP1_02.VH
+      file CHAP1_03.VB
+      file CHAP1_03.VH
+      file CHAP1_04.VB
+      file CHAP1_04.VH
+      file CHAP1_05.VB
+      file CHAP1_05.VH
+      file CHAP1_06.VB
+      file CHAP1_06.VH
+      file CHAP1_07.VB
+      file CHAP1_07.VH
+      file CHAP1_08.VB
+      file CHAP1_08.VH
+      file CHAP1_09.VB
+      file CHAP1_09.VH
+      file CHAP2_01.VB
+      file CHAP2_01.VH
+      file CHAP2_02.VB
+      file CHAP2_02.VH
+      file CHAP2_03.VB
+      file CHAP2_03.VH
+      file CHAP2_04.VB
+      file CHAP2_04.VH
+      file CHAP2_05.VB
+      file CHAP2_05.VH
+      file CHAP2_06.VB
+      file CHAP2_06.VH
+      file CHAP2_07.VB
+      file CHAP2_07.VH
+      file CHAP2_08.VB
+      file CHAP2_08.VH
+      file CHAP3_01.VB
+      file CHAP3_01.VH
+      file CHAP3_02.VB
+      file CHAP3_02.VH
+      file CHAP3_03.VB
+      file CHAP3_03.VH
+      file CHAP4_01.VB
+      file CHAP4_01.VH
+      file CHAP4_02.VB
+      file CHAP4_02.VH
+      file CHAP4_03.VB
+      file CHAP4_03.VH
+      file CHAP4_04.VB
+      file CHAP4_04.VH
+      file CHAP4_05.VB
+      file CHAP4_05.VH
+      file CHAP4_06.VB
+      file CHAP4_06.VH
+      file CHAP4_07.VB
+      file CHAP4_07.VH
+      file CHAP4_08.VB
+      file CHAP4_08.VH
+      file CHAP4_09.VB
+      file CHAP4_09.VH
+      file CHAP4_10.VB
+      file CHAP4_10.VH
+      file CHAP5_01.VB
+      file CHAP5_01.VH
+      file CHAP6_01.VB
+      file CHAP6_01.VH
+      file COMMON.VB
+      file COMMON.VH
+      file DR_01.VB
+      file DR_01.VH
+      file DR_02.VB
+      file DR_02.VH
+      file DR_03.VB
+      file DR_03.VH
+      file DR_04.VB
+      file DR_04.VH
+      file DR_05.VB
+      file DR_05.VH
+      file DR_06_OP.VB
+      file DR_06_OP.VH
+      file DR_07.VB
+      file DR_07.VH
+      file DR_08_OP.VB
+      file DR_08_OP.VH
+      file DR_09_OP.VB
+      file DR_09_OP.VH
+      file DR_10_CL.VB
+      file DR_10_CL.VH
+      file DR_10_OP.VB
+      file DR_10_OP.VH
+      file DR_11_CL.VB
+      file DR_11_CL.VH
+      file DR_11_OP.VB
+      file DR_11_OP.VH
+      file DR_12_CL.VB
+      file DR_12_CL.VH
+      file DR_12_OP.VB
+      file DR_12_OP.VH
+      file K_018.VB
+      file K_018.VH
+      file K_019.VB
+      file K_019.VH
+      file MG_00.VB
+      file MG_00.VH
+      file M_02.SEQ
+      file M_02.VB
+      file M_02.VH
+      file M_03.SEQ
+      file M_03.VB
+      file M_03.VH
+      file M_04.SEQ
+      file M_04.VB
+      file M_04.VH
+      file M_05.SEQ
+      file M_05.VB
+      file M_05.VH
+      file M_06.SEQ
+      file M_06.VB
+      file M_06.VH
+      file M_07.SEQ
+      file M_07.VB
+      file M_07.VH
+      file M_08.SEQ
+      file M_08.VB
+      file M_08.VH
+      file M_09.SEQ
+      file M_09.VB
+      file M_09.VH
+      file M_10.SEQ
+      file M_10.VB
+      file M_10.VH
+      file M_11.SEQ
+      file M_11.VB
+      file M_11.VH
+      file M_12.SEQ
+      file M_12.VB
+      file M_12.VH
+      file TO_00.VB
+      file TO_00.VH
+    }
+    dir XA {
+      xafile X00.XA
+      xafile X01.XA
+      xafile X02.XA
+      xafile X03.XA
+      xafile X04.XA
+      xafile X05.XA
+      xafile X06.XA
+      xafile X07.XA
+      xafile X08.XA
+      xafile X09.XA
+      xafile X0A.XA
+      xafile X0B.XA
+      xafile X0C.XA
+      xafile X0D.XA
+      xafile X0E.XA
+      xafile X0F.XA
+      xafile X10.XA
+      xafile X11.XA
+      xafile X12.XA
+      xafile X13.XA
+      xafile X14.XA
+      xafile X15.XA
+      xafile X16.XA
+      xafile X17.XA
+      xafile X18.XA
+      xafile X19.XA
+      xafile X1A.XA
+      xafile X1B.XA
+      xafile X1C.XA
+    }
+  }
+  dir TIM {
+    file ANTIM.PAK
+    file CHAR.ATM
+    file CHIKA.ATM
+    file CHIKA0.ATM
+    file CHIKA1.ATM
+    file COMWIN.ATM
+    file TEX.ATM
+    file TEX0.ATM
+    file TEX1.ATM
+    file TOU.ATM
+    file TOU0.ATM
+    file TOU1.ATM
+  }
+  dir SPRITE {
+    file ENDMSG01.ATM
+    file ENDMSG02.ATM
+    file ENDMSG03.ATM
+    file ENDMSG04.ATM
+    file G_OVER.ATM
+    file KOUKOKU.ATM
+    file SAVEABG.ATM
+    file SAVEBBG.ATM
+    file SPRITE00.ATM
+    file SPRITEED.ATM
+    file STAFF.ATM
+    file TIM715.ATM
+    file TITLE_00.ATM
+  }
+  dir ITEM {
+    file COMWIN.ATM
+    file ITEM02.TMD
+  }
+  xafile S1.STR
+  file ZERO00.BIN
+}

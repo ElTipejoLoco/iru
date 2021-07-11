@@ -1,0 +1,166 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($0000039C)
+
+//Pos : 0000039C
+#WRITE(MYPTR, $00002334)
+<$F5><$FF>
+
+//稲葉\n
+//　「ここは・・・機械室か。\n
+//　　やっぱりそうだ、ここは\n
+//　　時計塔の中なんだ。　　　　」
+Inaba\n
+"This is... a machine room? That means we're in the clock tower after all."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000404
+#WRITE(MYPTR, $000023C0)
+<$F5><$FF>
+
+//\n
+//－　橋が壊れていて　渡ることが\n
+//　　出来ない！　　　　　　　　　－
+\n
+- The bridge is broken and you can't pass! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000454
+#WRITE(MYPTR, $000024D8)
+<$F5><$FF>
+
+//\n
+//　　回っている歯車の間に\n
+//　　“釘抜き”を　投げ入れた！
+\n
+- You tossed the crowbar into the spinning gears! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000498
+#WRITE(MYPTR, $00002524)
+<$F5><$FF>
+
+//稲葉\n
+//　「止まった？\n
+//　　どうにかして向こうに行け\n
+//　　ないかな。　　　　　　　　」
+Inaba\n
+"It stopped? I think I can get across now."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000004F8
+#WRITE(MYPTR, $0000263C)
+<$F5><$FF>
+
+//\n
+//　　回っている歯車の間に\n
+//　　“ハンマー”を　投げ入れた！
+\n
+- You tossed the hammer into the spinning gears! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000498
+#WRITE(MYPTR, $00002688)
+<$F5><$FF>
+
+//稲葉\n
+//　「止まった？\n
+//　　どうにかして向こうに行け\n
+//　　ないかな。　　　　　　　　」
+Inaba\n
+"It stopped? I think I can get across now."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000540
+#WRITE(MYPTR, $000027C8)
+<$F5><$FF>
+
+//\n
+//－　巨大な歯車が　まわっている　－
+\n
+- There's a huge gear spinning here. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「歯車が、まわっていなければ\n
+//　　向こう側に渡れそうなんだ\n
+//　　けれども・・・。　　　　　」
+Inaba\n
+"If the gear wasn't moving, I might be able to get across..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000005D8
+#WRITE(MYPTR, $000027D8)
+<$F5><$FF>
+
+//稲葉\n
+//　「これをつたって行けるぞ！　」
+Inaba\n
+"I can get over there if I climb this!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000608
+#WRITE(MYPTR, $0000280C)
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「思い切って、あそこに\n
+//　　ジャンプするか！？　　　　」
+Inaba\n
+"Can I make it over if I leap for it!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+#WARN($00000658, "WARNME")

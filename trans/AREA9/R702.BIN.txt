@@ -1,0 +1,42 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000049C)
+<$F5><$FF>
+
+//\n
+//　－　とても重そうな鉄の扉が\n
+//　　　閉じていて　開かない　　－
+\n
+- It's a very sturdy-looking iron door that's sealed tight. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「・・・やっぱり、ここは学校\n
+//　　の近くにある時計塔の中だな。
+Inaba\n
+"...we must be in the clock tower near the school then.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　この扉が、たぶん、外への扉\n
+//　　なんだろうけど・・・。　　」
+\n
+This door probably would have let me outside if it wasn't locked..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($000000DE, "WARNME")

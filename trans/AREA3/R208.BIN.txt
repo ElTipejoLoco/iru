@@ -1,0 +1,503 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000B1C)
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//そうは言ってるけど、実際、\n
+//　　おかしくなりそうだ
+You say that, but, it's weird
+
+<$F3><$FF>
+<$04><$00>
+
+//！！
+!! 
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//俺の中に、もう一人の人格が\n
+//　　いるなんて
+It's like there's another personality inside my mind
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000000A4
+#WRITE(MYPTR, $00000B9C)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//二階の廊下にいる奴を見たか？\n
+//　　・・・無形の落とし子だ。
+Did you see that thing in the 2nd floor hallway? ...it's a Formless Spawn.
+
+<$F3><$FF>
+<$04><$00>
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//あいつを呼び出した呪文がある\n
+//　　はずだ
+The spell that summoned that thing should be around here somewhere
+
+<$F3><$FF>
+<$04><$00>
+
+//！！
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//それを手に入れられれば、なん\n
+//　　とかできるんだが
+We might be able to send it back if we find it, but
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・、\n
+//　　
+... Damnit...
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//クゥッ、また
+not
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・
+...
+
+<$F3><$FF>
+<$04><$00>
+
+//か
+again
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。」
+...!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000001C0
+#WRITE(MYPTR, $00000CD0)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//望月\n
+//　「・・・
+Mochizuki\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//い、稲葉か？\n
+//　　・・・無事で良かったな
+I-Inaba? ...I'm glad you're safe
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「・・・ああ。　　　　　　　　」
+Inaba\n
+"...yeah."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//これ・・・見てくれ。\n
+//　　ポケットに入ってたんだ
+Look at this... It was in my pocket
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//\n
+//－　望月君へ。\n
+//　　驚かないで読んでくれ。\n
+//　　ちょっとした間違いが起こった。
+\n
+- To Mochizuki: Please stay calm and read this. There's been a slight mistake.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　しばらく君の体に邪魔するが、\n
+//　　そのうち元に戻して\n
+//　　いただけると思う。
+\n
+I'll be briefly borrowing your body, but you should be okay when I return it.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　私が活動する間、君の意識はな\n
+//　　くなるらしい。
+\n
+It seems you won't have any memories when I take over.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　君が目覚めた時はその逆だ。\n
+//　　だから、君へメモを残す。　　－
+The opposite is true for when you're in control again. To get around this, I thought we could communicate this way. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「・・・
+Mochizuki\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//俺が変だったって\n
+//　　言ってただろ
+you said I was acting weird, right
+
+<$F3><$FF>
+<$04><$00>
+
+//？
+?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//その時の俺はたぶん俺じゃな\n
+//　　いんだ・・・こういう形で何\n
+//　　度か話して、状況が解った
+Then, I probably wasn't 'me' at that time... I finally understand after talking to 'him' this way several times now
+
+<$F3><$FF>
+<$04><$00>
+
+//。」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//もう１人の俺も、もう読んで\n
+//　　しまったメモは、捨てている\n
+//　　みたいだから
+'He' throws away the memos I've written after reading them
+
+<$F3><$FF>
+<$04><$00>
+
+//、
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//おまえも、こんなメモを見た\n
+//　　ことあるだろ
+You've seen memos like that lying around, haven't you
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000524
+#WRITE(MYPTR, $00000DFC)
+<$F5><$FF>
+
+//望月\n
+//　「・・・・・・。　　　　　　」
+Mochizuki\n
+"..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000554
+#WRITE(MYPTR, $00001158)
+<$F5><$FF>
+
+//\n
+//－　本棚にはカギが掛かっている
+\n
+- The case is locked. There's a
+
+<$FF><$FF>
+<$3C><$00>
+
+//\n
+//　　カギ穴の横に真っ赤な宝石が\n
+//　　付いている　　　　　　　　　－
+\n
+red gem in the hole next to the lock. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000005C8
+#WRITE(MYPTR, $0000124C)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物がないか　調べてみた　　－
+\n
+- You open the case and look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に、変わった物は無いな。」
+Inaba\n
+"Nothing really interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000640
+#WRITE(MYPTR, $00001430)
+<$F5><$FF>
+
+//\n
+//　　　本棚のカギを　開けた！
+\n
+- You unlocked the case! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000668
+#WRITE(MYPTR, $00001470)
+<$F5><$FF>
+
+//\n
+//　－　カギは　すでに開いている　－
+\n
+- You already unlocked the case. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000698
+#WRITE(MYPTR, $00001704)
+<$F5><$FF>
+
+//\n
+//－　ゴミ箱にゴミが捨ててある　－
+\n
+- There's trash in the trash can. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「後は全部、ただのゴミだな。」
+Inaba\n
+"Everything else here is just junk."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000006F0
+#WRITE(MYPTR, $00001948)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　この本棚には　百科事典が\n
+//　　置いてあるようだ　　　　　－
+\n
+- Looks like a few encyclopedias. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000784
+#WRITE(MYPTR, $00001A78)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物がないか調べてみた　　　－
+\n
+- You open the case and look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　本棚には　文芸関係の書籍が\n
+//　　たくさん　連ねてある　　　　－
+\n
+- It appears to be a bunch of literature books. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($0000081A, "WARNME")

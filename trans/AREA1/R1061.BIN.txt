@@ -1,0 +1,456 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000828)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「先生！　しっかりして下さい！」
+Inaba\n
+"Mr. Mori! Keep it together!"
+
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//森\n
+//　「
+Mori\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//校長のヤツ
+That fucking principal
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・
+...
+
+<$F3><$FF>
+<$04><$00>
+
+//が
+... did
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//稲葉\n
+//　「せ、先生ぇ！！　　　　　　」
+Inaba\n
+"Mr. Mori!!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//稲葉！　大丈夫か
+Inaba! What's wrong
+
+<$F3><$FF>
+<$68><$00>
+
+//！！　　　」
+!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「・・・僕達も殺されるのか？」
+Inaba\n
+"...are we all going to die here?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//俺達だけじゃない！\n
+//　　人類がすべて死体になるよう\n
+//　　な状態らしい
+I think we're just the beginning. All of mankind will fall if this isn't stopped
+
+<$F3><$FF>
+<$68><$00>
+
+//！
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//信じられないけど・・・。\n
+//　　例のメモにそう書いてあった\n
+//　　んだ
+I still don't believe it... but it's all as that memo said
+
+<$F3><$FF>
+<$68><$00>
+
+//・・・。　　　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//稲葉\n
+//　「あんなメモを書いてくる\n
+//　　あやしいヤツの言うことを\n
+//　　信じるのか？　　　　　　　」
+Inaba\n
+"You believe the nonsense written in that bullshit memo!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//そいつが言うには、指示に\n
+//　　従えば助かる
+The memo says we can be saved if we follow the instructions
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+. 
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//それに、兄さんの居所も\n
+//　　分かるって言ってるんだ
+That, and the author says they know of my brother's whereabouts
+
+<$F3><$FF>
+<$68><$00>
+
+//！
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//今は、今は言うことを聞く\n
+//　　しかない
+We... we don't have any choice but to obey
+
+<$F3><$FF>
+<$68><$00>
+
+//・・・。　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000328
+#WRITE(MYPTR, $00000968)
+<$F5><$FF>
+
+//\n
+//　－　　森先生が死んでいる　　－
+\n
+- Mr. Mori is dead. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000354
+#WRITE(MYPTR, $00001124)
+<$F0><$FF>
+
+//　　　　　　　職員室
+Staff Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「脱出方法を捜しながら、少し\n
+//　　時間をあけて、また様子\n
+//　　を見に来よう。　　　　　　」
+Inaba\n
+"I should check back here later; searching for an exit is more important right now."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003DC
+#WRITE(MYPTR, $00001138)
+<$F0><$FF>
+
+//　　　　　　　職員室
+Staff Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「先生はなにか知ってる！！\n
+//　　しかし、どういう事だ！？
+Inaba\n
+"What isn't Ms. Hojou telling me!?<$20>What's going on!?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　誰のことだ？　とめるって？\n
+//　　この事件と関係あるのか？
+\n
+Who? Stop what? Is it related to what's happenning now?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　そして、先生は味方なのか？\n
+//　　それがはっきりするまでは\n
+//　　近づくべきじゃないな。　　」
+\n
+And, is Ms. Hojou on our side? I shouldn't approach her until I know for sure."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000004E8
+#WRITE(MYPTR, $00001388)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+- There are posters on the board. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+"There's nothing really interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000057C
+#WRITE(MYPTR, $000014B8)
+<$F5><$FF>
+
+//\n
+//－　扉を開けようとしても　ビク\n
+//　　ともしない　　　　　　　　　－
+\n
+- You try and open the door, but it doesn't budge. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「開かないのは、カギが掛かっ\n
+//　　ているからってだけじゃなさ\n
+//　　そうだな。
+Inaba\n
+"It doesn't seem like it's locked with just a key.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　なにか不思議な力が、はたら\n
+//　　いているみたいだ。
+\n
+It's almost like a strange force is keeping it sealed.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　クソッ！　僕たちは、この\n
+//　　学校の中で、死を待つしか\n
+//　　ないっていうのか！　　　　」
+\n
+Damnit! Are we just trapped here waiting to die!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000006C0
+#WRITE(MYPTR, $000015E8)
+<$F5><$FF>
+
+//\n
+//－　職員用の下駄箱だ　もう殆ど\n
+//　　の職員は下校しているだろう　－
+\n
+- It's a shoerack reserved for staff. Seems most of the staff has already left. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000710
+#WRITE(MYPTR, $00001A84)
+<$F0><$FF>
+
+//　　　　　　　用務員室\n
+//　　－　カギが掛かっている　－
+Janitor's Office\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000750
+#WRITE(MYPTR, $00001B14)
+<$EF><$FF>
+
+//　　　　　　　保健室
+Nurse's Office
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000750
+#WRITE(MYPTR, $00001BA4)
+<$EF><$FF>
+
+//　　　　　　　保健室
+Nurse's Office
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000770
+#WRITE(MYPTR, $00001C34)
+<$EF><$FF>
+
+//　　　　　　　職員室
+Staff Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($00000790, "WARNME")

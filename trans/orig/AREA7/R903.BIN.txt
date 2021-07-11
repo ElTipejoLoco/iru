@@ -1,0 +1,34 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP(-1)
+
+//Pos : 00000004
+#WRITE(MYPTR, $000005D4)
+<$F5><$FF>
+
+//\n
+//－　防火シャッターが降りている　－
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「やっぱり、これは変だ！\n
+//　　誰かが意図的に僕たちを閉じ\n
+//　　込めているとしか思えない！
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　誰かが・・・・・・。　　　」
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+

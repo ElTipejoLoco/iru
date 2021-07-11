@@ -1,0 +1,345 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000D68)
+<$F5><$FF>
+
+//氷川\n
+//　「・・・
+Hikawa\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//ヒッヒヒッヒャーヒャヒャ\n
+//　　ヒャ・・・！　　　　　　　　　」
+HYAHIHIHIHYAAAHIHIA...!"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000064
+#WRITE(MYPTR, $000013D0)
+<$F5><$FF>
+
+//\n
+//　－　机の上に　日記がある
+\n
+- There's a diary on the table.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　日記を読むと　気になる\n
+//　　くだりがあった　　　　　－
+\n
+As you read the diary, a specific passage catches your attention. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　それは　次のような内容\n
+//　　であった　　　　　　　　－
+\n
+- Here are the contents: -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　その日、訪ねてきた友人が\n
+//　　怪しい書物を持ってきた。
+\n
+That day, a friend of mine came by with the strangest of books.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　その友人が、以前から\n
+//　　どうしても手に入れたかった\n
+//　　書物らしい。
+\n
+That friend had desperately searched for this book for ages.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　やっと読めると、喜びながら\n
+//　　書物を読みふけっていた友人の\n
+//　　雰囲気が、次第に変わった。
+Now finally able to read it, he happily read it with no care for anything else. I dare say the air about him gradually changed.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　すると突然、友人は絶叫した\n
+//　　かと思うと、部屋を飛び出し\n
+//　　た。
+\n
+With no warning, my friend unleased a hellish screech and bolted out of the room.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　友人は、階段を踏み外して\n
+//　　踊り場まで転げ落ち、その\n
+//　　命を落とした。
+\n
+He fell down the stairs and tumbled to the very bottom. He was dead when I reached him.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　その本　『ネクロノミコン』\n
+//　　だけが、この部屋に残った。
+\n
+The only thing left now is that book he left behind, "The Necronomicon."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　『ネクロノミコン』は、最も\n
+//　　恐ろしい魔導書だということ\n
+//　　は、後に知ることだった。
+I learned after that that the Necronomicon is one of the most terrifying, most horrible grimoires in existence.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　読んだ者は、必ず狂気に\n
+//　　染まるという。
+\n
+Anyone who reads it will descend into pure madness.
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000037C
+#WRITE(MYPTR, $00001500)
+<$F5><$FF>
+
+//\n
+//　－　本棚に　変わった書物が\n
+//　　　ないか調べてみた　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　魔導書と呼ぶのだろうか
+\n
+- These seem like they could be grimoires.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　分厚いハードカバー表紙に\n
+//　　怪しい文字で書かれた表題\n
+//　　黄ばんでボロボロのページ
+The books are bounded with heavy, thick hardcovers labeled with bizarre letters. The pages are rather worn out.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　古本屋に行っても　そうは\n
+//　　ないんじゃないか　という\n
+//　　ような本が　たくさんある
+\n
+You feel like you wouldn't even see these kinds of books in a used book store.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//　　読もうとしてみたが　英語で\n
+//　　書かれた本やフランス語の本\n
+//　　ラテン語と思われる本まで\n
+//　　あり　読むことができない　　－
+You try and read some, but the books are in various languages like English, French, and Latin. You can't understand any of them. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000528
+#WRITE(MYPTR, $0000162C)
+<$F5><$FF>
+
+//\n
+//－　分厚いカバーの書物が　床に\n
+//　　落ちている
+\n
+- There's a thick, hardcover book that fell onto the floor. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　その書物からは漆黒の障気と\n
+//　　でも　いうのだろうか
+\n
+Something that could be described as a jet black evil energy leaks out.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　冷気をおびた風が　書物から\n
+//　　吹き出ているように感じる　　－
+\n
+You feel a trace of a cold chill emanating from the book. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「こ、これを読んで、氷川は？」
+Inaba\n
+"D-did Hikawa read this!?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　－　表紙には　こう書いてある　－
+\n
+- The following words are written on the cover. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　　　　　　ＴＨＥ\n
+//　　　ＮＥＣＲＯＮＯＭＩＣＯＮ
+\n
+"The Necronomicon"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//－　稲葉には　なんと読むのかは\n
+//　　分からなかったが　その書物\n
+//　　の放つ恐ろしさを　理解する\n
+//　　くらいのことは　できた　　　－
+- You don't know what the book contains, but the terrifying aura emitting from the book is easy enough to understand. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「この本に、手を出しては、\n
+//　　いけないな。　　　　　　　」
+Inaba\n
+"I can't let myself touch that book!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000744
+#WRITE(MYPTR, $00001758)
+<$F5><$FF>
+
+//\n
+//－　分厚いカバーの書物が　床に\n
+//　　落ちている
+\n
+- There's a thick, hardcover book that fell onto the floor. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　その書物からは漆黒の障気と\n
+//　　でも　いうのだろうか
+\n
+Something that could be described as a jet black evil energy leaks out.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　冷気をおびた風が　書物から\n
+//　　吹き出ているように感じる　　－
+\n
+You feel a trace of a cold chill emanating from the book. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「なんだ、この本は？　　　　」
+Inaba\n
+"What's this book?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　－　表紙には　こう書いてある　－
+\n
+- The following words are written on the cover. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　　　　　　ＴＨＥ\n
+//　　　ＮＥＣＲＯＮＯＭＩＣＯＮ
+\n
+"The Necronomicon"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//－　稲葉には　なんと読むのかは\n
+//　　分からなかったが　その書物\n
+//　　の放つ恐ろしさを　理解する\n
+//　　くらいのことは　できた　　　－
+- You don't know what the book contains, but the terrifying aura emitting from the book is easy enough to understand. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「この本に、手を出しては、\n
+//　　いけないな。　　　　　　　」
+Inaba\n
+"I can't let myself touch that book!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($0000095E, "WARNME")

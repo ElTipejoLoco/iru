@@ -1,0 +1,289 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($0000020C)
+
+//Pos : 0000020C
+#WRITE(MYPTR, $000016D0)
+<$F5><$FF>
+
+//稲葉\n
+//　「あっ！　また誰かが・・・
+Inaba\n
+"Aah! That horrid creature...
+
+<$FF><$FF>
+<$3C><$00>
+
+//\n
+//　　それにあの化け物まで！！
+\n
+k-killed someone else!! 
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　これ以上近づいたら、こっち\n
+//　　も危ないぞ！　　　　　　　」
+\n
+If I get any closer, that monster will get me too!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002A0
+#WRITE(MYPTR, $000016EC)
+<$F5><$FF>
+
+//稲葉\n
+//　「これ以上近づいたら、こっち\n
+//　　も危ないぞ！　　　　　　　」
+Inaba\n
+"If I get any closer, that monster will get me too!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002F0
+#WRITE(MYPTR, $00001830)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「くっ
+Inaba\n
+"S-
+
+<$FF><$FF>
+<$14><$00>
+
+//来るな
+stay awa
+
+<$FF><$FF>
+<$14><$00>
+
+//ぁ
+a
+
+<$FF><$FF>
+<$14><$00>
+
+//ぁ
+a
+
+<$FF><$FF>
+<$14><$00>
+
+//ー
+y
+
+<$FF><$FF>
+<$14><$00>
+
+//！！
+!!<$20>
+
+<$F1><$FF>
+
+//\n
+//　　ぎゃぁぁー！！　　　　　　」
+AUGH!!"
+
+<$FF><$FF>
+<$B4><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 0000035C
+#WRITE(MYPTR, $000018D8)
+<$F5><$FF>
+
+//稲葉\n
+//　「望月が言っていた、呪文の\n
+//　　書いてあるモノが、校内に\n
+//　　あるとしたら、
+Inaba\n
+"If that memo with the spell written on it is really in the school like Mochizuki said, 
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　もうこの図書室しか、考え\n
+//　　られないけど。　　　　　　」
+\n
+then the library seems the most obvious place."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000400
+#WRITE(MYPTR, $00001BA8)
+<$F5><$FF>
+
+//\n
+//－　書物の管理をするカウンター　－
+\n
+- It's the library checkout counter. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「この下を、くぐって行けば\n
+//　　カウンターの中に入れそうだ\n
+//　　な。　　　　　　　　　　　」
+Inaba\n
+"Looks like I could get under here if I crawl."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000498
+#WRITE(MYPTR, $00001CD8)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　この本棚には　海外の本を\n
+//　　翻訳した本が集められている\n
+//　　ようだ　　　　　　　　　　　－
+\n
+- It appears to be mostly translated foreign books. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000054C
+#WRITE(MYPTR, $00001E08)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　この本棚は　文学史上で\n
+//　　有名な作品が　集めてある　－
+\n
+- Looks like a shelf for famous literature. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000005DC
+#WRITE(MYPTR, $00001F38)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　－　この本棚に　ある本は\n
+//　　　すべて一般小説みたいだ　－
+\n
+- Seems like it's mostly paperbacks. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000066C
+#WRITE(MYPTR, $00002068)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　本棚には　伝記などの本が\n
+//　　たくさん　並んでいる　　　　－
+\n
+- There's a lot of biographies here. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000700
+#WRITE(MYPTR, $00002198)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　この本棚にある本は　全て\n
+//　　歴史関係の資料のようだ　　　－
+\n
+- Looks like historical reference materials here. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000794, "WARNME")

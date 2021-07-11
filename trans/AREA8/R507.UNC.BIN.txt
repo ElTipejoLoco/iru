@@ -1,0 +1,315 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000FDC)
+<$F5><$FF>
+
+//稲葉\n
+//　「石碑に何か書かれている。　」
+Inaba\n
+"There's something written here."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　正五角形の光に護られし旧印\n
+//　　深紅の光が交わるとき　その\n
+//　　正五角形　形崩れ　破れる　　－
+\n
+The pentagon's light protects the seal. When the crimson light shines upon it, the pentagon shall fall.
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000009C
+#WRITE(MYPTR, $00001144)
+<$F5><$FF>
+
+
+//\n
+//－　ロウソクを調べようと　手を\n
+//　　近づけた拍子に　火が消えて\n
+//　　しまった！　　　　　　　　　－
+\n
+- The moment your hand gets close to the candle, the flame goes out! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000010C
+#WRITE(MYPTR, $00001154)
+<$F5><$FF>
+
+//\n
+//　　－　　ロウソクがある　　－
+\n
+- There's a candle here. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000044BC
+#WRITE(MYPTR, $000011D8)
+<$00><$00>
+
+
+//Pos : 00000138
+#WRITE(MYPTR, $000012A8)
+<$F5><$FF>
+
+//\n
+//　　－　すでに火は付いている　－
+\n
+- The candle's already lit. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000164
+#WRITE(MYPTR, $00001334)
+<$F5><$FF>
+
+//\n
+//　　　ロウソクに火を付けた！
+\n
+- You lit the candle! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000018C
+#WRITE(MYPTR, $00001460)
+<$F5><$FF>
+
+//\n
+//－　結界の光に　はばまれて\n
+//　　中に入れない　　　　　　　－
+\n
+- The light from the barrier blocks you from entering. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000001D4
+#WRITE(MYPTR, $00001598)
+<$F5><$FF>
+
+//\n
+//　　　深紅の宝石を　壁の窪みに\n
+//　　　はめ込んだ！
+\n
+- You place the crimson jewel into the wall! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000214
+#WRITE(MYPTR, $000015B0)
+<$F2><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「な、なんだ！？　　　　　　」
+Inaba\n
+"W-what the!?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000248
+#WRITE(MYPTR, $00001840)
+<$F5><$FF>
+
+//\n
+//　－　宝石を　はずそうとしても\n
+//　　　しっかり窪みと　かみ合っ\n
+//　　　て　外すことが　できない　－
+\n
+- The jewel is firmly stuck into the wall. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000324
+#WRITE(MYPTR, $00001858)
+<$F5><$FF>
+
+//\n
+//　－　壁に不思議な窪みがある　－
+\n
+- There's a strange slot in the wall. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002B8
+#WRITE(MYPTR, $00001868)
+<$F5><$FF>
+
+//\n
+//－　壁に　不思議な窪みがあり\n
+//　　そこから　うすい光が射して\n
+//　　いる　　　　　　　　　　　　－
+\n
+- There's a strange slot in the wall with a faint light shining out of it. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000350
+#WRITE(MYPTR, $00001930)
+#WRITE(MYPTR, $00001ABC)
+<$F5><$FF>
+
+//稲葉\n
+//　「これがエルダーサインか？　」
+Inaba\n
+"Is this the Elder Sign?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000380
+#WRITE(MYPTR, $00001948)
+#WRITE(MYPTR, $00001AD4)
+<$F2><$FF>
+
+//\n
+//－　青い石を思いっきり動かした　－
+\n
+- You push the blue stone with all your strength. -
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003B0
+#WRITE(MYPTR, $00001958)
+#WRITE(MYPTR, $00001AE4)
+<$F5><$FF>
+<$F2><$FF>
+
+//稲葉\n
+//　「うっ
+Inaba\n
+"Wh
+
+<$FF><$FF>
+<$1E><$00>
+
+//　うわ！
+oaaah!
+
+<$FF><$FF>
+<$28><$00>
+
+//\n
+//　　なんだ、この光は！？　　　」
+\n
+What's this light!?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000400
+#WRITE(MYPTR, $000019F4)
+#WRITE(MYPTR, $00001B80)
+<$F5><$FF>
+
+//稲葉\n
+//　「・
+Inaba\n
+".
+
+<$FF><$FF>
+<$0A><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$0A><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$0A><$00>
+
+//こ、
+t-
+
+<$FF><$FF>
+<$0A><$00>
+
+//これで良かったの\n
+//　　か？
+that wasn't good...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　僕は、なにか取り返しの\n
+//　　付かないことを、してしまっ\n
+//　　たんじゃ。　　　　　　　　」
+\n
+I feel like I just did something terrible that can't be undone..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+
+#WARN($000004AA, "WARNME")
