@@ -389,7 +389,7 @@ Aikawa? Oh, do you mean the principal's
 <$14><$00>
 //\n
 //@@‚ ‚ AZ’·æ¶‚Ì‚¨‘·‚³‚ñ‚Ì
-granddaughter
+<$20>granddaughter
 
 <$F3><$FF>
 <$04><$00>

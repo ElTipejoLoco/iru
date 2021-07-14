@@ -118,8 +118,7 @@ AUGH!!"
 //　　書いてあるモノが、校内に\n
 //　　あるとしたら、
 Inaba\n
-"If that memo with the spell written on it is really in the school like Mochizuki said, 
-
+"If there really is a book at the school that contains the spell Mochizuki mentioned,
 <$FA><$FF>
 <$F8><$FF>
 

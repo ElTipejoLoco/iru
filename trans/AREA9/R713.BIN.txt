@@ -12,7 +12,7 @@
 //氷川\n
 //　「・・・
 Hikawa\n
-"...
+"
 
 <$F3><$FF>
 <$04><$00>
@@ -44,7 +44,7 @@ HYAHIHIHIHYAAAHIHIA...!"
 //　　日記を読むと　気になる\n
 //　　くだりがあった　　　　　－
 \n
-As you read the diary, a specific passage catches your attention. -
+As you read it, a specific passage catches your attention. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -61,8 +61,7 @@ As you read the diary, a specific passage catches your attention. -
 //\n
 //　　その日、訪ねてきた友人が\n
 //　　怪しい書物を持ってきた。
-\n
-That day, a friend of mine came by with the strangest of books.
+"That day, a friend of mine came by with the strangest of books. He had desperately searched for this book for ages.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -72,7 +71,7 @@ That day, a friend of mine came by with the strangest of books.
 //　　どうしても手に入れたかった\n
 //　　書物らしい。
 \n
-That friend had desperately searched for this book for ages.
+Now finally able to read it, he happily sat down and poured through it without a care for anything else. 
 
 <$FA><$FF>
 <$F8><$FF>
@@ -81,7 +80,8 @@ That friend had desperately searched for this book for ages.
 //　　やっと読めると、喜びながら\n
 //　　書物を読みふけっていた友人の\n
 //　　雰囲気が、次第に変わった。
-Now finally able to read it, he happily read it with no care for anything else. I dare say the air about him gradually changed.
+\n
+I dare say the air about him gradually changed as the hours past.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -110,7 +110,7 @@ He fell down the stairs and tumbled to the very bottom. He was dead when I reach
 //　　その本　『ネクロノミコン』\n
 //　　だけが、この部屋に残った。
 \n
-The only thing left now is that book he left behind, "The Necronomicon."
+The only thing left now is that book he left behind, 'The Necronomicon.'
 
 <$FA><$FF>
 <$F8><$FF>
@@ -128,7 +128,7 @@ I learned after that that the Necronomicon is one of the most terrifying, most h
 //　　読んだ者は、必ず狂気に\n
 //　　染まるという。
 \n
-Anyone who reads it will descend into pure madness.
+Anyone who reads it will descend into pure madness."
 
 <$FA><$FF>
 <$F8><$FF>

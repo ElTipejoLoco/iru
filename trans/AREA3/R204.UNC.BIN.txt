@@ -292,14 +292,13 @@ I think I can hide under here!"
 //稲葉\n
 //　「助かった！
 Inaba\n
-"I'm alive! B-but is Yuma
+"I'm alive! B-but is Yuma<$20>
 
 <$FF><$FF>
 <$3C><$00>
 
 //\n
 //　　だ、だけど由麻は大丈夫か？」
-\n
 alright?"
 
 <$FA><$FF>

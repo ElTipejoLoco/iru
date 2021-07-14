@@ -131,7 +131,7 @@ Inaba\n
 //稲葉\n
 //　「石に取っ手が付いてるぞ。　」
 Inaba\n
-"There's a handle built into the stone."
+"There are handles built into the stone."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -140,7 +140,7 @@ Inaba\n
 //　　取っ手に　手を差し込んで\n
 //　　手前に思いっきり引っ張った！
 \n
-- You insert your hand into the handle and pull with all your might! -
+- You insert your hands into the handles and pull with all your might! -
 
 <$FA><$FF>
 <$F8><$FF>

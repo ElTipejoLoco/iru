@@ -630,8 +630,7 @@ but why!?
 //\n
 //　　なんで、いけにえを受け取ら\n
 //　　ない！！
-\n
-Why didn't it accept the sacrifice!?
+<$20>Why didn't it accept\nthe sacrifice!?
 
 <$FF><$FF>
 <$78><$00>

@@ -19,8 +19,7 @@ Mochizuki\n
 
 //そうは言ってるけど、実際、\n
 //　　おかしくなりそうだ
-You say that, but, it's weird
-
+I can't even believe what I'm saying
 <$F3><$FF>
 <$04><$00>
 
@@ -39,13 +38,13 @@ You say that, but, it's weird
 
 //俺の中に、もう一人の人格が\n
 //　　いるなんて
-It's like there's another personality inside my mind
+How could there be another person inside my body
 
 <$F3><$FF>
 <$04><$00>
 
 //。　　　　　　　」
-."
+!?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -69,7 +68,7 @@ Mochizuki\n
 
 //二階の廊下にいる奴を見たか？\n
 //　　・・・無形の落とし子だ。
-Did you see that thing in the 2nd floor hallway? ...it's a Formless Spawn.
+Did you see that thing in the 2nd floor hallway? It's a Formless Spawn.
 
 <$F3><$FF>
 <$04><$00>
@@ -112,8 +111,7 @@ We might be able to send it back if we find it, but
 
 //・・・、\n
 //　　
-... Damnit...
-\n
+... Damnit...<$20>
 
 <$F3><$FF>
 <$04><$00>
@@ -125,7 +123,7 @@ not
 <$04><$00>
 
 //・・・
-...
+...<$20>
 
 <$F3><$FF>
 <$04><$00>

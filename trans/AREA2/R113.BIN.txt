@@ -118,7 +118,7 @@ Inaba\n
 //　－　屋台がある　看板には\n
 //　　“やきイモ”と書いてある　－
 \n
-- There's a food stand with a "Roasted Sweet Potatoes" sign here. -
+- There's a food stand with a "Roasted Sweet Potatoes" sign\nhere. -
 
 <$FA><$FF>
 <$F8><$FF>

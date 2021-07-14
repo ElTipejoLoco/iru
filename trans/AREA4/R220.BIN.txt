@@ -123,7 +123,7 @@ Hojou\n
 
 //一人でも多くの人と、\n
 //　　ここから逃げて
-Run away from here, alone or with anyone you can help
+run away from here, alone or with anyone you can help
 
 <$F3><$FF>
 <$04><$00>

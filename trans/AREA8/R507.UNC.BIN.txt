@@ -156,7 +156,7 @@ Inaba\n
 //　　　しっかり窪みと　かみ合っ\n
 //　　　て　外すことが　できない　－
 \n
-- The jewel is firmly stuck into the wall. -
+- The jewel is firmly stuck in the wall. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -250,8 +250,7 @@ oaaah!
 
 //\n
 //　　なんだ、この光は！？　　　」
-\n
-What's this light!?"
+<$20>What's this light!?"
 
 <$FF><$FF>
 <$78><$00>
