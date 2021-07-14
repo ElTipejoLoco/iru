@@ -63,9 +63,7 @@ The pentagon's light protects the seal. When the crimson light shines upon it, t
 <$00><$00>
 
 
-//Pos : 000044BC
-#WRITE(MYPTR, $000011D8)
-<$00><$00>
+
 
 
 //Pos : 00000138
