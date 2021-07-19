@@ -1,0 +1,55 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 0000004C
+#WRITE(MYPTR, $000002AC)
+<$F5><$FF>
+
+//稲葉\n
+//　「！！　と、扉が開かない！？」
+Inaba\n
+//"I-it won't open!?"
+"N-no se abre!?"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000004
+#WRITE(MYPTR, $000002BC)
+<$F5><$FF>
+
+//稲葉\n
+//　「こっちの扉も！！\n
+//　　・・・閉じこめられた！？　」
+Inaba\n
+//"This one too! Am I trapped!?"
+"Este tampoco! Estoy atrapado!?"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000007C
+#WRITE(MYPTR, $00000660)
+<$F5><$FF>
+
+//稲葉\n
+//　「これで扉が、開いてくれて\n
+//　　いれば・・・。　　　　　　」
+Inaba\n
+//"If I can just get it open..."
+"Si solo pudiese abrirlo..."
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($000000CA, "WARNME")

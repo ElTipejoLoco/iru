@@ -1,0 +1,350 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000880)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「痛っ！！　　　　　　　　　　」
+Inaba\n
+//"Ow!!"
+"Au!!"
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F1><$FF>
+
+//校長\n
+//　「
+//Principal\n
+Director\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・ああ、気を付けなさい。\n
+//　　遅くまでかかりそうなのかね
+//...ah, be careful in the hallways. Do you guys think you'll be working pretty late
+...ah, ten cuidado en los pasillos. Sabes si vais a seguir trabajando hasta tarde
+<$F3><$FF>
+<$04><$00>
+
+//？」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「は、はい！\n
+//　　終わり次第すぐに帰ります。　」
+Inaba\n
+//"Y-yes sir! We'll leave the moment we're done."
+"S-si, disculpe! Nos iremos cuando acabemos. "
+<$FA><$FF>
+<$F8><$FF>
+
+//校長\n
+//　「
+Principal\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//いや、遅くなってもいいから、\n
+//　　最後までしっかりやりなさい
+//Ah, no, I don't mean to rush you. Do a good job until the end, okay
+Ah, no quiero meteros prisa. Quedaos el tiempo que haga falta, vale
+<$F3><$FF>
+<$04><$00>
+
+//。」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「はいわかりました・・・。　」
+Inaba\n
+//"Yes sir..."
+"Gracias..."
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「おかしいな？\n
+//　　いつも早く帰りなさいって\n
+//　　言うのに。
+Inaba\n
+//"That was weird. Normally he'd be rushing us out of here.
+"Que raro. Normalmente suele querer que nos vayamos.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　しかし、まるで壁にぶち\n
+//　　当たったような感触だったな。」
+\n
+//That and it felt like I hit a brick wall just now."
+Y parece como si me hubiese chocado con una pared."
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000001E8
+#WRITE(MYPTR, $00000C40)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「先生！　広瀬が殺された！！\n
+//　　会議室に死んだ広瀬が・・・。」
+Inaba\n
+//"Ms. Hojou! Hirose was killed in the Meeting Room!"
+"Ms. Hojou! Mataron a Hirose en la sala de juntas!"
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//北条\n
+//　「あなたも見たの・・・。\n
+//　　
+Hojou\n
+//"You saw that too, huh...
+"Viste eso tambien, eh...
+<$FF><$FF>
+<$14><$00>
+
+//けれど稲葉君、どうして？\n
+//　　なぜ殺されたって解るの！？　」
+\n
+//But Inaba, why do you say he was killed?"
+Pero Inaba, porque dices que ha muerto?" 
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//稲葉\n
+//　「鏡から化け物が現れて、\n
+//　　広瀬を刺し殺したんです！！　」
+Inaba\n
+//"A monster jumped out of a mirror and stabbed him!!"
+"Un monstruo aparecio y le clavo algo en el pacho!"
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//北条\n
+//　「・・・それを
+Hojou\n
+//"...you<$20>
+"...tu<$20>
+<$FF><$FF>
+<$28><$00>
+
+//見たの稲葉君？\n
+//　　
+//saw something like that, Inaba?
+has visto todo eso, Inaba?
+<$FF><$FF>
+<$3C><$00>
+
+//逃げる方法を捜しましょう。
+\n
+//Let's search for a way out.
+Vamos a buscar una salida.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　パニックになると困るから\n
+//　　鏡の化け物の話はしないこと。
+\n
+//It'd be bad if everyone started panicking, so please 
+Sera un caos si todos entran en panico, por favor
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　騒ぎを大きくしないでね。\n
+//　　お願いね。　　　　　　　　」
+\n
+//don't tell anyone about the monster yet."
+no le digas a nadie lo de ese monstruo."
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000003D8
+#WRITE(MYPTR, $000014FC)
+<$F5><$FF>
+
+//稲葉\n
+//　「鍵がかかっている。　　　　　」
+Inaba\n
+//"The mirror is glowing."
+"El espejo brilla."
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000040C
+#WRITE(MYPTR, $000016A4)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+//- There are posters on the board. -
+- Hay posters en el tablon. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+//"There's nothing really interesting here."
+"No hay nada de interes por aqui."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000004A0
+#WRITE(MYPTR, $00001860)
+<$F0><$FF>
+
+//　　　　　　音楽準備室\n
+//　　－　カギが掛かっている　－
+//Music Club Office\n
+Oficina de Musica\n
+//- Locked -
+- Cerrado - 
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 000004E0
+#WRITE(MYPTR, $00001908)
+<$F0><$FF>
+
+//　　　　　　　音楽室\n
+//　　－　カギが掛かっている　－
+//Music Club\n
+Musica\n
+//- Locked -
+- Cerrado -
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 000004E0
+#WRITE(MYPTR, $000019B0)
+<$F0><$FF>
+
+//　　　　　　　音楽室\n
+//　　－　カギが掛かっている　－
+//Music Club\n
+Musica\n
+//- Locked -
+- Cerrado -
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000520
+#WRITE(MYPTR, $00001A40)
+<$EF><$FF>
+
+//　　　　　　　会議室
+//Meeting Room
+Sala de juntas
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000540
+#WRITE(MYPTR, $00001AE8)
+<$F0><$FF>
+
+//　　　　　　　会議室\n
+//　　－　カギが掛かっている　－
+//Meeting Room
+Sala de juntas
+//- Locked -
+- Cerrado -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000580
+#WRITE(MYPTR, $00001B78)
+<$EF><$FF>
+
+//　　　　　　　会議室
+//Meeting Room
+Sala de juntas
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「あれ？　カギが開いている。\n
+//　　広瀬がカギを開けたのか？　」
+Inaba\n
+//"Huh? It's not locked anymore. Did Hirose open it?"
+"Eh? Ahora esta abierto. La ha abierto Hirose?"
+<$FA><$FF>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($000005EC, "WARNME")

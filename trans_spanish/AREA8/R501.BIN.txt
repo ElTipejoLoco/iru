@@ -1,0 +1,312 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000778)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「稲葉・・・稲葉！！\n
+//　　起きろ！！　起きるんだ！！　」
+Hikawa\n
+//"Inaba. Inaba! Wake up! Wake up already!!"
+"Inaba. Inaba! Despierta! Levantate ya!!"
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//いつまでも寝てんじゃねえ！\n
+//　　おまえにはやってもらうこと\n
+//　　があるんだ
+//How long are you going to sleep!? I've got a job for you down there
+Cuanto mas vas a dormir!? Necesito que hagas algo por mi alli abajo
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//そのまま、地下道を進んで\n
+//　　“旧き印”－エルダーサイン－\n
+//　　を動かしてくるんだ
+//Head down the underground path and move the ancient symbol, the Elder Sign, for me
+Avanza por el subterraneo y aprieta el dibujo, el simbolo antiguo, hazlo por mi
+<$F3><$FF>
+<$04><$00>
+
+//！　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「エルダーサイン？　　　　　　」
+Inaba\n
+//"Elder Sign?"
+"Simbolo antiguo?"
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//氷川\n
+//　「
+Hikawa
+\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//紋章が石に刻み込まれてる\n
+//　　はずだ。\n
+//　　そいつを動かせ
+//It should be a rock with a crest carved into it. Find it and move it
+Debe estar en una pared de las rocas grabado. Encuentralo y aprietalo
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//そこから出たいだろ？\n
+//　　一ノ宮を返して欲しいだろ
+//You want out right? You want us to return Ichinomiya, right
+Quieres escapar no? Quieres encontrar a Ichinomiya, verdad
+<$F3><$FF>
+<$04><$00>
+
+//？
+?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//俺の言うことを聞く以外、\n
+//　　助かる方法は無い
+//Then this is your only option
+Entonces es tu oportunidad
+<$F3><$FF>
+<$04><$00>
+
+//！　　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「なんのためにこんなこと！\n
+//　　それよりここから出せ！！　」
+Inaba\n
+//"What the hell are you doing all this for!? Let me out already!!"
+"Porque demonios estas haciendo todo esto!? Dejame salir ahora!!"
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ったく、いちいちうるせーな。\n
+//　　言われた通りにすれば助けて\n
+//　　やってもいいって言ってんだ
+//God damn you're annoying! I told you already, I'll let you out when you move the Elder Sign
+Eres muy repelente! Ya te lo he dicho, dejare que salgas de ahi cuando muevas el simbolo
+<$F3><$FF>
+<$04><$00>
+
+//！」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000304
+#WRITE(MYPTR, $00000A1C)
+<$F5><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//どうした！？\n
+//　　とぼけていたって
+//The fuck's the matter!? Did you forget already
+Pero que mierda te pasa!? Ya lo has olvidado
+<$F3><$FF>
+<$04><$00>
+
+//、
+?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//“エルダーサイン”を動かし\n
+//　　てないって俺達には分かるん\n
+//　　だ
+//I won't help you until you move the Elder Sign
+No te ayudare hasta que aprietes el simbolo
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//早く動かしてこい
+//Move it already
+Ve a apretarlo
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　」
+!!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003C8
+#WRITE(MYPTR, $00000BF0)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ご苦労だったな！
+//Haha, good work!
+Jaja, buen trabajo!
+<$F3><$FF>
+<$04><$00>
+
+//　　　　　」
+"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「言われた通りにしたんだ、\n
+//　　ここから・・・・・・　　　」
+Inaba\n
+//"I did as you said, now let me--"
+"He hecho lo que dijiste, ahora--"
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//約束した覚えはないぞ。\n
+//　　・・・はははは
+//I don't remember making any promises with you. HAHAHA
+No recuerdo haberte prometido nada la verdad. JAJAJA
+<$F3><$FF>
+<$04><$00>
+
+//！　　　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($000004A2, "WARNME")

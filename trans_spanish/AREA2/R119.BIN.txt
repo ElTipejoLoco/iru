@@ -1,0 +1,71 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000036C)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+//- You look for anything interesting. -
+- Echas un vistazo buscando algo interesante. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　ジャンルに関係なく　色々な\n
+//　　本が置かれている
+\n
+//- You see a lot of books with no real genre consistency. Nothing
+Ves un monton de libros con tematicas muy variadas. No hay nada
+
+<$FF><$FF>
+<$14><$00>
+
+//\n
+//　　特に　目を引く本は　ない　　－
+\n
+//catches your eye. -
+que llame tu atencion. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000000B4
+#WRITE(MYPTR, $00000498)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物が無いか調べてみた　　　－
+\n
+//- You open the case and look for anything interesting. -
+- Abres la caja buscando alguna cosa interesante. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　大学案内や　受験のための\n
+//　　参考書などが　置かれている　－
+\n
+//- You just see help books for getting into college and taking tests. -
+- Hay muchos libros de ayuda para examenes de acceso universitarios. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000148, "WARNME")

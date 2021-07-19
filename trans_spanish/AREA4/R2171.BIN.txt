@@ -1,0 +1,254 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000EB0)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//稲葉君逃げて
+//Inaba, run
+Inaba, corre
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　　　　」
+!!"
+
+<$FF><$FF>
+<$14><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「先生！！こっちだ！！　　　　」
+Inaba\n
+//"Ms. Hojou!! This way!!"
+"Ms. Hojou! Por aqui!!"
+
+<$FF><$FF>
+<$14><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「せ、先生！！　　　　　　　　」
+Inaba\n
+"M-Ms. Hojou!!"
+
+<$FF><$FF>
+<$1E><$00>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//早く行きなさい！\n
+//　　一ノ宮さんを
+//Hurry and go! Ichinomiya needs you
+Date prisa! Ichinomiya te necesita
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・　　　　　」
+..."
+
+<$FF><$FF>
+<$28><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「由麻！？　由麻はどこに！！」
+Inaba\n
+//"Yuma!? Where is she!?"
+"Yuma!? Donde estas!?"
+
+<$FF><$FF>
+<$32><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「あ・・・せ、先生ぇぇぇ！！　」
+Inaba\n
+"No... Ms. Hojoooou!!"
+
+<$FF><$FF>
+<$F0><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000164
+#WRITE(MYPTR, $000010C0)
+<$F5><$FF>
+
+//\n
+//－　生徒会が作った　学園祭の\n
+//　　ポスターだ　　　　　　　　－
+\n
+//- It's a poster for the school festival made by the student council. -
+- Un cartel del festival de la escuela hecho por los estudiantes. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000001B0
+#WRITE(MYPTR, $000011F0)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+//- There are posters on the board. -
+- Hay posters en el tablon. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+//"There's nothing really interesting here."
+"No hay nada de interes por aqui."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000244
+#WRITE(MYPTR, $0000131C)
+<$F5><$FF>
+
+//\n
+//－　防火シャッターが降りている　－
+\n
+//- The fire shutter is closed. -
+- La persiana esta cerrada. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「・・・北条先生。
+Inaba\n
+"...Ms. Hojou.<$20>
+
+<$FF><$FF>
+<$3C><$00>
+
+//　クソッ！\n
+//　　僕達はここで皆殺しにされる\n
+//　　のか！？　　　　　　　　　」
+//Fuck! Are we just stuck\n
+//here waiting to die!?"
+Mierda! Estamos encerrados\n
+esperando a morir aqui!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002E0
+#WRITE(MYPTR, $00001874)
+<$EF><$FF>
+
+//　　　　　　　２－４
+2 - 4
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000300
+#WRITE(MYPTR, $0000191C)
+<$F0><$FF>
+
+//　　　　　　　２－３\n
+//　　－　カギが掛かっている　－
+2 - 3\n
+//- Locked -
+- Cerrado -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000300
+#WRITE(MYPTR, $000019C4)
+<$F0><$FF>
+
+//　　　　　　　２－３\n
+//　　－　カギが掛かっている　－
+2 - 3\n
+//- Locked -
+- Cerrado -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000340
+#WRITE(MYPTR, $00001A54)
+<$EF><$FF>
+
+//　　　　　　　２－２
+2 - 2
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($00000360, "WARNME")

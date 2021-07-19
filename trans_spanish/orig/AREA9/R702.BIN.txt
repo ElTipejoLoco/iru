@@ -1,0 +1,35 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP(-1)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000049C)
+<$F5><$FF>
+
+//\n
+//　－　とても重そうな鉄の扉が\n
+//　　　閉じていて　開かない　　－
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「・・・やっぱり、ここは学校\n
+//　　の近くにある時計塔の中だな。
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　この扉が、たぶん、外への扉\n
+//　　なんだろうけど・・・。　　」
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+

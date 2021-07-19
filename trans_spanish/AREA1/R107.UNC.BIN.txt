@@ -1,0 +1,949 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00001748)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//洋子\n
+//　「
+Youko\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//いやぁぁー！\n
+//　　どうしてこんな目に遭うの！？\n
+//　　お願いよ・・・助けてぇ
+//No!!! Why is this happening to me!? I'm begging you, help me
+No!! Porque me esta ocurriendo esto!? Ayudame te lo suplico
+
+<$F3><$FF>
+<$68><$00>
+
+//！！　」
+!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//しっかりして！\n
+//　　大丈夫だから、必ず助けて\n
+//　　あげるから
+//Get a hold of yourself! It'll be okay, I'll make sure we get out of this alive
+Confia en ti mismo! Todo saldra bien, me asegurare de que salgamos vivos de aqui
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　　　　」
+!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F2><$FF>
+
+//稲葉\n
+//　「北条先生・・・。　　　　　　」
+Inaba\n
+"Ms. Hojou..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//稲葉くん！　無事だったのね。\n
+//　　良かった
+//Inaba! Oh good, you're safe
+Inaba! Menos mal que estas bien
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//あなたも早くこの学校から\n
+//　　逃げなさい
+//You need to hurry and escape the school as well
+Necesitas darte prisa y escapar de la escuela
+
+<$F3><$FF>
+<$04><$00>
+
+//！
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//私も生き残ってる人を外に\n
+//　　連れていくから
+//I'm going to look for more survivors and make sure they get outside
+Voy a buscar mas supervivientes y me asegurare de que salgan fuera
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　　」
+!!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000001EC
+#WRITE(MYPTR, $00001898)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//絶対方法はあるはず、\n
+//　　あきらめてはいけないわ
+//There has to be a way out of this. We can't give up
+Debe haber una forma de salir. No podemos rendirnos
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000240
+#WRITE(MYPTR, $000019DC)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「・・・
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//もう止められない・・\n
+//　　方法はあるけど・・・それを\n
+//　　知っているのは私だけ
+//...it can't be stopped. I mean, there's a way, but... only I know it
+...no hay manera de pararlo. Bueno, hay una, pero... solo yo la conozco
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+.
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　・・・
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//しつこく私を探して\n
+//　　いるでしょうね
+//They're probably searching for me right now
+Probablemente me esten buscando ahora mismo
+
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　」
+..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//それが解っていても、\n
+//　　もうどうしようもない
+//Even if they figure it out, it won't matter
+Incluso aunque la encuentres, ya no importa
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・」
+..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+
+//稲葉\n
+//　「先生はなにか知ってるみたい\n
+//　　だけど・・・。　　　　　　」
+Inaba\n
+//"It seems like Hojou knows something..."
+"Parece como si Hojou supiese algo..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000003B0
+#WRITE(MYPTR, $00001B2C)
+<$F5><$FF>
+
+//洋子\n
+//　「
+Youko\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//パパ・・・ママ・・・助けて、\n
+//　　早く助けに来てよぉ
+//Daddy... Mommy... Help me, please
+Papa... Mama... ayudadme, por favor
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000040C
+#WRITE(MYPTR, $00001B3C)
+<$F5><$FF>
+
+//洋子\n
+//　「
+Youko\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//助けて、誰か助けてよぉ　　\n
+//　　誰か助けに来てよぉ
+//Help, someone, anyone... Please
+Ayuda, que alguien... me ayude
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000464
+#WRITE(MYPTR, $00001C78)
+<$F5><$FF>
+
+//洋子\n
+//　「
+Youko\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//逃げるって言ったって
+//She said to run away, but
+Me dijo que huyera, pero
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000049C
+#WRITE(MYPTR, $00001EF8)
+<$F5><$FF>
+
+//稲葉\n
+//　「北条先生！\n
+//　　どんどん人が殺されて、\n
+//　　森先生も・・・さっき。　　」
+Inaba\n
+//"Ms. Hojou! People are dying left and right and Mr. Mori... just..."
+Ms. Hojuo! Han asesinado a varios estudiantes y Mr. Mori... ha..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//稲葉君！\n
+//　　気をしっかり持つのよ！！\n
+//　　冷静にならないと
+//Inaba! Keep it together! If you panic, you're as good as dead
+Inaba! Calmate! Si entras en panico no vas a conseguir nada
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000558
+#WRITE(MYPTR, $00001F08)
+<$F5><$FF>
+
+//北条\n
+//　「・・・・・・。　　　　　　」
+Hojou\n
+"..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000588
+#WRITE(MYPTR, $00002168)
+<$F5><$FF>
+
+//洋子\n
+//　「・・・
+Youko\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//なんで出られないの？\n
+//　　ここから出して
+//...why can't we get out? I just wanna go home
+...Porque no podemos salir? Quiero irme a casa
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000005E0
+#WRITE(MYPTR, $00002178)
+<$F5><$FF>
+
+//洋子\n
+//　「
+Youko\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//死にたくないよぉ
+//I don't want to die
+No quiero morir
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000618
+#WRITE(MYPTR, $000022A4)
+<$F5><$FF>
+
+//\n
+//　　－　　洋子が死んでいる　　－
+\n
+//- Youko is dead. -
+- Youko ha muerto. -
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000644
+#WRITE(MYPTR, $00003060)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「う、
+Inaba\n
+"N-
+
+<$FF><$FF>
+<$14><$00>
+
+//うわぁぁー！！
+nooo--!!!
+
+<$FF><$FF>
+<$14><$00>
+
+//\n
+//　　くっ
+\n
+A-
+
+<$FF><$FF>
+<$14><$00>
+
+//来るな
+//stay ba
+Alejate
+
+<$FF><$FF>
+<$14><$00>
+
+//ぁ
+//a
+e
+
+<$FF><$FF>
+<$14><$00>
+
+//ぁ
+//a
+e
+
+<$FF><$FF>
+<$14><$00>
+
+//ー
+--
+
+<$FF><$FF>
+<$14><$00>
+
+//！！　　　」
+!!"
+
+<$FF><$FF>
+<$B4><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000006B4
+#WRITE(MYPTR, $00003188)
+<$F5><$FF>
+
+//稲葉\n
+//　「入ったの見られたか！？\n
+//　　そしたら外には行けない！！\n
+//　　この中で何とかできないか？」
+Inaba\n
+//"I'm stuck in here now! I need to find a way to hide before it's too late!"
+"Estoy atrapado! Necesito encontrar un sitio para esconderme ahora mismo!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000720
+#WRITE(MYPTR, $000032CC)
+<$F5><$FF>
+
+//稲葉\n
+//　「こんな本棚に、どうやっても\n
+//　　隠れられない！　　　　　　」
+Inaba\n
+//"There's no way I could hide on this bookshelf!"
+"No puedo esconderme dentro de la estanteria!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000770
+#WRITE(MYPTR, $000033FC)
+<$F5><$FF>
+
+//稲葉\n
+//　「・・・何やってるんだ、俺は！\n
+//　　ゴミ箱なんかに隠れられるわけ\n
+//　　ない！　　　　　　　　　　　」
+Inaba\n
+//"What the hell am I thinking!? I'm not trash!"
+"Pero que demonios pienso!? Yo no soy basura!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000007E8
+#WRITE(MYPTR, $0000352C)
+<$F5><$FF>
+
+//稲葉\n
+//　「コピー機？
+Inaba\n
+//"A copy machine?
+"Una fotocopiadora?
+
+<$FF><$FF>
+<$3C><$00>
+
+//\n
+//　　・・・どうしようもないな。」
+//...alright, next."
+...vale, siguiente."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000082C
+#WRITE(MYPTR, $0000365C)
+<$F5><$FF>
+
+//稲葉\n
+//　「イスがじゃまだ！\n
+//　　イスが出てたら、バレバレだ\n
+//　　し・・・。　　　　　　　　」
+Inaba\n
+//"The chair's in the way! But it'll be too obvious if the chair's pulled out..."
+"La silla esta en medio! Sera demasiado obvio si la muevo para esconderme..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000894
+#WRITE(MYPTR, $0000378C)
+<$F5><$FF>
+
+//稲葉\n
+//　「引き戸がガラス張りだから\n
+//　　隠れようがない！　　　　　」
+Inaba\n
+//"I can't hide in there, it's glass!"
+Es cristal! No puedo esconderme ahi!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000008E4
+#WRITE(MYPTR, $000038BC)
+<$F5><$FF>
+
+//稲葉\n
+//　「棚の中のモノを出して隠れる\n
+//　　暇なんてない！　　　　　　」
+Inaba\n
+//"I don't have time to make room for myself in there!"
+"No tengo tiempo para hacerme un hueco ahi dentro!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000934
+#WRITE(MYPTR, $000039AC)
+<$F5><$FF>
+
+//稲葉\n
+//　「！？
+Inaba\n
+"!?<$20>
+
+<$FF><$FF>
+<$1E><$00>
+
+//\n
+//　　ここなら隠れられそうだ！　」
+//I think I can hide in here!"
+Esto parece un buen escondite!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000974
+#WRITE(MYPTR, $000039D4)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「助かった！　　　　　　　　」
+Inaba\n
+//"Phew, safe!"
+"Uf, por poco!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000009AC
+#WRITE(MYPTR, $00003B04)
+<$F5><$FF>
+
+//稲葉\n
+//　「外にいるはずだ・・・。\n
+//　　今出たらまずい！？　　　」
+Inaba\n
+//"They might be right outside the door, I can't leave now!"
+"Quizas esten todavia al otro lado, no puedo salir ahora!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000009F8
+#WRITE(MYPTR, $00003C30)
+<$F5><$FF>
+
+//\n
+//－　ロッカーが置いてある　中に\n
+//　　は何も入ってないようだ　　　－
+\n
+//- There's nothing inside the lockers. -
+- No hay nada dentro de los casilleros. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「いざって時、この中に隠れら\n
+//　　れるかな。　　　　　　　　」
+Inaba\n
+//"I could hide here in a pinch."
+"Este seria buen sitio para esconderse."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000A90
+#WRITE(MYPTR, $000043F8)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+//- You look for anything interesting. -
+- Echas un vistazo buscando algo interesante. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　ジャンルに関係なく　色々な\n
+//　　本が置かれている\n
+//　　特に　目を引く本は　ない　　－
+\n
+//- There doesn't seem to be any genre consistency with these books. Nothing catches your eye. -
+- Parece que la tematica de los libros es muy variada. No hay nada realmente interesante aqui. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000B3C
+#WRITE(MYPTR, $00004524)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物がないか調べてみた　　　－
+\n
+//- You open the case and look for anything interesting. -
+- Abres la caja buscando alguna cosa interesante. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　この本棚には　各クラスの\n
+//　　出席簿などが　並んでいる　－
+\n
+//- Looks like it's just attendance records for all the classes. -
+- Parece contener datos de asistencia de todas las asignaturas. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000BD0
+#WRITE(MYPTR, $00004654)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物がないか調べてみた　　　－
+\n
+//- You open the case and look for anything interesting. -
+- Abres la caja buscando alguna cosa interesante. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　この本棚にある本は　すべて\n
+//　　教材のようだ　　　　　　　　－
+\n
+//- It's a shelf full of lesson plans and study guides. -
+- Una balda llena de planes y estrategias de estudio. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000C68
+#WRITE(MYPTR, $00004780)
+<$F5><$FF>
+
+//\n
+//　－　コピー機が　置いてある　－
+\n
+//- It's a copy machine. -
+- Es una fotocopiadora. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000009F8
+#WRITE(MYPTR, $000048AC)
+<$F5><$FF>
+
+//\n
+//－　ロッカーが置いてある　中に\n
+//　　は何も入ってないようだ　　　－
+\n
+//- There's nothing inside the lockers. -
+- No hay nada dentro de los casilleros. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「いざって時、この中に隠れら\n
+//　　れるかな。　　　　　　　　」
+Inaba\n
+//"I could hide here in a pinch."
+"Esto seria un buen escondite."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000C94
+#WRITE(MYPTR, $000049D8)
+<$F5><$FF>
+
+//\n
+//　－　　　普通のゴミ箱だ　　　－
+\n
+//- It's an ordinary trash can. -
+- Es una papelera normal y corriente. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「何もゴミが入ってないな。　」
+Inaba\n
+//"There's nothing but trash inside."
+"No contiene nada mas que basura."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000CEC
+#WRITE(MYPTR, $00004B04)
+<$F5><$FF>
+
+//\n
+//　－　掲示板には　“今月の\n
+//　　　指導方針”と　題された\n
+//　　　プリントが　貼ってある　－
+\n
+//- There's a bulletin labelled "This Month's Guiding Principles" pinned to the board. -
+Hay un boletin llamado "Principios rectores de este mes" clavado en el tablero. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000D54
+#WRITE(MYPTR, $00004C30)
+<$F5><$FF>
+
+//稲葉\n
+//　「たしか、ここが北条先生の\n
+//　　机だ・・・。　　　　　　　」
+Inaba\n
+//"This should be Ms. Hojou's desk..."
+"Debe ser el escritorio de Ms. Hojou..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000DA4, "WARNME")

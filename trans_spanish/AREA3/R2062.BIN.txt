@@ -1,0 +1,114 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $000005D0)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+//- There are posters on the board. -
+- Hay posters en el tablon. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+//"There's nothing really interesting here."
+"No hay nada de interes por aqui."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000098
+#WRITE(MYPTR, $000006C0)
+<$F0><$FF>
+
+//　　　　　　　図書室\n
+//　　－　カギが掛かっている　－
+//Library\n
+Biblioteca\n
+//- Locked -
+- Cerrado -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 000000D8
+#WRITE(MYPTR, $00000750)
+<$EF><$FF>
+
+//　　　　　　　図書室
+//Library\n
+Biblioteca\n
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 000000F8
+#WRITE(MYPTR, $000007E0)
+<$EF><$FF>
+
+//　　　　　　図書準備室
+//Library Office
+Oficina de Biblioteca
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 0000011C
+#WRITE(MYPTR, $00000888)
+<$F0><$FF>
+
+//　　　　　　　空き室\n
+//　　－　カギが掛かっている　－
+//Empty Room\n
+Sala vacia\n
+//- Locked -
+- Cerrado -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 0000015C
+#WRITE(MYPTR, $00000918)
+<$EF><$FF>
+
+//　　　　　　男子トイレ
+//Men's Restroom
+WC de hombres
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($0000017E, "WARNME")

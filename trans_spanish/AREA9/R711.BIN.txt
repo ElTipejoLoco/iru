@@ -1,0 +1,355 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000C00)
+<$F5><$FF>
+
+//校長\n
+//　「・・・うちの学校の生徒が何で\n
+//　　こんな所に？　　　　　　　　」
+Principal\n
+//"...what's one of our students doing in a place like this?"
+"...que hace uno de nuestros estudiantes en este lugar?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「あなたは・・・校長先生！？\n
+//　　何でこんな所に？
+Inaba\n
+//"You're... the principal!? What happened!?
+"E-eres... el director!? Que ha pasado!?
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　それじゃあさっき学校にいた\n
+//　　のは・・・。　　　　　　　」
+\n
+//Wait, weren't you just in the school...?"
+Espera, no estaba usted en la escuela?"
+<$FA><$FF>
+<$F8><$FF>
+
+//校長\n
+//　「・・・私がもう一人？\n
+//　　そいつは仮の命を与えられた\n
+//　　泥人形だろう。
+Principal\n
+//"...I was in the school? That was probably a clay doll given life who took my place.
+"...En la escuela? Creo que hablas del muneco de arcilla vivo que ocupo mi lugar.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　ところで、どうやってここ\n
+//　　に来た？　　　　　　　　　」
+\n
+//How did you get here, anyway?"
+Como has llegado hasta aqui?"
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「この先にある神殿のような所\n
+//　　に閉じこめられ、青い石を\n
+//　　動かすように脅迫され・・・」
+Inaba\n
+//"I was trapped in a place that seemed like a shrine nearby. Then I was forced to move a blue stone--"
+"Me atraparon en un lugar que parecia un santuario. Entonces me vi forzado a mover una piedra azul--"
+<$FA><$FF>
+<$F8><$FF>
+
+//校長\n
+//　「な、なに？\n
+//　　ま、まさか・・・あの石を\n
+//　　動かしたのか！？
+Principal\n
+//"You WHAT!? N-no... You moved the stone!?
+"Tu QUE!? N-no... has movido la piedra!?
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　・・・しまった。\n
+//　　これは一刻を争うことになる！
+\n
+//...shit. Now it's a race against time!
+...mierda. Ahora no nos queda tiempo!
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　君のためでもある。\n
+//　　どうか、力を貸して欲しい！
+\n
+//Please, help me! This will benefit the both of us.
+Por favor, ayudame! Esto nos beneficiara a los dos.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　今夜は月蝕だ。\n
+//　　月の力がもっとも弱くなる。
+\n
+//There's a lunar eclipse tonight. The moon's power is its weakest.
+Hay un eclipse lunar esta noche. El poder de la luna es debil.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　誰にでもあの石が動かせる\n
+//　　ようになってしまう。
+\n
+//Because of that, you were able to move the stone.
+Por esa razon, fuiste capaz de mover la piedra.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　そして君の動かした石は、\n
+//　　邪神を封印するためにおいて\n
+//　　ある物だ。
+\n
+//Unfortunately, that stone was a seal to lock away an evil god.
+Desafortunadamente, la piedra azul encerraba un Dios malefico. 
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　しかし正位置から動いてしま\n
+//　　った今、その効力は無い。
+\n
+//Now that it's out of place, it's useless.
+Ahora que no lo encierra, es inutil.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　奴らはその封印された\n
+//　　『クトゥルフの落し子』を\n
+//　　蘇らせようとしているのだ。
+\n
+//They're planning on reviving the 'Offspring of Cthulhu' that is sealed there.
+Planean revivir al ultimo 'Vastago de Cthulhu' que estaba sellado alli.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　きっと孫の、かおりも\n
+//　　いけにえに、されていること\n
+//　　だろう。　　　　　　　　　」
+\n
+//They must be planning on sacrificing my granddaughter Kaori to awaken it."
+Quizas estan planeando sacrificar a mi nieta Kaori para despertarlo."
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「かおり？　相川ですか？\n
+//　　相川なら、きっともう殺され\n
+//　　て・・・。　　　　　　　　」
+Inaba\n
+//"Kaori? Is that Aikawa? If so, then I'm sure she's already dead..."
+"Kaori? Es esa Aikawa? Si es ella, creo que ella ya ha muerto..."
+<$FA><$FF>
+<$F8><$FF>
+
+//校長\n
+//　「！？　なんだって？
+Principal\n
+//"What did you say!?
+"Que has dicho!?
+<$FF><$FF>
+<$1E><$00>
+
+//\n
+//　　・・・そうか、きっと君が\n
+//　　言っていた泥人形に・・・。
+\n
+//...I see, it must have been that clay doll...
+...Ya veo, supongo que solo era arcilla...
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　なら、いったい誰を、\n
+//　　いけにえに・・・。　　　　」
+\n
+//Then, who do they plan on sacrificing...?"
+Entonces, a quien planean sacrificar...?"
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「由麻が、僕のクラスメイトの\n
+//　　由麻がさらわれて！　　　　」
+Inaba\n
+//"My classmate Yuma, they kidnapped her!"
+"Mi amiga Yuma, Por eso la han raptado!"
+<$FA><$FF>
+<$F8><$FF>
+
+//校長\n
+//　「なに？　まさかその娘は、\n
+//　　一ノ宮家の者か！\n
+//　　・・・そうだった。
+Principal\n
+//"Hmm, then she must be from the Ichinomiya family! That would do it...
+"Mmm, ella debe ser descendiente de la familia Ichinomiya! Seguro...
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　代々この地を護ってきた\n
+//　　血筋には、分家の一ノ宮家が\n
+//　　あった！！　　　　　　　　」
+\n
+//Our family line has protected this land for generations, and Ichinomiya is a branch of our family!!"
+Mi familia ha protegido esta tierra durante varias generaciones, y Ichinomiya son descendientes!!"
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「さっきから言っている、\n
+//　　校長先生の家の血筋とは\n
+//　　いったい何なんですか！？　」
+Inaba\n
+//"I don't get what you're talking about! Just what is your family line!?"
+"No entiendo de que estas hablando! Tu apellido? De que familia hablas!?"
+<$FA><$FF>
+<$F8><$FF>
+
+//校長\n
+//　「私の一族は、昔よりこの島に\n
+//　　眠る邪神の封印を護ってきた。
+Principal\n
+//"My family has protected the sleeping god's chamber 
+"Mi familia ha protegido la camara del dios dormido 
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　遠い祖先が、この地に旧印を\n
+//　　しるしてから、ずっとな。
+\n
+//ever since my distant ancestors placed that seal years ago.
+desde que mis ancestros antiguos lo sellaron con esa piedra.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　そして、その時代に合った\n
+//　　建造物を建てて、封印を\n
+//　　隠してきたんだ。　　　　　」
+\n
+//We built this clock tower to help hide everything from outside eyes."
+Construimos la torre del reloj para esconder esto a los ojos ajenos."
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「そして、今は学校というわけ\n
+//　　ですか。　　　　　　　　　」
+Inaba\n
+//"Then, the school was made for that reason as well?"
+"Entonces, la escuela fue contruida por todo eso?"
+<$FA><$FF>
+<$F8><$FF>
+
+//校長\n
+//　「ああ。\n
+//　　さあ、急いで最上階に行き、\n
+//　　邪神の復活を阻止してくれ！」
+Principal\n
+//"That's right. Now, hurry to the roof! Stop the ritual at all costs!"
+"Si, esa es la razon. Ahora, ve al tejado! Debes detener el ritual!"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000085C
+#WRITE(MYPTR, $00000DF0)
+<$F5><$FF>
+
+//校長\n
+//　「この塔の最上階に行き、\n
+//　　儀式を止めるんだ！！　　　」
+Principal\n
+//"Hurry to the roof and stop the ritual!!"
+"Ve rapido al tejado y deten el ritual!!"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000008A8
+#WRITE(MYPTR, $00001044)
+<$F2><$FF>
+<$F5><$FF>
+
+//\n
+//　「そこのドアのかんぬきを閉め\n
+//　　るんだ！　　　　　　　　　」
+\n
+//"Seal the door with the large bar!"
+"Cierra la puerta con esa madera!"
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000008F8
+#WRITE(MYPTR, $000010F0)
+<$F2><$FF>
+<$F5><$FF>
+
+//\n
+//　「早く！　　　　　　　　　　」
+\n
+//"Hurry!"
+"Rapido!"
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「は、はいっ！！　　　　　　」
+Inaba\n
+//"O-okay!!"
+"V-vale!!"
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000954
+#WRITE(MYPTR, $0000141C)
+<$F5><$FF>
+
+//\n
+//－　重いかんぬきが　しっかり\n
+//　　扉を　閉鎖している　　　　－
+\n
+//- The door is sealed tight by the heavy bar. -
+- La puerta se ha sellado con el cierre. -
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($0000099E, "WARNME")

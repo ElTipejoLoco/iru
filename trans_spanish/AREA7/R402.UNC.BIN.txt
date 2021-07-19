@@ -1,0 +1,589 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00001128)
+<$F2><$FF>
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//まさか・・・博志の・・・弟の\n
+//　　体に入り込むとは。\n
+//　　フッこれも運命というやつか
+//Did I really... enter Masayoshi's brother's body? Maybe it was fate
+He e-entrado... dentro de mi hermano Masayoshi? Quizas es el destino
+<$F3><$FF>
+<$04><$00>
+
+//。」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//「もう一つの・・・人格？？　　　」
+Inaba\n
+//"Another... personality!?"
+"Otra... personalidad!?"
+<$FA><$FF>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 000000A4
+#WRITE(MYPTR, $000011DC)
+<$F2><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//私は以前、この学校で教師をし\n
+//　　ていた
+//I used to teach at this school
+Yo fui profesor en esta escuela
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+...
+
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//だが、あの時・・・大いなる\n
+//　　意識により、私は時空を\n
+//　　超えた
+//But I became aware of something greater than myself and transcended space and time
+Pero me di cuenta de algo mas grande que nosotros y trascendi el espacio tiempo
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//イスの偉大なる種族の意志の\n
+//　　もとに
+//I knew the will of the Great Race of Yith
+Sabia la voluntad de la raza de los Yith
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「イスの偉大なる種族？　　　　」
+Inaba\n
+//"The Great Race of Yith?"
+"La raza de los Yith?"
+<$FA><$FF>
+<$F8><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//そうだ。\n
+//　　人類の叡智をはるかに超え、\n
+//　　あらゆる知識を備えている
+//That's right. A race of beings with far greater knowledge than all of mankind
+Eso es. Una raza de seres con un conocimiento mucho mayor al de la humanidad
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//そして、時空さえも超えて\n
+//　　自由にその精神を\n
+//　　行き来させる存在
+//With their knowledge, I could send my consciousness anywhere regardless of when or where
+Con su conocimiento, yo he logrado enviar mi conciencia dando igual el lugar o el cuando
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//私は彼らと・・・精神を入れ替\n
+//　　え、彼らの世界へと跳んだ！！\n
+//　　私は歓喜に打ち震えた
+//I changed places with one of them and jumped to their world! I tremebled in absolute awe of it all
+Cambie mi lugar con uno de ellos y entre en su mundo! Me estremeci de asombro por aquella vivencia
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//彼らの貯えた未だ人類の触れた\n
+//　　ことのない偉大な知識の数々が\n
+//　　私の前に披露されたからだ
+//All of their collective knowledge sat before me, wisdom I could never obtain as a human
+Todo su conocimiento colectivo se me presento, sabiduria que ningun humano puede obtener
+<$F3><$FF>
+<$04><$00>
+
+//。
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//私は感動したよ・・・真の喜び\n
+//　　を味わった
+//I felt true happiness... I felt complete and at peace
+Senti felicidad... Me senti completo y en paz
+<$F3><$FF>
+<$04><$00>
+
+//。
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//私は・・・人類という種を超越\n
+//　　したんだよ
+//I.. had transcended mankind
+He trascendido la humanidad
+<$F3><$FF>
+<$04><$00>
+
+//！
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　・・・
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//Hahaha! It seems the mastermind behind this plot also wants to see into the other world
+Jajaja! Parece que el cerebro detras de esta trama tambien quiere visualizar otro mundo
+//ふ、ふぁはは。\n
+//　　この事件の首謀者も、あちら\n
+//　　の世界を覗きたいらしい
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 0000043C
+#WRITE(MYPTR, $00001290)
+<$F2><$FF>
+
+//稲葉\n
+//　「今起こっていることについて、\n
+//　　何か知っているんですか！！」
+Inaba\n
+//"What do you know about what's going on!?"
+"Que sabes acerca de lo que ocurre!?"
+<$FA><$FF>
+<$F8><$FF>
+
+//望月\n
+//　「言ったろう。\n
+//　　私はすべてを見てきたと。
+Mochizuki\n
+//"I told you, didn't I? I've seen everything.
+"Te lo dije, verdad? Ya lo he visto todo.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　彼らは、この地に眠る小神を\n
+//　　復活させようとしている。
+\n
+//They're trying to resurrect a god that sleeps in this land.
+Van a intentar resucitar un Dios que duerme en este lugar.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　自分たちの“対抗者”の血筋\n
+//　　を引く娘をいけにえに。　　」
+\n
+//To do that, they must sacrifice the girl whose bloodline seals it."
+Para eso, van a sacrificar la chija cuyo linaje de sangre lo sella." 
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「対抗者の血筋？？　　　　　」
+Inaba\n
+//"The bloodline that seals it!?"
+"Linaje de sangre lo sella!?"
+<$FA><$FF>
+<$F8><$FF>
+
+//望月\n
+//　「この学校の下にある、封印を\n
+//　　代々、護ってきた一族さ。
+Mochizuki\n
+//"The bloodline that has protected the seal that rests below the school.
+"El linaje que protegen para sellar lo que duerme debajo de la escuela.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　君は、なんでこんな孤島に\n
+//　　こんな立派な学校が建って\n
+//　　いると思う？
+\n
+//Why did you think they built such an elaborate school on this lonely island?
+Porque piensas que construyeron una escuela en esta isla alejada de todo?
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　この学校は、この島の地下に\n
+//　　眠る小神を封じている“旧印”\n
+//　　を隠すために建てられた。
+\n
+//It was to hide the elder sign that sealed the god down below.
+Para ocultar una marca antigua que sella el Dios subterraneo.
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　つまり、この学校の校長が、\n
+//　　彼らの対抗者ということさ。」
+\n
+//So in other words, the principal is one of those in the bloodline."
+En otras palabras, el director tiene ese linaje en su sangre."
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「たしかさっき、\n
+//　　対抗者の血を引く娘が\n
+//　　いけにえになるって？　　　」
+Inaba\n
+//"You said something about 'the girl whose bloodline seals it' right?
+"Dijiste algo sobre 'el linaje de su sangre lo sella', verdad?
+<$FA><$FF>
+<$F8><$FF>
+
+//望月\n
+//　「ああ、さっき会ったよ。\n
+//　　自分の運命も知らず、怯え\n
+//　　ながら逃げ回っていたがね。」
+Mochizuki\n
+//"Yeah, I met them a while ago. She was running away in terror, unaware of her own fate."
+"Si, la conoci hace tiempo. Ella huia aterrorizada, inconsciente de su propio destino."
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000778
+#WRITE(MYPTR, $00001594)
+<$F2><$FF>
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//少し喋りすぎてしまったな。\n
+//　　私は先を急ぐとしよう
+//I fear I've talked too much. I must hurry on ahead
+Temo haber hablado demasiado. Debo seguir adelante
+<$F3><$FF>
+<$04><$00>
+
+//・・・。」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000007D4
+#WRITE(MYPTR, $000018B4)
+<$F2><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「由麻ぁー！！\n
+//　　大丈夫かぁーっ！！　　　　」
+Inaba\n
+//"Yumaaa!! Are you okay!?"
+"Yumaaa!! Estas bien!?"
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//由麻\n
+//　「
+Yuma\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//いっ稲葉くん！
+I-Inaba!
+
+<$F3><$FF>
+<$04><$00>
+
+//　　　　　　」
+"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//由麻\n
+//　「
+Yuma\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//きゃっ！
+Kyaaa!!
+
+<$F3><$FF>
+<$04><$00>
+
+//　　　　　　　　　」
+"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//由麻\n
+//　「
+Yuma\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//いやあぁぁーっ！\n
+//　　稲葉くーん！！
+AGHHH!! INABA!!
+
+<$F3><$FF>
+<$04><$00>
+
+//　　　　　　」
+"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「ゆっ由麻ぁー！！　　　　　」
+Inaba\n
+"YUUUUMAAAA!!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「うっ！
+Inaba\n
+"
+ARGH!<$20>
+
+<$F1><$FF>
+
+//　
+
+<$FF><$FF>
+<$28><$00>
+
+//だっ
+W-
+
+<$FF><$FF>
+<$14><$00>
+
+//誰だ
+who
+
+<$FF><$FF>
+<$28><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$28><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$28><$00>
+
+//・　　」
+.?"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000964
+#WRITE(MYPTR, $00001A98)
+<$F5><$FF>
+
+//\n
+//－　　観葉植物が置いてある　　－
+\n
+//- There's a decorative plant here. -
+- Hay una planta decorativa aqui. -
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000990
+#WRITE(MYPTR, $00001C3C)
+<$EF><$FF>
+
+//　　　　　　　天文室
+//Observatory
+Observatorio
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($000009B0, "WARNME")

@@ -1,0 +1,41 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $000005D0)
+<$F5><$FF>
+
+//\n
+//－　防火シャッターが降りている　－
+\n
+//- The fire shutter is closed. -
+- La salida esta cerrada. -
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「やっぱり、これは変だ！\n
+//　　誰かが意図的に僕たちを閉じ\n
+//　　込めているとしか思えない！
+Inaba\n
+//"This is not normal! Someone's trying to keep us trapped here!
+"Esto no es normal! Alguien esta intentando encerrarnos aqui!
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　誰かが・・・・・・。　　　」
+\n
+//But who...?"
+Pero quien...?"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($000000BC, "WARNME")

@@ -1,0 +1,74 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000374)
+<$F5><$FF>
+
+//\n
+//－　扉を開けようとしても　ビク\n
+//　　ともしない　　　　　　　　　－
+\n
+//- You try and open the door, but it doesn't budge. -
+- Intentas abrir el cierre, pero no parece abrirse. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「開かないのは、カギが掛かっ\n
+//　　ているからってだけじゃなさ\n
+//　　そうだな。
+Inaba\n
+//"It doesn't seem like it's locked with just a key.
+"Parece que no esta solo cerrada con una llave.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　なにか不思議な力が、はたら\n
+//　　いているみたいだ。
+\n
+//It's almost like a strange force is keeping it sealed.
+Es como si hubiese una fuerza manteniendola cerrada.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　クソッ！　僕たちは、この\n
+//　　学校の中で、死を待つしか\n
+//　　ないっていうのか！　　　　」
+\n
+//Damnit! Are we just trapped here waiting to die!?"
+Mierda! Vamos a morir atrapados en esta escuela!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000148
+#WRITE(MYPTR, $000004A4)
+<$F5><$FF>
+
+//\n
+//－　学生用の下駄箱だ　もう殆ど\n
+//　　の生徒は下校しているだろう　－
+\n
+//- It's a shoerack for student use. Seems most of the students have already left. -
+- Es un zapatero para los estudiantes. Parece que la mayoria ya se han ido. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000196, "WARNME")

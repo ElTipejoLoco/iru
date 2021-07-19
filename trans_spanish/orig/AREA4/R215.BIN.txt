@@ -1,0 +1,51 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP(-1)
+
+//Pos : 000003E4
+#WRITE(MYPTR, $0000016C)
+
+//E€
+<$0B><$00>
+
+//€×
+<$1E><$00>
+<$00><$00>
+
+
+//Pos : 000003F8
+#WRITE(MYPTR, $00000194)
+<$01><$00>
+<$00><$00>
+
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000280)
+<$F5><$FF>
+
+//\n
+//@@|@@¶“k‚ÌŽ€‘Ì‚ª‚ ‚é@@|
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000030
+#WRITE(MYPTR, $00000298)
+<$F5><$FF>
+
+//\n
+//@|@¶“k‚ÌŽ€‘Ì‚ª‚ ‚é@Ž€‘Ì‚Ì\n
+//@@@–T‚ç‚ÉÔ‚­‹P‚­•¨‚ª‚ ‚é@@|
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+

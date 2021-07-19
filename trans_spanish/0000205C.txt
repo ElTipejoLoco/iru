@@ -1,0 +1,763 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147547136, 32)
+#JMP($0000205C)
+
+// Pos: 0000205C
+#WBB(PTR, $00024E1C)
+#WUB(PTR, $00024E1D)
+#WLB(PTR, $00024E20)
+#WHB(PTR, $00024E21)
+<$F5><$FF>
+//稲葉\n 「この青い小玉が、紙片に書か\n  れてたルルイエの子珠みたい\n  だな。          」
+Inaba\n
+//"This blue marble looks like the R'lyeh\n
+//Gem from that note earlier."
+"Esta canica azul parece la gema R'lyeh\n
+que decribia la nota anterior."
+
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000020F8
+#WBB(PTR, $00024E4C)
+#WUB(PTR, $00024E4D)
+#WLB(PTR, $00024E50)
+#WHB(PTR, $00024E51)
+<$F5><$FF>
+//\n     ルルイエの子珠だ
+\n
+//It's the R'lyeh Gem.
+Es la gema R'lyeh.
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 0000216C
+#WBB(PTR, $00024E64)
+#WUB(PTR, $00024E65)
+#WLB(PTR, $00024E68)
+#WHB(PTR, $00024E69)
+<$F5><$FF>
+//\n 恐る恐る 青い小玉を口に\n 含んでみた
+\n
+//- You timidly place the blue jewel in your\n
+//mouth,
+- Timidamente colocas la gema azul en tu\n
+boca,
+<$FA><$FF><$F8><$FF>
+//\n 書物に書かれている 不思議な\n 文字を 読むことが出来た!
+\n
+//and the mysterious text becomes\n
+//readable!
+y el texto misterioso se vuelve\n
+legible!
+<$FA><$FF><$F8><$FF>
+//\n 『妖虫の秘密』を読むと気になる\n くだりがあった
+\n
+//Something catches your eye in the\n
+Algo capta tu atencion en el\n
+"De Vermis Mysteriis." -
+<$FA><$FF><$F8><$FF>
+// 姿の見えなき怪物。\n カダスの地より来たに違いない\n 名もなき怪物、人はそれを\n “星の精”と呼ぶ。
+\n
+//"Things that cannot be seen from the\n
+//land of Kadath. We call them 'Star\n
+//Vampires.'
+"Hay cosas que no pueden ser vistas en\n
+la tierra de Kadath. Los llamamos\n
+'vampiros estrella.'
+<$FA><$FF><$F8><$FF>
+//\n 姿見えなき笑い声 姿を現すとき\n 自分のいるべき世界へ帰る。
+\n
+//A laugh from an unseen source.\n
+//Revealing them will send them back to\n
+//where they came."
+Una risa de una fuente invisible.\n
+Revelar su forma los enviara de vuelta\n
+a su origen."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002120
+#WBB(PTR, $00024E74)
+#WUB(PTR, $00024E75)
+#WLB(PTR, $00024E78)
+#WHB(PTR, $00024E79)
+#WBB(PTR, $00024E98)
+#WUB(PTR, $00024E99)
+#WLB(PTR, $00024E9C)
+#WHB(PTR, $00024E9D)
+#WBB(PTR, $00024EE0)
+#WUB(PTR, $00024EE1)
+#WLB(PTR, $00024EE4)
+#WHB(PTR, $00024EE5)
+#WBB(PTR, $00024FF8)
+#WUB(PTR, $00024FF9)
+#WLB(PTR, $00024FFC)
+#WHB(PTR, $00024FFD)
+#WBB(PTR, $00025020)
+#WUB(PTR, $00025021)
+#WLB(PTR, $00025024)
+#WHB(PTR, $00025025)
+<$F5><$FF>
+//\n  見たこともない文字で書かれて\n  いて読むことが出来ない!
+\n
+//It's full of strange characters that you\n
+//can't read.
+Esta lleno de letras que no pueden ser\n
+leidas.
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000022C8
+#WBB(PTR, $00024EA8)
+#WUB(PTR, $00024EA9)
+#WLB(PTR, $00024EAC)
+#WHB(PTR, $00024EAD)
+<$F5><$FF>
+//\n 恐る恐る 青い小玉を口に\n 含んでみた
+\n
+//- You timidly place the blue jewel in your\n
+//mouth,
+- Timidamente colocas la gema azul en tu\n
+boca,
+<$FA><$FF><$F8><$FF>
+//\n 書物に書かれている 不思議な\n 文字を 読むことが出来た!
+\n
+//and the mysterious text becomes\n
+//readable!
+y el texto misterioso se vuelve\n
+legible!
+<$FA><$FF><$F8><$FF>
+//\n 『悪魔崇拝』を読むと気になる\n くだりがあった
+\n
+//Something catches your eye in\n
+Algo capta tu atencion en el\n
+"Daemonolatreiae libri tres." -
+<$FA><$FF><$F8><$FF>
+//\n 姿なきもの、かのイブン＝グハジ\n の秘薬にて姿を現す。
+\n
+//"Invisible creatures shall be given form\n
+//with the Powder of Ibn-Ghazi.
+"Se dara forma a criaturas invisibles\n
+con el polvo de Ibn.Ghazi.
+<$FA><$FF><$F8><$FF>
+//\n 三つの材料、均等な分量で混ざり\n 合わさねば、秘薬も力を表さず。
+\n
+//Three ingredients in equal parts will\n
+//make this secret powder."
+Tres ingredientes en partes iguales\n
+crearan este polvo secreto."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000023FC
+#WBB(PTR, $00024EF8)
+#WUB(PTR, $00024EF9)
+#WLB(PTR, $00024EFC)
+#WHB(PTR, $00024EFD)
+<$F5><$FF>
+//\n 恐る恐る 青い小玉を口に\n 含んでみた
+\n
+//- You timidly place the blue jewel in your\n
+//mouth,
+- Timidamente colocas la gema azul en tu\n
+boca,
+<$FA><$FF><$F8><$FF>
+//\n 書物に書かれている 不思議な\n 文字を 読むことが出来た!
+\n
+//and the mysterious text becomes\n
+//readable!
+y el texto misterioso se vuelve\n
+legible!
+<$FA><$FF><$F8><$FF>
+//\n 『エイボンの書』を読むと気にな\n るくだりがあった
+\n
+//Something catches your eye in the\n
+Algo capta tu atencion en el\n
+//"Book of Eibon." -
+"Libro de Eibon." -
+<$FA><$FF><$F8><$FF>
+// 地の底、真の闇に住まう\n ツァトゥグアの落し子。\n その忌まわしき者の力欲するなら\n ば・・・
+\n
+//"From the dark depths of the Earth\n
+//come the Formless Spawn. If you\n
+//desire its abominable powers...
+"De lo mas profundo de la tierra\n
+vienen engendros sin forma. Si\n
+deseas su abominables poderes...
+<$FA><$FF><$F8><$FF>
+// ・・・と唱えよ。さすれば落し子\n 汝に従うであろう。\n 帰すことを欲するならば、唱える\n べき言葉の始を終に、終を始に。
+\n
+//--by chanting that, the spawn will\n
+//follow your commands. If you wish it\n
+//gone, chant the spell in reverse."
+--recitando esto, el engendro seguira\n
+tus ordenes. Si deseas que se vaya,\n
+debes recitar el hechizo al reves."
+<$FA><$FF><$F8><$FF>
+//\n 肝心の呪文のページが破られてい\n る・・・。
+\n
+//The spell itself appears to be missing...
+El hechizo en si parece que no esta...
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000025C4
+#WBB(PTR, $00024F08)
+#WUB(PTR, $00024F09)
+#WLB(PTR, $00024F0C)
+#WHB(PTR, $00024F0D)
+<$F5><$FF>
+//稲葉\n 「写真に写っている内の一人は\n  望月だ。
+Inaba\n
+//"One of the guys in the photo is\n
+"Uno de los chicos de la foto es\n
+Mochizuki.
+<$FA><$FF><$F8><$FF>
+//\n  もう一人の男性は望月の\n  お兄さんだろう。     」
+\n
+//The other one might\nbe his brother then."
+Entonces el otro debe\nde ser su hermano." 
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002644
+#WBB(PTR, $00024F18)
+#WUB(PTR, $00024F19)
+#WLB(PTR, $00024F1C)
+#WHB(PTR, $00024F1D)
+<$F5><$FF>
+//稲葉\n 「・・・やっぱり、人の手紙を\n  勝手に読むのは良くないな。」
+Inaba\n
+//"...I really shouldn't read other people's\n
+//letters."
+"...No es de buena educacion leer cartas\n
+ajenas."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002694
+#WBB(PTR, $00024F44)
+#WUB(PTR, $00024F45)
+#WLB(PTR, $00024F48)
+#WHB(PTR, $00024F49)
+<$F5><$FF>
+//\n  神聖文字で 書かれた呪文を\n  唱えると ノートランの鏡が\n  光り輝きだした!
+\n
+//When you chanted the cryptic letters,\n
+//Notran's Mirror started to glow!
+Cuando recitas las letras cripticas, el\n
+espejo de Notran comenzo a brillar!
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000026F4
+#WBB(PTR, $00024F54)
+#WUB(PTR, $00024F55)
+#WLB(PTR, $00024F58)
+#WHB(PTR, $00024F59)
+<$F5><$FF>
+//稲葉\n 「これが、望月が言っていた\n  鏡の呪文が、書いてある\n  メモか!         」
+Inaba\n
+//"This is the mirror's incantation that\n
+//Mochizuki was talking about!"
+"Este es el hechizo del espejo del\n
+que estaba hablando Mochizuki!"
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002760
+#WBB(PTR, $00024F64)
+#WUB(PTR, $00024F65)
+#WLB(PTR, $00024F68)
+#WHB(PTR, $00024F69)
+<$F5><$FF>
+//\n   ＊ ネクロノミコン ＊
+\n
+//The Necronomicon
+El Nectronomicon
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002788
+#WBB(PTR, $00024F74)
+#WUB(PTR, $00024F75)
+#WLB(PTR, $00024F78)
+#WHB(PTR, $00024F79)
+<$F5><$FF>
+// お香
+\n
+Perfume
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002798
+#WBB(PTR, $00024F84)
+#WUB(PTR, $00024F85)
+#WLB(PTR, $00024F88)
+#WHB(PTR, $00024F89)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the paper:
+Lo siguiente esta escrito en el papel:
+<$FA><$FF><$F8><$FF>
+//\n ルルイエ神聖文字 青白き光を\n 放つ伝説の子珠が必要
+\n
+//"When the legendary gem of R'lyeh is\n
+//placed in one's mouth,
+"Cuando la legendaria gema de R'lyeh es\n
+colocada en la boca,
+co
+<$FA><$FF><$F8><$FF>
+//\n 子珠に刻まれた文字の力\n なめることによって 神聖\n 文字が読める
+\n
+//the power of the engraved spell will\n
+//let them read the sacred texts."
+el poder de los hechizos grabados le\n
+permitira leer el texto sagrado."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002854
+#WBB(PTR, $00024FBC)
+#WUB(PTR, $00024FBD)
+#WLB(PTR, $00024FC0)
+#WHB(PTR, $00024FC1)
+<$F5><$FF>
+//稲葉\n 「このページの切れ端が、\n  『エイボンの書』のちぎれて\n  いるページか!      」
+Inaba\n
+//"This page was torn from the 'Book of\n
+//Eibon'!"
+"Esta pagina fue arrancada del 'Libro\n
+de Eibon'!"
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000028C0
+#WBB(PTR, $00024FE8)
+#WUB(PTR, $00024FE9)
+#WLB(PTR, $00024FEC)
+#WHB(PTR, $00024FED)
+#WBB(PTR, $00025010)
+#WUB(PTR, $00025011)
+#WLB(PTR, $00025014)
+#WHB(PTR, $00025015)
+<$F5><$FF>
+//\n 恐る恐る 青い小玉を口に\n 含んでみた
+\n
+//- You timidly place the blue jewel in your\n
+//mouth,
+- Timidamente colocas la gema azul en tu\n
+boca,
+<$FA><$FF><$F8><$FF>
+//\n 断片に書かれている 不思議な\n 文字を 読むことが出来た!
+\n
+//and the mysterious text becomes\n
+//readable!
+y el texto misterioso se vuelve\n
+legible!
+<$FA><$FF><$F8><$FF>
+//\n 何か呪文のような言葉が ページ\n いっぱいに 書かれている
+\n
+//The page is full of what appears to be\n
+//spell incantations with no context. -
+La pagina esta llena de lo que parecen\n
+hechizos encantados sin contexto. -
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002978
+#WBB(PTR, $00025030)
+#WUB(PTR, $00025031)
+#WLB(PTR, $00025034)
+#WHB(PTR, $00025035)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+La siguiente esta escrito en el trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+// お前は誰だ!! 僕の頭を\n 使うな!\n 僕の、僕の精神を乗っ取るつもり\n なのか?
+\n
+//"Who are you!? Get out of my head!\n
+//A-are you trying to take over my\n
+//body!?
+"Quien eres!? Sal de mi cabeza!\n
+E-estas intentando apropiarte de\n
+mi cuerpo!?
+<$FA><$FF><$F8><$FF>
+//\n それとも何か別の企みがあるって\n いうのか?\n 誰に命じられたんだ!?
+\n
+//Or do you have something different in\n
+//mind!? Who are you working with!?
+O estas intentando algo diferente con\n
+mi cuerpo!? Para quien trabajas!?
+<$FA><$FF><$F8><$FF>
+//\n これは僕、望月哲雄の体なんだ!
+\n
+//This is my body, Mochizuki Tetsuo's!!"
+Es mi cuerpo, el de Mochizuki Tetsuo!"
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002A7C
+#WBB(PTR, $00025040)
+#WUB(PTR, $00025041)
+#WLB(PTR, $00025044)
+#WHB(PTR, $00025045)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+//\n 他意はない。\n イスの偉大なる種族の思し召しな\n んだ。
+\n
+//"I bear you no ill will. I am observing for\n
+//the Great Race of Yith.
+"No le guardo rencor. Estoy observando a la\n
+la Gran Raza de Yith.
+<$FA><$FF><$F8><$FF>
+//\n 私は神山貴彦。遠い過去、人類に\n は遠く及ばない英知を垣間見た男\n だ。
+\n
+//I am Kamiyama Takayoshi, a man who\n
+//caught a glimpse of vast wisdom far\n
+//beyond the reaches of mankind."
+Soy Kamiyama Takayoshi, un hombre\n
+que vislumbro una vasta sabiduria\n
+mas alla de la humanidad."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002B44
+#WBB(PTR, $00025050)
+#WUB(PTR, $00025051)
+#WLB(PTR, $00025054)
+#WHB(PTR, $00025055)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+// 何が目的なんだ。\n これも、今起きている事と関係が\n あるのか!?\n 俺をどうする気だ!
+\n
+//"What are you planning!? Are you\n
+//behind what's going on right now!?\n
+//What do you want with me!?"
+"Que estas planeando? Estas detras\n
+de lo que esta ocurriendo aqui!?\n
+Que es lo que quieres!?"
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002BD8
+#WBB(PTR, $00025060)
+#WUB(PTR, $00025061)
+#WLB(PTR, $00025064)
+#WHB(PTR, $00025065)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+//\n 危害を与えるつもりはない。\n ただ、このままでは、お互いに\n 内も外も危険な状態だろう。
+\n
+//"I do not wish you harm. But, we have\n
+//to do something to survive, right?
+"No te deseo ningun mal. Pero, tenemos\n
+hacer algo para sobrevivir, verdad?
+<$FA><$FF><$F8><$FF>
+//\n ここは私を信じて手を貸せ。
+\n
+//Trust me, and let me help you."
+Confia en mi, y dejame ayudarte."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002C90
+#WBB(PTR, $00025070)
+#WUB(PTR, $00025071)
+#WLB(PTR, $00025074)
+#WHB(PTR, $00025075)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+//\n あんたには今、何が起きてるのか\n 分かるか?
+\n
+//"Do you know something about what's\n
+//going on?
+"Sabes algo de lo que esta pasando\n
+en este lugar?
+<$FA><$FF><$F8><$FF>
+//\n 兄の行方不明も、何か関係がある\n のだろうか。
+\n
+//That, and do you know anything about\n
+//my brother's disappearance?"
+Eso y... sabes algo de mi hermano\n
+y su repentina desaparicion?"
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002D30
+#WBB(PTR, $00025080)
+#WUB(PTR, $00025081)
+#WLB(PTR, $00025084)
+#WHB(PTR, $00025085)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+//\n 心臓を集めているな。\n 実に大掛かりだ。\n いたるところに奴らがいる。
+\n
+//"Those monsters are everywhere,\n
+//gathering human flesh from all around.
+"Hay monstruos por todas partes\n
+buscando carne humana por las esquinas.
+<$FA><$FF><$F8><$FF>
+//\n これだけ大胆に事を起こすことは\n よほど大きな儀式に違いない。\n 興味深いことだ。
+\n
+//Something on this scale can only mean\n
+//an intense ritual. I'm very curious about\n
+//it.
+Algo de esta envergadura solo significa\n
+un ritual intenso. Tengo curiosidad sobre\n
+ello.
+
+<$FA><$FF><$F8><$FF>
+//\n この島には神の一族でも\n いるのかもしれない。
+\n
+//There might a descendent of a god\n
+//on this island.
+Quizas hay un descendiente de un Dios\n
+en esta isla.
+<$FA><$FF><$F8><$FF>
+//\n 君の兄さんの行方不明も\n 関係があると見た方が\n 自然だろう。
+\n
+//I can't say, but your brother's\n
+//disappearence could very well be\n
+//related."
+Y quizas la desaparicion de tu\n
+hermano tambien este relacionada\n
+con esto."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002E8C
+#WBB(PTR, $00025090)
+#WUB(PTR, $00025091)
+#WLB(PTR, $00025094)
+#WHB(PTR, $00025095)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+//\n 悪臭をまく人影には近寄るな。\n 奴らは目的もなしに、うろついて\n いるわけではない。
+\n
+//"Do not approach anyone who reeks\n
+//of blood. They're not just wandering\n
+//around without a goal, you know."
+"No te acerques a nadie que apeste\n
+a sangre. No esta vagando por ahi\n
+sin un objetivo. Me entiendes?"
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00002F20
+#WBB(PTR, $000250A0)
+#WUB(PTR, $000250A1)
+#WLB(PTR, $000250A4)
+#WHB(PTR, $000250A5)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+//\n もし神の一族が目覚めようものな\n ら、世界は深刻な恐怖と危機に見\n 舞われる。
+\n
+//"The world will plunge into terror and\n
+//darkness if that descendant of a god\n
+//awakens.
+"El mundo se sumira en el terror y la\n
+oscuridad si el descendiente de Dios\n
+despierta.
+<$FA><$FF><$F8><$FF>
+//\n 奴のタコ頭の巨体を見ただけで、\n 数万人が発狂し、全世界に奴を崇\n 拝する者が大挙するのだ。
+//Just seeing that huge monster's\n
+//octopus-like head would drive\n
+//thousands insane and more to\n
+//worship it.
+Solo viendo la cabeza de pulpo\n
+de ese monstruo haria enloquecer\n
+a miles de personas y a otras\n
+a adorarlo.
+<$FA><$FF><$F8><$FF>
+// 奴が狂人たちに思念を送りつけ、\n 海に沈んだ大陸に眠る本来の地球\n の支配者を地上に迎えようと、\n 狂喜乱舞するのだ。
+\n
+//It'll send thoughts to the lunatics as\n
+//they wildly celebrate its rise from\n
+//under the oceans to rule the world.
+Enviara pensamientos a los lunaticos\n
+del mundo para que celebren su llegada\n
+desde el oceano para condenar al mundo.
+<$FA><$FF><$F8><$FF>
+//\n 狂信者たちは荒廃した秩序と汚れ\n た道徳で、この地球を支配する喜\n びに浸るわけだ。
+\n
+//Mass chaos will ensue, morals will\n
+//crumble, and they will embrace their new\n
+//ruler."
+Sera un caos total, la moral se\n
+desmoronara y abrazaran a su nuevo\n
+gobernante."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000030E8
+#WBB(PTR, $000250B0)
+#WUB(PTR, $000250B1)
+#WLB(PTR, $000250B4)
+#WHB(PTR, $000250B5)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+// 透明な魔物は多くない。あれが\n いるのだろう。名はない。\n ただ、星の精とだけ呼ばれている\n 生物だ。
+\n
+"Those invisible monsters aren't\n
+common. They don't have names, but\n
+are called 'Star Vampires.'
+<$FA><$FF><$F8><$FF>
+// 動物の血を好む宇宙を漂う吸血\n 生物なのだ。\n ルドウィク＝プリンの手による\n『デ・ウェルミス・ミステリイス』
+//They float about the universe,\n
+//searching for animals to drain for\n
+//blood. Robert Bloch's 'De Vermis\n
+//Mysteriis'
+Flotan en el espacio, buscando\n
+animales a los que drenar la\n
+sangre. 'De Vermis Mysteriis' de\n
+Robert Bloch
+
+<$FA><$FF><$F8><$FF>
+//\n すなわち『妖虫の秘密』に記され\n た呪文は彼自身が体得した太古\n から伝えられる秘儀の一つだ。
+\n
+//describes the ancient ritual that must\n
+//be used to control them.
+describe el ritual ancestral que debe\n
+utilizarse para controlarlos.
+<$FA><$FF><$F8><$FF>
+//\n 彼はそれを使って星の精を宇宙の\n 直中から呼び寄せ、見えざる下僕\n として使役していたのだ。
+\n
+//Using that ritual, he called that\n
+//creature from space and is using it as\n
+//his invisible servant.
+Usando el ritual, llamo a esa\n
+criatura del espacio y la utiliza como\n
+sirviente invisible. 
+<$FA><$FF><$F8><$FF>
+//\n つまりここにも、その業を修めた\n 者がいるわけだ。
+\n
+//It seems there's students of the\n
+//occult here as well..."
+Parece que tenemos estudiantes\n
+de ocultismo aqui..."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00003304
+#WBB(PTR, $000250C0)
+#WUB(PTR, $000250C1)
+#WLB(PTR, $000250C4)
+#WHB(PTR, $000250C5)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+//The following is written on the scrap\n
+//of paper:
+Lo siguiente esta escrito en un trozo\n
+de papel:
+<$FA><$FF><$F8><$FF>
+// 透明なものを見つけるには、\n イブン＝グハジの粉が必要だ。\n あれは現世の物質でないものを\n 目に見えるようにするものだ。
+//"To deal with hidden monsters, you'll\n
+//need the Powder of Ibn-Ghazi. It will\n
+//allow you to see things not of this\n
+//world.
+"Para acabar con monstruos ocultos,\n
+necesitas el polvo de Ibn-Ghazi.\n
+Te permitira ver cosas que no son\n
+de este mundo.
+<$FA><$FF><$F8><$FF>
+//\n 調合法は・・・たしか、\n 『悪魔崇拝』に載っていたと思う\n が・・・。
+\n
+//As for how to make it... If I remember\n
+//right, 'Daemonolatreiae libri tres'\n
+//might have it written down..."
+En cuanto a como hacerlo, creo que en\n
+el 'Daemonolatreiae libri tres' se\n
+decribe el proceso..."
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 00003408
+#WBB(PTR, $000250D0)
+#WUB(PTR, $000250D1)
+#WLB(PTR, $000250D4)
+#WHB(PTR, $000250D5)
+<$F5><$FF>
+//\n 紙片には次のようなことが書かれ\n ている
+\n
+The following is written on the paper:
+<$FA><$FF><$F8><$FF>
+//\n  博志にすべてを打ち明けた。\n  彼なら、大丈夫だと・・・
+\n
+//"I told Masayoshi everything. I thought\n
+//maybe it'd be okay.
+Le dije todo a Masayoshi. Crei que quizas\n
+todo iria bien.
+<$FA><$FF><$F8><$FF>
+//\n  地下の暗闇の中で腐肉を食ら\n  うやつらと暮らし・・・
+\n
+//...now he's stuck with those monsters\n
+//in the caves.
+...ahora esta encerrado con monstruos\n
+en la cueva.
+<$FA><$FF><$F8><$FF>
+//\n  私への裏切りに対して当然の\n  報い、あいつが・・・
+\n
+//It was fitting payback for his betrayal\n
+//after he--"
+Era la venganza adecuada por su traicion\n
+antes de... -
+<$FA><$FF><$F8><$FF>
+//\n 破れていて 所々途切れている
+\n
+//The rest of the note was ripped\n
+//apart.
+El resto de la nota esta rota en\n
+pedazos.
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+// Pos: 000020CC
+#WBB(PTR, $000250E0)
+#WUB(PTR, $000250E1)
+#WLB(PTR, $000250E4)
+#WHB(PTR, $000250E5)
+<$F5><$FF>
+//\n  －  ここでは使えない  －
+\n
+//- You can't use that here. -
+- No puedes usar eso aqui. -
+<$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
+
+//#JMP($00003524)
+//　　　　　　を手に入れた！
+//added to your inventory!
+guardado en tu inventario!
+//<$00>

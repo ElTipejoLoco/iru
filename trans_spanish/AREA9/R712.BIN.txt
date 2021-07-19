@@ -1,0 +1,323 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000079C)
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//へへへ・・・あ、暗黒の魔法が\n
+//　　・・・人知れぬ四次元の闇
+//Hehehe... Ah, black magic... the darkness of the unknown fourth dimension
+Jejeje... Ah, magia negra... la oscuridad de la oscura cuarta dimension
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//氷川、お、おまえ・・・アザ＝\n
+//　　トース・・・だ、誰か止め、て\n
+//　　く
+//Hikawa... y-you... Azathoth... someone stop
+Hikawa... t-tu... Azathoth... ayuda alguien
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　　　　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「望月！！　　　　　　　　　　」
+Inaba\n
+"Mochizuki!!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000000FC
+#WRITE(MYPTR, $00000868)
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//い、稲葉・・・ひ、氷川に、\n
+//　　やられた・・・あがあ、くっ
+//I-Inaba... H-Hikawa... did this... to me
+I-Inaba... H-Hikawa... me hizo... esto
+<$F3><$FF>
+<$04><$00>
+
+//！
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//全人類を覆う黒い・・・稲葉！\n
+//　　あのメモとノートラ・・・ン
+//All of mankind... will be covered in darkness... Inaba! Take that memo and Notran's... Mirror
+La humanidad... se cubrira de oscuridad... Inaba! Llevate la nota y el espejo de... Notran
+<$F3><$FF>
+<$04><$00>
+
+//\n
+//　　・・・。　　　　　　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「望月！\n
+//　　おまえの兄キに会ったんだ！」
+Inaba\n
+//"Mochizuki! I met your brother!"
+"Mochizuki! Conoci a tu hermano!"
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　－　『手紙』を手渡した　－
+\n
+//- You handed over the letter. -
+- Le entregas la carta. -
+<$FA><$FF>
+<$F8><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//こ、これは・・・博志兄さん、\n
+//　　もう・・・一度・・・会・・・\n
+//　　いたかっ・・・クッ
+//T-this is... Masayoshi's... I wish... I could have... seen you again... urgh
+E-esto es... Masayoshi... Desea-seria... haber podido... verte otra... urgh
+<$F3><$FF>
+<$04><$00>
+
+//！　　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000298
+#WRITE(MYPTR, $0000092C)
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//こ、これで・・・一人でも\n
+//　　多くの人を・・・外傷が・・・\n
+//　　なければ
+//T-take this... If someone's hurt... but shows no wounds...
+T-toma esto... Si estan heridos... pero no ves heridas...
+<$F3><$FF>
+<$04><$00>
+
+//・・・、
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　・・・
+\n
+...
+
+<$F3><$FF>
+<$04><$00>
+
+//魂を・・・グハッ
+//this can cure... the soul-- ARGH
+esto les cura... el alma-- ARGH
+<$F3><$FF>
+<$04><$00>
+
+//！」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　『喚魂の秘薬』を受け取った　－
+\n
+//- You received the Spirit Elixir -
+- Recibiste el Espiritu Elixir -
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「望月・・・！？
+Inaba\n
+"Mochizuki...!?
+
+<$FF><$FF>
+<$28><$00>
+
+//・・・くっ！」
+\n
+//...damnit!"
+...maldicion!"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000388
+#WRITE(MYPTR, $000009F0)
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//い、稲葉か・・・ひ、氷川に、\n
+//　　やられた・・・あがぁ、くっ
+//I-Inaba... H-Hikawa... did this... to me
+I-Inaba... H-Hikawa... me hizo... esto
+<$F3><$FF>
+<$04><$00>
+
+//！
+!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//全人類を覆う黒、い・・稲葉！\n
+//　　ほ、北条、あいつ、これとノー\n
+//　　トラ・・・ン
+//All of mankind... will be covered in darkness... Inaba! Take that memo and Notran's... Mirror
+La humanidad... se cubrira de oscuridad... Inaba! Llevate la nota y el espejo de... Notran
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000458
+#WRITE(MYPTR, $00000C14)
+<$F5><$FF>
+
+//\n
+//　　－　　望月が死んでいる　　－
+\n
+//- Mochizuki is dead. -
+- Mochizuki ha muerto. -
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000484
+#WRITE(MYPTR, $00000E0C)
+<$F5><$FF>
+
+//\n
+//－　木箱が無造作に積まれている　－
+\n
+//- There's a carelessly placed wooden crate here. -
+- Hay un cajon de madera descuidado por aqui. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000004B4
+#WRITE(MYPTR, $00000F3C)
+<$F5><$FF>
+
+//\n
+//－　木で出来た棚に　ダンボール\n
+//　　の箱が　並べてある　　　　　－
+\n
+- There's a wooden bookcase here with cardboard boxes on it. -
+- Hay una estanteria de madera llena de cajas de carton. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000502, "WARNME")

@@ -1,0 +1,274 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+
+//Pos : 00000050
+#WRITE(MYPTR, $000010F0)
+<$F5><$FF>
+
+//稲葉\n
+//　「！？　あ、開かない！　　　　　」
+Inaba\n
+//"I-it won't open!"
+"N-no se abrira!"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000004
+#WRITE(MYPTR, $00001100)
+<$F5><$FF>
+
+//稲葉\n
+//　「こ、こっちも！\n
+//　　また閉じ込められた！　　　　　　」
+Inaba\n
+//"H-here too! It's still sealed tight!"
+"A-aqui tampoco! Esta todo sellado!"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000084
+#WRITE(MYPTR, $0000149C)
+<$F5><$FF>
+
+//\n
+//　見えない物体に　イブン＝グハジ\n
+//　の粉を振りかけた！
+\n
+//- You sprinkled the Powder of Ibn-Ghazi on the invisible object! -
+- Tiras el polvo de Ibn-Ghazi una especie de objeto invisible! -
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000000C8
+#WRITE(MYPTR, $00001694)
+<$F5><$FF>
+
+//\n
+//　壁の窪みに　紋章をはめ込んだ！
+\n
+//- You set the crest in the wall! -
+- Colocas la piedra en la pared! -
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「これで天井が、もとに戻って\n
+//　　くれれば助かるんだけれど。」
+Inaba\n
+//"Hopefully this'll send the ceiling back up."
+"Con suerte esto hara que el techo suba."
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000170
+#WRITE(MYPTR, $00001790)
+<$F5><$FF>
+
+//\n
+//　－　紋章を　はずそうとしても\n
+//　　　しっかり窪みと　かみ合っ\n
+//　　　て　外すことが　できない　－
+\n
+//- You try and pull out the crest, but it's firmly stuck in place. -
+- Intentas quitar la piedra, pero esta bien sujeta en la pared. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000140
+#WRITE(MYPTR, $000017A0)
+<$F5><$FF>
+
+//\n
+//　－　壁に　八角形の窪みがある　－
+\n
+//- There's an octagonal indentation in the wall. -
+- Hay una indentacion octogonal en la pared. -
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000001E0
+#WRITE(MYPTR, $00001914)
+<$F5><$FF>
+
+//稲葉\n
+//　「これで中に入れるぞ。　　　」
+Inaba\n
+//"Now I can get inside."
+"Ahora puedo entrar."
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000210
+#WRITE(MYPTR, $00001974)
+<$F5><$FF>
+
+//稲葉\n
+//　「石に取っ手が付いてるぞ。　」
+Inaba\n
+//"There's a handle built into the stone."
+"Hay un tirador construido en la piedra."
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　取っ手に　手を差し込んで\n
+//　　手前に思いっきり引っ張った！
+\n
+//- You insert your hand into the handle and pull with all your might! -
+- Insertas tu mano para tirar del tirador con todas tus fuerzas! -
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000284
+#WRITE(MYPTR, $00001ABC)
+<$F5><$FF>
+
+//稲葉\n
+//　「！？
+Inaba\n
+"!?<$20>
+
+<$FF><$FF>
+<$1E><$00>
+
+//　な、なんだ？\n
+//　　目に見えない、なにかが\n
+//　　穴をふさいでいるみたいだ。」
+//W-what the? There's something blocking the hole, but I don't see anything."
+P-pero que? Hay algo bloqueando el agujero, pero no parece estar visible."
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002EC
+#WRITE(MYPTR, $00001B6C)
+<$F5><$FF>
+
+//稲葉\n
+//　「どうすれば、
+Inaba\n
+//"What<$20>
+"Que<$20>
+<$FF><$FF>
+<$1E><$00>
+
+//どうすれば\n
+//　　助かるんだ！？　　　　　　」
+//should I do!?"
+voy a hacer!?"
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000340
+#WRITE(MYPTR, $00001B7C)
+<$F5><$FF>
+
+//稲葉\n
+//　「い、
+Inaba\n
+"N-
+
+<$FF><$FF>
+<$0A><$00>
+
+//いやだ、
+no,<$20>
+
+<$FF><$FF>
+<$1E><$00>
+
+//死にたくない。」
+//I don't want to die!"
+No quiero morir asi!"
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000037C
+#WRITE(MYPTR, $00001B94)
+<$F5><$FF>
+
+//稲葉\n
+//　「いやだぁぁーー！！　　　　」
+Inaba\n
+"NOOOOOOO!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003B0
+#WRITE(MYPTR, $00001E00)
+<$F5><$FF>
+
+//稲葉\n
+//　「ん！？\n
+//　　なんだ！　この音は？　　　　」
+Inaba\n
+//"Huh? What was that sound!?"
+"Eh? Que fue ese sonido!?"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003F0
+#WRITE(MYPTR, $00002028)
+<$F5><$FF>
+
+//稲葉\n
+//　「ふう\n
+//　　なんとか　助かった！　　　」
+Inaba\n
+//"Phew... Somehow I'm still alive!"
+"Uf... No se como sigo con vida!"
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($0000042A, "WARNME")

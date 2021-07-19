@@ -1,0 +1,671 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.jap.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147547136, 32)
+
+
+#JMP($0000355C)
+
+// Ptr: 0000355C
+#WRITE(PTR, $00065C0C)
+//　　　　そういう事では使えない
+Unused?
+<$00>
+
+
+
+#JMP($00003628)
+
+// Ptr: 00003F40
+#WRITE(PTR, $00065C18)
+//　　　　　　青い小玉
+//Blue Marble
+Canica Azul
+<$00>
+
+// Ptr: 00003F1C
+#WRITE(PTR, $00065C1C)
+#WRITE(PTR, $00065C24)
+#WRITE(PTR, $00065C50)
+#WRITE(PTR, $00065C58)
+//　表面に小さな文字が刻まれた石球。
+//A blue gem with small letters<$20><$20><$20><$20><$20>carved on it.
+Joya azul con varias letras<$20><$20><$20><$20><$20>grabadas en ella.
+<$00>
+
+// Ptr: 00003F00
+#WRITE(PTR, $00065C4C)
+//　　　　　ルルイエの子珠
+//R'lyeh Gem
+Joya R'lyeh
+<$00>
+
+// Ptr: 00003EE8
+#WRITE(PTR, $00065C80)
+//　　　　　　　釘抜き
+//Crowbar
+Palanca
+<$00>
+
+// Ptr: 00003ED4
+#WRITE(PTR, $00065C84)
+#WRITE(PTR, $00065C8C)
+//　普通の釘抜き。
+//Just a normal crowbar.
+Una palanca corriente.
+<$00>
+
+// Ptr: 00003EBC
+#WRITE(PTR, $00065CB4)
+//　　　　　校長の肖像画
+//Principal's Portrait
+Retrato del director
+<$00>
+
+// Ptr: 00003E98
+#WRITE(PTR, $00065CB8)
+//　三代目校長（現校長）が描かれてい
+//It's a picture with "3rd and 
+Un retrato con las palabras
+<$00>
+
+// Ptr: 00003E8C
+#WRITE(PTR, $00065CBC)
+//る肖像画。
+//current principal" written on it.
+"3er y actual director" escritas.
+<$00>
+
+// Ptr: 00003E74
+#WRITE(PTR, $00065CC0)
+//　額縁になっている。
+//It's attached to a picture frame.
+Esta sujeto al marco del cuadro. 
+<$00>
+
+// Ptr: 00003E5C
+#WRITE(PTR, $00065CE8)
+//　　　　　３－５のカギ
+//3-5 Key
+Llave 3-5
+<$00>
+
+// Ptr: 00003E40
+#WRITE(PTR, $00065CEC)
+#WRITE(PTR, $00065CF4)
+//　教室３－５のドアのカギ。
+//Opens Classroom 3-5.
+Abre la clase 3-5.
+<$00>
+
+// Ptr: 00003E28
+#WRITE(PTR, $00065D1C)
+//　　　　　　ハンマー
+//Hammer
+Martillo
+<$00>
+
+// Ptr: 00003E04
+#WRITE(PTR, $00065D20)
+#WRITE(PTR, $00065D28)
+//　釘を打つにしては大きすぎる金槌。
+//A hammer too large for pounding<$20><$20><$20>nails.
+Un martillo demasiado grande<$20><$20><$20>para clavos.
+<$00>
+
+// Ptr: 00003DF0
+#WRITE(PTR, $00065D50)
+//　　　　　　　肉塊
+//Jar of Meat
+Jarro de Carne
+<$00>
+
+// Ptr: 00003DCC
+#WRITE(PTR, $00065D54)
+#WRITE(PTR, $00065D5C)
+//　グロテスクなゲル状の物の瓶詰め。
+//A jar full of a grotesque<$20><$20><$20><$20><$20><$20><$20><$20><$20>gelatinous substance.
+Jarro lleno de una sustancia<$20><$20><$20><$20><$20><$20><$20><$20><$20>gelatinosa asquerosa.
+<$00>
+
+// Ptr: 00003DB4
+#WRITE(PTR, $00065D84)
+//　　　　　　　マッチ
+//Matches
+Cerillas
+<$00>
+
+// Ptr: 00003D98
+#WRITE(PTR, $00065D88)
+#WRITE(PTR, $00065D90)
+//　普通の箱入りのマッチ。
+//An ordinary box of matches.
+Una caja normal de cerillas.
+<$00>
+
+// Ptr: 00003D80
+#WRITE(PTR, $00065DB8)
+//　　　　　　金色のカギ
+//Golden Key
+Llave Dorada
+<$00>
+
+// Ptr: 00003D5C
+#WRITE(PTR, $00065DBC)
+//　真っ赤な宝石が付けられている。
+//There's a deep red gem on the<$20><$20><$20><$20><$20>handle.
+Tiene una gema de color rojo<$20><$20><$20><$20><$20>en el mango.
+<$00>
+
+// Ptr: 00003D40
+#WRITE(PTR, $00065DC4)
+//　金色の金属で出来たカギ。
+//A key made out of gold.
+Una llave hecha de oro.
+<$00>
+
+// Ptr: 00003D24
+#WRITE(PTR, $00065DEC)
+//　　　　　『妖虫の秘密』
+"De Vermis Mysteriis"
+<$00>
+
+// Ptr: 00003D14
+#WRITE(PTR, $00065DF0)
+#WRITE(PTR, $00065DF8)
+//　重厚な書物。
+//An intense-looking book.
+Un libro bastante denso.
+<$00>
+
+// Ptr: 00003CFC
+#WRITE(PTR, $00065E20)
+//　　　　　『悪魔崇拝』
+"Daemonolatreiae libri tres"
+<$00>
+
+// Ptr: 00003CE8
+#WRITE(PTR, $00065E24)
+#WRITE(PTR, $00065E2C)
+#WRITE(PTR, $00065E8C)
+#WRITE(PTR, $00065E94)
+//　古めかしい本。
+//A time-worn book.
+Un libro antiguo.
+<$00>
+
+// Ptr: 00003CCC
+#WRITE(PTR, $00065E54)
+//　　　　　ノートランの鏡
+//Notran's Mirror
+Espejo de Notran
+<$00>
+
+// Ptr: 00003CA8
+#WRITE(PTR, $00065E58)
+//　古びた鏡。縁に奇麗な細工が施して
+//An old mirror with an exquisite<$20><$20><$20>green border.
+Un viejo espejo con un borde<$20><$20><$20>verde exquisito.
+<$00>
+
+// Ptr: 00003C84
+#WRITE(PTR, $00065E60)
+//　裏面に鏡は無い。縁には　やはり
+//There's nothing on the back. The
+No hay nada por detras. El borde
+<$00>
+
+// Ptr: 00003C68
+#WRITE(PTR, $00065E64)
+//奇麗な細工が施されている。
+//border is very nicely designed.
+tiene un bonito grabado.
+<$00>
+
+// Ptr: 00003C4C
+#WRITE(PTR, $00065E88)
+//　　　　『エイボンの書』
+//"Book of Eibon"
+"Libro de Eibon"
+<$00>
+
+// Ptr: 00003C2C
+#WRITE(PTR, $00065EBC)
+//　　　『エイボンの書』の断片
+//"Book of Eibon" Torn Page
+Pagina del "Libro de Eibon"
+<$00>
+
+// Ptr: 00003C08
+#WRITE(PTR, $00065EC0)
+#WRITE(PTR, $00065EC8)
+#WRITE(PTR, $00066198)
+#WRITE(PTR, $000661A0)
+//　不思議な文字で書かれているメモ。
+//A memo written in a bizarre<$20><$20><$20><$20><$20><$20><$20>script.
+Una nota escrita en un idioma<$20><$20><$20><$20><$20><$20><$20>raro.
+<$00>
+
+// Ptr: 00003BF0
+#WRITE(PTR, $00065EF0)
+//　　　　　　陶器の壷
+//Porcelain Vase
+Jarron de porcelana
+<$00>
+
+// Ptr: 00003BCC
+#WRITE(PTR, $00065EF4)
+#WRITE(PTR, $00065EFC)
+//　陶器で出来た壷。奇麗な彫刻が施さ
+//A porcelain vase with beautiful
+Jarron de porcelana con grabados
+<$00>
+
+// Ptr: 00003BC0
+#WRITE(PTR, $00065EF8)
+#WRITE(PTR, $00065F00)
+//れている。
+//engravings.
+preciosos.
+<$00>
+
+// Ptr: 00003BA8
+#WRITE(PTR, $00065F24)
+//　　　　　　女神の涙
+//Goddess Tears
+Lagrimas de la Diosa
+<$00>
+
+// Ptr: 00003B84
+#WRITE(PTR, $00065F28)
+#WRITE(PTR, $00065F30)
+//　陶器の壷に、女神像の流した赤い涙
+//A porcelain vase with red tears
+Jarron de porcelana lleno de
+<$00>
+
+// Ptr: 00003B74
+#WRITE(PTR, $00065F2C)
+#WRITE(PTR, $00065F34)
+//が入っている。
+//cried by the Goddess Statue.
+lagrimas rojas de la estatua.
+<$00>
+
+// Ptr: 00003B5C
+#WRITE(PTR, $00065F58)
+//　　　　　　赤い粉末
+//Red Powder
+Polvo rojo
+<$00>
+
+// Ptr: 00003B38
+#WRITE(PTR, $00065F5C)
+#WRITE(PTR, $00065F64)
+//　赤色の粉末状の物が、巾着袋に入っ
+//A fine red powder in a
+Fino polvo en una bolsa
+<$00>
+
+// Ptr: 00003B2C
+#WRITE(PTR, $00065F60)
+#WRITE(PTR, $00065F68)
+#WRITE(PTR, $00065F94)
+#WRITE(PTR, $00065F9C)
+#WRITE(PTR, $00065FC8)
+#WRITE(PTR, $00065FD0)
+#WRITE(PTR, $00066030)
+#WRITE(PTR, $00066038)
+//ている。
+//drawstring bag.
+con un cordon.
+<$00>
+
+// Ptr: 00003B14
+#WRITE(PTR, $00065F8C)
+//　　　　　　青い粉末
+//Blue Powder
+Polvo Azul
+<$00>
+
+// Ptr: 00003AF0
+#WRITE(PTR, $00065F90)
+#WRITE(PTR, $00065F98)
+//　青色の粉末状の物が、巾着袋に入っ
+//A fine blue powder in a
+Fino polvo en una bolsa
+<$00>
+
+// Ptr: 00003AD8
+#WRITE(PTR, $00065FC0)
+//　　　　　　黄色い粉末
+//Yellow Powder
+Polvo Amarillo
+<$00>
+
+// Ptr: 00003AB4
+#WRITE(PTR, $00065FC4)
+#WRITE(PTR, $00065FCC)
+//　黄色の粉末状の物が、巾着袋に入っ
+//A fine yellow powder in a
+Fino polvo en una bolsa
+<$00>
+
+// Ptr: 00003A9C
+#WRITE(PTR, $00065FF4)
+//イブン＝グハジの材料Ｄ
+//Ibn-Ghazi Ingredient D
+Ingrediente D Ibn-Ghazi
+<$00>
+
+// Ptr: 00003A80
+#WRITE(PTR, $00066028)
+//　　　　イブン＝グハジの粉
+//Powder of Ibn-Ghazi
+Polvo de Ibn-Ghazi
+<$00>
+
+// Ptr: 00003A5C
+#WRITE(PTR, $0006602C)
+#WRITE(PTR, $00066034)
+//　白色の粉末状の物が、巾着袋に入っ
+//A fine white powder in a
+Fino polvo en una bolsa
+<$00>
+
+// Ptr: 00003A44
+#WRITE(PTR, $0006605C)
+//　　　　　　深紅の宝石
+Crimson Jewel
+<$00>
+
+// Ptr: 00003A20
+#WRITE(PTR, $00066060)
+#WRITE(PTR, $00066068)
+//　手の平くらいの大きさの宝石。鮮や
+//A vibrant red jewel about the size
+Una vibrante joya roja tan grande
+<$00>
+
+// Ptr: 00003A08
+#WRITE(PTR, $00066064)
+#WRITE(PTR, $0006606C)
+//かな赤色をしている。
+//of your hand.
+como tu mano.
+<$00>
+
+// Ptr: 000039F0
+#WRITE(PTR, $00066090)
+//　　　　　　ジャッキ
+//Jack
+Gato
+<$00>
+
+// Ptr: 000039CC
+#WRITE(PTR, $00066094)
+#WRITE(PTR, $0006609C)
+//　ハンドル式の、少し大きめのジャッ
+//A rather large manual jack.
+Un gato de coche manual.
+<$00>
+
+// Ptr: 000039B4
+#WRITE(PTR, $000660C4)
+//　　　　　　ロケット
+//Locket
+Medallon
+<$00>
+
+// Ptr: 00003990
+#WRITE(PTR, $000660C8)
+#WRITE(PTR, $000660D0)
+//　写真を入れられるペンダント。写真
+//A pendant with a photo of
+Un pendiente con la foto de
+<$00>
+
+// Ptr: 00003970
+#WRITE(PTR, $000660CC)
+#WRITE(PTR, $000660D4)
+//には二人の男性が写っている。
+//two young men inside.
+dos jovenes dentro.
+<$00>
+
+// Ptr: 00003958
+#WRITE(PTR, $000660F8)
+//　　　　　八角形の紋章
+//Octagonal Crest
+Piedra Octogonal
+<$00>
+
+// Ptr: 00003934
+#WRITE(PTR, $000660FC)
+//　星形の紋章が刻まれた八角形の石。
+//An octagonal stone with a star<$20><$20><$20><$20>engraved on it.
+Una piedra octogonal con una<$20><$20><$20><$20>estrella grabada.
+<$00>
+
+// Ptr: 00003924
+#WRITE(PTR, $00066104)
+//　八角形の石。
+//An octagonal stone.
+Una piedra octogonal.
+<$00>
+
+// Ptr: 00003910
+#WRITE(PTR, $0006612C)
+//　　　　　　　手紙
+//Letter
+Carta
+<$00>
+
+// Ptr: 000038EC
+#WRITE(PTR, $00066130)
+#WRITE(PTR, $00066138)
+//　ぼろぼろの紙に文字が記されている
+//A beat-up piece of paper with a<$20><$20><$20>message written on it.
+Un trozo de papel antiguo con<$20><$20><$20>un mensaje escrito en el.
+<$00>
+
+// Ptr: 000038D4
+#WRITE(PTR, $00066160)
+//　　　　　　喚魂の秘薬
+//Spirit Elixir
+Elixir espiritual
+<$00>
+
+// Ptr: 000038B8
+#WRITE(PTR, $00066164)
+#WRITE(PTR, $0006616C)
+//　液体の入った奇麗な小瓶。
+//A beautiful bottle filled with a<$20><$20>mysterious liquid.
+Una botella llena de un liquido<$20><$20>misterioso.
+<$00>
+
+// Ptr: 000038A0
+#WRITE(PTR, $00066194)
+//　　　　　　呪文のメモ
+//Incantation Memo
+Nota de invocacion
+<$00>
+
+// Ptr: 00003884
+#WRITE(PTR, $000661C8)
+//　　　　『ネクロノミコン』
+"Necronomicon"
+<$00>
+
+// Ptr: 00003868
+#WRITE(PTR, $000661CC)
+#WRITE(PTR, $000661D4)
+//　怪しげな邪気が漂う古書。
+//An old book with a dangerous aura.
+Un viejo libro que emite mala energia.
+<$00>
+
+// Ptr: 00003854
+#WRITE(PTR, $000661FC)
+//　　　　　　　お香
+Perfume
+<$00>
+
+// Ptr: 0000383C
+#WRITE(PTR, $00066200)
+#WRITE(PTR, $00066208)
+//　いい匂いのするお香。
+//A nice smelling perfume.
+Un perfume muy agradable.
+<$00>
+
+// Ptr: 00003818
+#WRITE(PTR, $00066230)
+//　「ルルイエ神…」と書かれた紙片
+//"God of R'lyeh" Note
+Nota "Dios de R'lyeh"
+<$00>
+
+// Ptr: 000037F4
+#WRITE(PTR, $00066234)
+#WRITE(PTR, $0006623C)
+#WRITE(PTR, $0006629C)
+#WRITE(PTR, $000662A4)
+#WRITE(PTR, $000662D0)
+#WRITE(PTR, $000662D8)
+#WRITE(PTR, $00066304)
+#WRITE(PTR, $0006630C)
+#WRITE(PTR, $00066338)
+#WRITE(PTR, $00066340)
+#WRITE(PTR, $0006636C)
+#WRITE(PTR, $00066374)
+#WRITE(PTR, $000663A0)
+#WRITE(PTR, $000663A8)
+#WRITE(PTR, $000663D4)
+#WRITE(PTR, $000663DC)
+#WRITE(PTR, $00066408)
+#WRITE(PTR, $00066410)
+#WRITE(PTR, $0006643C)
+#WRITE(PTR, $00066444)
+#WRITE(PTR, $00066470)
+#WRITE(PTR, $00066478)
+#WRITE(PTR, $000664A4)
+#WRITE(PTR, $000664AC)
+//　メモのようだ。何か文章が書かれて
+//Looks like a scrap of paper with amessage written on it.
+Parece un trozo de papel con un mensaje escrito en el.
+<$00>
+
+// Ptr: 000037D8
+#WRITE(PTR, $00066264)
+//　　　　引き裂かれたページ
+//Torn Page
+Pagina rota
+<$00>
+
+// Ptr: 000037B4
+#WRITE(PTR, $00066268)
+#WRITE(PTR, $00066270)
+//　不思議な文字で何か書かれている。
+//A memo written in a bizarre<$20><$20><$20><$20><$20><$20><$20>script.
+Nota escrita en un idioma<$20><$20><$20><$20><$20><$20><$20>raro.
+<$00>
+
+// Ptr: 00003790
+#WRITE(PTR, $00066298)
+//　「お前は誰だ…」と書かれた紙片
+//"Who are you!?"
+"Quien eres!?"
+<$00>
+
+// Ptr: 0000376C
+#WRITE(PTR, $000662CC)
+//　「他意はない…」と書かれた紙片
+//"I bear you no ill will."
+"No te guardo rencor".
+<$00>
+
+// Ptr: 00003748
+#WRITE(PTR, $00066300)
+//　「何が目的な…」と書かれた紙片
+//"What are you planning!?"
+"Que estas planeando!?"
+<$00>
+
+// Ptr: 00003724
+#WRITE(PTR, $00066334)
+//　「危害を与え…」と書かれた紙片
+//"I do not wish you harm."
+"No te deseo ningun mal."
+<$00>
+
+// Ptr: 00003700
+#WRITE(PTR, $00066368)
+//　「あんたには…」と書かれた紙片
+//"Do you know something?"
+"Quieres saber algo?"
+<$00>
+
+// Ptr: 000036DC
+#WRITE(PTR, $0006639C)
+//　「心臓を集め…」と書かれた紙片
+//"Those monsters..."
+"Esos monstruos..."
+<$00>
+
+// Ptr: 000036B8
+#WRITE(PTR, $000663D0)
+//　「悪臭をまく…」と書かれた紙片
+//"Do not approach anyone..."
+"No te acerques a nadie..."
+<$00>
+
+// Ptr: 00003694
+#WRITE(PTR, $00066404)
+//　「もし神の一…」と書かれた紙片
+//"The world will plunge into..."
+"El mundo se sumira en..."
+<$00>
+
+// Ptr: 00003670
+#WRITE(PTR, $00066438)
+//　「透明な魔物…」と書かれた紙片
+//"Those invisible monsters..."
+"Los montruos invisibles..."
+<$00>
+
+// Ptr: 0000364C
+#WRITE(PTR, $0006646C)
+//　「透明なもの…」と書かれた紙片
+//"To deal with hidden monsters..."
+"Acabar con el mal invisible..."
+<$00>
+
+// Ptr: 00003628
+#WRITE(PTR, $000664A0)
+//　「博志にすべ…」と書かれた紙片
+//"I told Masayoshi everything."
+"Le dije todo a Masayoshi."
+<$00>
+
+//Odd dangly blanks
+#JMP($0006F0C4)
+<$00>
+
+#JMP($0006F0CC)
+<$00>
+
+#JMP($0006F0D4)
+<$00>
+
+#JMP($0006F0DC)
+<$00>
+
+#JMP($0006F0E4)
+<$00>
+
+#JMP($0006F0EC)
+<$00>
+
+#WARN($00003F58, "WARNME")
