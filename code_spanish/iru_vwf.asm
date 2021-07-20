@@ -53,8 +53,8 @@ org 0x8002b0e0
 	addiu s1, s1, 0x00
 
 ;Fix options menu text alignment by moving the block and increasing the chars to 15
-.org 0x8003c340
-	addiu v0, v0, 0x5F90 ; Move the base pointer for the options block to a bigger region
+.org 0x8003c33c
+	la v0, 0x8007D5C0 ; Move the base pointer for the options block to a bigger region
 
 .org 0x8003c32c
 	sll a1, v0, 03 ; Update the line length to 31 by modifying the shifting algorithm
