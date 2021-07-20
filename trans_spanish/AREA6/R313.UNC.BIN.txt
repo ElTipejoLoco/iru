@@ -20,12 +20,12 @@ Yuma\n
 //あ、稲葉くん。\n
 //　　ひどいと思わない
 //Ah, Inaba. Hikawa's terrible, you know that
-Ah, Inaba. Hikawa es lo peor, lo sabias
+Ah, Inaba. Hikawa es lo peor, )(Lo sab&as
 <$F3><$FF>
 <$04><$00>
 
 //！？
-!?
+?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -40,7 +40,7 @@ Ah, Inaba. Hikawa es lo peor, lo sabias
 //氷川君、人を呼びだしておい\n
 //　　て自分は来てないなんて
 //He calls people out then doesn't show up himself
-Queda con la gente y despues ni siquiera aparece
+Queda con la gente y despu}s, )Ni siquiera aparece
 <$F3><$FF>
 <$04><$00>
 
@@ -68,7 +68,7 @@ Yuma\n
 //話が終わったら私も行くから。\n
 //　　それまで頑張っててね
 //I'll get going as soon as I'm done talking with him, okay
-Me pondre en marcha cuando termine de hablar con el, vale
+Me pondr} en marcha cuando termine de hablar con }l, (Vale
 <$F3><$FF>
 <$04><$00>
 
@@ -110,7 +110,7 @@ Ah, Inaba
 //　　氷川。　　　　　　　　　　」
 Inaba\n
 //"Hikawa said he'd show up when he's done cleaning."
-"Hikawa dijo que vendria cuando acabase de limpiar."
+"Hikawa dijo que vendr&a cuando acabase de limpiar."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -126,7 +126,7 @@ Yuma\n
 //　　望月君と広瀬君は、見つかっ\n
 //　　た
 //Got it, thanks! Have you seen Mochizuki or Hirose
-Ok, gracias! has visto por ahi Mochizuki o Hirose
+)Ok, gracias! (Has visto por ah& Mochizuki o Hirose
 <$F3><$FF>
 <$04><$00>
 
@@ -154,7 +154,7 @@ Yuma\n
 //氷川君遅いな。\n
 //　　・・・ごめんね稲葉くん
 //Hikawa's really taking his time. Sorry to make you wait, Inaba
-Hikawa esta tardando demasiado. Siento hacerte esperar, Inaba
+Hikawa est{ tardando demasiado. Siento hacerte esperar, Inaba
 <$F3><$FF>
 <$04><$00>
 
@@ -178,7 +178,7 @@ Hikawa esta tardando demasiado. Siento hacerte esperar, Inaba
 //　　稲葉くん知ってた？
 Yuma\n
 //"Oh yeah, did you know there's a lunar eclispe tonight?
-"Ahora que lo pienso, sabes que habra un eclipse lunar?
+"(Ahora que lo pienso, sabes que habr{ un eclipse lunar?
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -195,7 +195,7 @@ Yuma\n
 //なんだかロマンチック\n
 //　　だよね
 //it's kinda romantic, don't you think
-es algo bastante romantico, no crees
+es bastante rom{ntico, (No crees
 <$F3><$FF>
 <$04><$00>
 
@@ -216,8 +216,7 @@ es algo bastante romantico, no crees
 //　　そしたら帰れないしね。\n
 //　　クラスの方がんばってね
 //I'd like to just stay like this, but then we'd never finish. Let's make sure to do our best
-Me gustaria dejarlo asi, pero entonces no acabaremos nunca. Aseguremonos de dejar todo bien
-
+Me gustar&a dejar los preparativos como est{n pero debemos esforzarnos mas
 <$F3><$FF>
 <$04><$00>
 
@@ -246,7 +245,7 @@ Yuma\n
 //　　ね、様子見てきてくれない？\n
 //　　お願い！　ね、稲葉君
 //I'm curious how the Art Club is doing... Would you mind taking a peak for me? Please
-Me pregunto que tal lo llevan en plastica... Puedes pasarte a preguntar? Por favor
+Me pregunto que tal lo llevan en pl{stica... (Puedes pasarte a preguntar? (Por favor
 <$F3><$FF>
 <$04><$00>
 
@@ -276,13 +275,14 @@ Yuma\n
 
 //い、いやっ・・・氷川君。\n
 //　　
+						
 //S-stop, Hikawa...<$20>
-P-para ya, Hikawa...<$20>
+D}jame, Hikawa...<$20>
 <$FF><$FF>
 <$1E><$00>
 
 //あっ
-Ahh
+)Ahh
 <$F3><$FF>
 <$68><$00>
 
@@ -301,7 +301,7 @@ Ahh
 <$68><$00>
 
 //稲葉君
-Inaba!
+)(Inaba!
 
 <$F3><$FF>
 <$68><$00>
@@ -328,8 +328,8 @@ Hikawa\n
 //おい！\n
 //　　ずーっとそこにいたのか？\n
 //　　へっ、まあいいけどよ
-//Hey! How long have you been there!? Whatever, it doesn't matter
-Tu! Cuanto tiempo llevas parado ahi!? Da igual, no me importa
+//Hey! How long have you been there?! Whatever, it doesn't matter
+)T=!)(Cuanto tiempo llevas parado ah&?! Da igual, no me importa
 <$F3><$FF>
 <$04><$00>
 
@@ -356,7 +356,7 @@ Hikawa\n
 //稲葉、おまえアイツのこと\n
 //　　好きなんだろ
 //You like her, don't you Inaba
-Te gusta mucho, verdad Inaba
+Te gusta mucho, (Verdad Inaba
 <$F3><$FF>
 <$04><$00>
 
@@ -377,7 +377,7 @@ Te gusta mucho, verdad Inaba
 //　　アイツは俺んだ。\n
 //　　いろんな意味でな
 //Well too bad, she's mine. In more ways than one
-Es solo mia. En mas maneras de las que imaginas
+Es solo m&a, y en m{s maneras de las que imaginas
 <$F3><$FF>
 <$04><$00>
 
@@ -397,7 +397,7 @@ Es solo mia. En mas maneras de las que imaginas
 //手を出すな。\n
 //　　・・・わかってるよな
 //So step off. Got it?
-Asi que alejate. Ok?
+As& que olvidat{. (Vale?
 <$F3><$FF>
 <$04><$00>
 
@@ -410,7 +410,7 @@ Asi que alejate. Ok?
 
 //どけよ
 //Now get out of my way
-Apartate de mi camino
+)Apartate de mi camino
 <$F3><$FF>
 <$04><$00>
 
@@ -459,7 +459,7 @@ Apartate de mi camino
 //　　が　びっしりと並んでいる　　－
 \n
 //- Study material for colleges and trade schools are tightly packed on this shelf. -
-- Hay un monton de material de estudio empaquetado dentro de esta estanteria.  -
+- Hay mucho material de estudio guardado dentro de esta estanter&a. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -474,7 +474,7 @@ Apartate de mi camino
 //　－　　映写機が置いてある　　－
 \n
 //- There's a projector here. -
-- Hay un proyector aqui. -
+- Hay un proyector aqu&. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -508,7 +508,7 @@ Inaba\n
 //　　　山ほど　保管されている　　－
 \n
 //- It's a mountain of documents related to where students found jobs after graduating. -
-- Son un monton de papeles documentando los trabajos de estudiantes ya graduados. -
+- Una colecci[n de papeles documentando las profesiones de estudiantes ya graduados. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

@@ -13,7 +13,7 @@
 //　　－　　生徒の死体がある　　－
 \n
 //- There's a dead student here. -
-- Hay un estudiante muerto. -
+- Es un estudiante muerto. -
 
 <$FA><$FF>
 <$F8><$FF>

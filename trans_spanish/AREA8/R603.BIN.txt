@@ -17,7 +17,7 @@
 //　　・・・おまえ哲雄か？　　　」
 Ghoul\n
 //"T-that locket... Tetsuo... is that you?"
-"E-ese medallon... Tetsuo... eres tu?"
+"E-ese medall[n... Tetsuo... (Eres t=?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -43,7 +43,7 @@ Ya veo... Soy su hermano, Masayoshi... por lo menos lo era antes."
 //　「なんでそんな・・・。　　」
 Inaba\n
 //"How did this happen...?"
-"Como es esto posible...?"
+"(C[mo es esto posible...?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -53,7 +53,7 @@ Inaba\n
 //　　生活することになった。
 Masayoshi\n
 //"A long time ago, I was dropped into this cave and had no choice but to live amongst the ghouls.
-"Hace mucho tiempo, me dejaron en esta cueva y no tuve mas opcion que convivir con los demonios.
+"Hace mucho tiempo, me dejaron en esta cueva y no tuve m{s opci[n que convivir con los demonios.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -62,7 +62,7 @@ Masayoshi\n
 //　　彼らに心を開いていった。
 \n
 //The longer I lived with them down here, the more they opened up to me.
-Cuanto mas tiempo pasaba con ellos aqui, mas aceptaron mi presencia.
+Cuanto m{s tiempo pasaba con ellos aqu&, m{s aceptaban mi presencia.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -71,7 +71,7 @@ Cuanto mas tiempo pasaba con ellos aqui, mas aceptaron mi presencia.
 //　　ようになったとき、
 \n
 //When I finally was able to live here without feeling out of place,
-Cuando finalmente pude aceptar vivir aqui sin sentirme forastero,
+Cuando finalmente pude aceptar vivir aqu& sin sentirme forastero,
 <$FA><$FF>
 <$F8><$FF>
 
@@ -80,7 +80,7 @@ Cuando finalmente pude aceptar vivir aqui sin sentirme forastero,
 //　　していたんだ。　　　　　　」
 \n
 //I realized I had fully become a ghoul myself."
-me di cuenta de que ya me habia convertido."
+me di cuenta de que ya me hab&a convertido."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -96,7 +96,7 @@ Inaba\n
 //　「事実さ。
 Masayoshi\n
 //"Please believe me. 
-"Por favor creeme.
+"Por favor cr}eme.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -106,7 +106,7 @@ Masayoshi\n
 //　　だろ？　　　　　　　　　　」
 \n
 //I'm here showing you everything right now, aren't I?"
-Pero estas aqui escuchandome contarte todo, verdad?"
+Adem{s, lo est{s viendo con tus propios ojos, (Verdad?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -123,7 +123,7 @@ Inaba\n
 //　　後悔していない。
 Masayoshi\n
 //"I don't have any regrets becoming a ghoul.
-"No me arrepiendo de haberme convertido.
+"No me arrepiento de haberme convertido.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -132,7 +132,7 @@ Masayoshi\n
 //　　できるこの環境は、
 \n
 //On the contrary, living here in isolation means not having to 
-Al contrario, vivir aqui aislado significa no tener que
+Al contrario, vivir aqu& aislado significa no tener...
 <$FA><$FF>
 <$F8><$FF>
 
@@ -141,7 +141,7 @@ Al contrario, vivir aqui aislado significa no tener que
 //　　なのかも知れない。　　　　」
 \n
 //worry about the world or human desires."
-preocuparse de los deseos del mundo."
+que preocuparse de los deseos mundanales."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -150,7 +150,7 @@ preocuparse de los deseos del mundo."
 //　　を捜しています。　　　　　」
 Inaba\n
 //"...Mochizuki is desperately searching for you."
-"...Mochizuki te esta buscando por todas partes."
+"...Mochizuki te est{ buscando por todas partes."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -159,7 +159,7 @@ Inaba\n
 //　　ていたよ。
 Masayoshi\n
 //"...Tetsuo really missed me that much, huh?
-"...Tanto me esta echando de menos Tetsuo?
+"(...Tanto me est{ echando de menos Tetsuo?
 <$FA><$FF>
 <$F8><$FF>
 
@@ -169,7 +169,7 @@ Masayoshi\n
 //　　留めておいた手紙がある。
 \n
 //On the off chance something like this happened, I wrote a letter while I was still human.
-Deseando que se presentase una situacion como esta, le escribi una carta siendo humano.
+Deseando que se presentase una situaci[n como esta, le escrib& una carta siendo humano.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -182,7 +182,7 @@ Deseando que se presentase una situacion como esta, le escribi una carta siendo 
 //　　この手紙を哲雄に渡してくれ\n
 //　　ないか？　　　　　　　　　」
 //Will you give it to Tetsuo for me?"
-Se lo daras a Tetsuo de mi parte?"
+(Se lo dar{s a Tetsuo de mi parte?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -191,7 +191,7 @@ Se lo daras a Tetsuo de mi parte?"
 //　　必ず望月にお渡しします。　」
 Inaba\n
 //"I got it. I'll make sure he gets it."
-"La tengo. Me asegurare de darsela."
+"La tengo. Me asegurar} de darsela."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -208,7 +208,7 @@ Inaba\n
 //　　しまったんですか？　　　　」
 Inaba\n
 //"Why were you dropped in this place?"
-"Porque acabaste tu en este sitio?"
+"(Porqu} acabaste t= en este sitio?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -218,7 +218,7 @@ Inaba\n
 //　　突き落とされたんだ。
 Masayoshi\n
 //"...a lot happened. A woman named Hojou threw me down here.
-"...por donde empezar. La profesora Hojou me encerro aqui.
+"....Uf, es complicado. La profesora Hojou me encerr[ aqu&.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -234,8 +234,8 @@ Masayoshi\n
 //稲葉\n
 //　「北条！？　北条先生ですか？　」
 Inaba\n
-//"Hojou!? Our teacher, Ms. Hojou!?"
-"Hojou!? La profesora Ms. Hojou!?"
+//"Hojou?! Our teacher, Ms. Hojou?!"
+")(Hojou?! )(La profesora Ms. Hojou?!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -245,7 +245,7 @@ Inaba\n
 //　　あの人を知っているんだ。
 Masayoshi\n
 //"I see, you're also a student from Kirigaoka High if you know her then.
-"Ya veo, entonces tu debes de ser estudiante de Kirigaoka si la conoces.
+"Ya veo, entonces t= debes de ser estudiante de Kirigaoka si la conoces.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -261,7 +261,7 @@ Ella ha hecho cosas terribles. ...o por lo menos, eso parece."
 //稲葉\n
 //　「・・・？　　　　　　　　　　」
 Inaba\n
-"...?"
+"(Eh?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -272,7 +272,7 @@ Inaba\n
 //　　でもあった。　　　　　　　　」
 Masayoshi\n
 //"When I was a student at Kirigaoka, I was her student and also her lover."
-"Cuando estudiaba en Kirigaoka, fui su estudiante y tambien... su amante."
+"Cuando estudiaba en Kirigaoka, fui su estudiante y tambi}n... su amante."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -290,7 +290,7 @@ Inaba\n
 //　　没頭していた。
 Masayoshi\n
 //"Together with a student named Kamiyama, the three of us devoted ourselves to archaeology.
-"Juntos con un estudiante llamado Kamiyama, los tres queriamos dedicarnos a la arqueologia.
+"Juntos con un estudiante llamado Kamiyama, los tres quer&amos dedicarnos a la arqueologia.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -300,7 +300,7 @@ Masayoshi\n
 //　　だろう・・・。
 \n
 //We were always together. Those were beautiful days..
-Siempre estabamos juntos. Fueron dias preciosos.
+Siempre est{bamos juntos. Fueron d&as preciosos.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -310,7 +310,7 @@ Siempre estabamos juntos. Fueron dias preciosos.
 //　　ていたと思う。
 \n
 //I was in love with her and thought that she loved me back.
-Estaba enamorado de ella y pense que ella tambien a mi.
+Estaba enamorado de ella y pens} que ella tambi}n de mi.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -319,7 +319,7 @@ Estaba enamorado de ella y pense que ella tambien a mi.
 //　　裏切ってしまったようだ。　　」
 \n
 //But, it seems I betrayed her."
-Pero, parece que la traicione."
+Pero, parece que la traicion}."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -327,7 +327,7 @@ Pero, parece que la traicione."
 //　「・・・裏切った？　　　　　　」
 Inaba\n
 //"...betrayed her?"
-"...traicionaste?"
+"(...La traicionaste?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -337,7 +337,7 @@ Inaba\n
 //　　名家の生まれなんだ。
 Masayoshi\n
 //"Yeah. She was born to a distinguished family from Innsmouth.
-"Si. Ella es descendecia de una familia rica de Innsmouuth.
+"Si. Ella es descendencia de una familia rica de Innsmouth.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -354,8 +354,8 @@ Parece ser una familia que contiene la sangre de monstruos pez."
 //　「魚の化け物！？\n
 //　　ま、まさか・・・！　　　　　」
 Inaba\n
-//"Fish monsters!? T-that means...!"
-"Monstruos pez!? E-eso significa...!"
+//"Fish monsters?! T-that means...!"
+")(Monstruos pez?! )Eso significa...!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -365,7 +365,7 @@ Inaba\n
 //　　らしい。　　　　　　　　　　」
 Masayoshi\n
 //"As citizens of Innsmouth age, they slowly turn into 'Deep Ones'."
-"A medida que los Innsmouth creced, se convierten en 'Profundos'."
+"A medida que los Innsmouth crecen, se transforman en 'Profundos'."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -373,7 +373,7 @@ Masayoshi\n
 //　「じゃあ、北条先生も？　　　　」
 Inaba\n
 //"That means Ms. Hojou too, right?"
-"Entonce Ms. Hojou lo es tambien?"
+"(Entonces Ms. Hojou tambi}n?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -393,7 +393,7 @@ Masayoshi\n
 //　　正直に。
 \n
 //But, she trusted me and confided everything to me.
-Pero, confiaba en mi y me conto toda la verdad.
+Pero, confiaba en mi y me cont[ toda la verdad.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -419,7 +419,7 @@ Inaba\n
 //　　その仕打ちがこれだ。
 Masayoshi\n
 //"I betrayed her. The sight you see now is the result.
-"La traicione. Todo lo que ves es resultado de eso.
+"La traicion}. Todo lo que ves es resultado de eso.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -428,7 +428,7 @@ Masayoshi\n
 //　　姿をしている。
 \n
 //Ironically enough, I'm the one who became a hideous monster.
-Vaya ironia... al final yo me he convertido en un monstruo.
+Vaya iron&a... al final me he convertido yo en el monstruo.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -446,7 +446,7 @@ Para ser honesto, ya no me importa absolutamente nada.
 //　　ある。
 \n
 //Up ahead, there's a path to the building.
-Mas adelante podras volver a la escuela.
+Mas adelante podr{s volver a la escuela.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -456,7 +456,7 @@ Mas adelante podras volver a la escuela.
 //　　ろう。　　　　　　　　　　」
 \n
 //If you take the stairs up that building, you should be able to get above ground."
-Si subes por la escaleras, seras capaz de volver arriba para ponerte a salvo."
+Si subes por la escaleras, ser{s capaz de volver arriba para ponerte a salvo."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -473,7 +473,7 @@ Si subes por la escaleras, seras capaz de volver arriba para ponerte a salvo."
 //＊　入ります　　　　　　　　　＊
 //Aria: Debug message?
 //After this, homing mode will activate.
-Despues de esto, te acechara el mal.
+Despu}s de esto, te acechar{ el mal.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -489,7 +489,7 @@ Despues de esto, te acechara el mal.
 //　「ん、まだいたのか？　　　　」
 Masayoshi\n
 //"Hmm? You're still here?"
-"Mmm? Sigues aqui abajo?"
+"(Mmm? (Sigues aqu& abajo?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -506,7 +506,7 @@ Masayoshi\n
 //　　形跡がある　　　　　　　　　－
 \n
 //- There are decomposing bodies here. It's hard to guess just how many bodies were tossed down here. -
-- Hay cadaveres en descomposicion aqui. Es dificil saber con exactitud cuantos cuerpos hay tirados. -
+- Hay cadaveres en descomposici[n aqu&. Es dif&cil saber con exactitud cuantos cuerpos hay tirados. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -521,8 +521,8 @@ Masayoshi\n
 //稲葉\n
 //　「なんだ！　このバケモノ！？」
 Inaba\n
-//"What the!? More monsters!?"
-"Pero que!? Mas monstruos!?"
+//"What the?! More monsters?!"
+")(P-pero?! )(M{s monstruos?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -539,7 +539,7 @@ Inaba\n
 //　「く、来るなぁー！！　　　　」
 Inaba\n
 //"S-stay back!!"
-"Dejadme en paz!!"
+"))Dejadme en paz!!"
 <$FF><$FF>
 <$50><$00>
 <$F8><$FF>
@@ -555,7 +555,7 @@ Inaba\n
 //　「は、早く　どこかに・・・　」
 Inaba\n
 //"I-I need to find an exit...!"
-"N-necesito escapar ahora...!"
+")N-necesito escapar ahora...!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -569,8 +569,8 @@ Inaba\n
 //稲葉\n
 //　「ん？　なんだこの音は！！
 Inaba\n
-//"What? What's that sound!?
-"Como? Que es ese sonido!?
+//"What? What's that sound?!
+")(C[mo? Qu} es ese sonido?!
 <$FA><$FF>
 <$00><$00>
 
@@ -582,7 +582,7 @@ Inaba\n
 //　　奥の方から聞こえてくるぞ！」
 \n
 //Something's coming from deep inside!"
-Algo emerge desde las profundidades!"
+)Algo emerge desde las profundidades!"
 
 <$FA><$FF>
 <$F8><$FF>

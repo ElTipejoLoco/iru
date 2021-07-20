@@ -14,7 +14,7 @@
 //　「！？　あ、開かない！　　　　　」
 Inaba\n
 //"I-it won't open!"
-"N-no se abrira!"
+")N-no se abrira!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -30,7 +30,7 @@ Inaba\n
 //　　また閉じ込められた！　　　　　　」
 Inaba\n
 //"H-here too! It's still sealed tight!"
-"A-aqui tampoco! Esta todo sellado!"
+")A-aqu& tampoco! )Est{ todo sellado!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -46,7 +46,7 @@ Inaba\n
 //　の粉を振りかけた！
 \n
 //- You sprinkled the Powder of Ibn-Ghazi on the invisible object! -
-- Tiras el polvo de Ibn-Ghazi una especie de objeto invisible! -
+- )Tiras el polvo de Ibn-Ghazi una especie de objeto invisible! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -61,7 +61,7 @@ Inaba\n
 //　壁の窪みに　紋章をはめ込んだ！
 \n
 //- You set the crest in the wall! -
-- Colocas la piedra en la pared! -
+- )Colocas la piedra en la pared! -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -70,7 +70,7 @@ Inaba\n
 //　　くれれば助かるんだけれど。」
 Inaba\n
 //"Hopefully this'll send the ceiling back up."
-"Con suerte esto hara que el techo suba."
+"Con suerte esto har{ que el techo suba."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -87,7 +87,7 @@ Inaba\n
 //　　　て　外すことが　できない　－
 \n
 //- You try and pull out the crest, but it's firmly stuck in place. -
-- Intentas quitar la piedra, pero esta bien sujeta en la pared. -
+- Intentas quitar la piedra, pero est{ bien sujeta en la pared. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -103,7 +103,7 @@ Inaba\n
 //　－　壁に　八角形の窪みがある　－
 \n
 //- There's an octagonal indentation in the wall. -
-- Hay una indentacion octogonal en la pared. -
+- Hay una indentaci[n octogonal en la pared. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -142,7 +142,7 @@ Inaba\n
 //　　手前に思いっきり引っ張った！
 \n
 //- You insert your hand into the handle and pull with all your might! -
-- Insertas tu mano para tirar del tirador con todas tus fuerzas! -
+- )Insertas tu mano para tirar del tirador con todas tus fuerzas! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -156,8 +156,7 @@ Inaba\n
 //稲葉\n
 //　「！？
 Inaba\n
-"!?<$20>
-
+")(Eh?! 
 <$FF><$FF>
 <$1E><$00>
 
@@ -165,7 +164,7 @@ Inaba\n
 //　　目に見えない、なにかが\n
 //　　穴をふさいでいるみたいだ。」
 //W-what the? There's something blocking the hole, but I don't see anything."
-P-pero que? Hay algo bloqueando el agujero, pero no parece estar visible."
+(P-pero qu}? Hay algo bloqueando el agujero, pero no parece estar visible."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -180,14 +179,14 @@ P-pero que? Hay algo bloqueando el agujero, pero no parece estar visible."
 //　「どうすれば、
 Inaba\n
 //"What<$20>
-"Que<$20>
+")(Qu}<$20>
 <$FF><$FF>
 <$1E><$00>
 
 //どうすれば\n
 //　　助かるんだ！？　　　　　　」
-//should I do!?"
-voy a hacer!?"
+//should I do?!"
+voy a hacer?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -215,7 +214,7 @@ no,<$20>
 
 //死にたくない。」
 //I don't want to die!"
-No quiero morir asi!"
+No quiero morir as&!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -230,7 +229,7 @@ No quiero morir asi!"
 //稲葉\n
 //　「いやだぁぁーー！！　　　　」
 Inaba\n
-"NOOOOOOO!!"
+"NOOOOO!!"
 
 <$FF><$FF>
 <$78><$00>
@@ -247,8 +246,8 @@ Inaba\n
 //　「ん！？\n
 //　　なんだ！　この音は？　　　　」
 Inaba\n
-//"Huh? What was that sound!?"
-"Eh? Que fue ese sonido!?"
+//"Huh? What was that sound?!"
+"(Eh? )(Qu} fue ese sonido?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -264,7 +263,7 @@ Inaba\n
 //　　なんとか　助かった！　　　」
 Inaba\n
 //"Phew... Somehow I'm still alive!"
-"Uf... No se como sigo con vida!"
+"Uf... )No se como sigo con vida!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

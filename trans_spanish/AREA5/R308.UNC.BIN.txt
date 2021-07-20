@@ -21,7 +21,7 @@ Hirose\n
 <$04><$00>
 
 //うっ、うわぁー
-A-AHHHHHH
+))A-AHHHH
 
 <$F3><$FF>
 <$04><$00>
@@ -47,7 +47,7 @@ Hirose\n
 //　　こ、こいつ・・・あわわっ、\n
 //　　来るな！来るなぁー
 //W-what the hell? N-no, s-stay back! STAY BACK
-Que demonios? N-no, a-alejate! ALEJATE AHORA
+(Qu} demonios? N-no, )a-al}jate! ))D#JAME EN PAZ
 <$F3><$FF>
 <$04><$00>
 
@@ -75,7 +75,7 @@ Mochizuki\n
 //不用意に近づくなんて馬鹿な\n
 //　　ヤツだ
 //It's his fault for approaching something like that haphazardly
-Es su culpa por haberse acercado a algo asi sin tener cuidado
+Es su culpa por haberse acercado a algo as& sin tener cuidado
 <$F3><$FF>
 <$68><$00>
 
@@ -94,8 +94,8 @@ Es su culpa por haberse acercado a algo asi sin tener cuidado
 
 //ティンダロスに追われること\n
 //　　も知らないで
-//It seems he didn't know about the Hounds of Tindalos either
-Parece que sabia nada acerca de los Sabuesos de Tindalos
+//It seems he didn't know about the Hounds of T&ndalos either
+Parece que no sab&a nada acerca de los Sabuesos de T&ndalos
 <$F3><$FF>
 <$68><$00>
 
@@ -115,7 +115,7 @@ Parece que sabia nada acerca de los Sabuesos de Tindalos
 //まぁ知らんから見たんだろう\n
 //　　がな
 //Well, how would he have known
-Bueno, como iba a saber nada
+Pero, (C[mo iba a }l a saberlo
 <$F3><$FF>
 <$68><$00>
 
@@ -131,8 +131,8 @@ Bueno, como iba a saber nada
 //　「なんだ今のは！？\n
 //　　ティ、ティンダロス？？　　」
 Inaba\n
-//"What the hell was that!? A Hound of T-Tindalos!?"
-"Que demonios es eso!? Un sabueso de T-Tindalos?!"
+//"What the hell was that?! A Hound of T-T&ndalos?!"
+")(Qu} demonios dices?! )(S-sabuesos de T&ndalos?!"
 <$FA><$FF>
 <$F6><$FF>
 <$F8><$FF>
@@ -150,7 +150,7 @@ Mochizuki\n
 //　　できない場所に住んでいる、\n
 //　　血に飢えた凶獣のことだ
 //They come from the corners of time. Those crazed, bloodthirsty beasts live in those unimaginable places
-Vienen de las esquinas del tiempo. Solo bestias enloquecidas y sedientas de sangre viven en esos lugares
+Vienen de las esquinas del tiempo. Son bestias enloquecidas y sedientas de sangre que viven en esos lugares
 <$F3><$FF>
 <$68><$00>
 
@@ -171,7 +171,7 @@ Vienen de las esquinas del tiempo. Solo bestias enloquecidas y sedientas de sang
 //　　の角には危険が潜んでいるの\n
 //　　だよ。誰も知らない事だ
 //Danger lurks in the long past corners of time. Things that no one should know
-El peligro acecha en los rincones del pasado. Cosas que nadie deberia saber
+El peligro acecha en los rincones del pasado. Cosas que nadie debe comprender
 <$F3><$FF>
 <$68><$00>
 
@@ -213,7 +213,7 @@ Ese espejo del suelo se llama 'Espejo de Notran'. Cuando se activa, se puede ver
 //　　奴と目が合った者は奴の\n
 //　　狩りの対象になるのだよ
 //But, those things live in the past. Just seeing them makes you a target for their hunt
-Pero, esas cosas viven en el pasado. Si las ves te conviertes directamente en su presa
+Pero, esas cosas viven en el pasado. Y si huele tu presencia pasar{s a ser su presa
 <$F3><$FF>
 <$68><$00>
 
@@ -234,7 +234,7 @@ Pero, esas cosas viven en el pasado. Si las ves te conviertes directamente en su
 //　　状況でも逃げられない。\n
 //　　奴はしつこく追ってくる
 //They'll chase you to the ends of the Earth without question. Your death will be inevitable
-Te perseguiran hasta los confines de la tierra sin descanso. Tu muerte sera algo inevitable
+Te perseguir{n hasta los confines del universo sin descanso. Tu muerte ser{ algo inevitable
 <$F3><$FF>
 <$68><$00>
 
@@ -255,7 +255,7 @@ Te perseguiran hasta los confines de la tierra sin descanso. Tu muerte sera algo
 //　　しばらくは続くだろう。\n
 //　　近づかない方が身のためだ
 //The mirror will still be active for a while longer. I can't say I recommend testing it out
-El espejo seguira activo durante un tiempo. La verdad es que no recomiendo que lo pruebes
+El espejo seguir{ activo durante un tiempo. La verdad es que no recomiendo que lo pruebes
 <$F3><$FF>
 <$68><$00>
 
@@ -270,8 +270,8 @@ El espejo seguira activo durante un tiempo. La verdad es que no recomiendo que l
 //　「何言ってんだよ！\n
 //　　広瀬が、広瀬が。　　　　　」
 Inaba\n
-//"What the hell are you talking about!? Hirose... he's..."
-"De que demonios estas hablando!? Hirose... No... esta..."
+//"What the hell are you talking about?! Hirose... he's..."
+")(De qu} demonios hablas?! Hirose... no... est{..."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -286,7 +286,7 @@ Mochizuki\n
 //フーム、この鏡を人殺しの\n
 //　　道具に使うとはなぁ
 //Still, I'm impressed that someone used this mirror as a murder weapon
-Me impresiona que hayan utilizado el espejo para asesinar a alguien
+Me impresiona que hayan =tilizado el espejo para asesinar a alguien
 <$F3><$FF>
 <$68><$00>
 
@@ -307,7 +307,7 @@ Me impresiona que hayan utilizado el espejo para asesinar a alguien
 //　　この事を知っていても覗く\n
 //　　かもしれないな
 //It uses someone's curiosity against them. Even if they know what it does, they might look anyway
-Han utilizado la curiosidad en su contra. Incluso si saben de que se trata, es dificil no mirar
+Han =tilizado la curiosidad en su contra. Incluso si conociesen el espejo, ser&a dif&cil resistirse
 <$F3><$FF>
 <$68><$00>
 
@@ -327,7 +327,7 @@ Han utilizado la curiosidad en su contra. Incluso si saben de que se trata, es d
 //しかし、こいつは豪華な仕掛\n
 //　　けだな
 //It's a bit extravagant though for my taste
-Es demasiado extravagante para mi gusto
+Quiz{s un poco 'extravagante' para mi gusto
 <$F3><$FF>
 <$68><$00>
 
@@ -341,8 +341,8 @@ Es demasiado extravagante para mi gusto
 //　「どうしちゃったんだよ！\n
 //　　望月！　　　　　　　　　　」
 Inaba\n
-//"Mochizuki! What the fuck are you talking about!?"
-"Mochizuki! De que demonios estas hablando ahora!?"
+//"Mochizuki! What the fuck are you talking about?!"
+")Mochizuki! )(De qu} demonios est{s hablando ahora?!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -357,7 +357,7 @@ Mochizuki\n
 //さっき君と会ったのは確か、\n
 //　　資料室だったかな、フム
 //I just met you in the reference room, right
-Nos hemos conocido en la sala de juntas, no
+Anda, t= eres el chico de antes, (Verdad
 <$F3><$FF>
 <$68><$00>
 
@@ -395,7 +395,7 @@ Nos hemos conocido en la sala de juntas, no
 //　　－　　広瀬が死んでいる　　－
 \n
 //- Hirose is dead. -
-- Hirose esta muerto. -
+- Hirose ha muerto. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -436,7 +436,7 @@ Su cuerpo huele fatal y esta cubierto de algo azul pegajoso. -
 //　「あれ？　通じないぞ？　　　」
 Inaba\n
 //"Huh? Why would someone do that?"
-"Porque haria alguien algo asi?"
+"(Porqu} har&a alguien algo as&?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -490,7 +490,7 @@ Inaba\n
 //　　外と連絡がとれれば・・・。」
 Inaba\n
 //"Damnit! If only I could reach the outside world!"
-"Demonios! Si solo pudiese salir al exterior!"
+")Demonios! )Si solo pudiese avisar a alguien!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -505,7 +505,7 @@ Inaba\n
 //　「鍵がかかっている。　　　　　」
 Inaba\n
 //"It's locked."
-"Esta cerrado."
+"Est{ cerrado."
 
 <$FA><$FF>
 <$F8><$FF>

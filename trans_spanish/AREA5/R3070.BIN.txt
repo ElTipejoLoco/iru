@@ -12,7 +12,7 @@
 //稲葉\n
 //　「！？
 Inaba\n
-"!?
+"?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -27,8 +27,8 @@ Inaba\n
 //　　何かあったのか！？\n
 //　　こんな時に・・・。　　　　　」
 \n
-//...a blackout!? What's going on!? Why now...?"
-...un apagon!? Que ocurre!? Justo ahora...?"
+//...a blackout?! What's going on?! Why now...?"
+)(...Un apag[n?! )(Qu} ocurre?! (Justo ahora...?"
 <$FA><$FF>
 <$F5><$FF>
 <$F8><$FF>
@@ -52,7 +52,7 @@ Kyoko\n
 //理恵、理恵ぇー！\n
 //　　ここ開けてよ、ねえ、理恵
 //Rie, Rie!! Open the door, please, Rie!
-Rie, Rie!! Abre la puerta, por favor!
+))Rie, Rie!! )Abre la puerta, por favor!
 <$F3><$FF>
 <$04><$00>
 
@@ -68,7 +68,7 @@ Rie, Rie!! Abre la puerta, por favor!
 //　　でもしたの？　　　　　　　」
 Inaba\n
 //"Kyoko, what's wrong? Did you guys get into a fight in the dark?"
-"Kyoko, que ocurre? Habeis tenido una pelea en medio del apagon?"
+"Kyoko, (Qu} ocurre? (Hab}is tenido una pelea en medio del apag[n?"
 <$FA><$FF>
 <$F6><$FF>
 <$F8><$FF>
@@ -85,7 +85,7 @@ Kyoko\n
 //違うんです先輩！\n
 //　　理恵が大変なんです
 //We didn't, Inaba! Something's wrong with Rie
-Nada de eso Inaba! Algo malo le ocurre a Rie
+)Nada de eso! ))Algo le est{ ocurriendo a Rie
 <$F3><$FF>
 <$04><$00>
 
@@ -106,7 +106,7 @@ Nada de eso Inaba! Algo malo le ocurre a Rie
 //　　てトイレに閉じこもっちゃっ\n
 //　　て、出てこないんです
 //She started muttering something about the moon, then locked herself in the bathroom and won't come out
-Ella comenzo a susurrar algo acerca de la luna, luego se encerro en el retrete y ahora no quiere salir
+Ella comenz[ a susurrar algo acerca de la luna, luego se encerr[ en el ba]o y ahora, )No quiere salir
 
 <$F3><$FF>
 <$04><$00>
@@ -126,7 +126,7 @@ Ella comenzo a susurrar algo acerca de la luna, luego se encerro en el retrete y
 
 //何か変ですよ、絶対
 //Something's not right, I know it
-Algo malo le ocurre, estoy segura
+Algo malo le ocurre, ))Estoy segura
 <$F3><$FF>
 <$04><$00>
 
@@ -140,7 +140,7 @@ Algo malo le ocurre, estoy segura
 //　「・・・何があったんだ？　　」
 Inaba\n
 //"...did something happen?"
-"...ha ocurrido algo?"
+"(...Ha ocurrido algo?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -155,8 +155,8 @@ Kyoko\n
 //先輩どうしよう！？\n
 //　　さっきから何も答えてくれな\n
 //　　いんです
-//Inaba, what do I do!? She won't answer me any more
-Inaba, que deberia hacer!? Ha dejado de responder
+//Inaba, what do I do?! She won't answer me any more
+)(Inaba, que hacemos?! Ha dejado de responder
 <$F3><$FF>
 <$04><$00>
 
@@ -176,7 +176,7 @@ Inaba, que deberia hacer!? Ha dejado de responder
 //そうだ、先輩！\n
 //　　北条先生を呼んできて下さい
 //Oh, Inaba! Call Ms. Hojou for me, please
-Oh, Inaba! Llama a Ms. Hojou, por favor
+Oh, )Inaba! Llama a Ms. Hojou, )Por favor
 <$F3><$FF>
 <$04><$00>
 
@@ -196,7 +196,7 @@ Oh, Inaba! Llama a Ms. Hojou, por favor
 //私、理恵が心配だからここに\n
 //　　いますから
 //I'm worried about Rie, so I'll wait here
-Me preocupa por Rie, asi que yo me quedo
+Me preocupa Rie, )As& que yo me quedo aqu&
 <$F3><$FF>
 <$04><$00>
 
@@ -235,8 +235,8 @@ Kyoko\n
 
 //どうしてなの！？\n
 //　　何があったの理恵
-//Why!? What happened, Rie
-Porque!? Que ocurre, Rie
+//Why?! What happened, Rie
+)(Porqu}?! (Qu} ocurre, Rie
 <$F3><$FF>
 <$04><$00>
 
@@ -258,15 +258,15 @@ Porque!? Que ocurre, Rie
 //　　開けてよ、理恵ぇ！　　　　　」
 Kyoko\n
 //"Rie!! Open up, Rie!"
-"Rie!! Abreme, Rie!"
+"))Rie!! )Abre la puerta!"
 <$FA><$FF>
 <$F8><$FF>
 
 //稲葉\n
 //　「・・・トイレの中か！？　　　」
 Inaba\n
-//"...from inside the stall!?"
-"...dentro de la caseta!?"
+//"...from inside the stall?!"
+")(...le habr{ dejado entrar?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -290,7 +290,7 @@ Mochizuki\n
 
 //きみ、ここはどこだね
 //You, where is this
-Tu, donde estamos
+T=, (D[nde estamos
 <$F3><$FF>
 <$04><$00>
 
@@ -305,7 +305,7 @@ Tu, donde estamos
 //　　ここは霧ヶ丘高校じゃないか！」
 Inaba\n
 //"What the hell are you saying, we're at Kirigaoka High!"
-"Que demonios estas diciendo, estamos en Kirigaoka!"
+"(Qu} te pasa? )Estamos en la escuela Kirigaoka!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -323,7 +323,7 @@ Mochizuki\n
 //　　では戻ってきたのか、そうか\n
 //　　・・・しかし
 //Kirigaoka High...? Then, I've returned. ...but
-La escuela...? Entonces, he vuelto. ...pero
+(La escuela...? Entonces, he vuelto... pero
 <$F3><$FF>
 <$04><$00>
 
@@ -344,12 +344,12 @@ La escuela...? Entonces, he vuelto. ...pero
 //　　・・・ということは、時代が\n
 //　　ずれているということか
 //I don't believe we've met? Maybe time's been distorted a bit
-No nos conocemos, no? El tiempo parece algo distorsionado
+No nos conocemos, (No? )El tiempo parece algo distorsionado
 <$F3><$FF>
 <$04><$00>
 
 //？　」
-?"
+!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -358,8 +358,8 @@ No nos conocemos, no? El tiempo parece algo distorsionado
 //　「も、望月・・・お、おまえ\n
 //　　どうしちまったんだよ！　　」
 Inaba\n
-//"M-Mochizuki... what's wrong with you!?"
-"M-Mochizuki... que diablos te ocurre!?"
+//"M-Mochizuki... what's wrong with you?!"
+"M-Mochizuki... )(Qu} diablos te ocurre?!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -375,7 +375,7 @@ Mochizuki\n
 //　　色々と調べなければならない\n
 //　　ことがあるのでな
 //Sorry, but I have things I need to investigate now
-Lo siento, pero hay cosas que necesito investigar
+Lo siento, pero hay cosas que debo investigar
 <$F3><$FF>
 <$04><$00>
 
@@ -399,7 +399,7 @@ Lo siento, pero hay cosas que necesito investigar
 //　　兄さんの名前じゃ・・・。　」
 Inaba\n
 //"I missed most of that, but wasn't that Mochizuki's brother's name...?"
-"No entiendo nada, pero no era ese el nombre del hermano de Mochizuki?"
+"No entiendo nada, pero... (No se llamaba as& el hermano de Mochizuki?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -433,7 +433,7 @@ Inaba\n
 //　　あいつら何を企んでるんだ？」
 Inaba\n
 //"M-Mochizuki? N-no, they said Kamiyama I think. What are they planning?"
-"M-Mochizuki? N-no, creo que dijeron Kamiyama. En que estas pensando?"
+"(M-Mochizuki? N-no, creo que dijeron Kamiyama. (En qu} est{s pensando?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -453,7 +453,7 @@ Inaba\n
 
 //　　　　　　美術準備室
 //Art Club Office
-Oficina de Plastica
+Oficina de Pl{stica
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -465,7 +465,7 @@ Oficina de Plastica
 //　　だろうから後で来よう。　　」
 Inaba\n
 //"I don't think she'll tell me the truth right now. I'll come back later."
-"No creo que ella vaya a decirme la verdad ahora. Volvere mas tarde."
+"No creo que ella vaya a decirme la verdad ahora. Volver} m{s tarde."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -478,7 +478,7 @@ Inaba\n
 
 //　　　　　　美術準備室
 //Art Club Office
-Oficina de Plastica
+Oficina de Pl{stica
 
 <$FF><$FF>
 <$3C><$00>
@@ -489,7 +489,8 @@ Oficina de Plastica
 //　「聞き取れなかったけど望月の\n
 //　　兄さんの名前じゃ・・・。
 Inaba\n
-"I missed most of that, but wasn't that Mochizuki's brother's name...?
+//"I missed most of that, but wasn't that Mochizuki's brother's name...?"
+"No entiendo nada, pero, (No era ese el nombre del hermano de Mochizuki?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -499,7 +500,7 @@ Inaba\n
 //　　なにか知ってるんだ！
 \n
 //That means Ms. Hojou knows something about Mochizuki's brother!
-Eso significa que Ms. Hojou sabe algo del hermano de Mochizuki!
+)Eso significa que Ms. Hojou sabe algo del hermano de Mochizuki!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -509,7 +510,7 @@ Eso significa que Ms. Hojou sabe algo del hermano de Mochizuki!
 //　　しばらく様子を見るべきだな」
 \n
 //Thankfully they didn't notice I was there. I should try and find more information."
-Menos mal que no se dieron cuenta de que estaba aqui. Deberia investigar todo esto."
+Menos mal que no se dieron cuenta de que estaba aqu&. deber&a investigar todo esto."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -522,7 +523,7 @@ Menos mal que no se dieron cuenta de que estaba aqui. Deberia investigar todo es
 
 //　　　　　　美術準備室
 //Art Club Office
-Oficina de Plastica
+Oficina de Pl{stica
 
 <$FF><$FF>
 <$3C><$00>
@@ -534,7 +535,7 @@ Oficina de Plastica
 //　　見つからないようにしよう。」
 Inaba\n
 //"I shouldn't enter now. I'd rather she didn't notice me."
-"No deberia entrar ahi. Prefiero que no se de cuenta."
+"No deber&a entrar ah&. Prefiero que no se de cuenta."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -547,7 +548,7 @@ Inaba\n
 
 //　　　　　　美術準備室
 //Art Club Office
-Oficina de Plastica
+Oficina de Pl{stica
 
 <$FF><$FF>
 <$3C><$00>
@@ -559,8 +560,8 @@ Oficina de Plastica
 //　　夢で相川の言ってた・・・\n
 //　　“逃げて”ってこのことか！？
 Inaba\n
-//"A god!? Was this what Aikawa meant in that dream when she told me to run!?
-"Un Dios!? Aikawa quiso decir eso cuando dijo que 'huyese' en mi pesadilla?
+//"A god?! Was this what Aikawa meant in that dream when she told me to run?!
+")(Un Dios?! )(Aikawa quer&a decir eso cuando dijo que 'huyese' en aquel sue]o?!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -570,7 +571,7 @@ Inaba\n
 //　　とても重要なことを・・・。
 \n
 //...Ms. Hojou knows what's going on. And it's big...
-...Ms. Hojou sabe lo que esta pasa. Es algo gordo...
+...Ms. Hojou sabe lo que ocurre. Esto es grande...
 <$FA><$FF>
 <$F8><$FF>
 
@@ -579,7 +580,7 @@ Inaba\n
 //　　助ける側じゃないかも・・・\n
 //　　安易に話しかけられないな。」
 //But, I don't know if I can trust her... I can't just approach her without a thought."
-Pero, no se si realmente puedo confiar en ella... No puedo confiar a ciegas ahora."
+Pero, no se si realmente puedo confiar en ella... No puedo dar pasos en falso ahora."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -592,7 +593,7 @@ Pero, no se si realmente puedo confiar en ella... No puedo confiar a ciegas ahor
 
 //　　　　　　美術準備室
 //Art Club Office
-Oficina de Plastica
+Oficina de Pl{stica
 
 <$FF><$FF>
 <$3C><$00>
@@ -604,7 +605,7 @@ Oficina de Plastica
 //　　近づかない方が賢明だ！！　」
 Inaba\n
 //"She'll kill me if she finds me! I shouldn't be here!!"
-"Me matara si me encuentra! No deberia estar aqui!!"
+")Me matar{ si me encuentra! ))No deber&a estar aqu&!!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -617,7 +618,7 @@ Inaba\n
 
 //　　　　　　美術準備室
 //Art Club Office
-Oficina de Plastica
+Oficina de Pl{stica
 
 
 <$FF><$FF>
@@ -631,7 +632,7 @@ Oficina de Plastica
 //　　先生はなにを企んでるんだ？
 Inaba\n
 //"M-Mochizuki? No, they said Kamiyama... What is Ms. Hojou planning?
-"M-Mochizuki? No, dijeron Kamiyama... Que demonios planea Ms. Hojou?
+"(M-Mochizuki? No, dijeron Kamiyama... (Qu} demonios planea Ms. Hojou?
 <$FA><$FF>
 <$F8><$FF>
 
@@ -640,8 +641,8 @@ Inaba\n
 //　　蘇らせようとしている・・・\n
 //　　邪神・・・なのか！？
 \n
-//She's trying to resurrect something horrifying... An... evil god!?
-Estara intentando resucitar algun horrible... Un... Dios malvado!?
+//She's trying to resurrect something horrifying... An... evil god?!
+Estar{ intentando resucitar alg=n horrible... un... )(Dios malvado?!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -650,8 +651,8 @@ Estara intentando resucitar algun horrible... Un... Dios malvado!?
 //　　としたら先生が犯人！？\n
 //　　嘘だろ！？・・・クソォ！！」
 \n
-//If that's what's going on, then she's the culprit behind all this!? Are you kidding!? God damnit!!"
-Si eso es lo que esta pasando, entonces ella es la culpable de todo esto!? En serio!? Maldita sea!!"
+//If that's what's going on, then she's the culprit behind all this?! Are you kidding?! God damnit!!"
+Si eso es lo que pasa, entonces, )(Ella es la culpable de todo esto?! )(En serio?! ))Maldita sea!!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -667,7 +668,7 @@ Si eso es lo que esta pasando, entonces ella es la culpable de todo esto!? En se
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -677,7 +678,7 @@ Si eso es lo que esta pasando, entonces ella es la culpable de todo esto!? En se
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -691,7 +692,7 @@ Inaba\n
 
 //　　　　　　女子トイレ
 //Women's Restroom
-WC de Mujeres
+Ba]o de Chicas
 
 <$FF><$FF>
 <$3C><$00>
@@ -706,7 +707,7 @@ WC de Mujeres
 
 //　　　　　　女子トイレ
 //Women's Restroom
-WC de Mujeres
+Ba]o de Chicas
 
 <$FF><$FF>
 <$3C><$00>
@@ -718,7 +719,7 @@ WC de Mujeres
 //　　まずいな。　　　　　　　　」
 Inaba\n
 //"It'd cause an uproar if I went in here."
-"Causaria un alboroto si entrase ahi."
+"Causar&a un alboroto si entro ah&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -732,7 +733,7 @@ Inaba\n
 
 //　　　　　　　資料室
 //Reference Room
-Sala de Referencia
+Sala de Referencias
 
 <$FF><$FF>
 <$3C><$00>
@@ -747,7 +748,7 @@ Sala de Referencia
 
 //　　　　　　　美術室
 //Art Club
-Plastica
+Pl{stica
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -761,7 +762,7 @@ Plastica
 
 //　　　　　　　美術室
 //Art Club
-Plastica
+Pl{stica
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -775,7 +776,7 @@ Plastica
 
 //　　　　　　美術準備室
 //Art Club Office
-Oficina de Plastica
+Oficina de Pl{stica
 
 
 <$FF><$FF>

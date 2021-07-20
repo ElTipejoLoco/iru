@@ -14,7 +14,7 @@
 //稲葉\n
 //　「！？
 Inaba\n
-"!?<$20>
+")(Eh?!
 
 <$FF><$FF>
 <$1E><$00>
@@ -22,7 +22,7 @@ Inaba\n
 //\n
 //　　・・・こ、校長先生ぇっ！！」
 //...p-principal!"
-...d-director!" 
+)...D-director!" 
 
 <$FA><$FF>
 <$F8><$FF>
@@ -42,7 +42,7 @@ Director\n
 //フーッ、たった今一つ手に\n
 //　　入れたばかりだが
 //Hmm, I did just get one, but
-Mmm, tome uno hace poco, pero
+Mmm, acabo de cazar, pero
 
 <$F3><$FF>
 <$04><$00>
@@ -63,14 +63,14 @@ Mmm, tome uno hace poco, pero
 //もう一つあっても・・・\n
 //　　問題はない、だろうな
 //I don't see anything wrong...
-No veo nada raro...  
+No est{ mal cazar otra...  
 
 <$F3><$FF>
 <$04><$00>
 
 //。　　　」
 //with seconds."
-con segundos."
+presa..."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -95,7 +95,7 @@ Enfermera\n
 
 //まどの、
 //t-the window...<$20>
-la ve-ventana...<$20>
+La ve-ventana...<$20>
 
 <$FF><$FF>
 <$14><$00>
@@ -184,7 +184,7 @@ Enfermera\n
 
 //ひとが、
 //She's...<$20>
-Esta...<$20>
+Est{...<$20>
 
 <$FF><$FF>
 <$14><$00>
@@ -207,14 +207,14 @@ Esa cosa la<$20>
 
 //あれが
 //killed<$20>
-asesino a<$20>
+asesin[ a<$20>
 
 <$FF><$FF>
 <$14><$00>
 
 //ころした
 //her
-sangre fria
+sangre fr&a
 
 <$F3><$FF>
 <$04><$00>
@@ -289,7 +289,7 @@ por favor
 //　　たところは　ないみたいだ　　－
 \n
 //- It's a regular scale. Nothing interesting here. -
-- Es una balanza normal. No hay nada mas aqui. -
+- Es una balanza normal. No hay nada m{s aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -306,7 +306,7 @@ por favor
 //　　たところは　ないみたいだ　　－
 \n
 //- This measures your sitting height. Nothing interesting here. -
-- Esto mide tu altura sentado. No hay nada mas aqui. -
+- Esto mide tu altura sentado. No hay nada m{s aqu&. -
 
 
 <$FA><$FF>
@@ -324,7 +324,7 @@ por favor
 //　　たところは　ないみたいだ　　－
 \n
 //- This measures your standing height. Nothing interesting here. -
-- Esto mide tu altura de pie. No hay nada mas aqui. -
+- Esto mide tu altura de pie. No hay nada m{s aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -341,7 +341,7 @@ por favor
 //　　特に変わったところは　ない　－
 \n
 //- A hospital bed. Nothing interesting here. -
-- Una cama de hospital. No hay nada mas. -
+- Una cama de hospital. No hay nada m{s. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -376,7 +376,7 @@ Inaba\n
 //　「何もゴミが入ってないな。　」
 Inaba\n
 //"There's nothing but trash inside."
-"No contiene nada mas que basura."
+"No contiene nada m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -430,7 +430,7 @@ Inaba\n
 //　　なんだか、わからないな。
 Inaba\n
 //"There's lots of medicine here, but I don't know what they're for.
-"Hay un monton de libros de medicina, pero no se para que son.
+"Hay muchos de libros de medicina, pero no s} para qu} sirven.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -440,7 +440,7 @@ Inaba\n
 //　　時に助かるんだけど。　　　」
 \n
 //There's some ointment though, that could be useful in a pinch."
-Pero veo una especie de crema, quizas sea util en un futuro."
+Veo dentro una especie de crema, quiz{s sea =til en un futuro."
 
 <$FA><$FF>
 <$F8><$FF>

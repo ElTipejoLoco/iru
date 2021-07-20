@@ -13,7 +13,7 @@
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La persiana ha sido cerrada. -
+- La persiana est{ cerrada. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -23,8 +23,8 @@
 //　　なにか法則性がある閉まり方\n
 //　　を、しているのか！？　　　」
 Inaba\n
-//"Here too!? Did someone shut them all at once somehow!?"
-"Aqui tambien!? Alguien ha conseguido cerrar todas!?"
+//"Here too?! Did something shut them all at once somehow?!"
+")(Aqui tambi}n?! )(Alguien ha conseguido cerrar todas?!"
 
 <$FA><$FF>
 <$F8><$FF>

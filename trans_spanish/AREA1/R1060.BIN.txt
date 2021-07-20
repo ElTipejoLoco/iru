@@ -14,8 +14,8 @@
 //稲葉\n
 //　「も、望月。　お、おまえ！？」
 Inaba\n
-//"M-Mochizuki. D-did you...!?"
-"M-Mochizuki. Pe-pero que...!?"
+//"M-Mochizuki. D-did you...?!"
+"Mochizuki. )(Pero qu}...?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -34,13 +34,13 @@ Mochizuki\n
 //　　こ、これは・・・お、俺が、\n
 //　　俺がやったのか
 //I-Inaba. T-this... I-I... Did I...
-I-I-Inaba. E-esto... Y-yo... lo he...
+I-I-Inaba. Esto... yo... )(lo he...
 
 <$F3><$FF>
 <$04><$00>
 
 //！？
-!?
+?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -55,14 +55,14 @@ I-I-Inaba. E-esto... Y-yo... lo he...
 //い、いや違う・・・で、でも\n
 //　　・・・そんな
 //N-no, I-I couldn't have... but...
-N-no, Y-yo no he podido... pero...
+Y-yo n-no he podido... )(He...
 
 <$F3><$FF>
 <$04><$00>
 
 //！？　　　　　」
-//maybe I...!?"
-He sido...!?"
+//maybe I...?!"
+sido yo...?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -72,7 +72,7 @@ He sido...!?"
 //　　冷静になるんだ！！　　　　」
 Inaba\n
 //"Woah, woah, just calm down!!"
-"Espera, espera, calmate!!"
+"))Alto, espera, c{lmate!!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -91,7 +91,7 @@ Mochizuki\n
 //　　そしてまた、頭痛におそわれ\n
 //　　て
 //I heard someone's voice. Then, it felt like my head split open
-Escuche una voz. Despues mi cabeza parecia partirse en dos
+Escuch} una voz. Despu}s mi cabeza pareci[ partirse en dos
 
 <$F3><$FF>
 <$04><$00>
@@ -113,7 +113,8 @@ Escuche una voz. Despues mi cabeza parecia partirse en dos
 //そのまま意識が遠のい\n
 //　　たんだ
 //then, it felt like my consciousness just faded
-despues, mi consciencia se desvanecio
+despu}s de eso, mi consciencia se desvaneci[
+
 <$F3><$FF>
 <$04><$00>
 
@@ -133,7 +134,7 @@ despues, mi consciencia se desvanecio
 //気がついたら、お、俺は\n
 //　　ここにいた
 //When I came to, I-I was here
-Cuando desperte, estaba a-aqui
+Cuando despert}, estaba a-aqu&
 
 <$F3><$FF>
 <$04><$00>
@@ -154,7 +155,7 @@ Cuando desperte, estaba a-aqui
 //そして、目の前で人が・・・\n
 //　　人が死んでいる
 //Then, there was a dead person... in front of me
-Entonces, habia un cadavez... delante de mi
+Entonces, v& este cadaver... delante de m&
 
 <$F3><$FF>
 <$04><$00>
@@ -175,9 +176,9 @@ Entonces, habia un cadavez... delante de mi
 //お、俺は、俺は・・・！？\n
 //　　うあぁ・・・まただ！\n
 //　　また頭がぁ
-//D-did I-I...!?
+//D-did I-I...?!
 //AURGH... NO!! NOT AGAIN
-H-he sido...!?
+)(He sido...?!\n
 ARGH... NO! OTRA VEZ NO
 
 <$F3><$FF>
@@ -202,7 +203,7 @@ ARGH... NO! OTRA VEZ NO
 //　　－　　生徒の死体がある　　－
 \n
 //- There's a dead student here. -
-- Hay un estudiante muerto aqui. -
+- Hay un estudiante muerto aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -219,7 +220,7 @@ ARGH... NO! OTRA VEZ NO
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -229,7 +230,7 @@ ARGH... NO! OTRA VEZ NO
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -243,7 +244,7 @@ Inaba\n
 
 //　　　　　　女子トイレ
 //Women's Restroom
-WC de Mujeres
+Ba]o de Chicas
 
 <$FF><$FF>
 <$3C><$00>
@@ -259,7 +260,7 @@ WC de Mujeres
 //　　　　　　　空き室\n
 //　　－　カギが掛かっている　－
 // Empty Room\n
-Sala vacia\n
+Sala vac&a\n
 //- Locked -
 - Cerrado -
 

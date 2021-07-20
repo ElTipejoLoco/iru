@@ -13,8 +13,8 @@
 //　「な、何だ！？\n
 //　　うなり声・・・か？　　　　」
 Inaba\n
-//"W-what the!? Was that a... groan?"
-"P-pero que!? fue eso un... grito?"
+//"W-what the?! Was that a... groan?"
+")(P-pero qu}?! (Un... grito?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -46,7 +46,7 @@ Inaba\n
 //　「お腹が痛いよぉ～。　　　　」
 Hirose\n
 //"My stomach hurts so baaadly~!"
-"Me duele mucho el estomago~!"
+")Me duele mucho el estomago~!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -62,7 +62,7 @@ Hirose\n
 //　　お腹が痛いよぉ～。　　　　」
 Hirose\n
 //"My stomach hurts~ So baaadly~!"
-"Me duele el estomago~ Muchoo~!"
+")Me duele el estomago~ Muchoo~!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -77,7 +77,7 @@ Hirose\n
 //\n
 //　－　鏡に　自分が映っている　－
 \n
-//- You see your reflection. -
+//- You see yourself in the mirror. -
 - Ves tu reflejo en el espejo. -
 
 <$FA><$FF>
@@ -94,7 +94,7 @@ Hirose\n
 //　「だいぶ前髪が伸びたな。　　」
 Inaba\n
 //"My bangs are getting pretty long."
-"Deberia cortarme el flequillo."
+"Deber&a cortarme el flequillo."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -109,7 +109,7 @@ Inaba\n
 //\n
 //　－　鏡に　自分が映っている　－
 \n
-//- You see your reflection. -
+//- You see yourself in the mirror. -
 - Ves tu reflejo en el espejo. -
 
 <$FA><$FF>

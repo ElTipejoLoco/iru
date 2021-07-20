@@ -21,8 +21,8 @@ Nakanishi\n
 
 //こ、ここもなのかーっ！！\n
 //　　お、俺はあきらめないぞーっ
-//H-here too!? I-I'm not going to give up
-A-aqui tambien!? No dejare de intentarlo
+//H-here too?! I-I'm not going to give up
+)(A-aqu& tambi}n?! )No dejar} de intentarlo
 <$F3><$FF>
 <$04><$00>
 
@@ -54,7 +54,7 @@ Nakanishi\n
 //ところで、会議室に鍵が掛けら\n
 //　　れてるんだけど理由知らない
 //By the way, the meeting room appears to be locked. Any idea why
-Por cierto, la sala de juntas esta cerrada. Tienes idea de porque
+Por cierto, la sala de juntas est{ cerrada. (Tienes idea de porqu}
 <$F3><$FF>
 <$04><$00>
 
@@ -67,8 +67,9 @@ Por cierto, la sala de juntas esta cerrada. Tienes idea de porque
 //稲葉\n
 //　「・・・さぁ？　　　　　　　　」
 Inaba\n
+			
 //"No idea."
-"Ni idea."
+"Ni idea."	  
 <$FA><$FF>
 <$F8><$FF>
 
@@ -82,7 +83,7 @@ Nakanishi\n
 
 //誰が閉めたんだ
 //Why would someone lock it
-Porque la han cerrado
+(Porqu} la han cerrado
 <$F3><$FF>
 <$04><$00>
 
@@ -105,7 +106,7 @@ Porque la han cerrado
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La salida esta cerrada. 
+- La salida est{ cerrada. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -115,7 +116,7 @@ Porque la han cerrado
 //　　なにか、あったんだろうか？」
 Inaba\n
 //"Why is it closed? Did something happen?"
-"Porque esta cerrada? Ha pasado algo?"
+"(Porqu} est{ cerrada? (Ha pasado algo?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -130,7 +131,7 @@ Inaba\n
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La persiana esta cerrada. -
+- La persiana est{ cerrada. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -140,7 +141,7 @@ Inaba\n
 //　　込めているとしか思えない！
 Inaba\n
 //"This is not normal! Someone's trying to keep us trapped here!
-"Esto no es normal! Alguien nos esta encerrando a todos aqui!
+")Esto no es normal! )Alguien nos est{ encerrando a todos aqu&!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -149,7 +150,7 @@ Inaba\n
 //　　誰かが・・・・・・。　　　」
 \n
 //But who...?"
-Quien...?"
+Qui}n...?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

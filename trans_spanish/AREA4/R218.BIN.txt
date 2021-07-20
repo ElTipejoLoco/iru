@@ -30,7 +30,7 @@
 //－　机を並べて布で装飾してある　－
 \n
 //- The desks are pushed together and decorated with table cloths. -
-- Los pupitres estan colocados y decorados con manteles. -
+- Los pupitres est{n colocados y decorados con manteles. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -40,7 +40,7 @@
 //　　れるかな。　　　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -58,7 +58,7 @@ Inaba\n
 //　　目を通した　　　　　　　　　－
 \n
 //- You pull back the curtain and look at the printouts. -
-- Retiras la cortina y miras las impresiones. -
+- Retiras la cortina y te paras a admirar los patrones. -
 
 <$FA><$FF>
 <$F8><$FF>

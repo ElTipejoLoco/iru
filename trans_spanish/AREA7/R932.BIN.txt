@@ -41,8 +41,8 @@ Oye, mira. Han cerrado la salida de incendios
 
 //どうなってんだ！？\n
 //　　誰かのイタズラか
-//Why's it closed!? Is someone playing a prank on us
-Porque esta cerrada!? Es una especie de broma
+//Why's it closed?! Is someone playing a prank on us
+)(Porqu} est{ cerrada?! (Es una especie de broma
 <$F3><$FF>
 <$04><$00>
 
@@ -75,7 +75,7 @@ Nakanishi\n
 //　　まあ、いいや、反対側の階段\n
 //　　を使おう
 //Ugh, jeez. Fine, I'll just use the stairs on the other side
-Ugh, venga vale. Ire al otro ala para usar las escaleras
+Ugh, venga vale. Ir} al otro ala para usar las escaleras
 <$F3><$FF>
 <$04><$00>
 
@@ -98,7 +98,7 @@ Ugh, venga vale. Ire al otro ala para usar las escaleras
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La persiana esta cerrada. -
+- La persiana est{ cerrada. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -108,7 +108,7 @@ Ugh, venga vale. Ire al otro ala para usar las escaleras
 //　　なにか、あったんだろうか？」
 Inaba\n
 //"Why is it closed? Did something happen?"
-"Porque esta cerrada? Ha pasado algo?"
+"(Porqu} est{ cerrada? (Ha pasado algo?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -123,7 +123,7 @@ Inaba\n
 //\n
 //－　防火シャッターが降りている　－
 \n
-- The fire shutter is closed. -
+//- The fire shutter is closed. -
 - Salida de incendios cerrada. - 
 <$FA><$FF>
 <$F8><$FF>
@@ -134,7 +134,7 @@ Inaba\n
 //　　込めているとしか思えない！
 Inaba\n
 //"This is not normal! Someone's trying to keep us trapped here!
-"Esto no es normal! Alguien nos esta encerrando a todos aqui!
+")Esto no es normal! )Alguien nos est{ encerrando a todos aqu&!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -142,8 +142,8 @@ Inaba\n
 //\n
 //　　誰かが・・・・・・。　　　」
 \n
-But who...?"
-Quien...?"
+//But who...?"
+Qui}n...?"
 
 <$FA><$FF>
 <$F8><$FF>

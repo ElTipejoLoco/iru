@@ -13,7 +13,7 @@
 //@|@‹¾‚É@©•ª‚ª‰f‚Á‚Ä‚¢‚é@|
 \n
 //- You see your reflection. -
-- Ves tu reflejo en el espejo. -
+- Contemplas tu reflejo. -
 
 <$FA><$FF>
 <$F8><$FF>

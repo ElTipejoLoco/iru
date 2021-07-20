@@ -22,7 +22,7 @@ Mochizuki\n
 //　　体に入り込むとは。\n
 //　　フッこれも運命というやつか
 //Did I really... enter Masayoshi's brother's body? Maybe it was fate
-He e-entrado... dentro de mi hermano Masayoshi? Quizas es el destino
+He e-entrado... dentro de mi hermano Masayoshi? Quiz{s es el destino
 <$F3><$FF>
 <$04><$00>
 
@@ -35,8 +35,8 @@ He e-entrado... dentro de mi hermano Masayoshi? Quizas es el destino
 //稲葉\n
 //「もう一つの・・・人格？？　　　」
 Inaba\n
-//"Another... personality!?"
-"Otra... personalidad!?"
+//"Another... personality?!"
+")(Otra... personalidad?!"
 <$FA><$FF>
 <$F8><$FF>
 <$00><$00>
@@ -57,7 +57,7 @@ Mochizuki\n
 //私は以前、この学校で教師をし\n
 //　　ていた
 //I used to teach at this school
-Yo fui profesor en esta escuela
+Yo fu& profesor en esta escuela
 <$F3><$FF>
 <$04><$00>
 
@@ -77,7 +77,7 @@ Yo fui profesor en esta escuela
 //　　意識により、私は時空を\n
 //　　超えた
 //But I became aware of something greater than myself and transcended space and time
-Pero me di cuenta de algo mas grande que nosotros y trascendi el espacio tiempo
+Pero me di cuenta de algo m{s grande que nosotros y trascendi el espacio tiempo
 <$F3><$FF>
 <$04><$00>
 
@@ -97,7 +97,7 @@ Pero me di cuenta de algo mas grande que nosotros y trascendi el espacio tiempo
 //イスの偉大なる種族の意志の\n
 //　　もとに
 //I knew the will of the Great Race of Yith
-Sabia la voluntad de la raza de los Yith
+Sab&a de la voluntad de la raza de los Yith
 <$F3><$FF>
 <$04><$00>
 
@@ -111,7 +111,7 @@ Sabia la voluntad de la raza de los Yith
 //　「イスの偉大なる種族？　　　　」
 Inaba\n
 //"The Great Race of Yith?"
-"La raza de los Yith?"
+"(La raza de los Yith?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -148,7 +148,7 @@ Eso es. Una raza de seres con un conocimiento mucho mayor al de la humanidad
 //　　自由にその精神を\n
 //　　行き来させる存在
 //With their knowledge, I could send my consciousness anywhere regardless of when or where
-Con su conocimiento, yo he logrado enviar mi conciencia dando igual el lugar o el cuando
+Con su conocimiento, yo he logrado enviar mi conciencia dando igual espacio o tiempo
 <$F3><$FF>
 <$04><$00>
 
@@ -169,7 +169,7 @@ Con su conocimiento, yo he logrado enviar mi conciencia dando igual el lugar o e
 //　　え、彼らの世界へと跳んだ！！\n
 //　　私は歓喜に打ち震えた
 //I changed places with one of them and jumped to their world! I tremebled in absolute awe of it all
-Cambie mi lugar con uno de ellos y entre en su mundo! Me estremeci de asombro por aquella vivencia
+)Cambie mi lugar con uno de ellos y entr} en su mundo! )Me estremec& de asombro por aquella vivencia
 <$F3><$FF>
 <$04><$00>
 
@@ -190,7 +190,7 @@ Cambie mi lugar con uno de ellos y entre en su mundo! Me estremeci de asombro po
 //　　ことのない偉大な知識の数々が\n
 //　　私の前に披露されたからだ
 //All of their collective knowledge sat before me, wisdom I could never obtain as a human
-Todo su conocimiento colectivo se me presento, sabiduria que ningun humano puede obtener
+Todo su conocimiento colectivo se me present[, )Sabidur&a que ningun humano puede obtener
 <$F3><$FF>
 <$04><$00>
 
@@ -210,7 +210,7 @@ Todo su conocimiento colectivo se me presento, sabiduria que ningun humano puede
 //私は感動したよ・・・真の喜び\n
 //　　を味わった
 //I felt true happiness... I felt complete and at peace
-Senti felicidad... Me senti completo y en paz
+Sent& felicidad... )Me sent& completo y en paz
 <$F3><$FF>
 <$04><$00>
 
@@ -248,7 +248,7 @@ He trascendido la humanidad
 <$04><$00>
 
 //Hahaha! It seems the mastermind behind this plot also wants to see into the other world
-Jajaja! Parece que el cerebro detras de esta trama tambien quiere visualizar otro mundo
+Jajaja! )Parece que el cerebro detr{s de esta trama tambi}n quiere visualizar otro mundo
 //ふ、ふぁはは。\n
 //　　この事件の首謀者も、あちら\n
 //　　の世界を覗きたいらしい
@@ -272,8 +272,8 @@ Jajaja! Parece que el cerebro detras de esta trama tambien quiere visualizar otr
 //　「今起こっていることについて、\n
 //　　何か知っているんですか！！」
 Inaba\n
-//"What do you know about what's going on!?"
-"Que sabes acerca de lo que ocurre!?"
+//"What do you know about what's going on?!"
+")(Qu} sabes acerca de lo qu} ocurre?!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -282,7 +282,7 @@ Inaba\n
 //　　私はすべてを見てきたと。
 Mochizuki\n
 //"I told you, didn't I? I've seen everything.
-"Te lo dije, verdad? Ya lo he visto todo.
+"Te lo dije, (Verdad? Ya lo he visto todo.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -300,15 +300,15 @@ Van a intentar resucitar un Dios que duerme en este lugar.
 //　　を引く娘をいけにえに。　　」
 \n
 //To do that, they must sacrifice the girl whose bloodline seals it."
-Para eso, van a sacrificar la chija cuyo linaje de sangre lo sella." 
+Para eso, van a sacrificar la chica cuyo linaje de sangre lo sella." 
 <$FA><$FF>
 <$F8><$FF>
 
 //稲葉\n
 //　「対抗者の血筋？？　　　　　」
 Inaba\n
-//"The bloodline that seals it!?"
-"Linaje de sangre lo sella!?"
+//"The bloodline that seals it?!"
+")(Linaje de sangre lo sella?!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -327,7 +327,7 @@ Mochizuki\n
 //　　いると思う？
 \n
 //Why did you think they built such an elaborate school on this lonely island?
-Porque piensas que construyeron una escuela en esta isla alejada de todo?
+(Porqu} piensas que construyeron una escuela en esta isla alejada de todo?
 <$FA><$FF>
 <$F8><$FF>
 
@@ -337,7 +337,7 @@ Porque piensas que construyeron una escuela en esta isla alejada de todo?
 //　　を隠すために建てられた。
 \n
 //It was to hide the elder sign that sealed the god down below.
-Para ocultar una marca antigua que sella el Dios subterraneo.
+Para ocultar la antigua marca que sella el Dios del inframundo.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -356,7 +356,7 @@ En otras palabras, el director tiene ese linaje en su sangre."
 //　　いけにえになるって？　　　」
 Inaba\n
 //"You said something about 'the girl whose bloodline seals it' right?
-"Dijiste algo sobre 'el linaje de su sangre lo sella', verdad?
+"Dijiste algo sobre 'el linaje de su sangre lo sella', (Verdad?
 <$FA><$FF>
 <$F8><$FF>
 
@@ -366,7 +366,7 @@ Inaba\n
 //　　ながら逃げ回っていたがね。」
 Mochizuki\n
 //"Yeah, I met them a while ago. She was running away in terror, unaware of her own fate."
-"Si, la conoci hace tiempo. Ella huia aterrorizada, inconsciente de su propio destino."
+"Si, la conoc& hace tiempo. Ella huia aterrorizada, inconsciente de su propio destino."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -412,8 +412,8 @@ Temo haber hablado demasiado. Debo seguir adelante
 //　「由麻ぁー！！\n
 //　　大丈夫かぁーっ！！　　　　」
 Inaba\n
-//"Yumaaa!! Are you okay!?"
-"Yumaaa!! Estas bien!?"
+//"Yumaaa!! Are you okay?!"
+")Yumaa! )(Est{s bien?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -431,7 +431,7 @@ Yuma\n
 <$04><$00>
 
 //いっ稲葉くん！
-I-Inaba!
+)I-Inaba!
 
 <$F3><$FF>
 <$04><$00>
@@ -458,7 +458,7 @@ Yuma\n
 <$04><$00>
 
 //きゃっ！
-Kyaaa!!
+))Aahh!!
 
 <$F3><$FF>
 <$04><$00>
@@ -484,7 +484,7 @@ Yuma\n
 
 //いやあぁぁーっ！\n
 //　　稲葉くーん！！
-AGHHH!! INABA!!
+))AGHH!! ))INABA!!
 
 <$F3><$FF>
 <$04><$00>
@@ -499,7 +499,7 @@ AGHHH!! INABA!!
 //稲葉\n
 //　「ゆっ由麻ぁー！！　　　　　」
 Inaba\n
-"YUUUUMAAAA!!!"
+"))YUUUMAAA!!"
 
 <$FF><$FF>
 <$78><$00>
@@ -512,7 +512,7 @@ Inaba\n
 //　「うっ！
 Inaba\n
 "
-ARGH!<$20>
+)ARGH! 
 
 <$F1><$FF>
 
@@ -522,14 +522,14 @@ ARGH!<$20>
 <$28><$00>
 
 //だっ
-W-
-
+//W-
+(Q-
 <$FF><$FF>
 <$14><$00>
 
 //誰だ
-who
-
+//who
+qui}n
 <$FF><$FF>
 <$28><$00>
 
@@ -565,7 +565,7 @@ who
 //－　　観葉植物が置いてある　　－
 \n
 //- There's a decorative plant here. -
-- Hay una planta decorativa aqui. -
+- Hay una planta decorativa aqu&. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

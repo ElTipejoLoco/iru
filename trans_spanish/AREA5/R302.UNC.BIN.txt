@@ -20,7 +20,7 @@ Mochizuki\n
 //これじゃない。\n
 //　　いったい、どこにあるんだ
 //This isn't it. Where the hell did it go
-Esto no es. Donde demonios se ha ido
+Esto no es... (D[nde demonios ha ido
 
 <$F3><$FF>
 <$04><$00>
@@ -36,7 +36,7 @@ Esto no es. Donde demonios se ha ido
 //　　準備もしないで。　　　　　」
 Inaba\n
 //"Mochizuki, what are you doing here? We have more work to do."
-"Mochizuki, que estas haciendo aqui? Tenemos que continuar."
+"Mochizuki, (Qu} est{s haciendo aqu&? Tenemos que continuar."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -50,7 +50,7 @@ Mochizuki\n
 <$04><$00>
 
 //い、稲葉か
-I-Inaba
+(I-Inaba
 
 <$F3><$FF>
 <$04><$00>
@@ -72,7 +72,7 @@ I-Inaba
 //　　わからないのに、一人で準備\n
 //　　なんかしてられるか
 //When are you guys coming back? You want me to go back and work alone
-Cuando vais a volver? Quieres que vuelve hasta alli y trabaje solo
+(Cuando vais a volver? (Quieres que vuelva hasta all& y trabaje solo
 
 <$F3><$FF>
 <$04><$00>
@@ -122,7 +122,7 @@ Mochizuki\n
 //探し物を見つけたら、戻る\n
 //　　からさ
 //I'll return when I find what I'm looking for
-Volvere si encuentro lo que estoy buscando
+Volver} cuando encuentre lo que busco
 
 <$F3><$FF>
 <$04><$00>
@@ -146,7 +146,7 @@ Volvere si encuentro lo que estoy buscando
 //　「いいかげん準備しようぜ？　」
 Inaba\n
 //"Will you just come help us already?"
-"Podrias venis a ayudarnos ahora?"
+"(Podr&as venir a ayudar de una vez?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -163,8 +163,8 @@ Mochizuki\n
 
 //わるい！\n
 //　　もう俺にかまわないでくれ！
-//I'm sorry, okay!? Just leave me alone!
-Lo siento, vale!? Dejame en paz!
+//I'm sorry, okay?! Just leave me alone!
+)(Lo siento, vale?! )D}jame en paz!
 
 <$FA><$FF>
 <$F3><$FF>
@@ -182,7 +182,7 @@ Lo siento, vale!? Dejame en paz!
 //　　このことで仕事なんか手に\n
 //　　着かないし
 //I'm not going to help out. Not like I could focus with all this anyway
-No voy a ayudar. Tampoco es como si me pudiese concentrarme ahora mismo
+No voy a ayudar. Tampoco es como si pudiese concentrarme ahora mismo
 
 <$F3><$FF>
 <$04><$00>
@@ -197,7 +197,7 @@ No voy a ayudar. Tampoco es como si me pudiese concentrarme ahora mismo
 //　「お、おいっ？　　　　　　　」
 Inaba\n
 //"H-hey, you okay?"
-"O-oye, estas bien?"
+"(Oye, est{s bien?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -213,7 +213,7 @@ Mochizuki\n
 //頭は・・・痛いし・・・。\n
 //　　クソォー
 //My head... Urgh... Damnit
-Mi cabeza... Ahg... Demonios
+Mi cabeza... Arhg ))Demonios
 
 <$F3><$FF>
 <$04><$00>
@@ -228,8 +228,8 @@ Mi cabeza... Ahg... Demonios
 //　「ど、どうしたんだよ！？\n
 //　　・・・大丈夫か！　　　　　」
 Inaba\n
-//"W-what's wrong!? Do you need anything?"
-"Q-que te ocurre!? Necesitas algo?"
+//"W-what's wrong?! Do you need anything?"
+")(Qu} te ocurre?! (Necesitas algo?"
 
 <$F6><$FF>
 <$FA><$FF>
@@ -252,7 +252,7 @@ Mochizuki\n
 //ああ、もう、かまわないで\n
 //　　くれよ
 //J-just don't bother me anymore
-S-solo que dejes de molestarme
+De-deja ya de molestarme
 <$F3><$FF>
 <$04><$00>
 
@@ -283,7 +283,7 @@ Mochizuki\n
 //　　・・・あっ、あ、頭が・・・！\n
 //　　・・・くうっっ
 //Urghh!! My head... auggghh
-Arggh! Mi cabeza... Arrghh
+)Argh! Mi cabeza... )Argh
 <$F3><$FF>
 <$04><$00>
 
@@ -297,7 +297,7 @@ Arggh! Mi cabeza... Arrghh
 //　「も、望月・・・大丈夫か？　」
 Inaba\n
 //"M-Mochizuki... are you okay?"
-"M-Mochizuki... estas bien?"
+"M-Mochizuki... (Est{s bien?"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -316,7 +316,7 @@ Mochizuki\n
 //稲葉\n
 //　「も、望月？　　　　　　　　」
 Inaba\n
-"M-Mochizuki?"
+"(Mochizuki?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -333,7 +333,7 @@ Mochizuki\n
 
 //ここは
 //where am I
-donde estoy
+(D[nde estoy
 <$F3><$FF>
 <$04><$00>
 
@@ -375,7 +375,7 @@ Mochizuki\n
 //　　望月、おまえどうしたんだ？
 Inaba\n
 //"Hey, Mochizuki! What's wrong?
-"Oye, Mochizuki! Que te ocurre?
+")Mochizuki! (Qu} te ocurre?
 <$FA><$FF>
 <$F8><$FF>
 
@@ -383,8 +383,8 @@ Inaba\n
 //　　いや、それよりさっきのこと\n
 //　　教えてくれ！　　　　　　　」
 \n
-//Better yet, what the hell was that!?"
-Mejor aun, que demonios ha sido eso?"
+//Better yet, what the hell was that?!"
+Mejor a=n, (Qu} demonios ha sido eso?"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -400,7 +400,7 @@ Mochizuki\n
 
 //何のことだ
 //What was what
-Que fue eso
+(Qu} fue eso
 <$F3><$FF>
 <$04><$00>
 
@@ -415,7 +415,7 @@ Que fue eso
 //　　今、ここで起きてることだ！」
 Inaba\n
 //"Don't play dumb! I mean like when Hirose was killed or what happened just now!"
-"No te hagas el tonto! Como cuando mataron a Hirose o lo que acaba de ocurrir!"
+")No te hagas el loco! )Como cuando mataron a Hirose o con lo que acaba de pasar!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -432,7 +432,7 @@ Mochizuki\n
 //広瀬が・・・殺された？\n
 //　　どういうことだ
 //Hirose was... killed? What are you talking about
-Hirose fue... asesinado? De que estas hablando
+Hirose fue... (Asesinado? (De qu} est{s hablando
 <$F3><$FF>
 <$04><$00>
 
@@ -447,7 +447,7 @@ Hirose fue... asesinado? De que estas hablando
 //　　おまえも見たじゃないか！！
 Inaba\n
 //"How do you not know, you were there!! You saw it!!
-"Como no lo sabias, estabas alli!! Lo has visto!!
+"))C[mo no lo sab&as, estabas all&!! ))Lo VISTE!!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -457,7 +457,7 @@ Inaba\n
 //　　ないか！？　　　　　　　　」
 \n
 //There was that... monster, you even knew what it was called!"
-Estaba ese... monstruo, incluso tu sabias como se llamaba!"
+Estaba ese... monstruo, )Incluso sab&as como se llamaba!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -474,7 +474,7 @@ Mochizuki\n
 //何言ってんだは、俺のセリフ\n
 //　　だ
 //Now I want to know what *you're* talking about
-Ahora quiero saber de lo que estas 'hablando'
+)Ahora quiero saber de lo qu} est{s 'hablando'
 <$F3><$FF>
 <$04><$00>
 
@@ -494,7 +494,7 @@ Ahora quiero saber de lo que estas 'hablando'
 //そんなくだらない話をして\n
 //　　俺の邪魔をしないでくれ
 //Don't bother me with your made-up bullshit
-No me molestes con esa bazofia inventada
+))No me molestes con esa bazofia inventada
 <$F3><$FF>
 <$04><$00>
 
@@ -529,7 +529,7 @@ Y deja de pedirme que te ayude con los preparativos. No estoy de humor
 //　　時に・・・？　　　　　　　」
 Inaba\n
 //"But, Mochizuki? I'm sure you were there with me when Hirose died. ...right?"
-"Pero, Mochizuki? Estoy seguro de que estabas cuando Hirose murio ...verdad?"
+"Pero, (Mochizuki? Estoy seguro de que estabas presente en lo de Hirose. (...No?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -566,7 +566,7 @@ No se que es lo que intentas con esto
 //そんなくだらない事につき\n
 //　　あっている暇はない
 //but just leave me out of your stupid fantasies
-pero intenta dejarme fuera de tus estupideces
+pero trata de no involucrarme en tus chorradas
 <$F3><$FF>
 <$04><$00>
 
@@ -593,7 +593,7 @@ Mochizuki\n
 //しつこいな！\n
 //　　そんな話は聞きたくない
 //Holy shit, I don't want to hear it, go away
-Dios santo, no quiero escucharte mas, vete
+Dios santo, no quiero escucharte mas, ))Vete
 <$F3><$FF>
 <$04><$00>
 
@@ -621,7 +621,7 @@ Mochizuki\n
 //ぐずぐずしてると、手遅れに\n
 //　　なるぞ
 //If you keep dwaddling, it'll be too late
-Si sigues paseando, sera demasiado tarde
+Si sigues paseando, ser{ demasiado tarde
 <$F3><$FF>
 <$04><$00>
 
@@ -648,7 +648,7 @@ Mochizuki\n
 
 //餌はどうした？　早く探せ
 //What about the bait? Hurry and find it.
-Y el cebo? Date prisa y encuentralo.
+(Y el cebo? Date prisa y encuentralo.
 
 <$F3><$FF>
 <$04><$00>
@@ -678,7 +678,7 @@ Mochizuki\n
 //　　アイツに食わせてこい！！\n
 //　　やらなければおまえも死ぬぞ
 //Ahh, yes yes! Feed that stuff to that thing! You'll die here if you don't do something
-Ahh, eso es! Dale de comer esa cosa al monstruo! Moriremos aqui si no haces algo ahora
+)Ahh, eso es! Dale de comer esa cosa al monstruo! Moriremos aqu& si no haces algo ahora
 
 <$F3><$FF>
 <$04><$00>
@@ -692,8 +692,8 @@ Ahh, eso es! Dale de comer esa cosa al monstruo! Moriremos aqui si no haces algo
 //稲葉\n
 //　「何か知ってるのか？　　　　」
 Inaba\n
-//"Just why do you know all of this!?"
-"Pero como sabes todas estas cosas!?"
+//"Just why do you know all of this?!"
+")(Porqu} sabes tanto sobre esto?!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -708,7 +708,7 @@ Mochizuki\n
 //分からなくてもいいんだ。\n
 //　　私の言う通りにすればな
 //There's no reason for me to tell you. Just listen to what I tell you
-No hay razon para que explique nada. Solo escucha atento mis consejos
+No hay raz[n para que explique nada. Solo intenta seguir mis consejos
 <$F3><$FF>
 <$04><$00>
 
@@ -736,7 +736,7 @@ Mochizuki\n
 //ヒントはやったんだ\n
 //　　後は君が一人でやるんだ
 //I gave you a hint. The rest is on you
-Te di la pista. El resto es cosa tuya
+Solo doy pistas. El resto es cosa tuya
 <$F3><$FF>
 <$04><$00>
 
@@ -778,7 +778,7 @@ Eres el chico de antes
 //稲葉\n
 //　「望月！？　　　　　　　　　」
 Inaba\n
-"Mochizuki!?"
+")(Mochizuki?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -796,7 +796,7 @@ Mochizuki\n
 //ちょうどいい！\n
 //　　君にして欲しい事があるんだ
 //Ah, good timing! There's something I want you to do
-Ah, justo a tiempo! Hay algo que quiero que hagas
+)Justo a tiempo! Hay algo que quiero que hagas
 <$F3><$FF>
 <$04><$00>
 
@@ -819,7 +819,7 @@ Ah, justo a tiempo! Hay algo que quiero que hagas
 //　　幼生、アイツをなんとかして\n
 //　　もらおう
 //There's a Shoggoth larva near the stairs. I want you to do something about it
-Hay una larva de Shoggoth en las escaleras. Quiero que hagas algo sobre ello
+Hay una larva de Shoggoth en las escaleras. Quiero que intentes acabar con ella
 
 <$F3><$FF>
 <$04><$00>
@@ -843,7 +843,7 @@ Hay una larva de Shoggoth en las escaleras. Quiero que hagas algo sobre ello
 //　　きっと何者かに餌づけされて\n
 //　　いる
 //That thing's not going anywhere, so someone must be feeding it
-Esa cosa no se va a mover a ninguna parte, deben darle de comer
+Esa cosa no se va a mover a ninguna parte, debes darle de comer
 <$F3><$FF>
 <$04><$00>
 
@@ -879,8 +879,8 @@ Quiero que encuentres algo de comer y se lo des al Shoggoth
 //　「望月・・・じゃないのか？\n
 //　　誰だおまえは！？
 Inaba\n
-//"You're not Mochizuki, are you...? Just who the hell are you!?
-"Tu no eres Mochizuki, verdad...? Puedes decirme quien eres?
+//"You're not Mochizuki, are you...? Just who the hell are you?!
+"Tu no eres Mochizuki... (Puedes decirme quien eres?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -890,7 +890,7 @@ Inaba\n
 //　　のか？　　　　　　　　　　」
 \n
 //What would feeding that thing do anyway?"
-Y que demonios le doy de comer a esa cosa?"
+(Qu} demonios le doy de comer a esa cosa?"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -908,7 +908,7 @@ Mochizuki\n
 //　　生き残りたいのだろう？\n
 //　　さあ、行きなさい
 //I am me, that's all. You want to live, right? Then get moving
-Yo soy yo, eso es todo. Quieres vivir, no? Pues date prisa
+Yo soy yo, eso es todo. (Quieres vivir, no? ))Pues date prisa
 <$F3><$FF>
 <$04><$00>
 
@@ -964,12 +964,12 @@ Mochizuki\n
 
 //上出来だよ！　
 //Good work!
-Buen trabajo!
+)Buen trabajo!
 <$04><$00>
 
 //ハハハ
 //Hahaha
-Jajaja
+)Jajaja
 <$F3><$FF>
 <$04><$00>
 
@@ -1000,7 +1000,7 @@ Mochizuki\n
 
 //稲葉、見てくれ
 //Inaba, look at this
-Inaba, mira esto
+Inaba, ))Mira esto
 
 <$F3><$FF>
 <$04><$00>
@@ -1016,7 +1016,7 @@ Inaba, mira esto
 //　こう書かれている
 \n
 //This is what the paper Mochizuki was holding said:
-Esto es lo que pone en el papel que te dio Mochizuki:
+Esto es lo que pone en el papel que te da Mochizuki:
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1026,7 +1026,7 @@ Esto es lo que pone en el papel que te dio Mochizuki:
 //　　彼なら、大丈夫だと・・・
 \n
 //I told Masayoshi everything. I though maybe it'd be okay...
-- Le dije todo a Masayoshi. Crei que todo estaria bien. 
+- Le dije todo a Masayoshi. Crei que todo estar&a bien. 
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1036,7 +1036,7 @@ Esto es lo que pone en el papel que te dio Mochizuki:
 //　　うやつらと暮らし・・・
 \n
 //...now he's stuck with the flesh-eating monsters that live in the darkness of the underground caves...
-...ahora esta atrapado con esos monstruos come-carne que viven en esas oscuras cuevas subterraneas.
+...ahora est{ atrapado con esos monstruos come-carne que viven en esas oscuras cuevas subterraneas.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1046,7 +1046,7 @@ Esto es lo que pone en el papel que te dio Mochizuki:
 //　　報い、あいつが・・・　　　　－
 \n
 //...it was fitting payback for his betrayal after he... -
-Era la venganza adecuada por su traicion antes de... -
+Era la venganza adecuada por su traici[n antes de... -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -1054,7 +1054,7 @@ Era la venganza adecuada por su traicion antes de... -
 //　破れていて　所々途切れている
 \n
 //e rest of the note was ripped apart.
-El resto de la nota esta destrozada.
+El resto de la nota est{ destrozada.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1073,7 +1073,7 @@ Mochizuki\n
 //　　兄さんが・・・生きている\n
 //　　かもしれない
 //This is about my brother. He... might still be alive
-Esto va sobre mi hermano. El... quizas siga vivo
+Esto va sobre mi hermano. #l... ))Quiz{s siga vivo
 
 <$F3><$FF>
 <$04><$00>
@@ -1095,7 +1095,7 @@ Esto va sobre mi hermano. El... quizas siga vivo
 //　　やっぱり、北条と兄さんの\n
 //　　間で何かあったんだ
 //I found this in the Art Club Office. Something definitely happened between Hojou and my brother
-Encontre esto en la oficina de plastica. Seguro que algo ocurrio entre Hojou y mi hermano
+Encontr} esto en la oficina de pl{stica. ))Seguro que algo ocurri[ entre Hojou y mi hermano
 <$F3><$FF>
 <$04><$00>
 
@@ -1116,7 +1116,7 @@ Encontre esto en la oficina de plastica. Seguro que algo ocurrio entre Hojou y m
 //　　この学校の地下には洞窟が\n
 //　　あって、
 //Oh yeah, Inaba, have you heard the rumor about the monsters who
-Inaba, alguna vez oiste el rumor que hablar sobre unos monstruos
+Oye, (Alguna vez oiste el rumor que hablar sobre los monstruos
 
 <$F3><$FF>
 <$04><$00>
@@ -1134,7 +1134,7 @@ Inaba, alguna vez oiste el rumor que hablar sobre unos monstruos
 //　　話を。\n
 //　　そいつらと一緒に兄さんが
 //live in an underground cave below the school? My brother could be trapped there with them
-que viven en una cueva subterranea bajo la escuela? Mi hermano podria estar atrapado alli
+que viven en una cueva subterranea bajo la escuela? )Mi hermano podr&a estar atrapado all&
 
 <$F3><$FF>
 <$04><$00>
@@ -1188,7 +1188,7 @@ la historia es conocida en toda la isla
 //そこに行けば手がかりが\n
 //　　つかめるかもしれない
 //If we go there, we might find a clue
-Si vamos, quizas encontremos pista
+Si vamos, )Quiz{s encontremos pistas
 
 <$F3><$FF>
 <$04><$00>
@@ -1209,7 +1209,7 @@ Si vamos, quizas encontremos pista
 //いやっ、そこに行けば兄さん\n
 //　　に会えるんだ
 //Not just that, I might be able to see my brother again
-Y no solo eso, quizas pueda volver a ver a mi hermano
+No solo eso, ))Quiz{s pueda volver a ver a mi hermano
 
 <$F3><$FF>
 <$04><$00>
@@ -1225,7 +1225,7 @@ Y no solo eso, quizas pueda volver a ver a mi hermano
 //　　その前にここから逃げなきゃ！
 Inaba\n
 //"Wait, Mochizuki! We need to escape, not go deeper inside!
-"Espera, Mochizuki! Necesitamos escapar no adentrarnos mas!
+")Espera, Mochizuki! )Necesitamos escapar no adentrarnos!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1236,7 +1236,7 @@ Inaba\n
 //　　おい、望月ィ！！　　　　　」
 \n
 //What's gotten into you lately, man! W-wait, Mochizuki!"
-Que es lo que esta pasando, tio! E-espara, Mochizuki!"
+)(Qu} es lo que est{ pasando, tio?! )Espera, Mochizuki!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1260,8 +1260,8 @@ Mochizuki\n
 
 //さっきは悪かった・・・。\n
 //　　頭痛がして、気が遠くなって
-Sorry about earlier... After I got a headache, my mind just went blank
-
+//Sorry about earlier... After I got a headache, my mind just went blank
+Siento lo de antes... Me quede en blanco justo con el dolor de cabeza
 <$F3><$FF>
 <$04><$00>
 
@@ -1302,12 +1302,12 @@ No tengo ni idea de lo que estaba haciendo hasta que has llegado tu
 //なにがあったんだ？\n
 //　　教えてくれ
 //Tell me, did something happen
-Dime, ha ocurrido alguna cosa
+)(Ha ocurrido algo extra]o
 <$F3><$FF>
 <$04><$00>
 
 //！！　　　　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1316,7 +1316,7 @@ Dime, ha ocurrido alguna cosa
 //　「広瀬が殺されたんだ！！　　」
 Inaba\n
 //"Hirose was killed!!"
-"Hirose esta muerto!!"
+"))Hirose est{ muerto!!"
 <$FA><$FF>
 <$F8><$FF>
 <$00><$00>
@@ -1336,7 +1336,7 @@ Mochizuki\n
 //それ・・・本当のことなのか？\n
 //　　例の化け物にか
 //Is that... true? Was it that monster you mentioned earlier
-Es eso... cierto? Fue el monstruo que mencionaste antes
+(Es eso... cierto? (Fue el monstruo que mencionaste antes
 <$F3><$FF>
 <$04><$00>
 
@@ -1356,7 +1356,7 @@ Es eso... cierto? Fue el monstruo que mencionaste antes
 //なんでそんなのがここにいる\n
 //　　んだ
 //Why the hell is something like that here
-Que demonios hace algo como esto aqui
+(Qu} demonios hace algo como esto aqu&
 <$F3><$FF>
 <$04><$00>
 
@@ -1371,7 +1371,7 @@ Que demonios hace algo como esto aqui
 //　　あんなの聞いたこともない！！
 Inaba\n
 //"I don't know! I've never heard of something crazy like that!
-No lo se! Nunca he oido algo parecido a una locura como esta!
+)No lo se! )Nunca he oido algo parecido a una locura como esa!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -1410,7 +1410,7 @@ Mochizuki\n
 //　　所になんで広瀬のヤツ行った\n
 //　　んだ
 //B-but why the hell did Hirose go to where that monster was
-P-pero porque demonios fue Hirose donde estaba el monstruo
+Pero, (Porqu} demonios fue Hirose donde estaba el monstruo
 <$F3><$FF>
 <$04><$00>
 
@@ -1426,7 +1426,7 @@ P-pero porque demonios fue Hirose donde estaba el monstruo
 //　　らしい。
 Inaba\n
 //"Hikawa was looking for you. I think Hikawa was making Hirose help him out.
-"Hikawa te estaba buscando. Creo que Hikawa queria que Hirose le ayudase.
+"Hikawa te estaba buscando. Creo que Hikawa quer&a que Hirose le ayudase.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -1466,12 +1466,12 @@ Mochizuki\n
 //氷川が、俺を会議室に呼んで\n
 //　　いた
 //Hikawa was calling me to the meeting room
-Hikawa queria que fuese a la sala de juntas
+)(Hikawa quer&a que fuese a la sala de juntas
 <$F3><$FF>
 <$04><$00>
 
 //！？
-!?
+?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1486,13 +1486,13 @@ Hikawa queria que fuese a la sala de juntas
 //そこに行った広瀬が化け物に\n
 //　　殺された！？\n
 //　　そこに俺もいた
-//To the place where a monster killed Hirose!? I went there too
-Al lugar donde el montruo mato a Hirose!? Yo tambien fui alli
+//To the place where a monster killed Hirose?! I went there too
+)(Al lugar donde el montruo mato a Hirose?! )(Yo tambi}n fu&
 <$F3><$FF>
 <$04><$00>
 
 //！？　　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1537,7 +1537,7 @@ Por favor, dame un tiempo para pensar en esto
 //　　隠れようがない！　　　　　」
 Inaba\n
 //"I can't hide in there, it's glass!"
-"Es cristal, no puedo esconderme ahi!"
+"Es cristal, )No puedo esconderme ah&!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1553,7 +1553,7 @@ Inaba\n
 //　　暇なんてない！　　　　　　」
 Inaba\n
 //"I don't have time to make room for myself in there!"
-"No tengo tiempo para hacerme hueco en este sitio!"
+")No tengo tiempo para hacerme hueco en este sitio!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1568,7 +1568,7 @@ Inaba\n
 //稲葉\n
 //　「！？
 Inaba\n
-"!?<$20>
+")(Eh?! 
 
 <$FF><$FF>
 <$1E><$00>
@@ -1576,7 +1576,7 @@ Inaba\n
 //\n
 //　　ここなら隠れられそうだ！　」
 //I think I can hide in here!"
-Puedo esconderme aqui dentro!"
+)Puedo esconderme aqu&!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1599,8 +1599,8 @@ Puedo esconderme aqui dentro!"
 //　　しかし、さっきのは\n
 //　　なにがどうなってんだ！？」
 Inaba\n
-//I think she's gone... What the hell was that!?"
-Creo que se ha ido... Que demonios fue eso!?"
+//I think she's gone... What the hell was that?!"
+Creo que se ha ido... )(Qu} demonios fue eso?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1618,7 +1618,7 @@ Creo que se ha ido... Que demonios fue eso!?"
 //　　ダンボール箱だ　　　　　　　－
 \n
 //- It's a cardboard box just large enough to fit in. -
-- Es solamente una caja de carton vacia y enorme. -
+- Es solamente una caja de cart[n vac&a y enorme. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1634,7 +1634,7 @@ Creo que se ha ido... Que demonios fue eso!?"
 //　　今出たらまずい！？　　　」
 Inaba\n
 //"They might be right outside the door, I can't leave now!"
-"Podria estar justo al otro lado, no puedo salir ahora!"
+")Podr&a estar justo al otro lado, no puedo salir ahora!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1651,7 +1651,7 @@ Inaba\n
 //　　この中で何とかできないか？」
 Inaba\n
 //"I'm stuck in here now! I need to find a way to hide before it's too late!"
-"Estoy atrapado aqui! Necesito buscar un escondite antes de que sea tarde!"
+")Estoy atrapado aqu&! )Necesito buscar un escondite ahora mismo!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1704,7 +1704,7 @@ e
 
 //\n
 //　　ぎゃぁぁー！！　　　　」
-ARGHHH!!"
+))ARHHH!!"
 
 <$FF><$FF>
 <$B4><$00>
@@ -1723,7 +1723,7 @@ ARGHHH!!"
 //　　書物がないか調べてみた　　　－
 \n
 //- You open the case and look for anything interesting. -
-- Abres la caja buscando alguna cosa interesante. -
+- Abres el mueble buscando alguna cosa interesante. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1742,7 +1742,7 @@ ARGHHH!!"
 //　　学校なんて珍しいよな。
 Inaba\n
 //"It sure is strange having a school on this remote island.
-"Es ciertamente raro que tengan una escuela en esta isla.
+"Es ciertamente extra]o que tengan una escuela en esta isla.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -1751,7 +1751,7 @@ Inaba\n
 //　　ろう。　　　　　　　　　　」
 \n
 //What made them decide to build it anyway?"
-Que es lo que les haria construirla aqui?"
+(Qu} es lo que les har&a construirla aqu&?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1768,7 +1768,7 @@ Que es lo que les haria construirla aqui?"
 //　　雰囲気を放つ本を見つけた
 \n
 //- One volume stands out when you investigate the shelf. It houses a strange aura.
-- Uno de los libros destaca al investigar la estanteria. Tiene un aura muy fuerte.
+- Uno de los libros destaca al investigar la estanter&a. Tiene un aura muy fuerte.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1798,7 +1798,7 @@ Tiene lo siguiente escrito en el. -
 //　　垣間見ることが　出来る　　　－
 \n
 //you can catch a glimpse of the planet Yuggoth under the guise of Pluto. -
-podras vislumbrar el planeta Yuggoth bajo la apariencia de Pluton. -
+podr{s vislumbrar el planeta Yuggoth bajo la apariencia de Plut[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1809,7 +1809,7 @@ podras vislumbrar el planeta Yuggoth bajo la apariencia de Pluton. -
 //　　天文室があるな。　　　　　」
 Inaba\n
 //"Like a telescope? Speaking of which, our school does actually have an observatory."
-"Un telescopio? Eso me recuerda que la escuela que tiene arriba un observatorio".
+"(Un telescopio? Eso me recuerda que la escuela que tiene arriba un observatorio".
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1826,7 +1826,7 @@ Inaba\n
 //　　書物がないか調べてみた　　　－
 \n
 //- You open the case and look for anything interesting. -
-- Abres la caja buscando alguna cosa interesante. -
+- Abres el mueble buscando alguna cosa interesante. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1836,7 +1836,7 @@ Inaba\n
 //　　歴史の資料のようだ　　　　　－
 \n
 //- This shelf appears to be full of historical records. -
-- Este estante esta lleno de registros historicos. -
+- Este estante est{ lleno de registros hist[ricos. -
 
 <$FA><$FF>
 <$F8><$FF>

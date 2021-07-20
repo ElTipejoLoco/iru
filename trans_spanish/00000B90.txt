@@ -66,13 +66,14 @@ Off
 #JMP($000664F8)
 //視点・上
 //Look up<$20><$20><$20>
-Arriba<$20><$20><$20>
+Arriba<$20><$20><$20><$20>
 <$00>
 #WARN($00066502, "WARNME")
 
 #JMP($00066503)
 //左平行移動
-Strafe<$20><$20><$20><$20>
+//Strafe<$20><$20><$20><$20>
+Lateral I.
 <$00>
 #WARN($0006650D, "WARNME")
 
@@ -93,7 +94,7 @@ Izquierda<$20>
 #JMP($00066524)
 //　後退　　
 //Back<$20><$20><$20><$20><$20><$20>
-Atras<$20><$20><$20><$20><$20>
+Atr{s<$20><$20><$20><$20><$20>
 <$00>
 #WARN($0006652E, "WARNME")
 
@@ -107,20 +108,21 @@ Derecha<$20><$20><$20>
 #JMP($0006653A)
 //視点・下　
 //Look down<$20>
-Abajo<$20>
+Abajo<$20><$20><$20><$20><$20>
 <$00>
 #WARN($00066544, "WARNME")
 
 #JMP($00066545)
 //右平行移動
-Strafe<$20><$20><$20><$20>
+//Strafe<$20><$20><$20><$20>
+Lateral D.
 <$00>
 #WARN($0006654F, "WARNME")
 
 #JMP($00000B64)
 //データがありません　
 //No data
-Sin datos
+Vac&o
 <$00>
 #WARN($00000B78, "WARNME")
 
@@ -181,7 +183,7 @@ Comprobando
 #JMP($00000C94)
 //　　　抜かないで下さい。　　　　
 //Please wait...
-Cargando...
+Espere...
 <$00>
 #WARN($00000CB4, "WARNME")
 
@@ -209,14 +211,14 @@ en Slot 1.
 #JMP($00000D24)
 //メモリーカードをスロット１に　　
 //Insert a memory card
-Inserta una memory card
+Inserta memory card
 <$00>
 #WARN($00000D44, "WARNME")
 
 #JMP($00000D48)
 //メモリーカードがありません。　　
 //No memory card found.
-Memory card no encontrada.
+No hay Memory card.
 <$00>
 #WARN($00000D68, "WARNME")
 
@@ -230,7 +232,7 @@ No    Si
 #JMP($00000D90)
 //フォーマットしてよろしいですか？
 //Format now?
-Formatear?
+(Formatear?
 <$00>
 #WARN($00000DB0, "WARNME")
 
@@ -244,7 +246,7 @@ formateada.
 #JMP($00000DD8)
 //メモリーカードがフォーマット　　
 //Memory card has not
-Memory card no ha sido
+Memory card no fu}
 <$00>
 #WARN($00000DF8, "WARNME")
 
@@ -286,7 +288,7 @@ Inserta otra memory card o
 #JMP($00000EB0)
 //空きブロックが足りません。　　　
 //Not enough free space.
-No hay espacio suficiente.
+Espacio insuficiente.
 <$00>
 #WARN($00000ED0, "WARNME")
 
@@ -300,7 +302,7 @@ No hay espacio suficiente.
 #JMP($00000EF8)
 //　　上書きしますか？　　　　　　
 //Overwrite?
-Sobreescribir?
+(Sobrescribir?
 <$00>
 #WARN($00000F18, "WARNME")
 
@@ -321,14 +323,14 @@ Ya existen datos en
 #JMP($00000F64)
 //もう一度セーブしますか？　　　　
 //Try again?
-Reintentar?
+(Reintentar?
 <$00>
 #WARN($00000F84, "WARNME")
 
 #JMP($00000F88)
 //データの書き込みに失敗しました。
 //Failed to overwrite data.
-Fallo al sobreescribir.
+Fallo al sobrescribir.
 <$00>
 #WARN($00000FA8, "WARNME")
 
@@ -349,7 +351,7 @@ Cueva
 #JMP($00000FC4)
 //地下神殿
 //Shrine
-Santuari
+Santuario
 <$00>
 #WARN($00000FCC, "WARNME")
 
@@ -390,21 +392,21 @@ Norte P3
 #JMP($0000100C)
 //ロードしない
 //Don't load
-No cargues
+Cancelar
 <$00>
 #WARN($00001018, "WARNME")
 
 #JMP($0000101C)
 //セーブしない
 //Don't save
-No guardes
+Cancelar
 <$00>
 #WARN($00001028, "WARNME")
 
 #JMP($0000103C)
 //　フォーマットできませんでした。
 //Could not format.
-Imposible formatear.
+Formateo imposible.
 <$00>
 #WARN($0000105C, "WARNME")
 
@@ -425,7 +427,7 @@ Datos fallidos.
 #JMP($000010A0)
 //　　　チェックに失敗しました
 //Check failed.
-Comprobacion fallida.
+Comprobaci[n fallida.
 <$00>
 #WARN($000010BC, "WARNME")
 
@@ -438,13 +440,13 @@ Comprobacion fallida.
 #JMP($00003524)
 //　　　　　　を手に入れた！
 //added to your inventory!
-guardado en tu inventario!
+(a]adido a tu inventario!
 <$00>
 #WARN($0000353E, "WARNME")
 
 #JMP($0006EF04)
 // Letter used for arrow
-<$81><$6C>
+<$81><$6F>
 
 #JMP($0006EE64)
 // 1. for Save
@@ -465,3 +467,39 @@ guardado en tu inventario!
 #JMP($0006EE84)
 // : for Save
 <$81><$98>
+
+// Shifted options menu
+///////////////////////
+
+#JMP($0006DDC0)
+//視点・上
+<$20>Arriba<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+
+//左平行移動
+<$20>Lateral I.<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+//　前進　　
+<$20>Adelante<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+//　左旋回　
+<$20>Izquierda<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+//　後退　　
+<$20>Atr{s<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+//　右旋回　
+<$20>Derecha<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+//視点・下　
+<$20>Abajo<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+//右平行移動
+<$20>Lateral D.<$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20><$20>
+<$00><$00>
+
+
+#JMP($0006EECC)
+//PAUSE
+<$D0><$C1><$D5><$D3><$C5>
+<$00>

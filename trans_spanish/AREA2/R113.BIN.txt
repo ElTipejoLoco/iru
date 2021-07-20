@@ -13,7 +13,7 @@
 //－　机を並べて布で装飾してある　－
 \n
 //- The desks are pushed together and decorated with table cloths. -
-- Los pupitres estan colocados y decorados con manteles. -
+- Los pupitres est{n colocados y decorados con manteles. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -23,7 +23,7 @@
 //　　れるかな。　　　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -39,17 +39,18 @@ Inaba\n
 //　－　　　普通のゴミ箱だ　　　－
 \n
 //- It's an ordinary trash can. -
-- Es una papelera normal y corriente. -
+- Una papelera corriente. -
 
 <$FA><$FF>
 <$F8><$FF>
 
 //稲葉\n
 //　「何もゴミが入ってないな。　」
-//Inaba\n
-//"There's nothing but trash inside."
+		 
+									 
 Inaba\n
-"No contiene nada mas que basura."
+//"There's nothing but trash inside."
+"No contiene nada m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -111,7 +112,7 @@ Inaba\n
 //　　“たこやき”と書いてある　－
 \n
 //- There's a food cart with a "Takoyaki" sign here. -
-- Hay un carro de comida con un cartel que dice "Takoyaki". -
+- Un carro de comida con un cartel que dice "Takoyaki". -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -128,7 +129,7 @@ Inaba\n
 //　　“やきイモ”と書いてある　－
 \n
 //- There's a food cart with a "Roasted Sweet Potatoes" sign here. -
-- Hay un carro de comida con un cartel que dice "Boniatos asados". -
+- Un carro de comida con un cartel que dice "Boniatos asados". -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -145,7 +146,7 @@ Inaba\n
 //　　“たいやき”と書いてある　－
 \n
 //- There's a food cart with a "Taiyaki" sign here. -
-- Hay un carro de comida con un cartel que dice "Taiyaki". -
+- Un carro de comida con un cartel que dice "Taiyaki". -
 
 <$FA><$FF>
 <$F8><$FF>

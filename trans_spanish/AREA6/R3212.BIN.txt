@@ -13,7 +13,7 @@
 //　「ついに押してしまった。　」
 Inaba\n
 //"It's pushed all the way in."
-"Esta metido hasta el fondo."
+"Est{ metido hasta el fondo."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -46,7 +46,7 @@ Inaba\n
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -56,7 +56,7 @@ Inaba\n
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -118,7 +118,7 @@ Inaba\n
 
 //　　　　　　男子更衣室
 //Men's Locker Room
-Casillero de hombres
+Casillero de Chicos
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -132,7 +132,7 @@ Casillero de hombres
 
 //　　　　　　男子トイレ
 //Men's Restroom
-WC de hombres
+Ba]o de Chicos
 
 <$FF><$FF>
 <$3C><$00>

@@ -24,7 +24,7 @@ Hikawa\n
 //　　アーボウブルヴの怒気よ、\n
 //　　静まれ
 //I command you in thine master's name! Quell yourself before Ahboruth's anger
-Te lo ordeno en nombre del maestro! Calmate ante la ira de Ahboruth
+)Te lo ordeno en nombre de tu maestro! ))C{lmate ante la ira de Ahboruth
 
 <$F3><$FF>
 <$04><$00>
@@ -51,7 +51,7 @@ Hikawa\n
 //まったく、ボサッとしてねぇで、\n
 //　　さっさと消えろ
 //For fuck's sake, don't just stand there! Disappear
-Por amor de Dios, no te quedes ahi! Desaparece
+Por amor de Dios, )No te quedes ah&! ))Desaparece
 
 <$F3><$FF>
 <$04><$00>
@@ -76,7 +76,7 @@ Por amor de Dios, no te quedes ahi! Desaparece
 //　－　　　普通のゴミ箱だ　　　－
 \n
 //- It's an ordinary trash can. -
-- Es una papelera normal y corriente. -
+- Es una papelera corriente. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -85,7 +85,7 @@ Por amor de Dios, no te quedes ahi! Desaparece
 //　「何もゴミが入ってないな。　」
 Inaba\n
 //"There's nothing but trash inside."
-"No contiene nada mas que basura."
+"No contiene nada m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -102,7 +102,7 @@ Inaba\n
 //　　停電なので　電源は入らない　－
 \n
 //- There's an electric drill here, but the power's out. -
-Hay un taladro electrico aqui, pero no hay electricidad. -
+Hay un taladro electrico aqu&, pero no hay electricidad. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -136,7 +136,7 @@ Hay una sierra electrica, pero no hay electricidad. -
 //　　の箱が　並べてある　　　　　－
 \n
 //- There's a wooden bookcase here with cardboard boxes on it. -
-- Hay una estanteria de madera con cajas de carton en ella. -
+- Hay una estanter&a de madera con cajas de cart[n en ella. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -146,7 +146,7 @@ Hay una sierra electrica, pero no hay electricidad. -
 //　　木材が　たくさん入っている　－
 \n
 //- There's a lot of small crafting wood inside the boxes. -
-- Hay un monton de tallas de madera dentro de las cajas. -
+- Hay varias tallas de madera dentro de las cajas. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -174,7 +174,7 @@ Hay una sierra electrica, pero no hay electricidad. -
 //　　はないな。　　　　　　　　」
 Inaba\n
 //"There's a lot of crafting equipment in here, but nothing particularly useful."
-"Hay equipos de artesania por aqui, pero nada particularmente util."
+"Hay equipos de artesania por aqu&, pero nada particularmente =til."
 
 <$FA><$FF>
 <$F8><$FF>

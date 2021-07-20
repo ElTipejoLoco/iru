@@ -24,7 +24,7 @@ Hikawa\n
 //　　たいした用じゃねえだろ？\n
 //　　頼む
 //Hey man, do me a favor, will ya? It's no big deal, it'll just take you a second
-Oye tio, hazme un favor, quieres? No es gran cosa, solo te llevara un segundo
+Oye tio, hazme un favor, (Vale? No es gran cosa, )Solo te llevar{ un segundo
 
 <$F3><$FF>
 <$04><$00>
@@ -47,8 +47,8 @@ Hirose\n
 //で、でもぉ・・・早く帰らない\n
 //　　と。\n
 //　　もう晩御飯の時間だしぃ
-B-but... I need to hurry back so we can finish up. It's already dinner time
-P-pero... Necesito darme prisa para acabar. Ya es casi la hora de la cena
+//B-but... I need to hurry back so we can finish up. It's already dinner time
+P-pero... Necesito darme prisa y acabar ahora. Ya es casi la hora de cenar
 
 <$F3><$FF>
 <$68><$00>
@@ -75,7 +75,7 @@ Hikawa\n
 //俺の言うことが聞けねえって\n
 //　　いうのか
 //So, you're saying you didn't hear me
-Entonces, dices que no me escuchas
+(C[mo? Entonces, (No vas a obedecerme
 <$F3><$FF>
 <$04><$00>
 
@@ -96,7 +96,7 @@ Entonces, dices que no me escuchas
 //偉くなったよ、おまえは。\n
 //　　俺の頼みを断るなんてなぁ
 //You see, I don't like it when people don't listen
-Veras, no me gusta que la gente no me escuche
+Mira, no me gusta que la gente me ignore
 <$F3><$FF>
 <$04><$00>
 
@@ -119,7 +119,7 @@ Hirose\n
 //　　そ、それに僕、ヤダなんて一言\n
 //　　も言ってないよ
 //T-that's not what I meant! I never said I wouldn't do it
-No-no quise decir eso! Nunca dije que no iba a hacerlo
+)No-no quiero decir eso!)No digo que no vaya a ayudarte
 <$F3><$FF>
 <$68><$00>
 
@@ -145,7 +145,7 @@ Hikawa\n
 //そうか？\n
 //　　じゃあよろしく頼むぜ
 //Is that so? Well, I'm counting on you then
-Seguro? Bueno, entonces contare contigo
+(Seguro? Bueno, )Entonces cuento contigo
 <$F3><$FF>
 <$04><$00>
 
@@ -182,7 +182,7 @@ Hirose\n
 //　「今、何を言われたんだ？　　」
 Inaba\n
 //"What was that all about?"
-"De que iba todo eso?"
+"(De qu} iba todo eso?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -198,7 +198,7 @@ Hirose\n
 //　　ちょっと用事を手伝ってくれ\n
 //　　って
 //It's nothing, he just wanted some help with something
-No es nada, solo queria pedirme su ayuda con una cosa
+No es nada, solo quer&a pedirme su ayuda con una cosa
 <$F3><$FF>
 <$04><$00>
 
@@ -231,7 +231,7 @@ Hirose\n
 //　　クラスに行くから、それまで\n
 //　　待っててよ
 //I'll be back to help you once I've finished with Hikawa, so please wait a little longer
-Volvere a ayudarte una vez haya acabado con lo de Hikawa, asi que espera un poco mas
+Volver} a ayudarte una vez haya acabado con lo de Hikawa, as& que espera un poco mas
 <$F3><$FF>
 <$04><$00>
 
@@ -262,7 +262,7 @@ Hirose\n
 
 //あれ～、ど～したの
 //Oh hey! What's up
-Eh oye! Que pasa
+)Hooola! (Qu} pasa
 <$F3><$FF>
 <$04><$00>
 
@@ -276,8 +276,8 @@ Eh oye! Que pasa
 //　「ど～したの～？じゃないだろ\n
 //　　広瀬。
 Inaba\n
-//"What's up!? What the hell are you doing over here!
-"Que te pasa!? Que demonios estas haciendo aqui!
+//"What's up?! What the hell are you doing over here!
+")(Qu} pasa?! )Qu} demonios est{s haciendo aqu&!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -286,7 +286,7 @@ Inaba\n
 //　　所で何してるんだ。　　　　」
 \n
 //We have work to do, come on already!"
-Tenemos que trabajar, date prisa!"
+)Tenemos que trabajar, date prisa!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -302,7 +302,7 @@ Hirose\n
 //　　真っ先に、眠っちゃったじゃ\n
 //　　ないかぁ
 //That's not fair~ You were fast asleep a moment ago, weren't you
-Eso no es justo~ Te habias quedado dormido hace un momento, no
+Eso no es justo~ Tu te has echado una siesta hace un rato, (No
 <$F3><$FF>
 <$04><$00>
 
@@ -316,7 +316,7 @@ Eso no es justo~ Te habias quedado dormido hace un momento, no
 //　「・・・そりゃそうだけど。　」
 Inaba\n
 //"...I mean, I'm sorry about that, but--"
-"...quiero decir, lo siento, pero--"
+"...bueno, si, lo siento, pero--"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -332,7 +332,7 @@ Hirose\n
 //　　準備しなくちゃいけないのは\n
 //　　わかってるんだ
 //Don't worry, I'm just poking fun at you~
-No te preocupes, solo estoy divirtiendome~
+Jaja, solo te estaba tomando el pelo~
 <$F3><$FF>
 <$04><$00>
 
@@ -353,7 +353,7 @@ No te preocupes, solo estoy divirtiendome~
 //　　減っちゃって、１センチも\n
 //　　動けないんだ
 //Buuut, I'm just so hungry! I can't take another step~
-Peeero, tengo mucha hambre! No puedo dar un paso mas~
+)Peeero, tengo hambre! )No puedo dar un paso mas~
 <$F3><$FF>
 <$04><$00>
 
@@ -368,7 +368,7 @@ Peeero, tengo mucha hambre! No puedo dar un paso mas~
 //　　終わらせなきゃ帰れないぞ。」
 Inaba\n
 //"Well, we can't leave until we're done with everything, so you're not getting food any faster."
-"Bueno, no podemos irnos hasta que no acabemos con esto, asi que la comida tendra que esperar."
+"Bueno, no podemos irnos hasta que no acabemos con esto, as& que la comida tendr{ que esperar."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -383,7 +383,7 @@ Hirose\n
 //ハァ～、晩御飯食べたいし、\n
 //　　そろそろ帰りたいな
 //B-but I wanna eat dinner! I wanna go home
-P-pero quiero cenar! Quiero irme a casa
+)Pero quiero cenar! )Quiero irme a casa
 <$F3><$FF>
 <$04><$00>
 
@@ -402,7 +402,7 @@ P-pero quiero cenar! Quiero irme a casa
 //でも～、帰りの遠～い道のり\n
 //　　がユウウツだなぁ
 //My home is so far though~ I'll never make it
-Mi casa esta muy lejos~ No voy a lograrlo
+Mi casa est{ muy lejos~ No voy a lograrlo
 <$F3><$FF>
 <$04><$00>
 
@@ -417,7 +417,7 @@ Mi casa esta muy lejos~ No voy a lograrlo
 //　　あるだろ？
 Inaba\n
 //"Don't stress about the walk home when we're not even ready to leave, okay?
-"No te agobies con el camino a casa cuando todavia no hemos acabado, vale?
+"No te agobies todav&a con volver a casa cuando queda tant&simo por hacer, (Ok?
 <$FA><$FF>
 <$F8><$FF>
 
@@ -426,7 +426,7 @@ Inaba\n
 //　　そういえば、パンがある。　」
 \n
 //Oh right! I have some bread if you want it."
-Cierto! Tengo algo de pan si quieres comer."
+)Mira! Tengo algo de pan si quieres comer."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -442,7 +442,7 @@ Hirose\n
 //　　これ、もらっていいの？\n
 //　　ホントに？　うわ～い
 //Oh! Really?? I can have it?? Yaaaay~
-Oh! En serio?? Me lo das?? Yeeeeah~
+(En serio? (Me lo das? )Vale!
 <$F3><$FF>
 <$04><$00>
 
@@ -461,7 +461,7 @@ Oh! En serio?? Me lo das?? Yeeeeah~
 
 //うわ～っ、後で食べよ～っ
 //Let's eaaat~ :D
-Coomiidaaa~ :D
+)Coomiidaa~ :D
 <$F3><$FF>
 <$04><$00>
 
@@ -486,7 +486,7 @@ Hirose\n
 //これ食べれば、なんとか\n
 //　　帰れるんじゃないかなぁ
 //I could probably make it home with this energy
-Creo que puedo llegar a casa con esta energia
+)Creo que puedo llegar a casa con esta energ&a
 <$F3><$FF>
 <$04><$00>
 
@@ -500,7 +500,7 @@ Creo que puedo llegar a casa con esta energia
 //　「・・・準備に戻れ！！　　　」
 Inaba\n
 //"Get back to the classroom!!"
-"Vuelve ahora a la clase!!"
+"))Vuelve ahora a la clase!!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -519,7 +519,7 @@ Inaba\n
 //　「それじゃ教室に行こうか。　」
 Inaba\n
 //"Alright, let's head back to the classroom."
-"Vale, volvamos a trabajar a la clase."
+"Vaale, volvamos a trabajar a la clase."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -533,7 +533,7 @@ Hirose\n
 
 //なんで
 //Why
-Porque
+(Porque
 <$F3><$FF>
 <$04><$00>
 
@@ -548,7 +548,7 @@ Porque
 //　　本当に帰ろうとしてるのか？」
 Inaba\n
 //"We still have work to do! Were you just gonna leave us?"
-"Todavia tenemos cosas que hacer! Nos abandonas asi?"
+")Todav&a tenemos cosas que hacer! (Nos abandonas as&?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -564,7 +564,7 @@ Hirose\n
 //　　親が死んでも食休み、って\n
 //　　言うのがウチの家訓だから～
 //I might have had a snack, but I can't move yet~ 'Rest after a meal is sacred' is my family motto, you know
-Me he saciado, pero no puedo moverme~ 'Descansar tras comer es sagrado' es el lema de mi familia, sabes
+Me he saciado, pero no puedo moverme~ 'Descansar tras comer es sagrado', es el lema de mi familia, (Sabes
 
 <$F3><$FF>
 <$04><$00>
@@ -585,7 +585,7 @@ Me he saciado, pero no puedo moverme~ 'Descansar tras comer es sagrado' es el le
 //少し休んだら絶対に行くから\n
 //　　先に行っててよ。　ね！　ね
 //I'll be there though, don't you worry! Just gonna rest a little bit first
-Ire en un rato, no te preocupes mas! Voy a comerme los restos que quedan
+)Ir} en un rato, no te preocupes! )Voy a comer las migajas que quedan
 
 <$F3><$FF>
 <$04><$00>
@@ -618,7 +618,7 @@ Hirose\n
 //少し休んだら絶対に行くから\n
 //　　先に行っててよ
 //I'll be there though, don't you worry! Just gonna rest a little bit first
-Ire en un rato, no te preocupes mas! Voy a comerme los restos que quedan
+)Ir} en un rato, no te preocupes mas! )Voy a comer los restos que quedan
 
 <$F3><$FF>
 <$04><$00>
@@ -644,8 +644,8 @@ Ire en un rato, no te preocupes mas! Voy a comerme los restos que quedan
 //稲葉\n
 //　「！？　氷川！！　　　　　　　」
 Inaba\n
-//"Wha-!? Hikawa!!"
-"Que-!? Hikawa!!"
+//"Wha-?! Hikawa!!"
+")(Qu}-?! )Hikawa!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -662,7 +662,7 @@ Hikawa\n
 //　　あの力を蘇らせるには、\n
 //　　一ノ宮の血が必要なんでな
 //Inaba! Ichinomiya is mine! We need her family's blood for the awakening ritual
-Inaba! Ichinomiya es mio! Necesitamos su sangre para el ritual del despertar
+)Inaba! )Ichinomiya es mia! ))Necesitamos su sangre para el ritual del despertar
 
 <$F3><$FF>
 <$04><$00>
@@ -677,8 +677,8 @@ Inaba! Ichinomiya es mio! Necesitamos su sangre para el ritual del despertar
 //稲葉\n
 //　「由麻をどうするつもりだ！　　」
 Inaba\n
-//"What are you going to do to Yuma!?"
-"Que le vas a hacer a Yuma!?"
+//"What are you going to do to Yuma?!"
+")(Qu} le vas a hacer a Yuma?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -696,7 +696,7 @@ Hikawa\n
 //クックックッ。\n
 //　　これで、この世は俺のものだ
 //Hahaha!! This world will soon be mine
-Jajaja!! Este mundo pronto sera mio
+))Jajaja!! ))Este mundo pronto ser{ mio
 <$F3><$FF>
 <$04><$00>
 
@@ -717,7 +717,7 @@ Jajaja!! Este mundo pronto sera mio
 //ヤツさえ復活させてしまえば、\n
 //　　フッフフ、ハーッハッハッハ
 //All that's left is to summon that great being
-Todo lo que queda es convocar a ese gran ser
+)Todo lo que queda es convocar al gran ser
 <$F3><$FF>
 <$04><$00>
 
@@ -732,7 +732,7 @@ Todo lo que queda es convocar a ese gran ser
 //　「ま、待て！　氷川ぁーっ！！」
 Inaba\n
 //"W-wait! Hikawa!!!"
-"E-espera! Hikawa!"
+")E-espera! )Hikawa!"
 <$FF><$FF>
 <$3C><$00>
 <$F6><$FF>
@@ -755,8 +755,8 @@ Inaba\n
 //稲葉\n
 //　「な、何だ！！　　　　　　　」
 Inaba\n
-//"W-what the!?"
-"P-pero que!?"
+//"W-what the?!"
+")(P-pero qu}?!"
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -774,7 +774,7 @@ Inaba\n
 //　の粉を　振りかけた！
 \n
 //- You spread the Powder of Ibn-Ghazi on the magic circle! -
-- Espolvoreas el polvo de Ibn-Ghazi en el circulo magico -
+- )Espolvoreas el polvo de Ibn-Ghazi en el circulo m{gico! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -797,7 +797,7 @@ Hirose\n
 //　　重要なんだぁ～、だから\n
 //　　それ先にしたら行くねぇ～
 //Hiwaka asked me to do something very important, so I'll be back one I finish that
-Hiwaka me pidio que hiciese algo muy importante, asi que ire una vez lo termine
+Hiwaka me pidi[ que hiciese algo muy importante, as& que ir} una vez lo termine
 
 <$F3><$FF>
 <$04><$00>
@@ -820,7 +820,7 @@ Hiwaka me pidio que hiciese algo muy importante, asi que ire una vez lo termine
 //　　に来るんだよ。　　　　　　」
 Inaba\n
 //"Hey, how long are you planning on taking?"
-"Oye, cuanto tiempo te va a llevar eso?"
+"Oye, (Cuanto tiempo te va a llevar eso?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -835,7 +835,7 @@ Hirose\n
 //もう行こうと思ってたんだ。\n
 //　　ねぇ～、望月君知らな～い
 //I'm just about ready to go now~ Have you seen Mochizuki though
-Justamente estaba preparandome para ir~ Has visto a Mochizuki
+Justamente estaba preparandome para ir~, (Has visto a Mochizuki
 <$F3><$FF>
 <$04><$00>
 
@@ -850,7 +850,7 @@ Justamente estaba preparandome para ir~ Has visto a Mochizuki
 //　　うけど？　会わなかったか？」
 Inaba\n
 //"I thought he headed back already. Did you not see him go by?"
-"Pense que ya habria vuelto. Seguro que no le viste pasar?"
+"Pense que ya habr&a vuelto. (Seguro que no le viste pasar?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -864,8 +864,8 @@ Hirose\n
 
 //ホント！？\n
 //　　な～んだ、よかったぁ
-//Oh really!? Ahh that's good~
-En serio!? Ahh eso es bueno~
+//Oh really?! Ahh that's good~
+)(En serio?! Ahh eso es bueno~
 <$F3><$FF>
 <$04><$00>
 
@@ -885,7 +885,7 @@ En serio!? Ahh eso es bueno~
 //これで氷川君の用事のほうも\n
 //　　すぐ済みそうだよぉ
 //That'll make it easier for me to do what Hikawa wanted
-Eso hara mas facil para mi hacer lo que Hikawa queria
+Eso hara m{s f{cil para mi hacer lo que Hikawa quer&a
 
 <$F3><$FF>
 <$04><$00>
@@ -908,7 +908,7 @@ Eso hara mas facil para mi hacer lo que Hikawa queria
 //　　に来るんだよ。　　　　　　」
 Inaba\n
 //"Hey, how long are you planning on taking?"
-"Oye, cuanto mas tiempo va a llevarte eso?"
+"Oye, (Cuanto m{s tiempo va a llevarte eso?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -923,7 +923,7 @@ Hirose\n
 //もう行こうと思ってたんだ。\n
 //　　ねぇ～、望月君知らな～い
 //I'm just about ready to go now~ Have you seen Mochizuki though
-Justamente estaba preparandome para ir~ Has visto a Mochizuki
+Justamente estaba preparandome para ir~, (Has visto a Mochizuki
 <$F3><$FF>
 <$04><$00>
 
@@ -938,7 +938,7 @@ Justamente estaba preparandome para ir~ Has visto a Mochizuki
 //　　うけど？　会わなかったか？」
 Inaba\n
 //"I thought he headed back already. Did you not see him go by?"
-"Pense que ya habria vuelto. Seguro que no le viste pasar?"
+"Pense que ya habr&a vuelto. (Seguro que no le viste pasar?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -953,8 +953,8 @@ Hirose\n
 
 //ホント！？\n
 //　　な～んだ、よかったぁ
-//Oh really!? Ahh that's good~
-En serio!? Ahh eso es bueno~
+//Oh really?! Ahh that's good~
+)(En serio?! Ahh eso es bueno~
 
 <$F3><$FF>
 <$04><$00>
@@ -975,7 +975,7 @@ En serio!? Ahh eso es bueno~
 //これで氷川君の用事のほうも\n
 //　　すぐ済みそうだよぉ
 //That'll make it easier for me to do what Hikawa wanted
-Eso hara mas facil para mi hacer lo que Hikawa queria
+Eso hara m{s f{cil para mi hacer lo que Hikawa quer&a
 
 <$F3><$FF>
 <$04><$00>
@@ -1026,7 +1026,7 @@ Ugh, mi estomago hace ruidos
 //　　いな。　　　　　　　　　　」
 Inaba\n
 //"It'd be dangerous to get any closer."
-"Seria peligroso si me sigo acercando."
+"Ser&a peligroso si me sigo acercando."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1053,7 +1053,7 @@ Inaba\n
 //　　そう感じるのは僕だけかな？」
 Inaba\n
 //"I wonder if I'm the only one who thinks this old clock tower is kinda creepy..."
-"Me pregunto si soy el unico que piensa que este reloj es bastante tetrico..."
+"Me pregunto si soy el =nico que piensa que este reloj es bastante t}trico..."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1079,7 +1079,7 @@ Inaba\n
 //　　気味が悪く感じる。　　　　」
 Inaba\n
 //"It's even creepier now that the power's out..."
-"Es mas siniestro ahora que hay un apagon..."
+"Es m{s siniestro ahora que hay un apag[n..."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

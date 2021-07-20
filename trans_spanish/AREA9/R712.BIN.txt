@@ -20,7 +20,7 @@ Mochizuki\n
 //へへへ・・・あ、暗黒の魔法が\n
 //　　・・・人知れぬ四次元の闇
 //Hehehe... Ah, black magic... the darkness of the unknown fourth dimension
-Jejeje... Ah, magia negra... la oscuridad de la oscura cuarta dimension
+Jejeje... Ah, magia negra... la oscuridad de la oscura cuarta dimensi[n
 <$F3><$FF>
 <$04><$00>
 
@@ -54,7 +54,7 @@ Hikawa... t-tu... Azathoth... ayuda alguien
 //稲葉\n
 //　「望月！！　　　　　　　　　　」
 Inaba\n
-"Mochizuki!!"
+"))Mochizuki!!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -77,7 +77,7 @@ Mochizuki\n
 //い、稲葉・・・ひ、氷川に、\n
 //　　やられた・・・あがあ、くっ
 //I-Inaba... H-Hikawa... did this... to me
-I-Inaba... H-Hikawa... me hizo... esto
+I-Inaba... H-Hikawa... me hizo... )Esto
 <$F3><$FF>
 <$04><$00>
 
@@ -97,7 +97,7 @@ I-Inaba... H-Hikawa... me hizo... esto
 //全人類を覆う黒い・・・稲葉！\n
 //　　あのメモとノートラ・・・ン
 //All of mankind... will be covered in darkness... Inaba! Take that memo and Notran's... Mirror
-La humanidad... se cubrira de oscuridad... Inaba! Llevate la nota y el espejo de... Notran
+La humanidad... se cubrir{ de oscuridad... )Inaba! Llevate la nota y el espejo de... Notran
 <$F3><$FF>
 <$04><$00>
 
@@ -113,7 +113,7 @@ La humanidad... se cubrira de oscuridad... Inaba! Llevate la nota y el espejo de
 //　　おまえの兄キに会ったんだ！」
 Inaba\n
 //"Mochizuki! I met your brother!"
-"Mochizuki! Conoci a tu hermano!"
+")Mochizuki! )He visto a tu hermano!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -137,7 +137,7 @@ Mochizuki\n
 //　　もう・・・一度・・・会・・・\n
 //　　いたかっ・・・クッ
 //T-this is... Masayoshi's... I wish... I could have... seen you again... urgh
-E-esto es... Masayoshi... Desea-seria... haber podido... verte otra... urgh
+E-esto es... Masayoshi... Desear&a... haber podido... verte de nuevo... )Ugh
 <$F3><$FF>
 <$04><$00>
 
@@ -166,7 +166,7 @@ Mochizuki\n
 //　　多くの人を・・・外傷が・・・\n
 //　　なければ
 //T-take this... If someone's hurt... but shows no wounds...
-T-toma esto... Si estan heridos... pero no ves heridas...
+T-toma esto... Si est{n heridos... pero no ves heridas...
 <$F3><$FF>
 <$04><$00>
 
@@ -186,7 +186,7 @@ T-toma esto... Si estan heridos... pero no ves heridas...
 
 //魂を・・・グハッ
 //this can cure... the soul-- ARGH
-esto les cura... el alma-- ARGH
+esto les cura... el alma-- )ARGH
 <$F3><$FF>
 <$04><$00>
 
@@ -200,14 +200,14 @@ esto les cura... el alma-- ARGH
 //－　『喚魂の秘薬』を受け取った　－
 \n
 //- You received the Spirit Elixir -
-- Recibiste el Espiritu Elixir -
+- Recibes el Esp&ritu Elixir -
 <$FA><$FF>
 <$F8><$FF>
 
 //稲葉\n
 //　「望月・・・！？
 Inaba\n
-"Mochizuki...!?
+")(Mochizuki...?!
 
 <$FF><$FF>
 <$28><$00>
@@ -215,7 +215,7 @@ Inaba\n
 //・・・くっ！」
 \n
 //...damnit!"
-...maldicion!"
+)...Maldici[n!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -237,7 +237,7 @@ Mochizuki\n
 //い、稲葉か・・・ひ、氷川に、\n
 //　　やられた・・・あがぁ、くっ
 //I-Inaba... H-Hikawa... did this... to me
-I-Inaba... H-Hikawa... me hizo... esto
+I-Inaba... H-Hikawa... me hizo... )Esto
 <$F3><$FF>
 <$04><$00>
 
@@ -258,7 +258,7 @@ I-Inaba... H-Hikawa... me hizo... esto
 //　　ほ、北条、あいつ、これとノー\n
 //　　トラ・・・ン
 //All of mankind... will be covered in darkness... Inaba! Take that memo and Notran's... Mirror
-La humanidad... se cubrira de oscuridad... Inaba! Llevate la nota y el espejo de... Notran
+La humanidad... se cubrir{ de oscuridad... )Inaba! Llevate la nota y el espejo de... Notran
 
 <$F3><$FF>
 <$04><$00>
@@ -295,7 +295,7 @@ La humanidad... se cubrira de oscuridad... Inaba! Llevate la nota y el espejo de
 //－　木箱が無造作に積まれている　－
 \n
 //- There's a carelessly placed wooden crate here. -
-- Hay un cajon de madera descuidado por aqui. -
+- Hay un caj[n de madera descuidado por aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -311,8 +311,8 @@ La humanidad... se cubrira de oscuridad... Inaba! Llevate la nota y el espejo de
 //－　木で出来た棚に　ダンボール\n
 //　　の箱が　並べてある　　　　　－
 \n
-- There's a wooden bookcase here with cardboard boxes on it. -
-- Hay una estanteria de madera llena de cajas de carton. -
+//- There's a wooden bookcase here with cardboard boxes on it. -
+- Hay una estanter&a de madera llena de cajas de cart[n. -
 
 <$FA><$FF>
 <$F8><$FF>

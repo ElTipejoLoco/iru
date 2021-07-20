@@ -34,7 +34,7 @@
 //　通り　神聖文字で書かれている\n
 //　呪文を終わりから逆に唱えた！
 //- You timidly place the blue jewel in your mouth and recite the spell written in the "Book of Eibon" backwards! -
-- Timidamente colocas la gema azul en tu boca y recitas el hechizo escrito en el "Libro de Eibon" al reves! -
+- T&midamente colocas la gema azul en tu boca y recitas el hechizo escrito en el "Libro de Eibon", )Al rev}s! -
 
 <$FF><$FF>
 <$78><$00>
@@ -55,7 +55,7 @@
 //稲葉\n
 //　「・・・！？
 Inaba\n
-"...!?
+")(...?!
 
 <$F1><$FF>
 <$F8><$FF>
@@ -63,7 +63,7 @@ Inaba\n
 //\n
 //　　・・・由麻！？　　　　　　」
 \n
-...Yuma!?"
+)(Yuma?!"
 
 <$FF><$FF>
 <$5A><$00>
@@ -88,15 +88,15 @@ Ahh
 
 //・・・！？\n
 //　　
-//...!? I-is that you,
-...!? E-eres tu,
+//...?! I-is that you,
+)(...?! E-eres t=,
 
 <$F3><$FF>
 <$04><$00>
 
 //い、稲葉くんなの
 \n
-Inaba
+(Inaba
 
 <$F3><$FF>
 <$04><$00>
@@ -116,7 +116,7 @@ Inaba
 //　「よかった、大丈夫か？　　　」
 Inaba\n
 //"I'm glad to see you. Are you okay?"
-"Me alegra mucho verte. Estas bien?"
+"Me alegra mucho verte. (Est{s bien?"
 
 <$FF><$FF>
 <$3C><$00>
@@ -140,7 +140,7 @@ I-I
 <$04><$00>
 
 //・・・！？
-...!?
+)(...?!
 
 <$FF><$FF>
 <$3C><$00>
@@ -156,7 +156,7 @@ I-I
 <$04><$00>
 
 //きゃぁっー
-Ahhh--
+))Ah--
 
 <$F3><$FF>
 <$04><$00>
@@ -171,7 +171,7 @@ Ahhh--
 //稲葉\n
 //　「由麻！！　　　　　　　　　」
 Inaba\n
-"Yuma!!"
+")Yuma!"
 
 <$FF><$FF>
 <$28><$00>
@@ -191,7 +191,7 @@ Inaba\n
 //　　いな。　　　　　　　　　　」
 Inaba\n
 //"It'd be dangerous to get any closer."
-"Seria peligroso acercarse demasiado."
+"Ser&a peligroso acercarse demasiado."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -207,8 +207,8 @@ Inaba\n
 //　「な、何だ！？\n
 //　　図書室の中・・・か？　　　」
 Inaba\n
-//"W-what was that!? Is there something in the library...?"
-"Q-que ha sido eso!? Hay algo dentro de la Biblioteca...?"
+//"W-what was that?! Is there something in the library...?"
+")(Q-qu} hes eso?! (Ha sonado dentro de la biblioteca...?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -225,7 +225,7 @@ Inaba\n
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -235,7 +235,7 @@ Inaba\n
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>

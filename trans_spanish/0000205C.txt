@@ -16,7 +16,7 @@ Inaba\n
 //"This blue marble looks like the R'lyeh\n
 //Gem from that note earlier."
 "Esta canica azul parece la gema R'lyeh\n
-que decribia la nota anterior."
+que decrib&a la nota anterior."
 
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -42,20 +42,20 @@ Es la gema R'lyeh.
 \n
 //- You timidly place the blue jewel in your\n
 //mouth,
-- Timidamente colocas la gema azul en tu\n
+- T&midamente colocas la gema azul en tu\n
 boca,
 <$FA><$FF><$F8><$FF>
 //\n 書物に書かれている 不思議な\n 文字を 読むことが出来た!
 \n
 //and the mysterious text becomes\n
 //readable!
-y el texto misterioso se vuelve\n
+)Y el texto misterioso se vuelve\n
 legible!
 <$FA><$FF><$F8><$FF>
 //\n 『妖虫の秘密』を読むと気になる\n くだりがあった
 \n
 //Something catches your eye in the\n
-Algo capta tu atencion en el\n
+Algo capta tu atenci[n en el\n
 "De Vermis Mysteriis." -
 <$FA><$FF><$F8><$FF>
 // 姿の見えなき怪物。\n カダスの地より来たに違いない\n 名もなき怪物、人はそれを\n “星の精”と呼ぶ。
@@ -73,7 +73,7 @@ la tierra de Kadath. Los llamamos\n
 //Revealing them will send them back to\n
 //where they came."
 Una risa de una fuente invisible.\n
-Revelar su forma los enviara de vuelta\n
+Revelar su forma los enviar{ de vuelta\n
 a su origen."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -103,8 +103,8 @@ a su origen."
 \n
 //It's full of strange characters that you\n
 //can't read.
-Esta lleno de letras que no pueden ser\n
-leidas.
+Est{ lleno de letras que no pueden ser\n
+le&das.
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 000022C8
@@ -117,28 +117,28 @@ leidas.
 \n
 //- You timidly place the blue jewel in your\n
 //mouth,
-- Timidamente colocas la gema azul en tu\n
+- T&midamente colocas la gema azul en tu\n
 boca,
 <$FA><$FF><$F8><$FF>
 //\n 書物に書かれている 不思議な\n 文字を 読むことが出来た!
 \n
 //and the mysterious text becomes\n
 //readable!
-y el texto misterioso se vuelve\n
+)Y el texto misterioso se vuelve\n
 legible!
 <$FA><$FF><$F8><$FF>
 //\n 『悪魔崇拝』を読むと気になる\n くだりがあった
 \n
 //Something catches your eye in\n
-Algo capta tu atencion en el\n
+Algo capta tu atenci[n en el\n
 "Daemonolatreiae libri tres." -
 <$FA><$FF><$F8><$FF>
 //\n 姿なきもの、かのイブン＝グハジ\n の秘薬にて姿を現す。
 \n
 //"Invisible creatures shall be given form\n
 //with the Powder of Ibn-Ghazi.
-"Se dara forma a criaturas invisibles\n
-con el polvo de Ibn.Ghazi.
+"Se dar{ forma a criaturas invisibles\n
+con el polvo de Ibn-Ghazi.
 <$FA><$FF><$F8><$FF>
 //\n 三つの材料、均等な分量で混ざり\n 合わさねば、秘薬も力を表さず。
 \n
@@ -158,20 +158,20 @@ crearan este polvo secreto."
 \n
 //- You timidly place the blue jewel in your\n
 //mouth,
-- Timidamente colocas la gema azul en tu\n
+- T&midamente colocas la gema azul en tu\n
 boca,
 <$FA><$FF><$F8><$FF>
 //\n 書物に書かれている 不思議な\n 文字を 読むことが出来た!
 \n
 //and the mysterious text becomes\n
 //readable!
-y el texto misterioso se vuelve\n
+)Y el texto misterioso se vuelve\n
 legible!
 <$FA><$FF><$F8><$FF>
 //\n 『エイボンの書』を読むと気にな\n るくだりがあった
 \n
 //Something catches your eye in the\n
-Algo capta tu atencion en el\n
+Algo capta tu atenci[n en el\n
 //"Book of Eibon." -
 "Libro de Eibon." -
 <$FA><$FF><$F8><$FF>
@@ -180,7 +180,7 @@ Algo capta tu atencion en el\n
 //"From the dark depths of the Earth\n
 //come the Formless Spawn. If you\n
 //desire its abominable powers...
-"De lo mas profundo de la tierra\n
+"De lo m{s profundo de la tierra\n
 vienen engendros sin forma. Si\n
 deseas su abominables poderes...
 <$FA><$FF><$F8><$FF>
@@ -189,14 +189,14 @@ deseas su abominables poderes...
 //--by chanting that, the spawn will\n
 //follow your commands. If you wish it\n
 //gone, chant the spell in reverse."
---recitando esto, el engendro seguira\n
+--recitando esto, el engendro seguir{\n
 tus ordenes. Si deseas que se vaya,\n
-debes recitar el hechizo al reves."
+debes recitar el hechizo al rev}s."
 <$FA><$FF><$F8><$FF>
 //\n 肝心の呪文のページが破られてい\n る・・・。
 \n
 //The spell itself appears to be missing...
-El hechizo en si parece que no esta...
+El hechizo en s& parece que no est{...
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 000025C4
@@ -227,7 +227,7 @@ Entonces el otro debe\nde ser su hermano."
 Inaba\n
 //"...I really shouldn't read other people's\n
 //letters."
-"...No es de buena educacion leer cartas\n
+"...No es de buena educaci[n leer cartas\n
 ajenas."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -241,8 +241,8 @@ ajenas."
 \n
 //When you chanted the cryptic letters,\n
 //Notran's Mirror started to glow!
-Cuando recitas las letras cripticas, el\n
-espejo de Notran comenzo a brillar!
+Cuando recitas las letras cr&pticas, )El\n
+espejo de Notran comenz[ a brillar!
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 000026F4
@@ -255,7 +255,7 @@ espejo de Notran comenzo a brillar!
 Inaba\n
 //"This is the mirror's incantation that\n
 //Mochizuki was talking about!"
-"Este es el hechizo del espejo del\n
+")Este es el hechizo del espejo del\n
 que estaba hablando Mochizuki!"
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -267,7 +267,7 @@ que estaba hablando Mochizuki!"
 <$F5><$FF>
 //\n   ＊ ネクロノミコン ＊
 \n
-//The Necronomicon
+//The Necronomic[n
 El Nectronomicon
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -291,7 +291,7 @@ Perfume
 //\n 紙片には次のようなことが書かれ\n ている
 \n
 //The following is written on the paper:
-Lo siguiente esta escrito en el papel:
+Lo siguiente est{ escrito en el papel:
 <$FA><$FF><$F8><$FF>
 //\n ルルイエ神聖文字 青白き光を\n 放つ伝説の子珠が必要
 \n
@@ -299,14 +299,13 @@ Lo siguiente esta escrito en el papel:
 //placed in one's mouth,
 "Cuando la legendaria gema de R'lyeh es\n
 colocada en la boca,
-co
 <$FA><$FF><$F8><$FF>
 //\n 子珠に刻まれた文字の力\n なめることによって 神聖\n 文字が読める
 \n
 //the power of the engraved spell will\n
 //let them read the sacred texts."
 el poder de los hechizos grabados le\n
-permitira leer el texto sagrado."
+permitir{ leer el texto sagrado."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002854
@@ -319,7 +318,7 @@ permitira leer el texto sagrado."
 Inaba\n
 //"This page was torn from the 'Book of\n
 //Eibon'!"
-"Esta pagina fue arrancada del 'Libro\n
+")Esta pagina fue arrancada del 'Libro\n
 de Eibon'!"
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -337,21 +336,21 @@ de Eibon'!"
 \n
 //- You timidly place the blue jewel in your\n
 //mouth,
-- Timidamente colocas la gema azul en tu\n
+- T&midamente colocas la gema azul en tu\n
 boca,
 <$FA><$FF><$F8><$FF>
 //\n 断片に書かれている 不思議な\n 文字を 読むことが出来た!
 \n
 //and the mysterious text becomes\n
 //readable!
-y el texto misterioso se vuelve\n
+)Y el texto misterioso se vuelve\n
 legible!
 <$FA><$FF><$F8><$FF>
 //\n 何か呪文のような言葉が ページ\n いっぱいに 書かれている
 \n
 //The page is full of what appears to be\n
 //spell incantations with no context. -
-La pagina esta llena de lo que parecen\n
+La pagina est{ llena de lo que parecen\n
 hechizos encantados sin contexto. -
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -365,29 +364,29 @@ hechizos encantados sin contexto. -
 \n
 //The following is written on the scrap\n
 //of paper:
-La siguiente esta escrito en el trozo\n
+La siguiente est{ escrito en el trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 // お前は誰だ!! 僕の頭を\n 使うな!\n 僕の、僕の精神を乗っ取るつもり\n なのか?
 \n
-//"Who are you!? Get out of my head!\n
+//"Who are you?! Get out of my head!\n
 //A-are you trying to take over my\n
-//body!?
-"Quien eres!? Sal de mi cabeza!\n
-E-estas intentando apropiarte de\n
-mi cuerpo!?
+//body?!
+")(Quien eres?! )Sal de mi cabeza!\n
+)(Est{s intentando apropiarte de\n
+mi cuerpo?!
 <$FA><$FF><$F8><$FF>
-//\n それとも何か別の企みがあるって\n いうのか?\n 誰に命じられたんだ!?
+//\n それとも何か別の企みがあるって\n いうのか?\n 誰に命じられたんだ?!
 \n
 //Or do you have something different in\n
-//mind!? Who are you working with!?
-O estas intentando algo diferente con\n
-mi cuerpo!? Para quien trabajas!?
+//mind?! Who are you working with?!
+)(O est{s intentando algo diferente con\n
+mi cuerpo?!)(Para quien trabajas?!
 <$FA><$FF><$F8><$FF>
 //\n これは僕、望月哲雄の体なんだ!
 \n
 //This is my body, Mochizuki Tetsuo's!!"
-Es mi cuerpo, el de Mochizuki Tetsuo!"
+Es mi cuerpo, )El de Mochizuki Tetsuo!"
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002A7C
@@ -400,7 +399,7 @@ Es mi cuerpo, el de Mochizuki Tetsuo!"
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 //\n 他意はない。\n イスの偉大なる種族の思し召しな\n んだ。
@@ -416,8 +415,8 @@ la Gran Raza de Yith.
 //caught a glimpse of vast wisdom far\n
 //beyond the reaches of mankind."
 Soy Kamiyama Takayoshi, un hombre\n
-que vislumbro una vasta sabiduria\n
-mas alla de la humanidad."
+que vislumbr[ una vasta sabidur&a\n
+mas all{ de la humanidad."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002B44
@@ -430,17 +429,17 @@ mas alla de la humanidad."
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
-// 何が目的なんだ。\n これも、今起きている事と関係が\n あるのか!?\n 俺をどうする気だ!
+// 何が目的なんだ。\n これも、今起きている事と関係が\n あるのか?!\n 俺をどうする気だ!
 \n
-//"What are you planning!? Are you\n
-//behind what's going on right now!?\n
-//What do you want with me!?"
-"Que estas planeando? Estas detras\n
-de lo que esta ocurriendo aqui!?\n
-Que es lo que quieres!?"
+//"What are you planning?! Are you\n
+//behind what's going on right now?!\n
+//What do you want with me?!"
+"(Qu} est{s planeando? )(Est{s detr{s\n
+de lo que est{ ocurriendo aqu&?!\n
+)(Qu} es lo que quieres?!"
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002BD8
@@ -453,20 +452,20 @@ Que es lo que quieres!?"
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 //\n 危害を与えるつもりはない。\n ただ、このままでは、お互いに\n 内も外も危険な状態だろう。
 \n
 //"I do not wish you harm. But, we have\n
 //to do something to survive, right?
-"No te deseo ningun mal. Pero, tenemos\n
-hacer algo para sobrevivir, verdad?
+"No te deseo ningun mal. Pero, debemos\n
+hacer algo para sobrevivir, (No?
 <$FA><$FF><$F8><$FF>
 //\n ここは私を信じて手を貸せ。
 \n
 //Trust me, and let me help you."
-Confia en mi, y dejame ayudarte."
+Conf&a en mi, y dejame ayudarte."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002C90
@@ -479,22 +478,22 @@ Confia en mi, y dejame ayudarte."
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 //\n あんたには今、何が起きてるのか\n 分かるか?
 \n
 //"Do you know something about what's\n
 //going on?
-"Sabes algo de lo que esta pasando\n
+"(Sabes algo de lo que est{ pasando\n
 en este lugar?
 <$FA><$FF><$F8><$FF>
 //\n 兄の行方不明も、何か関係がある\n のだろうか。
 \n
 //That, and do you know anything about\n
 //my brother's disappearance?"
-Eso y... sabes algo de mi hermano\n
-y su repentina desaparicion?"
+Eso y... (Sabes algo de mi hermano\n
+y su repentina desaparici[n?"
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002D30
@@ -507,7 +506,7 @@ y su repentina desaparicion?"
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 //\n 心臓を集めているな。\n 実に大掛かりだ。\n いたるところに奴らがいる。
@@ -531,7 +530,7 @@ ello.
 \n
 //There might a descendent of a god\n
 //on this island.
-Quizas hay un descendiente de un Dios\n
+Quiz{s hay un descendiente de un Dios\n
 en esta isla.
 <$FA><$FF><$F8><$FF>
 //\n 君の兄さんの行方不明も\n 関係があると見た方が\n 自然だろう。
@@ -539,8 +538,8 @@ en esta isla.
 //I can't say, but your brother's\n
 //disappearence could very well be\n
 //related."
-Y quizas la desaparicion de tu\n
-hermano tambien este relacionada\n
+Y quiz{s la desaparici[n de tu\n
+hermano tambi}n est} relacionada\n
 con esto."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -554,7 +553,7 @@ con esto."
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 //\n 悪臭をまく人影には近寄るな。\n 奴らは目的もなしに、うろついて\n いるわけではない。
@@ -563,8 +562,8 @@ de papel:
 //of blood. They're not just wandering\n
 //around without a goal, you know."
 "No te acerques a nadie que apeste\n
-a sangre. No esta vagando por ahi\n
-sin un objetivo. Me entiendes?"
+a sangre. No est{ vagando por ah&\n
+sin un objetivo. (Entiendes?"
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002F20
@@ -577,7 +576,7 @@ sin un objetivo. Me entiendes?"
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 //\n もし神の一族が目覚めようものな\n ら、世界は深刻な恐怖と危機に見\n 舞われる。
@@ -604,17 +603,17 @@ a adorarlo.
 //It'll send thoughts to the lunatics as\n
 //they wildly celebrate its rise from\n
 //under the oceans to rule the world.
-Enviara pensamientos a los lunaticos\n
+Enviar{ pensamientos a los lun{ticos\n
 del mundo para que celebren su llegada\n
-desde el oceano para condenar al mundo.
+desde el oc}ano para condenar al mundo.
 <$FA><$FF><$F8><$FF>
 //\n 狂信者たちは荒廃した秩序と汚れ\n た道徳で、この地球を支配する喜\n びに浸るわけだ。
 \n
 //Mass chaos will ensue, morals will\n
 //crumble, and they will embrace their new\n
 //ruler."
-Sera un caos total, la moral se\n
-desmoronara y abrazaran a su nuevo\n
+Ser{ un caos total, la moral se\n
+desmoronar y abrazaran a su nuevo\n
 gobernante."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -628,21 +627,24 @@ gobernante."
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 // 透明な魔物は多くない。あれが\n いるのだろう。名はない。\n ただ、星の精とだけ呼ばれている\n 生物だ。
 \n
-"Those invisible monsters aren't\n
-common. They don't have names, but\n
-are called 'Star Vampires.'
+//"Those invisible monsters aren't\n
+//common. They don't have names, but\n
+//are called 'Star Vampires.'\n
+"Esos monstruos invisibles son\n
+poco comunes. Algunos los llaman\n
+'Vampiros estrella.'
 <$FA><$FF><$F8><$FF>
 // 動物の血を好む宇宙を漂う吸血\n 生物なのだ。\n ルドウィク＝プリンの手による\n『デ・ウェルミス・ミステリイス』
 //They float about the universe,\n
 //searching for animals to drain for\n
 //blood. Robert Bloch's 'De Vermis\n
 //Mysteriis'
-Flotan en el espacio, buscando\n
+Flotan por el espacio, buscando\n
 animales a los que drenar la\n
 sangre. 'De Vermis Mysteriis' de\n
 Robert Bloch
@@ -660,7 +662,7 @@ utilizarse para controlarlos.
 //Using that ritual, he called that\n
 //creature from space and is using it as\n
 //his invisible servant.
-Usando el ritual, llamo a esa\n
+Usando el ritual, llam[ a esa\n
 criatura del espacio y la utiliza como\n
 sirviente invisible. 
 <$FA><$FF><$F8><$FF>
@@ -669,7 +671,7 @@ sirviente invisible.
 //It seems there's students of the\n
 //occult here as well..."
 Parece que tenemos estudiantes\n
-de ocultismo aqui..."
+de ocultismo aqu&..."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00003304
@@ -682,7 +684,7 @@ de ocultismo aqui..."
 \n
 //The following is written on the scrap\n
 //of paper:
-Lo siguiente esta escrito en un trozo\n
+Lo siguiente est{ escrito en un trozo\n
 de papel:
 <$FA><$FF><$F8><$FF>
 // 透明なものを見つけるには、\n イブン＝グハジの粉が必要だ。\n あれは現世の物質でないものを\n 目に見えるようにするものだ。
@@ -692,7 +694,7 @@ de papel:
 //world.
 "Para acabar con monstruos ocultos,\n
 necesitas el polvo de Ibn-Ghazi.\n
-Te permitira ver cosas que no son\n
+Te permitir{ ver cosas que no son\n
 de este mundo.
 <$FA><$FF><$F8><$FF>
 //\n 調合法は・・・たしか、\n 『悪魔崇拝』に載っていたと思う\n が・・・。
@@ -702,7 +704,7 @@ de este mundo.
 //might have it written down..."
 En cuanto a como hacerlo, creo que en\n
 el 'Daemonolatreiae libri tres' se\n
-decribe el proceso..."
+describe el proceso..."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00003408
@@ -713,34 +715,35 @@ decribe el proceso..."
 <$F5><$FF>
 //\n 紙片には次のようなことが書かれ\n ている
 \n
-The following is written on the paper:
+//The following is written on the paper:
+El papel tiene escrito lo siguiente:
 <$FA><$FF><$F8><$FF>
 //\n  博志にすべてを打ち明けた。\n  彼なら、大丈夫だと・・・
 \n
 //"I told Masayoshi everything. I thought\n
 //maybe it'd be okay.
-Le dije todo a Masayoshi. Crei que quizas\n
-todo iria bien.
+Le dije todo a Masayoshi. Cre& que quiz{s\n
+todo ir&a bien.
 <$FA><$FF><$F8><$FF>
 //\n  地下の暗闇の中で腐肉を食ら\n  うやつらと暮らし・・・
 \n
 //...now he's stuck with those monsters\n
 //in the caves.
-...ahora esta encerrado con monstruos\n
+...ahora est{ encerrado con monstruos\n
 en la cueva.
 <$FA><$FF><$F8><$FF>
 //\n  私への裏切りに対して当然の\n  報い、あいつが・・・
 \n
 //It was fitting payback for his betrayal\n
 //after he--"
-Era la venganza adecuada por su traicion\n
-antes de... -
+Era la venganza adecuada por su traici[n\n
+antes de--"
 <$FA><$FF><$F8><$FF>
 //\n 破れていて 所々途切れている
 \n
 //The rest of the note was ripped\n
 //apart.
-El resto de la nota esta rota en\n
+El resto de la nota est{ rota en\n
 pedazos.
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -753,11 +756,11 @@ pedazos.
 //\n  －  ここでは使えない  －
 \n
 //- You can't use that here. -
-- No puedes usar eso aqui. -
+- No puedes usar eso aqu&. -
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 //#JMP($00003524)
 //　　　　　　を手に入れた！
 //added to your inventory!
-guardado en tu inventario!
+//)a]adido a tu inventario!
 //<$00>

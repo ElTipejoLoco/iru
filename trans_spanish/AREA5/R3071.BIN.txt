@@ -49,13 +49,14 @@ Director\n
 //　　終わり次第すぐに帰ります。　」
 Inaba\n
 //"Y-yes sir! We'll leave the moment we're done."
-"S-si, disculpe! Nos iremos cuando acabemos. "
+"S-si, )Disculpe! Nos iremos cuando acabemos. "
 <$FA><$FF>
 <$F8><$FF>
 
 //校長\n
 //　「
-Principal\n
+//Principal\n
+Director\n
 "
 
 <$F3><$FF>
@@ -64,7 +65,7 @@ Principal\n
 //いや、遅くなってもいいから、\n
 //　　最後までしっかりやりなさい
 //Ah, no, I don't mean to rush you. Do a good job until the end, okay
-Ah, no quiero meteros prisa. Quedaos el tiempo que haga falta, vale
+Ah, no quiero meteros prisa. Quedaos el tiempo que haga falta, (Vale
 <$F3><$FF>
 <$04><$00>
 
@@ -120,7 +121,7 @@ Y parece como si me hubiese chocado con una pared."
 //　　会議室に死んだ広瀬が・・・。」
 Inaba\n
 //"Ms. Hojou! Hirose was killed in the Meeting Room!"
-"Ms. Hojou! Mataron a Hirose en la sala de juntas!"
+")Ms. Hojou! )Mataron a Hirose en la sala de juntas!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -131,7 +132,7 @@ Inaba\n
 //　　
 Hojou\n
 //"You saw that too, huh...
-"Viste eso tambien, eh...
+"Viste eso tambi}n, eh...
 <$FF><$FF>
 <$14><$00>
 
@@ -139,7 +140,7 @@ Hojou\n
 //　　なぜ殺されたって解るの！？　」
 \n
 //But Inaba, why do you say he was killed?"
-Pero Inaba, porque dices que ha muerto?" 
+Pero Inaba, (Porque dices que ha muerto?" 
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -150,7 +151,7 @@ Pero Inaba, porque dices que ha muerto?"
 //　　広瀬を刺し殺したんです！！　」
 Inaba\n
 //"A monster jumped out of a mirror and stabbed him!!"
-"Un monstruo aparecio y le clavo algo en el pacho!"
+")Un monstruo apareci[ y le clav[ algo en el pecho!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -160,21 +161,21 @@ Inaba\n
 //　「・・・それを
 Hojou\n
 //"...you<$20>
-"...tu<$20>
+"...tu
 <$FF><$FF>
 <$28><$00>
 
 //見たの稲葉君？\n
 //　　
 //saw something like that, Inaba?
-has visto todo eso, Inaba?
+ has visto todo eso, (Inaba?
 <$FF><$FF>
 <$3C><$00>
 
 //逃げる方法を捜しましょう。
 \n
 //Let's search for a way out.
-Vamos a buscar una salida.
+Debemos buscar una salida.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -183,7 +184,7 @@ Vamos a buscar una salida.
 //　　鏡の化け物の話はしないこと。
 \n
 //It'd be bad if everyone started panicking, so please 
-Sera un caos si todos entran en panico, por favor
+Ser{ un caos si todos entran en p{nico, por favor
 <$FA><$FF>
 <$F8><$FF>
 
@@ -225,7 +226,7 @@ Inaba\n
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -235,7 +236,7 @@ Inaba\n
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -250,7 +251,7 @@ Inaba\n
 //　　　　　　音楽準備室\n
 //　　－　カギが掛かっている　－
 //Music Club Office\n
-Oficina de Musica\n
+Oficina de M=sica\n
 //- Locked -
 - Cerrado - 
 <$FF><$FF>
@@ -266,7 +267,7 @@ Oficina de Musica\n
 //　　　　　　　音楽室\n
 //　　－　カギが掛かっている　－
 //Music Club\n
-Musica\n
+M=sica\n
 //- Locked -
 - Cerrado -
 <$FF><$FF>
@@ -282,7 +283,7 @@ Musica\n
 //　　　　　　　音楽室\n
 //　　－　カギが掛かっている　－
 //Music Club\n
-Musica\n
+M=sica\n
 //- Locked -
 - Cerrado -
 <$FF><$FF>
@@ -312,7 +313,7 @@ Sala de juntas
 //　　　　　　　会議室\n
 //　　－　カギが掛かっている　－
 //Meeting Room
-Sala de juntas
+Sala de juntas\n
 //- Locked -
 - Cerrado -
 
@@ -340,7 +341,7 @@ Sala de juntas
 //　　広瀬がカギを開けたのか？　」
 Inaba\n
 //"Huh? It's not locked anymore. Did Hirose open it?"
-"Eh? Ahora esta abierto. La ha abierto Hirose?"
+"(Eh? Ahora est{ abierto. (La habr{ abierto Hirose?"
 <$FA><$FF>
 <$F8><$FF>
 <$EE><$FF>

@@ -22,7 +22,7 @@ Hojou\n
 
 //稲葉君逃げて
 //Inaba, run
-Inaba, corre
+Inaba, ))Corre
 
 <$F3><$FF>
 <$04><$00>
@@ -42,7 +42,7 @@ Inaba, corre
 //　「先生！！こっちだ！！　　　　」
 Inaba\n
 //"Ms. Hojou!! This way!!"
-"Ms. Hojou! Por aqui!!"
+")Ms. Hojou! )Por aqu&!"
 
 <$FF><$FF>
 <$14><$00>
@@ -55,7 +55,7 @@ Inaba\n
 //稲葉\n
 //　「せ、先生！！　　　　　　　　」
 Inaba\n
-"M-Ms. Hojou!!"
+"))Ms. Hojou!!"
 
 <$FF><$FF>
 <$1E><$00>
@@ -72,7 +72,7 @@ Hojou\n
 //早く行きなさい！\n
 //　　一ノ宮さんを
 //Hurry and go! Ichinomiya needs you
-Date prisa! Ichinomiya te necesita
+)Date prisa! Ichinomiya te necesita
 
 <$F3><$FF>
 <$04><$00>
@@ -87,8 +87,8 @@ Date prisa! Ichinomiya te necesita
 //稲葉\n
 //　「由麻！？　由麻はどこに！！」
 Inaba\n
-//"Yuma!? Where is she!?"
-"Yuma!? Donde estas!?"
+//"Yuma?! Where is she?!"
+")(Yuma?! )(D[nde est{?!"
 
 <$FF><$FF>
 <$32><$00>
@@ -101,7 +101,7 @@ Inaba\n
 //稲葉\n
 //　「あ・・・せ、先生ぇぇぇ！！　」
 Inaba\n
-"No... Ms. Hojoooou!!"
+"))No... Ms. Hojoou!!"
 
 <$FF><$FF>
 <$F0><$00>
@@ -138,7 +138,7 @@ Inaba\n
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -148,7 +148,7 @@ Inaba\n
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -164,7 +164,7 @@ Inaba\n
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La persiana esta cerrada. -
+- La persiana est{ cerrada. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -181,9 +181,9 @@ Inaba\n
 //　　僕達はここで皆殺しにされる\n
 //　　のか！？　　　　　　　　　」
 //Fuck! Are we just stuck\n
-//here waiting to die!?"
-Mierda! Estamos encerrados\n
-esperando a morir aqui!?"
+//here waiting to die?!"
+)Mierda! )(Estamos encerrados\n
+esperando a morir aqu&?!"
 
 <$FA><$FF>
 <$F8><$FF>

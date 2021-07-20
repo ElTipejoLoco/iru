@@ -15,7 +15,7 @@
 //　「先生！　しっかりして下さい！」
 Inaba\n
 //"Mr. Mori! Keep it together!"
-"Mr. Mori! Intente calmarse!"
+")Mr. Mori! )(Qu} ha pasado?!"
 
 
 <$FA><$FF>
@@ -62,7 +62,7 @@ Ese director asqueroso
 //稲葉\n
 //　「せ、先生ぇ！！　　　　　　」
 Inaba\n
-"Mr. Mori!!"
+")Mr. Mori!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -81,13 +81,13 @@ Mochizuki\n
 
 //稲葉！　大丈夫か
 //Inaba! What's wrong
-Inaba! Que ocurre
+)Inaba! )(Qu} ocurre
 
 <$F3><$FF>
 <$68><$00>
 
 //！！　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -100,7 +100,7 @@ Inaba! Que ocurre
 //　「・・・僕達も殺されるのか？」
 Inaba\n
 //"...are we all going to die here?"
-"...vamos a morir todos aqui?"
+"(...Vamos a morir todos aqu&?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -121,7 +121,7 @@ Mochizuki\n
 //　　人類がすべて死体になるよう\n
 //　　な状態らしい
 //I think we're just the beginning. All of mankind will fall if this isn't stopped
-Esto parece el principio de algo peor. La humanidad no estara a salvo
+Esto parece el principio de algo peor. )La humanidad puede estar en peligro
 
 <$F3><$FF>
 <$68><$00>
@@ -143,7 +143,7 @@ Esto parece el principio de algo peor. La humanidad no estara a salvo
 //　　例のメモにそう書いてあった\n
 //　　んだ
 //I still don't believe it... but it's all as that memo said
-Sigo sin creer en esto... pero es tal y como decia la nota
+Sigo sin creer en esto... pero es tal y como dec&a la nota
 
 <$F3><$FF>
 <$68><$00>
@@ -161,8 +161,8 @@ Sigo sin creer en esto... pero es tal y como decia la nota
 //　　あやしいヤツの言うことを\n
 //　　信じるのか？　　　　　　　」
 Inaba\n
-//"You believe the nonsense written in that bullshit memo!?"
-"Crees en esas estupideces que han escrito en esas notas!?"
+//"You believe the nonsense written in that bullshit memo?!"
+")(Crees las estupideces que hay escritas en esas notas?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -222,7 +222,7 @@ Eso... y que el autor dice conocer el paradero de mi hermano
 //今は、今は言うことを聞く\n
 //　　しかない
 //We... we don't have any choice but to obey
-No... no nos queda mas opcion que obedecer
+No... no nos queda m{s opci[n que obedecer
 
 <$F3><$FF>
 <$68><$00>
@@ -272,7 +272,7 @@ Sala de personal
 //　　を見に来よう。　　　　　　」
 Inaba\n
 //"I should check back here later; searching for an exit is more important right now."
-"Deberia volver aqui mas tarde. Ahora lo importante es buscar una forma de salir."
+"Deber&a volver aqu& m{s tarde. Ahora lo importante es buscar una forma de salir."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -297,8 +297,8 @@ Sala de personal
 //　「先生はなにか知ってる！！\n
 //　　しかし、どういう事だ！？
 Inaba\n
-//"What isn't Ms. Hojou telling me!? What's going on!?
-"Que es lo que oculta Ms. Hojoi!? Que ocurre aqui!?
+//"What isn't Ms. Hojou telling me?! What's going on?!
+")(Qu} nos oculta Ms. Hojoi?! )(Qu} ocurre aqu&?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -308,7 +308,7 @@ Inaba\n
 //　　この事件と関係あるのか？
 \n
 //Who? Stop what? Is it related to what's happenning now?
-Detener el que? Tendra conexion con lo que pasa aqui?
+(Detener el qu}? (Tendr{ conexi[n con lo ocurrido aqu&?
 
 <$FA><$FF>
 <$F8><$FF>
@@ -319,7 +319,7 @@ Detener el que? Tendra conexion con lo que pasa aqui?
 //　　近づくべきじゃないな。　　」
 \n
 //And, is Ms. Hojou on our side? I shouldn't approach her until I know for sure."
-Y... esta Ms. Hojou de nuestra parte? Deberia intentar evitarla por ahora..."
+Y... (est{ Ms. Hojou de nuestra parte? Deber&a intentar evitarla por ahora..."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -336,7 +336,7 @@ Y... esta Ms. Hojou de nuestra parte? Deberia intentar evitarla por ahora..."
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -346,7 +346,7 @@ Y... esta Ms. Hojou de nuestra parte? Deberia intentar evitarla por ahora..."
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -363,7 +363,7 @@ Inaba\n
 //　　ともしない　　　　　　　　　－
 \n
 //- You try and open the door, but it doesn't budge. -
-- Intentas girar el pomo, pero esta cerrado. -
+- Intentas girar el pomo, pero est{ cerrado. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -394,8 +394,8 @@ Es como si una fuerza la mantuviese cerrada.
 //　　学校の中で、死を待つしか\n
 //　　ないっていうのか！　　　　」
 \n
-//Damnit! Are we just trapped here waiting to die!?"
-Maldita sea! Vamos a morir encerrados dentro!?"
+//Damnit! Are we just trapped here waiting to die?!"
+Maldita sea! Vamos a morir encerrados aqu&?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -443,7 +443,7 @@ Oficina del Conseje\n
 
 //　　　　　　　保健室
 //Nurse's Office
-Oficina de Enfermeria
+Oficina de Enfermer&a
 
 <$FF><$FF>
 <$3C><$00>
@@ -458,7 +458,7 @@ Oficina de Enfermeria
 
 //　　　　　　　保健室
 //Nurse's Office
-Oficina de Enfermeria
+Oficina de Enfermer&a
 
 <$FF><$FF>
 <$3C><$00>

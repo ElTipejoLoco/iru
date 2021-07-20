@@ -13,7 +13,7 @@
 //　「石碑に何か書かれている。　」
 Inaba\n
 //"There's something written here."
-"Hay algo escrito por aqui."
+"Hay algo escrito por aqu&."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -56,7 +56,7 @@ La luz del pentagono protege el sello. Cuando la luz roja brille sobre el, el pe
 //　　－　　ロウソクがある　　－
 \n
 //- There's a candle here. -
-- Hay una vela por aqui. -
+- Hay una vela por aqu&. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -76,7 +76,7 @@ La luz del pentagono protege el sello. Cuando la luz roja brille sobre el, el pe
 //　　－　すでに火は付いている　－
 \n
 //- The candle's already lit. -
-- La vela ya esta encendida. -
+- La vela ya est{ encendida. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -91,7 +91,7 @@ La luz del pentagono protege el sello. Cuando la luz roja brille sobre el, el pe
 //　　　ロウソクに火を付けた！
 \n
 //- You lit the candle! -
-- Enciendes la vela! -
+- )Enciendes la vela! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -107,7 +107,7 @@ La luz del pentagono protege el sello. Cuando la luz roja brille sobre el, el pe
 //　　中に入れない　　　　　　　－
 \n
 //- The light from the barrier blocks you from entering. -
-- La luz de la barrera impides que puedas acceder. -
+- La luz de la barrera impide que puedas acceder. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -123,7 +123,7 @@ La luz del pentagono protege el sello. Cuando la luz roja brille sobre el, el pe
 //　　　はめ込んだ！
 \n
 //- You place the crimson jewel into the wall! -
-- Pones la gema roja en el hueco de la pared! -
+- )Pones la gema roja en el hueco de la pared! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -138,8 +138,8 @@ La luz del pentagono protege el sello. Cuando la luz roja brille sobre el, el pe
 //稲葉\n
 //　「な、なんだ！？　　　　　　」
 Inaba\n
-//"W-what the!?"
-"P-pero que!?"
+//"W-what the?!"
+")(P-pero qu}?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -157,7 +157,7 @@ Inaba\n
 //　　　て　外すことが　できない　－
 \n
 //- The jewel is firmly stuck into the wall. -
-- La joya esta bien sujeta en la pared. -
+- La gema est{ bien sujeta en la pared. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -205,7 +205,7 @@ Inaba\n
 //　「これがエルダーサインか？　」
 Inaba\n
 //"Is this the Elder Sign?"
-"Sera el simbolo antiguo?"
+"(Ser{ el s&mbolo antiguo?"
 <$FA><$FF>
 <$F8><$FF>
 <$00><$00>
@@ -251,8 +251,8 @@ uaaau!
 //\n
 //　　なんだ、この光は！？　　　」
 \n
-//What's this light!?"
-Que es esta luz!?"
+//What's this light?!"
+)(Qu} es esta luz?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -304,7 +304,7 @@ eso no suena bien...
 //　　たんじゃ。　　　　　　　　」
 \n
 //I feel like I just did something terrible that can't be undone..."
-Siento como si hubiese hecho algo horrible y tuviese arreglo..."
+Siento como si hubiese hecho algo que ya no podr{ deshacerse..."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

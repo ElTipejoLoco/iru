@@ -21,7 +21,7 @@ Mochizuki\n
 
 //稲葉、見てくれ
 //Inaba, look at this
-Inaba, mira esto
+Inaba, ))Mira esto
 
 <$F3><$FF>
 <$04><$00>
@@ -47,7 +47,7 @@ Esto estaba escrito en aquel trozo de papel que te dio Mochizuki:
 //　　彼なら、大丈夫だと・・・
 \n
 //- I told Masayoshi everything. I thought maybe it'd be okay.
-- Le dije todo a Masayoshi. Crei que todo estaria bien. 
+- Le dije todo a Masayoshi. Cre& que todo estar&a bien. 
 
 <$FA><$FF>
 <$F8><$FF>
@@ -57,7 +57,7 @@ Esto estaba escrito en aquel trozo de papel que te dio Mochizuki:
 //　　うやつらと暮らし・・・
 \n
 //...now he's stuck with the flesh-eating monsters that live in the darkness of the underground caves.
-...ahora esta atrapado con esos monstruos come-carne que viven en esas oscuras cuevas subterraneas.
+...ahora est{ atrapado con esos monstruos come-carne que viven en esas oscuras cuevas subterraneas.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -67,7 +67,7 @@ Esto estaba escrito en aquel trozo de papel que te dio Mochizuki:
 //　　報い、あいつが・・・　　　　－
 \n
 //It was fitting payback for his betrayal after he... -
-Era la venganza adecuada por su traicion antes de... -
+Era la venganza adecuada por su traici[n antes de... -
 
 
 <$FA><$FF>
@@ -96,7 +96,7 @@ Mochizuki\n
 //　　兄さんが・・・生きている\n
 //　　かもしれない
 //This is about my brother. He... might still be alive
-Esto va sobre mi hermano. El... quizas siga vivo
+Esto va sobre mi hermano. #l... quiz{s siga vivo
 
 <$F3><$FF>
 <$04><$00>
@@ -117,7 +117,7 @@ Esto va sobre mi hermano. El... quizas siga vivo
 //　　やっぱり、北条と兄さんの\n
 //　　間で何かあったんだ
 //I found this in the Art Club Office. Something definitely happened between Hojou and my brother
-Encontre esto en la oficina de plastica. Seguro que algo ocurrio entre Hojou y mi hermano
+Encontr} esto en la oficina de pl{stica. ))Seguro que algo ocurri[ entre Hojou y mi hermano
 
 <$F3><$FF>
 <$04><$00>
@@ -139,7 +139,7 @@ Encontre esto en la oficina de plastica. Seguro que algo ocurrio entre Hojou y m
 //　　この学校の地下には洞窟が\n
 //　　あって
 //Oh yeah, Inaba, have you heard the rumor about the monsters who
-Inaba, alguna vez oiste el rumor que hablar sobre unos monstruos
+Inaba, (Has oido el rumor que habla sobre los monstruos  
 
 <$F3><$FF>
 <$04><$00>
@@ -160,7 +160,7 @@ Inaba, alguna vez oiste el rumor que hablar sobre unos monstruos
 //　　話を。\n
 //　　そいつらと一緒に兄さんが
 //live in an underground cave below the school? My brother could be trapped there with them
-que viven en una cueva subterranea bajo la escuela? Mi hermano podria estar atrapado alli
+que viven en una cueva subterranea bajo la escuela? ))Mi hermano podr&a estar atrapado all&
 
 <$F3><$FF>
 <$04><$00>
@@ -214,7 +214,7 @@ la historia es conocida en toda la isla
 //そこに行けば手がかりが\n
 //　　つかめるかもしれない
 //If we go there, we might find a clue
-Si vamos, quizas encontremos pistas
+Si vamos, quiz{s encontremos pistas
 
 <$F3><$FF>
 <$04><$00>
@@ -235,7 +235,7 @@ Si vamos, quizas encontremos pistas
 //いやっ、そこに行けば兄さん\n
 //　　に会えるんだ
 //Not just that, I might be able to see my brother again
-Y no solo eso, quizas pueda volver a ver a mi hermano
+Y no solo eso, quiz{s pueda volver a ver a mi hermano
 
 <$F3><$FF>
 <$04><$00>
@@ -251,7 +251,7 @@ Y no solo eso, quizas pueda volver a ver a mi hermano
 //　　その前にここから逃げなきゃ！
 Inaba\n
 //"Wait, Mochizuki! We need to escape, not go deeper inside!
-"Espera, Mochizuki! Necesitamos escapar no adentrarnos mas!
+")Espera, Mochizuki! Necesitamos escapar, )No adentrarnos!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -262,7 +262,7 @@ Inaba\n
 //　　おい、望月ィ！！　　　　　」
 \n
 //What's gotten into you lately, man! W-wait, Mochizuki!"
-Que es lo que esta pasando, tio! E-espara, Mochizuki!"
+)Qu} es lo que est{ pasando, tio! )E-espera, Mochizuki!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -298,7 +298,7 @@ Que es lo que esta pasando, tio! E-espara, Mochizuki!"
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -308,7 +308,7 @@ Que es lo que esta pasando, tio! E-espara, Mochizuki!"
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -322,7 +322,7 @@ Inaba\n
 
 //　　　　　　女子トイレ
 //Women's Restroom
-WC de Mujeres
+Ba]o de Chicas
 
 <$FF><$FF>
 <$3C><$00>
@@ -337,7 +337,7 @@ WC de Mujeres
 
 //　　　　　　女子更衣室
 //Women's Locker Room
-Casillero de Mujeres
+Casillero de Chicas
 
 <$FF><$FF>
 <$3C><$00>

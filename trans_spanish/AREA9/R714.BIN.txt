@@ -15,7 +15,7 @@
 //　　時計塔の中なんだ。　　　　」
 Inaba\n
 //"This is... a machine room? That means we're in the clocktower after all."
-"Esto es... una sala de maquinas? Supongo que estoy en la torre del reloj."
+"(Una sala de maquinas? Supongo que estoy en la torre del reloj."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -31,7 +31,7 @@ Inaba\n
 //　　出来ない！　　　　　　　　　－
 \n
 //- The bridge is broken and you can't pass! -
-- El puente esta roto y no puedes pasar! -
+- )El puente est{ roto y no puedes pasar! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -47,7 +47,7 @@ Inaba\n
 //　　“釘抜き”を　投げ入れた！
 \n
 //- You tossed the crowbar into the spinning gear! -
-- Tiras la palanca dentro del mecanismo gigante! -
+- )Tiras la palanca dentro del mecanismo gigante! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -64,7 +64,7 @@ Inaba\n
 //　　ないかな。　　　　　　　　」
 Inaba\n
 //"It stopped? I think I can get across now."
-"Se ha parado? Creo que ahora puedo pasar."
+"(Se ha parado? Creo que ahora puedo pasar."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -79,7 +79,7 @@ Inaba\n
 //　　回っている歯車の間に\n
 //　　“ハンマー”を　投げ入れた！
 //- You tossed the hammer into the spinning gear! -
-- Tiras el martillo en el mecanismo gigante! -
+- )Tiras el martillo en el mecanismo gigante! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -96,7 +96,7 @@ Inaba\n
 //　　ないかな。　　　　　　　　」
 Inaba\n
 //"It stopped? I think I can get across now."
-"Se ha parado? Creo que ahora puedo pasar."
+"(Se ha parado? Creo que ahora puedo pasar."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -112,7 +112,7 @@ Inaba\n
 //－　巨大な歯車が　まわっている　－
 \n
 //- There's a huge gear spinning here. -
-- Hay un enorme engranaje aqui. -
+- Hay un enorme engranaje aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -123,7 +123,7 @@ Inaba\n
 //　　けれども・・・。　　　　　」
 Inaba\n
 //"If the gear wasn't moving, I might be able to get across..."
-"Si el engranaje no se moviese, podria cruzar por aqui..."
+"Si el engranaje no se moviese, podr&a cruzar por aqu&..."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -138,7 +138,7 @@ Inaba\n
 //　「これをつたって行けるぞ！　」
 Inaba\n
 //"I can get over there if I climb this!"
-"Puedo pasar por aqui si subo esto!"
+")Podr&a pasar si trepo por el engranaje!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -154,8 +154,8 @@ Inaba\n
 //　「思い切って、あそこに\n
 //　　ジャンプするか！？　　　　」
 Inaba\n
-//"Can I make it over if I leap for it!?"
-"Podre cruzar esto si pego un salto!?"
+//"Can I make it over if I leap for it?!"
+")(Podr} llegar all& de un salto?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

@@ -14,7 +14,7 @@
 //稲葉\n
 //　「由麻・・・？　　　　　　　　」
 Inaba\n
-"Yuma...?"
+"(Yuma...?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -50,7 +50,7 @@ Inaba. Lo-lo siento
 //わたし・・・、\n
 //　　美術室に行かなきゃ
 //I... need to go to the Art Club Office
-Yo... necesito ir a la sala de plastica
+Yo... necesito ir al aula de pl{stica
 <$F3><$FF>
 <$04><$00>
 
@@ -72,8 +72,8 @@ Yo... necesito ir a la sala de plastica
 //稲葉\n
 //　「ん！？　な、なんだ？　　　」
 Inaba\n
-//"Huh!? W-what the!?"
-"Eh!? P-pero que!?"
+//"Huh?! W-what the?!"
+")(Eh?! )(P-pero qu}?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -97,12 +97,12 @@ Director\n
 //　　こんな時間まで\n
 //　　何をやっているんだ
 //You, stop!! What are you doing at school this late
-Tu, alto!! Que haces aqui en la escuela tan tarde
+))T=, alto!! )(Qu} haces aqu& en la escuela tan tarde
 <$F3><$FF>
 <$04><$00>
 
 //？　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -120,7 +120,7 @@ Tu, alto!! Que haces aqui en la escuela tan tarde
 //　　けど・・・。　　　　　　　」
 Inaba\n
 //"Huh? We're preparing for tomorrow's school festival, sir..."
-"Eh? Estamos preparando las casetas y carros del festival..."
+"(Eh? Estamos preparando las casetas y carros del festival..."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -136,7 +136,7 @@ Director\n
 //ウム・・・そうだったな。\n
 //　　そうか、がんばりなさい。　
 //Ah, right... Fine then, don't slack off.
-Oh, cierto... Bueno, entonces seguid asi.
+Oh, cierto... Bueno, entonces seguid as&.
 <$F3><$FF>
 <$04><$00>
 
@@ -158,7 +158,7 @@ Oh, cierto... Bueno, entonces seguid asi.
 //　　中から生臭いにおいがする。　」
 Inaba\n
 //"It's locked. There's an awful smell coming from inside."
-"Esta cerrado. Hay un edor horrible que emada de dentro."
+"Esta cerrado. Hay un edor horrible que emana de dentro."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -189,7 +189,7 @@ Inaba\n
 //　　　教室のカギを　開けた！
 \n
 //- You unlocked the classroom! -
-- Has abierto la clase! -
+- )Has abierto el aula! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -204,7 +204,7 @@ Inaba\n
 //　　　教室のカギを　開けた！
 \n
 //- You unlocked the classroom! -
-- Has abierto la clase! -
+- )Has abierto el aula! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -221,7 +221,7 @@ Inaba\n
 //　　まずいな。　　　　　　　　」
 Inaba\n
 //"It'd cause an uproar if I went in here."
-"Causaria un alboroto si entrase aqui."
+"Causar&a un alboroto si entrase aqu&."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -254,7 +254,7 @@ Inaba\n
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -264,7 +264,7 @@ Inaba\n
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -278,7 +278,7 @@ Inaba\n
 
 //　　　　　　女子トイレ
 //Women's Restroom
-WC de Mujeres
+Ba]o de Chicas
 
 <$FF><$FF>
 <$3C><$00>
@@ -293,7 +293,7 @@ WC de Mujeres
 
 //　　　　　　女子トイレ
 //Women's Restroom
-WC de Mujeres
+Ba]o de Chicas
 
 <$FF><$FF>
 <$3C><$00>
@@ -305,7 +305,7 @@ WC de Mujeres
 //　　まずいな。　　　　　　　　」
 Inaba\n
 //"It'd cause an uproar if I went in here."
-"Causaria un alboroto si entrase aqui."
+"Causar&a un alboroto si entro ah&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -319,7 +319,7 @@ Inaba\n
 
 //　　　　　　進路相談室
 //Career Center
-Orientacion profesional
+Orientaci[n Laboral
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>

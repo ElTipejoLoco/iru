@@ -16,7 +16,7 @@
 //　　起きろ！！　起きるんだ！！　」
 Hikawa\n
 //"Inaba. Inaba! Wake up! Wake up already!!"
-"Inaba. Inaba! Despierta! Levantate ya!!"
+"Inaba. )Inaba! )Despierta! )Levantate ya!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -35,8 +35,8 @@ Hikawa\n
 //いつまでも寝てんじゃねえ！\n
 //　　おまえにはやってもらうこと\n
 //　　があるんだ
-//How long are you going to sleep!? I've got a job for you down there
-Cuanto mas vas a dormir!? Necesito que hagas algo por mi alli abajo
+//How long are you going to sleep?! I've got a job for you down there
+)(Cu{nto m{s vas a dormir?! Necesito que hagas algo por mi all& abajo
 <$F3><$FF>
 <$04><$00>
 
@@ -57,7 +57,7 @@ Cuanto mas vas a dormir!? Necesito que hagas algo por mi alli abajo
 //　　“旧き印”－エルダーサイン－\n
 //　　を動かしてくるんだ
 //Head down the underground path and move the ancient symbol, the Elder Sign, for me
-Avanza por el subterraneo y aprieta el dibujo, el simbolo antiguo, hazlo por mi
+Avanza por el subterraneo y aprieta el dibujo, el s&mbolo antiguo, )Hazlo por mi
 <$F3><$FF>
 <$04><$00>
 
@@ -71,7 +71,7 @@ Avanza por el subterraneo y aprieta el dibujo, el simbolo antiguo, hazlo por mi
 //　「エルダーサイン？　　　　　　」
 Inaba\n
 //"Elder Sign?"
-"Simbolo antiguo?"
+"(S&mbolo antiguo?"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -90,7 +90,7 @@ Hikawa
 //　　はずだ。\n
 //　　そいつを動かせ
 //It should be a rock with a crest carved into it. Find it and move it
-Debe estar en una pared de las rocas grabado. Encuentralo y aprietalo
+Debe estar en una pared de las rocas grabado. Encu}ntralo y apri}talo
 <$F3><$FF>
 <$04><$00>
 
@@ -110,7 +110,7 @@ Debe estar en una pared de las rocas grabado. Encuentralo y aprietalo
 //そこから出たいだろ？\n
 //　　一ノ宮を返して欲しいだろ
 //You want out right? You want us to return Ichinomiya, right
-Quieres escapar no? Quieres encontrar a Ichinomiya, verdad
+(Quieres escapar no? Quieres encontrar a Ichinomiya, (Verdad
 <$F3><$FF>
 <$04><$00>
 
@@ -130,7 +130,7 @@ Quieres escapar no? Quieres encontrar a Ichinomiya, verdad
 //俺の言うことを聞く以外、\n
 //　　助かる方法は無い
 //Then this is your only option
-Entonces es tu oportunidad
+)Entonces es tu oportunidad
 <$F3><$FF>
 <$04><$00>
 
@@ -144,8 +144,8 @@ Entonces es tu oportunidad
 //　「なんのためにこんなこと！\n
 //　　それよりここから出せ！！　」
 Inaba\n
-//"What the hell are you doing all this for!? Let me out already!!"
-"Porque demonios estas haciendo todo esto!? Dejame salir ahora!!"
+//"What the hell are you doing all this for?! Let me out already!!"
+")(Porqu} demonios est{s haciendo todo esto?! )D}jame salir ahora!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -163,7 +163,7 @@ Hikawa\n
 //　　言われた通りにすれば助けて\n
 //　　やってもいいって言ってんだ
 //God damn you're annoying! I told you already, I'll let you out when you move the Elder Sign
-Eres muy repelente! Ya te lo he dicho, dejare que salgas de ahi cuando muevas el simbolo
+)Eres muy repelente! Ya te lo he dicho, )Dejar} que salgas de ah& cuando muevas el s&mbolo
 <$F3><$FF>
 <$04><$00>
 
@@ -192,8 +192,8 @@ Hikawa\n
 
 //どうした！？\n
 //　　とぼけていたって
-//The fuck's the matter!? Did you forget already
-Pero que mierda te pasa!? Ya lo has olvidado
+//The fuck's the matter?! Did you forget already
+)(Pero qu} mierda te pasa?! (Ya te has olvidado
 <$F3><$FF>
 <$04><$00>
 
@@ -214,7 +214,7 @@ Pero que mierda te pasa!? Ya lo has olvidado
 //　　てないって俺達には分かるん\n
 //　　だ
 //I won't help you until you move the Elder Sign
-No te ayudare hasta que aprietes el simbolo
+No te ayudare hasta que no aprietes el s&mbolo
 <$F3><$FF>
 <$04><$00>
 
@@ -233,7 +233,7 @@ No te ayudare hasta que aprietes el simbolo
 
 //早く動かしてこい
 //Move it already
-Ve a apretarlo
+))Ve a apretarlo
 <$F3><$FF>
 <$04><$00>
 
@@ -262,7 +262,7 @@ Hikawa\n
 
 //ご苦労だったな！
 //Haha, good work!
-Jaja, buen trabajo!
+Jaja, )Buen trabajo!
 <$F3><$FF>
 <$04><$00>
 
@@ -294,7 +294,7 @@ Hikawa\n
 //約束した覚えはないぞ。\n
 //　　・・・はははは
 //I don't remember making any promises with you. HAHAHA
-No recuerdo haberte prometido nada la verdad. JAJAJA
+No recuerdo haberte prometido nada la verdad. )JAJAJA
 <$F3><$FF>
 <$04><$00>
 

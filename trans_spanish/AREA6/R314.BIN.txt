@@ -66,7 +66,7 @@ La tapa ya ha sido retirada.
 //　開けた！
 \n
 //- You unfastened the lid! -
-- Has quitado la tapa! -
+- )Has quitado la tapa! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -81,7 +81,7 @@ La tapa ya ha sido retirada.
 //　ハンマーで木箱のフタを壊した！
 \n
 //- You broke the lid with the hammer! -
-- Has roto la tapa con el martillo! -
+- )Has roto la tapa con el martillo! -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -98,7 +98,7 @@ La tapa ya ha sido retirada.
 //　「中に何か入ってる。　　　　」
 Inaba\n
 //"There's something inside."
-"Hay algo aqui dentro."
+"Hay algo aqu& dentro."
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -110,7 +110,7 @@ Inaba\n
 //　　何かの足音みたいだ。　　　」
 Inaba\n
 //"H-huh? Footsteps?"
-"Eh? Se oyen pasos!"
+"(Eh? )Se oyen pasos!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -122,7 +122,7 @@ Inaba\n
 //稲葉\n
 //　「う、うわー！！　　　　　　」
 Inaba\n
-"A-AHHHH!"
+")A-AHH!"
 
 <$FF><$FF>
 <$78><$00>
@@ -141,8 +141,8 @@ Inaba\n
 //　「うっ！　なんだ、このすごい\n
 //　　においは！　　　　　　　　」
 Inaba\n
-//"Oh god, what's that horrible stench!?"
-"Oh Dios, que ese asqueroso olor!?"
+//"Oh god, what's that horrible stench?!"
+"Oh Dios, )(Qu} ese asqueroso olor?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -164,10 +164,11 @@ Inaba\n
 
 //稲葉\n
 //　「何もゴミが入ってないな。　」
-//Inaba\n
-//"There's nothing but trash inside."
+		 
+									 
 Inaba\n
-"No contiene nada mas que basura."
+//"There's nothing but trash inside."
+"No contiene nada m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -182,9 +183,8 @@ Inaba\n
 //\n
 //－　掃除用具を入れるロッカーだ　－
 \n
-////- It's a locker full of cleaning equipment. -
+//- It's a locker full of cleaning equipment. -
 - Un casillero lleno de trastos de limpieza. -
-- Una taquilla llena de equipos de limpieza. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -224,7 +224,7 @@ Inaba\n
 //　　られそうだな。　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>

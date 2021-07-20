@@ -14,7 +14,7 @@
 //　「ん？　　　　　　　　　　　」
 Inaba\n
 //"Hmm?"
-"Mmm?"
+"(Mmm?"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -30,7 +30,7 @@ Inaba\n
 //　「何だろう？　　　　　　　　」
 Inaba\n
 //"What's this?"
-"Que es esto?"
+"(Qu} es esto?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -70,7 +70,7 @@ Inaba\n
 //　　と書いてある　　　　　　　　－
 \n
 //- The poster says "Exhibit of the Stars." -
-- Dice "Exhibicion de las estrellas." -
+- Dice "Exhibici[n de las estrellas." -
 <$FA><$FF>
 <$F8><$FF>
 

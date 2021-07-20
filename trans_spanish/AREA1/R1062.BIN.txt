@@ -24,7 +24,7 @@ Sala de personal
 //　　を見に来よう。　　　　　　」
 Inaba\n
 //"I should check back here later; searching for an exit is more important right now."
-"Deberia volver aqui mas tarde. Buscar una salido es lo mas importante ahora mismo."
+"Deber&a volver aqu& m{s tarde. Buscar una salida es lo m{s importante ahora mismo."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -49,8 +49,8 @@ Sala de personal
 //　「先生はなにか知ってる！！\n
 //　　しかし、どういう事だ！？
 Inaba\n
-//"What isn't Ms. Hojou telling me!? What's going on!?
-"Que nos ha ocultado Ms. Hojou!? Que esta ocurriendo!?
+//"What isn't Ms. Hojou telling me?! What's going on?!
+")(Qu} nos oculta Ms. Hojou?! Que est{ ocurriendo?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -60,7 +60,7 @@ Inaba\n
 //　　この事件と関係あるのか？
 \n
 //Who? Stop what? Is it related to what's happenning now?
-Detener el que? Tiene conexion con lo que esta pasando?
+(Detener el qu}? (Tendr{ conexi[n con lo que ocurre?
 
 <$FA><$FF>
 <$F8><$FF>
@@ -71,7 +71,7 @@ Detener el que? Tiene conexion con lo que esta pasando?
 //　　近づくべきじゃないな。　　」
 \n
 //And, is Ms. Hojou on our side? I shouldn't approach her until I know for sure."
-Y, esta Ms. Hojou de nuestra parte? No deberia acercame a ella de momento..."
+Y, (Est{ Ms. Hojou de nuestra parte? No deber&a acercame a ella de momento..."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -88,7 +88,7 @@ Y, esta Ms. Hojou de nuestra parte? No deberia acercame a ella de momento..."
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -98,7 +98,7 @@ Y, esta Ms. Hojou de nuestra parte? No deberia acercame a ella de momento..."
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -152,8 +152,7 @@ Sala sellada
 //稲葉\n
 //　「！？
 Inaba\n
-"!?<$20>
-
+")(Eh?! 
 <$FF><$FF>
 <$3C><$00>
 
@@ -161,7 +160,7 @@ Inaba\n
 //　　いつもは絶対に開いてない\n
 //　　“開かずの間”なのに？　　」
 //I-it opened! But this 'Sealed Room' has always been a locked mystery?"
-La he a-abierto! Pero la 'Sala sellada' siempre ha sido un misterio!"
+)La he a-abierto! )L-la 'Sala\n sellada' siempre ha estado cerrada!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -191,7 +190,7 @@ Sala sellada
 
 //　　　　　　男子トイレ
 //Men's Restroom
-WC de hombres
+Ba]o de Chicos
 
 <$FF><$FF>
 <$3C><$00>

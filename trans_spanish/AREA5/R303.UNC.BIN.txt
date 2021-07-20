@@ -24,7 +24,7 @@ Mochizuki\n
 //　　いったい、なにがあったんで\n
 //　　すか
 //Ms. Hojou! Please tell me what happened to my brother Masayoshi
-Ms. Hojou! Digame lo que le ocurrio a mi hermano Masayoshi
+)Ms. Hojou! )D&game lo que le ocurri[ a mi hermano Masayoshi
 <$F3><$FF>
 <$04><$00>
 
@@ -44,7 +44,7 @@ Ms. Hojou! Digame lo que le ocurrio a mi hermano Masayoshi
 
 //本当のことを教えて下さい
 //I'm begging you
-Se lo suplico
+)Se lo suplico
 <$F3><$FF>
 <$04><$00>
 
@@ -91,7 +91,7 @@ Lo siento, Mochizuki pero yo no se nada
 //　　信じて
 \n
 //Please believe me. I'd tell you if I knew anything, I swear
-Debes confiar en mi. Te juro que si supiese algo te lo diria
+Debes confiar en mi. Te juro que si supiese algo te lo dir&a
 <$F3><$FF>
 <$68><$00>
 
@@ -123,7 +123,7 @@ Hojou\n
 
 //どうしたの？　なにか
 //What's wrong, do you need something
-Que ocurre, necesitas alguna cosa
+Qu} ocurre, necesitas alguna cosa
 <$F3><$FF>
 <$68><$00>
 
@@ -153,7 +153,7 @@ Hojou\n
 //　　室にいるから、何かあったら\n
 //　　いらっしゃい
 //Well, okay then. If you need me, feel free to drop by the Art Club Office
-Vale, bien. Si me necesitas, estare trabajando en la oficina de plastica
+Vale, bien. Si me necesitas, estar} trabajando en la oficina de pl{stica
 <$F3><$FF>
 <$68><$00>
 
@@ -176,7 +176,7 @@ Vale, bien. Si me necesitas, estare trabajando en la oficina de plastica
 //　「どうかした？　　　　　　　」
 Inaba\n
 //"Something wrong?"
-"Algun problema?"
+"(Te pasa algo?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -215,7 +215,7 @@ No es nada, no te preocupes. Tengo demasiadas cosas en la cabeza
 //　　手伝ってくれよ。　　　　　」
 Inaba\n
 //"...hey man, we've still got some more work to finish."
-"...oye tio, tenemos un monton de trabajo que acabar."
+"...oye tio, tenemos mucho trabajo por delante."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -231,7 +231,7 @@ Mochizuki\n
 //　　ちょっと、落ち着くまで待っ\n
 //　　てくれないか
 //Sorry. Can you give me a minute to calm down
-Si, perdona. Te importaria darme unos minutos
+Si, perdona. (Te importar&a darme unos minutos
 <$F3><$FF>
 <$04><$00>
 
@@ -256,7 +256,7 @@ Si, perdona. Te importaria darme unos minutos
 //　　帰ってくるわけじゃ・・・。」
 Inaba\n
 //"...your brother isn't going to just appear because you lashed out at Ms. Hojou."
-"...tu hermano no aparecera de la nada solo porque vayas a intimidar a Ms.Hojou."
+"...tu hermano no aparecer{ de la nada solo porque vayas a int&midar a Ms.Hojou."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -272,7 +272,7 @@ Mochizuki
 //　　なにか知ってるんだ！　　　」
 \n
 //"You heard that, huh? ...she definitely knows something about my brother though!"
-"Oiste la conversacion, no? ...Estoy seguro de que sabe algo sobre mi hermano!"
+"(Oiste la conversaci[n,no? )Estoy seguro de que sabe algo sobre mi hermano!"
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -283,7 +283,7 @@ Mochizuki
 //　　だよ？　　　　　　　　　　」
 Inaba\n
 //"Why are you so sure of that?"
-"Como estas tan seguro?"
+"(C[mo est{s tan seguro?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -299,7 +299,7 @@ Mochizuki
 //　　っていう本があるのを。
 \n
 //"Because I saw it!! She has his copy of 'De Vermis Mysteriis' in her office!
-"Porque lo vi! Ella tiene una copia del 'De Vermis Mysteriis' en su oficina!
+")Porque lo vi! )Ella tiene la copia del 'De Vermis Mysteriis' en su oficina!
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -316,7 +316,7 @@ Mochizuki
 //　　古本屋で手に入れた貴重品な\n
 //　　んだ。
 //It's a precious book he managed to find at an old book store in America.
-Un libro unico que el logro encontrar en una antigua libreria en America.
+Un libro =nico que }l logr[ encontrar en una antigua librer&a de America.
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -333,7 +333,7 @@ Un libro unico que el logro encontrar en una antigua libreria en America.
 //　　しなかったくらい大切にして\n
 //　　た本を・・・、
 //It's precious enough that he never even let me touch it...
-Era tan preciado y raro que nunca me dejo que lo tocase...
+Era tan preciado y raro que nunca me dej[ que lo tocase...
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -349,8 +349,8 @@ Era tan preciado y raro que nunca me dejo que lo tocase...
 //北条先生がなんで持ってるん\n
 //　　だ！！\n
 //　　・・・それに・・・。　　　」
-Why the hell does she have it!? That and--"
-Como demonios lo ha conseguido!? Eso y--"
+//Why the hell does she have it?! That and--"
+)(Porqu} lo tiene ella?! Eso y ade--"
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -361,7 +361,7 @@ Como demonios lo ha conseguido!? Eso y--"
 //　　ことも考えられるだろ？　　」
 Inaba\n
 //"Couldn't she just have the same book by chance?"
-"No puede haber conseguido una copia del libro?"
+"(No puede haber conseguido una copia del libro?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -393,7 +393,7 @@ Mochizuki
 //　　先に行ってる。　　　　　　」
 \n
 //"...yeah, yeah, I got you. I'll head to the classroom."
-"...ya, ya, te entiendo. Volvere directo a la clase."
+"...vale, te entiendo. Volver} directo a trabajar."
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -414,7 +414,7 @@ Mochizuki
 //　　なんて・・・。　　　　　　」
 Rie\n
 //"I can't just c-confess my feelings like that after all..."
-"No puedo decirle lo q-ue si-siento asi como asi..."
+"N-no puedo decirle lo que si-siento a-as& como as&..."
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -436,7 +436,7 @@ Kyoko\n
 //　　ダメモトでガンバんないと！」
 \n
 //You'll regret it if you don't even try. Just throw caution to the wind and do it! I believe in you!"
-Te arrepentiras si ni siquiera lo intentas. Simplemente toma las riendas y hazlo! Yo confio en ti!"
+Te arrepentir{s si no lo intentas. )Simplemente toma las riendas y hazlo! )Yo conf&o en ti!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -447,7 +447,7 @@ Te arrepentiras si ni siquiera lo intentas. Simplemente toma las riendas y hazlo
 //　　私じゃ・・・。　　　　　　」
 Rie\n
 //"I-I know, but... Why would he even want me when Yuma's around..."
-Lo-lo se, pero... Como voy a tener posiblidades yo estando Yuma..."
+Lo-lo s}, pero... (...C[mo voy a tener posiblidades estando Yuma?"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -492,7 +492,7 @@ I-Inaba
 //　　こんな時間に？\n
 //　　先輩も居残りですか
 //W-what's up? D-did you come to see--I mean, why are you still on campus
-Q-que te cuentas? Has venido a v-ver--digo, porque sigues en la escuela
+(Q-qu} te cuentas? Has venido a ver--digo... (Porqu} sigues en la escuela
 <$F3><$FF>
 <$04><$00>
 
@@ -516,7 +516,7 @@ Kyoko\n
 //　　先輩に合わせて居残りなんで\n
 //　　すよぉ
 //We're both staying on campus late into the night to work on preparations, just like you, Inaba~
-Nos hemos quedado hasta tarde en la escuela para hacer los preparativos, al igual que tu, Inaba~
+Nos hemos quedado hasta tarde en la escuela para hacer los preparativos contigo, Inaba~
 <$F3><$FF>
 <$68><$00>
 
@@ -536,7 +536,7 @@ Nos hemos quedado hasta tarde en la escuela para hacer los preparativos, al igua
 //今はついでに仕事やってるん\n
 //　　です。　ねっ
 //We're just taking a quick break from all the work. Right, Rie
-Solo estabamos tomandonos un descanso. Verdad que si, Rie
+Solo est{bamos tomandonos un descanso. Verdad que si, (Rie
 <$F3><$FF>
 <$68><$00>
 
@@ -550,7 +550,7 @@ Solo estabamos tomandonos un descanso. Verdad que si, Rie
 //　「僕に合わせて？　　　　　　」
 Inaba\n
 //"Just like me?"
-"Igual que yo?"
+"(Conmigo?"
 <$FA><$FF>
 <$F6><$FF>
 <$F8><$FF>
@@ -567,7 +567,7 @@ Rie\n
 //い、いえ！\n
 //　　なんでもないです
 //I-it's nothing!! Don't worry about it please
-N-no es nada!! No te preocupes por ello
+))N-no!! ))No le hagas caso, est{ de broma
 <$F3><$FF>
 <$04><$00>
 
@@ -587,7 +587,7 @@ N-no es nada!! No te preocupes por ello
 //ちょっとこの子、疲れてる\n
 //　　みたいで、ハハ
 //Kyoko's just a little tired is all, hahaha
-Kyoki solo esta un poco cansada, jajaja
+Kyoki solo est{ un poco cansada, jajaja
 <$F3><$FF>
 <$04><$00>
 
@@ -611,7 +611,7 @@ Kyoko\n
 //　　そんなこと言ってぇ？\n
 //　　ん～
 //But Rie~~ This is such a perfect chance, you know
-Pero Rie, es una situacion perfecta para, ya sabes
+Pero Rie, es una situaci[n perfecta... (No crees
 <$F3><$FF>
 <$68><$00>
 
@@ -625,7 +625,7 @@ Pero Rie, es una situacion perfecta para, ya sabes
 //　「どうしたの？　　　　　　　」
 Inaba\n
 //"A perfect chance?"
-"Situacion perfecta?"
+"(A qu} te refieres?"
 <$FA><$FF>
 <$F6><$FF>
 <$F8><$FF>
@@ -641,7 +641,7 @@ Rie\n
 
 //な、なんでもないです
 //I-IT'S NOTHING
-N-NO ES NADA
+))NO ES NADA
 <$F3><$FF>
 <$04><$00>
 
@@ -691,7 +691,7 @@ Rie\n
 <$04><$00>
 
 //せ、先輩
-I-Inaba
+))I-Inaba
 
 <$F3><$FF>
 <$04><$00>
@@ -714,7 +714,7 @@ I-Inaba
 //　　居残りの作業って、けっこう\n
 //　　大変なんですか
 //I, um... I... ...i-it's hard staying late and working, right? Haha
-Yo, eh... yo... ---e-es dificil quedarse trabajando tarde, no? Jaja
+Yo, eh... yo... ---e-es duro quedarse trabajando tarde, (No? Jaja
 <$F3><$FF>
 <$04><$00>
 
@@ -753,7 +753,7 @@ Que mal
 
 //あっそうだ
 //Oh hey, Inaba
-Hola, Inaba
+)Oye, Inaba
 <$F3><$FF>
 <$68><$00>
 
@@ -774,7 +774,7 @@ Hola, Inaba
 //　　そちらの方のお手伝いします\n
 //　　よ
 //We don't have much left to do, so how about we come help you guys out when we're done
-No tenemos mucho que hacer aqui, que te parece si os ayudamos cuando hayamos acabado
+No tenemos mucho que hacer aqu&, (Qu} te parece si vamos a ayudar cuando acabemos aqu&
 <$F3><$FF>
 <$68><$00>
 
@@ -794,7 +794,7 @@ No tenemos mucho que hacer aqui, que te parece si os ayudamos cuando hayamos aca
 //ちょくちょく様子見に来て\n
 //　　くださいね
 //Feel free to drop by and see how we're doing as much as you like
-Pasate por aqui para ver como vamos progresando si te apetece
+))Pasate por aqu& para ver como vamos progresando si quieres
 <$F3><$FF>
 <$68><$00>
 
@@ -820,7 +820,7 @@ Pasate por aqui para ver como vamos progresando si te apetece
 //　　で、また来てくださいね
 Kyoko\n
 //"We'll be done in a flash, so don't be a stranger
-"Acabaremos en un rato, asi que pasate si quieres
+")Acabaremos en un rato, as& que p{sate si quieres
 <$F3><$FF>
 <$04><$00>
 
@@ -844,7 +844,7 @@ Kyoko\n
 //　　で、また来てくださいね
 Kyoko\n
 //"We'll be done in a flash, so don't be a stranger
-"Acabaremos en un rato, asi que pasate si quieres
+")Acabaremos en un rato, as& que p{sate si quieres
 
 <$F3><$FF>
 <$04><$00>
@@ -868,7 +868,7 @@ Kyoko\n
 //　「ねえ、由麻来なかった？　　」
 Inaba\n
 //"Hey, has Yuma come by at all?"
-"Oye, ha pasado Yuma por aqui?"
+"Oye, (Ha pasado Yuma por aqu&?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -883,7 +883,7 @@ Rie\n
 //由麻先輩ですか？\n
 //　　来てませんけど
 //Yuma? No, she's hasn't come by
-Yuma? No, ella no vino por aqui
+(Yuma? No, ella no vino por aqu&
 <$F3><$FF>
 <$04><$00>
 
@@ -898,7 +898,7 @@ Yuma? No, ella no vino por aqui
 //　　んだろ？　　　　　　　　　」
 Inaba\n
 //"I see... Where could she have gone...?"
-"Vale... Donde se habra metido Yuma...?"
+"Ya... (D[nde se habr{ metido Yuma...?"
 <$FA><$FF>
 <$F6><$FF>
 <$F8><$FF>
@@ -914,7 +914,7 @@ Kyoko\n
 //あーっ、もう！！\n
 //　　由麻先輩、由麻先輩って
 //Ugh, come on! Yuma this, Yuma that
-Puag, venga ya! Yuma, Yuma, Yuma
+Puaj, )Venga! Yuma, Yuma, ))YuUUmaAAA
 <$F3><$FF>
 <$68><$00>
 
@@ -935,7 +935,7 @@ Puag, venga ya! Yuma, Yuma, Yuma
 //　　もう先にこっちが終わっても\n
 //　　手伝いませんよ
 //We're not gonna help you even if we finish first
-No vamos a ayudarte incluso aunque acabemos antes
+)No vamos a ayudarte incluso aunque acabemos antes
 <$F3><$FF>
 <$68><$00>
 
@@ -949,7 +949,7 @@ No vamos a ayudarte incluso aunque acabemos antes
 //　　特に理恵は！　　　　　　　」
 \n
 //Especially not Rie!"
-Y mucho menos Rie!"
+)Y mucho menos Rie!"
 <$FA><$FF>
 <$F6><$FF>
 <$F8><$FF>
@@ -965,7 +965,7 @@ Rie\n
 //きゃーっ！！\n
 //　　何でもないです
 //AHH No nooo, she didn't say anything
-AH! No, perdonala, esta muy estresada
+)AH! No, perd[nala, ))Est{ muy estresada
 <$F3><$FF>
 <$04><$00>
 
@@ -985,7 +985,7 @@ AH! No, perdonala, esta muy estresada
 //京子！！　ねっ？　ねっ？\n
 //　　もぉー、お願い
 //Kyoko!! Please please take it back
-Kyoki!! Retira lo que has dicho
+))Kyoki!! ))Retira lo que has dicho
 
 <$F3><$FF>
 <$04><$00>
@@ -1007,7 +1007,7 @@ Kyoko\n
 
 //わかりましたァ
 //Fiiine, fiiine
-Vaaale, vaaale
+Vaaale, vaale
 <$F3><$FF>
 <$68><$00>
 
@@ -1029,7 +1029,7 @@ Vaaale, vaaale
 //　　少しでこっちは終わります\n
 //　　から
 //Sorry Inaba. We're almost done, then we'll head over
-Disculpame Ibana. Ya acabamos, iremos dentro de poco
+Disculpame Inaba. Ya acabamos, )Iremos dentro de poco
 <$F3><$FF>
 <$68><$00>
 
@@ -1057,7 +1057,7 @@ Rie\n
 //もうすぐ終わるのに\n
 //　　北条先生来てくれないね
 //We're almost finished, so could you let Ms. Hojou know
-Ya casi hemos acabado, puedes decirselo a Ms. Hojou
+Ya casi hemos acabado, (Puedes decirselo a Ms. Hojou
 <$F3><$FF>
 <$04><$00>
 
@@ -1079,7 +1079,7 @@ Kyoko\n
 //　　先輩ちょっとだけ様子見に\n
 //　　行ってくれませんか？
 //She asked us to finish this tonight, so please do us this tiny favor and let her know
-Ella nos dijo que acabasemos esta noche, asi que, por favor, ve y dile que ya estamos
+Ella nos dijo que acab{semos esta noche, as& que, por favor, )Dile que ya estamos
 <$F3><$FF>
 <$68><$00>
 
@@ -1110,7 +1110,7 @@ Kyoko\n
 //　　ボーッとして？\n
 //　　先輩また来てくれたよ
 //Hello, Earth to Rie? Inaba's here to see us
-Hola, tierra llamando a Rie? Inaba ha venido
+Hola, (Tierra llamando a Rie? )Inaba ha venido
 <$F3><$FF>
 <$68><$00>
 
@@ -1130,7 +1130,7 @@ Rie\n
 
 //月が・・・欠けてる
 //the moon... is waning
-La luna.... esta menguando
+La luna.... est{ menguando
 <$F3><$FF>
 <$04><$00>
 
@@ -1153,7 +1153,7 @@ Kyoko\n
 //今日は月蝕だって、みんな\n
 //　　騒いでたじゃん
 //Well yeah, there's a lunar eclipse today. Everyone's been talking about it, right
-Pues si, justo hay un eclipse lunar hoy. Todo el mundo hablaba de eso, verdad
+Pues si, justo hay un eclipse lunar hoy. Todo el mundo hablaba de eso, (Verdad
 <$F3><$FF>
 <$68><$00>
 
@@ -1173,7 +1173,7 @@ Rie\n
 
 //げっ・・・しょ・・・く
 //Lunar... ecli...pse
-Eclip...se Lunar...
+(Eclip...se lunar...
 <$F3><$FF>
 <$04><$00>
 
@@ -1196,7 +1196,7 @@ Kyoko\n
 //さっきから、こんな感じなん\n
 //　　ですよぉー
 //Hey, you're acting really off, you know
-Oye, estas actuando muy raro, lo sabias
+Oye, est{s actuando muy raro, (Lo sab&as
 <$F3><$FF>
 <$68><$00>
 
@@ -1216,7 +1216,7 @@ Oye, estas actuando muy raro, lo sabias
 //ほとんど、こっちの準備は\n
 //　　終わってるんですけどネ
 //We're done with our work even
-Ya hemos acabado por aqui
+Ya hemos acabado por aqu&
 <$F3><$FF>
 <$68><$00>
 
@@ -1237,7 +1237,7 @@ Ya hemos acabado por aqui
 //　　北条先生に相談した方がいい\n
 //　　かなぁ
 //I'm kinda worried. Should I ask Ms. Hojou for advice
-Me preocupa un poco. Deberiamos preguntar a Ms. Hojou
+Pero me preocupa Rie. (Deber&amos hablar con Ms. Hojou
 <$F3><$FF>
 <$68><$00>
 
@@ -1266,7 +1266,7 @@ Kyoko\n
 //理恵ぇ、先輩また来てくれた\n
 //　　のに
 //Rieee, Inaba's here
-Rie, Inaba esta aqui
+Rie, Inaba est{ aqu&
 <$F3><$FF>
 <$68><$00>
 
@@ -1296,8 +1296,8 @@ Nakanishi\n
 
 //先生・・・どうなってんの？\n
 //　　あ、あれ、広瀬だよね
-//Ms. Hojou, what's going on!? T-that was H-Hirose, right
-Ms. Hojou, que esta ocurriendo!? Ese era H-Hirose, no
+//Ms. Hojou, what's going on?! T-that was H-Hirose, right
+Ms. Hojou, qu} est{ ocurriendo?! Ese era H-Hirose, (No
 <$F3><$FF>
 <$04><$00>
 
@@ -1319,7 +1319,7 @@ Ms. Hojou, que esta ocurriendo!? Ese era H-Hirose, no
 //　　遠くて解らなかったけど何で\n
 //　　あんな所で寝っ転がってるの
 //I couldn't tell from afar, but why was he on the ground
-No lo vi desde tan lejos, pero, por que estaba tendido
+No lo vi desde tan lejos, pero, (Porqu} estaba tendido
 
 <$F3><$FF>
 <$04><$00>
@@ -1343,7 +1343,7 @@ No lo vi desde tan lejos, pero, por que estaba tendido
 //　　窓はビクともしない\n
 //　　・・・せ、先生
 //the stairs are blocked off and the windows are sealed tight... S-say something, Ms. Hojou
-las escaleras estan bloqueadas y las ventanas estan selladas... D-digame algo, Ms. Hojou
+las escaleras est{n bloqueadas y las ventanas est{n selladas... ))D-diga algo Ms. Hojou
 <$F3><$FF>
 <$04><$00>
 
@@ -1365,7 +1365,7 @@ Hojou\n
 //お、落ち着きなさい！\n
 //　　だ、大丈夫だから
 //C-calm down! It'll be okay
-C-calmate! Todo ira bien
+)C-c{lmate! Todo ira bien
 <$F3><$FF>
 <$68><$00>
 
@@ -1450,12 +1450,12 @@ Hojou\n
 
 //どうなってるの
 //What the hell is going on
-Que demonios esta pasando
+)(Qu} demonios est{ pasando
 <$F3><$FF>
 <$04><$00>
 
 //！？　　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1479,12 +1479,12 @@ Nakanishi\n
 //　　アイツあんな所でよく寝れる\n
 //　　よな？　なっ稲葉
 //Hirose's always been kind of weird right? You could see him sleeping in a weird place like that, right Inaba
-Hirose siempre ha sido un poco raro, no? Es de lo que podrian dormir en cualquier parte, no te parece Inaba
+Hirose siempre ha sido un poco raro, no? Es de lo que podr&an dormir en cualquier parte, no te parece Inaba
 <$F3><$FF>
 <$04><$00>
 
 //！？　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1515,17 +1515,18 @@ Hirose siempre ha sido un poco raro, no? Es de lo que podrian dormir en cualquie
 //　－　　　普通のゴミ箱だ　　　－
 \n
 //- It's an ordinary trash can. -
-- Es una papelera normal y corriente. -
+- Una papelera normal y corriente. -
 
 <$FA><$FF>
 <$F8><$FF>
 
 //稲葉\n
 //　「何もゴミが入ってないな。　」
-//Inaba\n
-//"There's nothing but trash inside."
+		 
+									 
 Inaba\n
-"No contiene nada mas que basura."
+//"There's nothing but trash inside."
+"No contiene nada m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1572,7 +1573,7 @@ Inaba\n
 //　　－　　　普通の教卓だ　　　－
 \n
 //- It's a normal lectern. -
-- Es un atril corriente. -
+- Un escritorio corriente. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1582,7 +1583,7 @@ Inaba\n
 //　　られそうだな。　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1599,7 +1600,7 @@ Inaba\n
 //　　するのだろう　　　　　　　　－
 \n
 //- It's a sink for cleaning art\nequipment. -
-- Es un lavabo para limpiar herramientas. -
+- Es un grifo para limpiar los pinceles. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -1616,7 +1617,7 @@ Inaba\n
 //　　貼ってある　　　　　　　　　－
 \n
 //- It's a poster with the rules for the Art Club. -
-- Un poster con reglas de la clase de plastica. -
+- Un poster con reglas de la clase de pl{stica. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

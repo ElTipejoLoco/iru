@@ -24,7 +24,7 @@
 //　　背後から感じる、
 Inaba\n
 //"...there's no one behind me in the mirror, but it feels like someone's there
-"...no hay nadie detras de mi, pero siento una especie de presencia
+"...no hay nadie detr{s de m&, pero siento una especie de presencia
 
 <$FF><$FF>
 <$14><$00>
@@ -53,7 +53,7 @@ Inaba\n
 //\n
 //　　やっぱり誰もいない、
 //there's no one else here... right
-no hay nadie mas aqui... verdad
+no hay nadie m{s aqu&... (verdad
 
 <$FF><$FF>
 <$14><$00>

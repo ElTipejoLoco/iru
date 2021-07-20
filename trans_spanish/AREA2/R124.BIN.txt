@@ -25,7 +25,7 @@
 //　　そうだな。
 Inaba\n
 //"It doesn't seem like it's locked with just a key.
-"Parece que no esta solo cerrada con una llave.
+"Parece que no est{ solo cerrada con una llave.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -35,7 +35,7 @@ Inaba\n
 //　　いているみたいだ。
 \n
 //It's almost like a strange force is keeping it sealed.
-Es como si hubiese una fuerza manteniendola cerrada.
+Es como si hubiese una fuerza manteni}ndola cerrada.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -45,8 +45,8 @@ Es como si hubiese una fuerza manteniendola cerrada.
 //　　学校の中で、死を待つしか\n
 //　　ないっていうのか！　　　　」
 \n
-//Damnit! Are we just trapped here waiting to die!?"
-Mierda! Vamos a morir atrapados en esta escuela!?"
+//Damnit! Are we just trapped here waiting to die?!"
+)Mierda! )(Vamos a morir atrapados en la escuela?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -63,7 +63,7 @@ Mierda! Vamos a morir atrapados en esta escuela!?"
 //　　の生徒は下校しているだろう　－
 \n
 //- It's a shoerack for student use. Seems most of the students have already left. -
-- Es un zapatero para los estudiantes. Parece que la mayoria ya se han ido. -
+- Es un zapatero para los estudiantes. La mayor&a ya se est{n vac&os. -
 
 <$FA><$FF>
 <$F8><$FF>

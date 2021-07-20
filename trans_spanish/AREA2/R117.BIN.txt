@@ -12,7 +12,7 @@
 //\n
 //－　掃除用具を入れるロッカーだ　－
 \n
-////- It's a locker full of cleaning equipment. -
+//- It's a locker full of cleaning equipment. -
 - Un casillero lleno de trastos de limpieza. -
 
 <$FA><$FF>
@@ -31,7 +31,7 @@
 //　　だろう　　　　　　　　　　　－
 \n
 //- There's a box full of acting props here. -
-- Hay una caja llena de attrezo aqui. -
+- Hay una caja llena de attrezo aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -48,7 +48,7 @@
 //　　られている　　　　　　　　　－
 \n
 //- There's a lot of neatly organized folding chairs here. -
-- Hay un monton de sillas plegables apiladas aqui. -
+- Hay muchas de sillas plegables apiladas aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>

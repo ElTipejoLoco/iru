@@ -24,7 +24,7 @@
 //　　本が置かれている
 \n
 //- You see a lot of books with no real genre consistency. Nothing
-Ves un monton de libros con tematicas muy variadas. No hay nada
+Ves muchos de libros con tem{ticas muy variadas. No hay nada
 
 <$FF><$FF>
 <$14><$00>
@@ -33,7 +33,7 @@ Ves un monton de libros con tematicas muy variadas. No hay nada
 //　　特に　目を引く本は　ない　　－
 \n
 //catches your eye. -
-que llame tu atencion. -
+que llame tu atenci[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -50,7 +50,7 @@ que llame tu atencion. -
 //　　書物が無いか調べてみた　　　－
 \n
 //- You open the case and look for anything interesting. -
-- Abres la caja buscando alguna cosa interesante. -
+- Abres el mueble buscando alguna cosa interesante. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -60,7 +60,7 @@ que llame tu atencion. -
 //　　参考書などが　置かれている　－
 \n
 //- You just see help books for getting into college and taking tests. -
-- Hay muchos libros de ayuda para examenes de acceso universitarios. -
+- Libros de ayuda para examenes de acceso a la universidad. -
 
 <$FA><$FF>
 <$F8><$FF>

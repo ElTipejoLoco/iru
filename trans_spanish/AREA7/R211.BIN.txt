@@ -22,7 +22,7 @@ Mochizuki\n
 //『妖虫の秘密』さえあれば、\n
 //　　俺の中にいるアイツが
 //The person inside of me said that if I find the 'De Vermis Mysteriis,'
-La persona dentro de mi dijo que debo buscar el 'De Vermis Mysteriis',
+La persona dentro de mi, dijo que buscasemos el 'De Vermis Mysteriis',
 <$F3><$FF>
 <$04><$00>
 
@@ -42,7 +42,7 @@ La persona dentro de mi dijo que debo buscar el 'De Vermis Mysteriis',
 //　　逃げる方法が、わかるって\n
 //　　言ってるのに
 //they'd tell us how to escape from this school
-asi sabremos como escapar de esta escuela
+)As& sabremos como escapar de esta escuela
 <$F3><$FF>
 <$04><$00>
 
@@ -66,8 +66,9 @@ asi sabremos como escapar de esta escuela
 //\n
 //　－　『妖虫の秘密』を手渡した　－
 \n
+												
 //- You handed over the 'De Vermis Mysteriis.' -
-- Ofreces el libro 'De Vermis Mysteriis.' -
+- Le ofreces el libro 'De Vermis Mysteriis.' -
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -84,7 +85,7 @@ Mochizuki\n
 //これだ！　兄さんの本だ！！\n
 //　　もしアイツの言う通りなら
 //This is it! My brother's book!! Now, if 'he' holds up his end of the bargin, then..
-Esto es! El libro de mi hermano!! Ahora, si 'el' cumple su parte del trato, quizas..
+)Eso es! ))El libro de mi hermano!! Ahora, si '}l' cumple su parte del trato, quiz{s..
 <$F3><$FF>
 <$04><$00>
 
@@ -99,7 +100,7 @@ Esto es! El libro de mi hermano!! Ahora, si 'el' cumple su parte del trato, quiz
 \n
 //\n
 //　　クッ、ウウウ！　　　　　　」
-urgh, ahhhh!!"
+))Urgh, ahh!!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -115,12 +116,12 @@ Inaba\n
 //も、望月！\n
 //　　どうしたんだ！　大丈夫か
 //M-Mochizuki! Are you okay
-M-Mochizuki! Estas bien
+)Mochizuki! )(Est{s bien
 <$F3><$FF>
 <$04><$00>
 
 //！　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -136,12 +137,12 @@ Mochizuki\n
 //やはり、この体では・・・む、\n
 //　　無理があるのか
 //As I feared, this book... isn't enough
-Como pense, el libro... no es suficiente
+Como pens}, el libro... )(No es suficiente
 <$F3><$FF>
 <$04><$00>
 
 //！？
-!?
+?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -158,7 +159,7 @@ Como pense, el libro... no es suficiente
 //　　ま、混ざり、過去の時代の・・\n
 //　　・円錐状の生物
 //Urgggh... M-my consciousness... m-mixing... a-ancient cone-shaped creatures..
-Ugh... M-mi consciencia... m-mezcla... antiguos criaturas con forma de cono..
+Ugh... M-mi consciencia... m-mezcla... antiguas criaturas con forma de cono..
 
 <$F3><$FF>
 <$04><$00>
@@ -180,7 +181,7 @@ Ugh... M-mi consciencia... m-mezcla... antiguos criaturas con forma de cono..
 //　　・・倒れるわけには・・・稲葉\n
 //　　・・・こ、これを
 //Inaba, h-help me... I... can't... fall here... Inaba... t-take this
-Inaba, a-ayudame... Yo... no... puedo... acabar... Inaba... toma
+Inaba, a-ay=dame... Yo... no... puedo... acabar... Inaba... )Toma
 <$F3><$FF>
 <$04><$00>
 
@@ -194,7 +195,7 @@ Inaba, a-ayudame... Yo... no... puedo... acabar... Inaba... toma
 //　－　『ロケット』を受け取った　－
 \n
 //- You took the locket. -
-- Tomas el medallon. -
+- Guardas el medall[n. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -202,7 +203,7 @@ Inaba, a-ayudame... Yo... no... puedo... acabar... Inaba... toma
 //　「これは？　　　　　　　　　　」
 Inaba\n
 //"What's this?"
-"Que es esto?"
+"(Qu} es esto?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -217,7 +218,7 @@ Mochizuki\n
 //それは兄さんの写真が入ってる\n
 //　　ロケットさ
 //It's a locket with my brother's photo..
-Un medallon con la foto de mi hermano..
+Un medall[n con la foto de mi hermano..
 <$F3><$FF>
 <$04><$00>
 
@@ -271,8 +272,8 @@ Mochizuki\n
 //ぐ、ぐあぁぁ！\n
 //　　ま、またか！　ちっくしょう！\n
 //　　きっと・・・あるはずなのに
-//URGGGH! N-nothing yet!? FUCK! He... he has to be here
-UGHH! N-no hay nada!? MIERDA! El... debe estar aqui
+//URGGGH! N-nothing yet?! FUCK! He... he has to be here
+)UGH! )(No hay nada?! )MIERDA! El... )Debe estar aqu&
 <$F3><$FF>
 <$04><$00>
 
@@ -338,8 +339,8 @@ I-Inaba...?
 //　「由麻！\n
 //　　なんでそんな所にいるんだ！」
 Inaba\n
-//"Yuma! What are you doing here!?"
-"Yuma! Que estas haciendo aqui!?"
+//"Yuma! What are you doing here?!"
+")Yuma! )(Qu} haces ah& arriba?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -356,7 +357,7 @@ Yuma\n
 //必死だったから・・・わから\n
 //　　ないよ。
 //I was desperately running away... I didn't focus on where I was running.
-Escape corriendo desesperado... No me fije por donde estaba corriendo.
+Escap} corriendo desesperada... No mir} ni por donde estaba corriendo.
 <$F3><$FF>
 <$04><$00>
 <$FF><$FF>
@@ -373,15 +374,15 @@ Escape corriendo desesperado... No me fije por donde estaba corriendo.
 
 //あ！！　あなたも助かっ、
 //Ah!! You're okay too--
-Ah!! Estas bien--
+Menos mal que est{s--
 <$FF><$FF>
 <$1E><$00>
 
 //？\n
 //　　な、何で？！・・・あっ！
 \n
-//Huh? W-WHAT!? ... AH!
-Eh? C.Como!? ...AH!
+//Huh? W-WHAT?! ... AH!
+(Eh? )(C-C[mo?! )...AH!
 
 <$F3><$FF>
 <$04><$00>
@@ -398,7 +399,7 @@ Eh? C.Como!? ...AH!
 <$04><$00>
 
 //イ、イヤーッ
-N-NO
+)N-NO
 
 <$F3><$FF>
 <$04><$00>
@@ -420,7 +421,7 @@ N-NO
 //助けて、稲葉くん！\n
 //　　イヤァーッ！！
 //Help me, Inaba! Noo!!
-Ayudame, Inaba! Noo!!
+Ay=dame, )Inaba! ))No!!
 <$F3><$FF>
 <$04><$00>
 
@@ -435,8 +436,9 @@ Ayudame, Inaba! Noo!!
 //　「由麻？　どうしたんだ？\n
 //　　由麻！・・・ゆ、由麻ぁーっ！」
 Inaba\n
-//"Yuma? What happened? Yuma!? ...YUUUMAAAA!!"
-"Yuma? Que ha ocurrido? Yuma!? ...YUUMAAA!!"
+//"Yuma? What happened? Yuma?! ...YUUUMAAAA!!"
+"(Qu} ha pasado? )(Yuma?!\n
+))...YUMA!!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -464,7 +466,7 @@ Inaba\n
 //　　気味が悪く感じる。　　　　」
 Inaba\n
 //"It's even creepier than normal now that the power's out."
-"Es incluso mas tenebroso ahora que hay un corte de luz."
+"Es incluso m{s tenebroso ahora que hay un corte de luz."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

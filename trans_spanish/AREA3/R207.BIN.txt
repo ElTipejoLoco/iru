@@ -13,7 +13,7 @@
 //　「あっ！　また誰かが・・・
 Inaba\n
 //"Aah! That horrid creature...
-"Ahh! Esa horrible criatura...
+")Ah! Esa horrible criatura...
 
 <$FF><$FF>
 <$3C><$00>
@@ -22,7 +22,7 @@ Inaba\n
 //　　それにあの化け物まで！！
 \n
 //k-killed someone else!! 
-ha ma-matado a alguien!!
+))Ha ma-matado a alguien!!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -32,7 +32,7 @@ ha ma-matado a alguien!!
 //　　も危ないぞ！　　　　　　　」
 \n
 //If I get any closer, that monster will get me too!"
-Si me acerco mas, ese monstruo me matara tambien!"
+)Si me acerco mas, ese monstruo me matar{ tambi}n!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -49,7 +49,7 @@ Si me acerco mas, ese monstruo me matara tambien!"
 //　　も危ないぞ！　　　　　　　」
 Inaba\n
 //"If I get any closer, that monster will get me too!"
-Si me acerco mas, ese monstruo me matara tambien!"
+)Si me acerco mas, ese monstruo me matar{ tambi}n!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -68,14 +68,14 @@ Si me acerco mas, ese monstruo me matara tambien!"
 //　「くっ
 Inaba\n
 //"S-
-"A-
+"))A-
 
 <$FF><$FF>
 <$14><$00>
 
 //来るな
 //stay awa
-alejate
+al}jate
 
 <$FF><$FF>
 <$14><$00>
@@ -109,7 +109,7 @@ e
 //\n
 //　　ぎゃぁぁー！！　　　　　　」
 //AUGH!!"
-ARGH!!"
+)ARGH!"
 
 <$FF><$FF>
 <$B4><$00>
@@ -129,7 +129,7 @@ ARGH!!"
 //　　あるとしたら、
 Inaba\n
 //"If that memo with the spell written on it is really in the school like Mochizuki said, 
-"Si la nota en la que escribieron el hechizo esta en la escuela como dijo Mochizuki,
+"Si la nota en la que escribieron el hechizo est{ en la escuela como dijo Mochizuki,
 
 <$FA><$FF>
 <$F8><$FF>
@@ -139,7 +139,7 @@ Inaba\n
 //　　られないけど。　　　　　　」
 \n
 //then the library seems the most obvious place."
-deberia buscar en sitios como la biblioteca." 
+la biblioteca es un buen sitio donde buscarlo." 
 
 <$FA><$FF>
 <$F8><$FF>
@@ -166,7 +166,7 @@ deberia buscar en sitios como la biblioteca."
 //　　な。　　　　　　　　　　　」
 Inaba\n
 //"Looks like I could get under here if I crawl."
-"Parece que puedo pasar por aqui si me agacho."
+"Parece que puedo pasar por aqu& si me agacho."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -194,7 +194,7 @@ Inaba\n
 //　　ようだ　　　　　　　　　　　－
 \n
 //- It appears to be mostly translated foreign books. -
-- Parece que son traducciones de libros extrajeros. -
+- Parecen ser traducciones de libros extrajeros. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -221,7 +221,7 @@ Inaba\n
 //　　有名な作品が　集めてある　－
 \n
 //- Looks like a shelf for famous literature. -
-- Parece una balda para literatura famosa. -
+- Parece una balda para literatura popular. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -275,7 +275,7 @@ Inaba\n
 //　　たくさん　並んでいる　　　　－
 \n
 //- There's a lot of biographies here. -
-- Hay muchas biografias justo aqui. -
+- Hay muchas biografias justo aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -292,7 +292,7 @@ Inaba\n
 //　　てみた　　　　　　　　　　　－
 \n
 //- You look for anything interesting. -
-- Echas un vistazo buscando algo interesante. -
+- Echas un vistazo buscando algo. -
 
 <$FA><$FF>
 <$F8><$FF>

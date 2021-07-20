@@ -13,7 +13,7 @@
 //　－　ロッカーが並んでいる　－
 \n
 //- Just some lockers here. -
-- Son varios casilleros. -
+- Est{n cerrados. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

@@ -15,7 +15,7 @@
 //　「しっかりしろ！！　　　　　」
 Inaba\n
 //"Misa, hang in there!"
-"Misa, aguanta ahi!"
+")Misa, aguanta ah&!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -30,7 +30,7 @@ Misa\n
 //い、稲葉？\n
 //　　・・・た、助けて
 //I-Inaba..? H-help me...
-I-Inaba...? A-ayudame...
+(I-Inaba...? A-ay=dame...
 <$F3><$FF>
 <$04><$00>
 
@@ -46,7 +46,7 @@ I-Inaba...? A-ayudame...
 //　　安心して。　　　　　　　　」
 Inaba\n
 //"It's okay, you're gonna be fine. Just stay calm."
-"No te preocupes, todo saldra bien. Solo calmate."
+"No te preocupes, todo saldr{ bien. Solo c{lmate."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -64,7 +64,7 @@ Hojou\n
 
 //しっかりして！　山下さん
 //Just hold on Misa
-Aguanta aqui Misa
+)Aguanta aqu& Misa
 <$F3><$FF>
 <$68><$00>
 
@@ -85,12 +85,12 @@ Aguanta aqui Misa
 //　　あなたは早く他の生徒に\n
 //　　この状況を知らせて
 //Inaba! I need you to go warn the other students, got it
-Inaba! Necesito que vayas a avisar a los estudiantes, ok
+)Inaba! Necesito que vayas a avisar a los estudiantes, )(Ok
 <$F3><$FF>
 <$68><$00>
 
 //！！　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -114,7 +114,7 @@ Hojou\n
 
 //いいから、早く他の生徒に
 //Hurry and warn the others
-Date prisa y avisales
+)Date prisa y av&sales
 <$F3><$FF>
 <$68><$00>
 
@@ -137,8 +137,8 @@ Date prisa y avisales
 //　「せ、先生！\n
 //　　一体どうしたんですか！？　」
 Inaba\n
-//"Ms. Hojou! What the hell is going on!?"
-"Ms. Hojou! Que demonios esta pasando!?"
+//"Ms. Hojou! What the hell is going on?!"
+")Ms. Hojou! )(Qu} demonios est{ pasando?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -155,13 +155,13 @@ Hojou\n
 //と、突然、怪物に襲われて\n
 //　　・・・や、山下さん？
 //W-we were suddenly attacked by a monster... M-Misa?<$20>
-N-nos ataco de repente por un monstruo... M-Misa?<$20>
+N-nos atac[ de repente un gran monstruo... (M-Misa? 
 <$FF><$FF>
 <$1E><$00>
 
 //\n
 //　　・・・あ、ああっ
-...aurgh
+))...Aurgh
 
 <$F3><$FF>
 <$04><$00>
@@ -191,7 +191,7 @@ Hojou\n
 
 //ど、どうして
 //W-why
-Porque
+(Porqu}
 <$F3><$FF>
 <$04><$00>
 
@@ -218,7 +218,7 @@ Misa\n
 //一樹、あ、わかりにくいか。\n
 //　　氷川見なかった
 //Kazuki, just what are you doing... Inaba, have you seen Hikawa
-Kazuki, que estas haciendo... Inaba, has visto por ahi a Hikawa
+Kazuki, que est{s haciendo... Inaba, (Has visto por ah& a Hikawa
 <$F3><$FF>
 <$04><$00>
 
@@ -256,7 +256,7 @@ Misa\n
 //なんで、となりまで来たのに\n
 //　　顔ださないんだよ
 //He came all the way to the next classroom over but didn't even come see me
-El vino hasta la clase de al lado pero no se paso por aqui para verme
+El vino hasta la clase de al lado pero no se pas[ por aqu& para verme
 <$F3><$FF>
 <$04><$00>
 
@@ -284,7 +284,7 @@ Misa\n
 //あ、稲葉。\n
 //　　一樹、見なかった
 //Ah, Inaba. Have you seen Kazuki
-Ah, Inaba. Has visto a Kazuki
+Ah, Inaba. (Has visto a Kazuki
 <$F3><$FF>
 <$04><$00>
 
@@ -298,7 +298,7 @@ Ah, Inaba. Has visto a Kazuki
 //　「一樹？　ああ、氷川か。
 Inaba\n
 //"Kazuki? Oh, you mean Hikawa.
-"Kazuki? Quieres decir Hikawa.
+"(Kazuki? Quieres decir Hikawa.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -309,7 +309,7 @@ Inaba\n
 //　　待ち合わせしてるらしいけど。」
 \n
 //He went to the career center with Yuma, er, Ichinomiya.
-Fue a orientacion laboral con Yuma, eh... Ichinomiya.
+Fue a orientaci[n laboral con Yuma, eh... Ichinomiya.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -325,7 +325,7 @@ Misa\n
 //　　ちょっとぉ！　超信じらんない、\n
 //　　なによアイツ
 //Ichinomiya? Is that another girl? What the hell, I can't believe this! He's the worst
-Ichinomiya? Es esa otra chica? Que demonios, no me puedo creer esto! Es lo peor
+(Ichinomiya? (Otra chica? Maldito sea, )No me puedo creer esto! )Es lo peor
 <$F3><$FF>
 <$04><$00>
 
@@ -353,7 +353,7 @@ Misa\n
 //何考えてんの？\n
 //　　アイツ
 //Just what the hell is he thinking
-En que demonios esta pensando
+En que demonios est{ pensando
 <$F3><$FF>
 <$04><$00>
 
@@ -381,7 +381,7 @@ Misa\n
 //遅いよ、一樹・・・なんだ\n
 //　　稲葉かぁ、ちぇっ
 //Kazuki, you're late... Ugh, what do you want Inaba
-Kazuki, has tardado... Agh, que quieres ahora Inaba
+Kazuki, has tardado... Aj, (Qu} quieres ahora Inaba
 <$F3><$FF>
 <$04><$00>
 
@@ -397,7 +397,7 @@ Kazuki, has tardado... Agh, que quieres ahora Inaba
 //　　してたよ。　　　　　　　　」
 Inaba\n
 //"If you mean Hikawa, he was just in front of the B side men's bathroom working on something."
-"Si busca a Hikawa, esta justo en frente del WC de los chicos en el otro ala de la escuela."
+"Si buscas a Hikawa, est{ justo en frente del ba]o de los chicos en el otro ala de la escuela."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -412,7 +412,7 @@ Misa\n
 //あっそう。\n
 //　　早く来ないかなぁ
 //Ah, I see. I wonder if he'll come here soon then
-Ah, vale. Me pregunto si vendra dentro de poco
+Ah, vale. Me pregunto si vendr{ dentro de poco
 <$F3><$FF>
 <$04><$00>
 
@@ -468,7 +468,7 @@ Misa\n
 //　　ゴメン、お願いだからさ、\n
 //　　忘れちゃってよ
 //Sorry, that was kinda embarassing for me to do. Please just forget it, okay
-Lo siento, eso fue muy embarazoso de mi parte. Por favor, olvidalo, vale
+Lo siento, eso fue muy embarazoso de mi parte. Por favor, olv&dalo, (Vale
 <$F3><$FF>
 <$04><$00>
 
@@ -497,7 +497,7 @@ Misa\n
 //　　怖いわけじゃないけどさっ\n
 //　　やっぱさ、なんかいやだな
 //Did the power go out? I'm not scared, but like, it definitely feels creepy
-Se ha ido la luz? No estoy asustada, pero esto, se ha vuelto algo tetrico
+(Se ha ido la luz? No estoy asustada, pero esto se ha vuelto algo t}trico
 <$F3><$FF>
 <$04><$00>
 
@@ -525,7 +525,7 @@ Misa\n
 //なんだ、稲葉か。\n
 //　　ね、一樹のコト見なかった
 //Oh, it's just you Inaba. Have you seen Kazuki
-Oh, eres tu otra vez Inaba. Has visto a Kazuki
+Oh, eres t= otra vez Inaba. (Has visto a Kazuki
 
 <$F3><$FF>
 <$04><$00>
@@ -541,7 +541,7 @@ Oh, eres tu otra vez Inaba. Has visto a Kazuki
 //　　京子ちゃんを知らないか？　」
 Inaba\n
 //"Can't say I have. Have you seen Kyoko around?"
-"La verdad que no. Has visto a Kyoko por aqui?"
+"La verdad que no. (Has visto a Kyoko por aqu&?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -556,7 +556,7 @@ Misa\n
 //二年生？　あれぇ？\n
 //　　殺人じゃなかったの
 //The second year? Wait, didn't you say she was killed or something
-La de segundo? Espera, no habias dicho que la habian matado o algo
+(La de segundo? Espera, (No hab&as dicho que la hab&an matado o algo
 <$F3><$FF>
 <$04><$00>
 
@@ -586,7 +586,7 @@ Misa\n
 
 //帰っちゃったんだね
 //I guess she up and left then, huh
-Supongo que se levanto y se fue, eh
+Supongo que se levant[ y se fue, (No
 <$F3><$FF>
 <$04><$00>
 
@@ -615,7 +615,7 @@ Misa\n
 //明日の出し物の練習じゃない\n
 //　　のぉ
 //She was probably just practicing for a play or something tomorrow, right
-Ella quizas solo estaba actuando o preparando el papel de la obra, no
+Ella quiz{s solo estaba actuando o preparando el papel de una obra, (No
 <$F3><$FF>
 <$04><$00>
 
@@ -651,7 +651,7 @@ Misa\n
 //向こうが一枚上手だったん\n
 //　　じゃないの
 //She was probably just too good and had you fooled
-Quizas ha actuado muy bien y te lo has creido
+quiz{s ha actuado muy bien y te lo has cre&do
 <$F3><$FF>
 <$04><$00>
 
@@ -673,7 +673,7 @@ Quizas ha actuado muy bien y te lo has creido
 //　　来なかった？　　　　　　　」
 Inaba\n
 //"Have two 2nd year students come by here?"
-"Han venido unas chicas de segundo aqui?"
+"(Han pasado unas chicas de segundo por aqu&?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -714,7 +714,7 @@ Misa\n
 
 //ん？　ホントに知らないよ
 //What? Like I said, no one came by here
-Que? Ya te he dicho que nadie ha venido
+(Qu}? Ya te he dicho que no vino nadie
 <$F3><$FF>
 <$04><$00>
 
@@ -741,7 +741,7 @@ Misa\n
 
 //なにを怖がってんの
 //...why do you look so scared
-...porque estas tan asustado
+(...Porqu} est{s tan asustado
 <$F3><$FF>
 <$04><$00>
 
@@ -757,7 +757,7 @@ Misa\n
 //　　殺されたんだ！　　　　　　」
 Inaba\n
 //"Kyoko... killed someone in the girl's bathroom!"
-"Kyoko... ha matado a otra chica en el WC!"
+")Kyoko... ha matado a otra chica en el ba]o!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -771,7 +771,7 @@ Misa\n
 
 //は？　なにそれ、何の話
 //Huh? The fuck are you talking about
-Eh? De que mierda estas hablando
+(Ehh? (De que mierda est{s hablando
 <$F3><$FF>
 <$04><$00>
 
@@ -786,7 +786,7 @@ Eh? De que mierda estas hablando
 //　　僕まで殺そうとしたんだ！　」
 Inaba\n
 //"Someone was killed, and she tried to kill me too!!"
-"Alguien fue asesinado, y encima intento matarme!!"
+"))Han asesinado a alguien y encima intent[ matarme!!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -802,7 +802,7 @@ Misa\n
 //　　停電だからねーっ。\n
 //　　おどかそうとしてんだ
 //Heh, wow... I didn't think you'd try to scare people just because the power went out
-Jeje, vaya... No crei que fueses de los que van asustando cuando hay cortes de luz
+Jeje, vaya... No cre& que fueses de los que asustan a la gente cuando hay apagones
 <$F3><$FF>
 <$04><$00>
 
@@ -816,7 +816,7 @@ Jeje, vaya... No crei que fueses de los que van asustando cuando hay cortes de l
 //　「そんなんじゃない！！　　　」
 Inaba\n
 //"No really, I'm being serious!!"
-"No, en serio, no es broma!!"
+"))No, en serio, no es broma!!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -839,7 +839,7 @@ Misa\n
 //　　来るから、どっか行ってくれ\n
 //　　ない
 //Bullshitting me or not, I'm not leaving until Kazuki shows up, got it
-Me estes mintiendo o no, no me voy de aqui hasta que venga Kazuki, ok
+Me est{s mintiendo o no, no me mover} hasta que no venga Kazuki, (Vale
 <$F3><$FF>
 <$04><$00>
 
@@ -868,7 +868,7 @@ Inaba\n
 //　「広瀬が殺されたんだ！　　　」
 Inaba\n
 //"Hirose was killed!"
-"Hirose fue asesinado!"
+")Hirose fue asesinado!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -884,7 +884,7 @@ Misa\n
 //　　まーた、ウソでしょ？\n
 //　　死にそうなタイプじゃないよ
 //Who's that, the fat guy? Someone offed him? Come on man, you have to come up with better lies
-Quien es, el chico gordito? Alguien lo mato? Venga ya, vas a tener que inventar mejores trolas
+(Qui}n es el chico gordito? (Alguien lo mat[? Venga ya, )Vas a tener que inventar mejores trolas
 <$F3><$FF>
 <$04><$00>
 
@@ -899,7 +899,7 @@ Quien es, el chico gordito? Alguien lo mato? Venga ya, vas a tener que inventar 
 //　　よ！！　　　　　　　　　　」
 Inaba\n
 //"Come on, I'm telling the truth! Believe me!!"
-"Vamos, digo la verdad! Tienes que creerme!"
+")Solo digo la verdad! )Tienes que creerme!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -921,7 +921,7 @@ Misa\n
 //信じるのはいいけど、私が\n
 //　　なにをすればいいの
 //I mean, even if I were to believe you, what do you want me to do about it
-Quiero decir, incluso si te creyese, que es lo que quieres que haga yo
+Quiero decir, incluso si te creyese, (Qu} es lo que quieres que haga yo
 <$F3><$FF>
 <$04><$00>
 
@@ -964,10 +964,11 @@ Quiero decir, incluso si te creyese, que es lo que quieres que haga yo
 
 //稲葉\n
 //　「何もゴミが入ってないな。　」
-//Inaba\n
-//"There's nothing but trash inside."
+		 
+									 
 Inaba\n
-"No contiene nada mas que basura."
+//"There's nothing but trash inside."
+"No contiene nada m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -982,7 +983,7 @@ Inaba\n
 //\n
 //－　掃除用具を入れるロッカーだ　－
 \n
-////- It's a locker full of cleaning equipment. -
+//- It's a locker full of cleaning equipment. -
 - Un casillero lleno de trastos de limpieza. -
 <$FA><$FF>
 <$F8><$FF>
@@ -1023,7 +1024,7 @@ Inaba\n
 //　　られそうだな。　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1041,7 +1042,7 @@ Inaba\n
 //　　　　お知らせが貼ってある　－
 \n
 //- There's a notice about the 7th All Japan Mock Exam here. -
-- Hay un aviso acerca del septimo examen de prueba aqui. -
+- Hay un aviso acerca del s}ptimo examen de prueba aqu&. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

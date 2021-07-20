@@ -12,8 +12,8 @@
 //稲葉\n
 //　「！！　と、扉が開かない！？」
 Inaba\n
-//"I-it won't open!?"
-"N-no se abre!?"
+//"I-it won't open?!"
+")(N-no se abre?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -28,8 +28,8 @@ Inaba\n
 //　「こっちの扉も！！\n
 //　　・・・閉じこめられた！？　」
 Inaba\n
-//"This one too! Am I trapped!?"
-"Este tampoco! Estoy atrapado!?"
+//"This one too! Am I trapped?!"
+")Este tampoco! )(Estoy atrapado?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

@@ -12,9 +12,10 @@
 //校長\n
 //　「・・・うちの学校の生徒が何で\n
 //　　こんな所に？　　　　　　　　」
-Principal\n
+//Principal\n
+Director\n
 //"...what's one of our students doing in a place like this?"
-"...que hace uno de nuestros estudiantes en este lugar?"
+"(...Qu} hace uno de nuestros estudiantes en este lugar?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -23,8 +24,8 @@ Principal\n
 //　「あなたは・・・校長先生！？\n
 //　　何でこんな所に？
 Inaba\n
-//"You're... the principal!? What happened!?
-"E-eres... el director!? Que ha pasado!?
+//"You're... the principal?! What happened?!
+")(Eres... el director?! )(Que ha pasado?!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -33,7 +34,7 @@ Inaba\n
 //　　のは・・・。　　　　　　　」
 \n
 //Wait, weren't you just in the school...?"
-Espera, no estaba usted en la escuela?"
+Espera, (...No estaba usted en la escuela?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -41,9 +42,10 @@ Espera, no estaba usted en la escuela?"
 //　「・・・私がもう一人？\n
 //　　そいつは仮の命を与えられた\n
 //　　泥人形だろう。
-Principal\n
+//Principal\n
+Director\n
 //"...I was in the school? That was probably a clay doll given life who took my place.
-"...En la escuela? Creo que hablas del muneco de arcilla vivo que ocupo mi lugar.
+"(...En la escuela? Eso debe ser un mu]eco de arcilla m{gico que ocup[ mi lugar.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -52,7 +54,7 @@ Principal\n
 //　　に来た？　　　　　　　　　」
 \n
 //How did you get here, anyway?"
-Como has llegado hasta aqui?"
+(C[mo has llegado hasta aqu&?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -62,7 +64,7 @@ Como has llegado hasta aqui?"
 //　　動かすように脅迫され・・・」
 Inaba\n
 //"I was trapped in a place that seemed like a shrine nearby. Then I was forced to move a blue stone--"
-"Me atraparon en un lugar que parecia un santuario. Entonces me vi forzado a mover una piedra azul--"
+"Me atraparon en un lugar que parec&a un santuario. Entonces me vi forzado a mover una piedra azul--"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -70,9 +72,10 @@ Inaba\n
 //　「な、なに？\n
 //　　ま、まさか・・・あの石を\n
 //　　動かしたのか！？
-Principal\n
-//"You WHAT!? N-no... You moved the stone!?
-"Tu QUE!? N-no... has movido la piedra!?
+//Principal\n
+Director\n
+//"You WHAT?! N-no... You moved the stone?!
+")(Tu QU#?! )(H-has movido la piedra?!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -81,7 +84,7 @@ Principal\n
 //　　これは一刻を争うことになる！
 \n
 //...shit. Now it's a race against time!
-...mierda. Ahora no nos queda tiempo!
+...mierda. )Ahora no nos queda tiempo!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -90,7 +93,7 @@ Principal\n
 //　　どうか、力を貸して欲しい！
 \n
 //Please, help me! This will benefit the both of us.
-Por favor, ayudame! Esto nos beneficiara a los dos.
+)Por favor, ay=dame! Esto nos beneficiar{ a los dos.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -99,7 +102,7 @@ Por favor, ayudame! Esto nos beneficiara a los dos.
 //　　月の力がもっとも弱くなる。
 \n
 //There's a lunar eclipse tonight. The moon's power is its weakest.
-Hay un eclipse lunar esta noche. El poder de la luna es debil.
+Hay un eclipse lunar esta noche. El poder de la luna es d}bil.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -108,7 +111,7 @@ Hay un eclipse lunar esta noche. El poder de la luna es debil.
 //　　ようになってしまう。
 \n
 //Because of that, you were able to move the stone.
-Por esa razon, fuiste capaz de mover la piedra.
+Por esa raz[n, fuiste capaz de mover la piedra.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -118,7 +121,7 @@ Por esa razon, fuiste capaz de mover la piedra.
 //　　ある物だ。
 \n
 //Unfortunately, that stone was a seal to lock away an evil god.
-Desafortunadamente, la piedra azul encerraba un Dios malefico. 
+Desafortunadamente, la piedra azul encerraba un Dios mal}fico. 
 <$FA><$FF>
 <$F8><$FF>
 
@@ -127,7 +130,7 @@ Desafortunadamente, la piedra azul encerraba un Dios malefico.
 //　　った今、その効力は無い。
 \n
 //Now that it's out of place, it's useless.
-Ahora que no lo encierra, es inutil.
+Ahora que no lo encierra, es in=til.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -137,7 +140,7 @@ Ahora que no lo encierra, es inutil.
 //　　蘇らせようとしているのだ。
 \n
 //They're planning on reviving the 'Offspring of Cthulhu' that is sealed there.
-Planean revivir al ultimo 'Vastago de Cthulhu' que estaba sellado alli.
+Planean revivir al =ltimo 'Vastago de Cthulhu' que estaba sellado all&.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -147,7 +150,7 @@ Planean revivir al ultimo 'Vastago de Cthulhu' que estaba sellado alli.
 //　　だろう。　　　　　　　　　」
 \n
 //They must be planning on sacrificing my granddaughter Kaori to awaken it."
-Quizas estan planeando sacrificar a mi nieta Kaori para despertarlo."
+Quiz{s est{n planeando sacrificar a mi nieta Kaori para despertarlo."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -157,15 +160,16 @@ Quizas estan planeando sacrificar a mi nieta Kaori para despertarlo."
 //　　て・・・。　　　　　　　　」
 Inaba\n
 //"Kaori? Is that Aikawa? If so, then I'm sure she's already dead..."
-"Kaori? Es esa Aikawa? Si es ella, creo que ella ya ha muerto..."
+"(Kaori? (Es esa Aikawa? Si es ella, creo que ella ya ha muerto..."
 <$FA><$FF>
 <$F8><$FF>
 
 //校長\n
 //　「！？　なんだって？
-Principal\n
-//"What did you say!?
-"Que has dicho!?
+//Principal\n
+Director\n
+//"What did you say?!
+")(C[mo dices?!
 <$FF><$FF>
 <$1E><$00>
 
@@ -183,7 +187,7 @@ Principal\n
 //　　いけにえに・・・。　　　　」
 \n
 //Then, who do they plan on sacrificing...?"
-Entonces, a quien planean sacrificar...?"
+Entonces, (A qui}n planean sacrificar...?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -192,7 +196,7 @@ Entonces, a quien planean sacrificar...?"
 //　　由麻がさらわれて！　　　　」
 Inaba\n
 //"My classmate Yuma, they kidnapped her!"
-"Mi amiga Yuma, Por eso la han raptado!"
+"A mi amiga Yuma, )Por eso la han raptado!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -200,9 +204,10 @@ Inaba\n
 //　「なに？　まさかその娘は、\n
 //　　一ノ宮家の者か！\n
 //　　・・・そうだった。
-Principal\n
+//Principal\n
+Director\n
 //"Hmm, then she must be from the Ichinomiya family! That would do it...
-"Mmm, ella debe ser descendiente de la familia Ichinomiya! Seguro...
+"Mmm, )Ella debe ser descendiente de la familia Ichinomiya! Seguro...
 <$FA><$FF>
 <$F8><$FF>
 
@@ -212,7 +217,7 @@ Principal\n
 //　　あった！！　　　　　　　　」
 \n
 //Our family line has protected this land for generations, and Ichinomiya is a branch of our family!!"
-Mi familia ha protegido esta tierra durante varias generaciones, y Ichinomiya son descendientes!!"
+Mi familia ha protegido esto por varias generaciones y, ))Los Ichinomiya son descendientes!!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -221,15 +226,16 @@ Mi familia ha protegido esta tierra durante varias generaciones, y Ichinomiya so
 //　　校長先生の家の血筋とは\n
 //　　いったい何なんですか！？　」
 Inaba\n
-//"I don't get what you're talking about! Just what is your family line!?"
-"No entiendo de que estas hablando! Tu apellido? De que familia hablas!?"
+//"I don't get what you're talking about! Just what is your family line?!"
+")No entiendo de que est{s hablando! (Tu apellido? )(De que familia hablas?!"
 <$FA><$FF>
 <$F8><$FF>
 
 //校長\n
 //　「私の一族は、昔よりこの島に\n
 //　　眠る邪神の封印を護ってきた。
-Principal\n
+//Principal\n
+Director\n
 //"My family has protected the sleeping god's chamber 
 "Mi familia ha protegido la camara del dios dormido 
 <$FA><$FF>
@@ -259,7 +265,7 @@ Construimos la torre del reloj para esconder esto a los ojos ajenos."
 //　　ですか。　　　　　　　　　」
 Inaba\n
 //"Then, the school was made for that reason as well?"
-"Entonces, la escuela fue contruida por todo eso?"
+"Entonces, (La escuela fue contruida por esa raz[n?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -267,9 +273,10 @@ Inaba\n
 //　「ああ。\n
 //　　さあ、急いで最上階に行き、\n
 //　　邪神の復活を阻止してくれ！」
-Principal\n
+//Principal\n
+Director\n
 //"That's right. Now, hurry to the roof! Stop the ritual at all costs!"
-"Si, esa es la razon. Ahora, ve al tejado! Debes detener el ritual!"
+"Si, es la raz[n. Ahora, )Sube la torre! )Debes detener el ritual!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -283,9 +290,10 @@ Principal\n
 //校長\n
 //　「この塔の最上階に行き、\n
 //　　儀式を止めるんだ！！　　　」
-Principal\n
+//Principal\n
+Director\n
 //"Hurry to the roof and stop the ritual!!"
-"Ve rapido al tejado y deten el ritual!!"
+")Sube la torre r{pido y det}n el ritual!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -302,7 +310,7 @@ Principal\n
 //　　るんだ！　　　　　　　　　」
 \n
 //"Seal the door with the large bar!"
-"Cierra la puerta con esa madera!"
+")Cierra la puerta con esa madera!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -319,7 +327,7 @@ Principal\n
 //　「早く！　　　　　　　　　　」
 \n
 //"Hurry!"
-"Rapido!"
+")R{pido!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -328,7 +336,7 @@ Principal\n
 //　「は、はいっ！！　　　　　　」
 Inaba\n
 //"O-okay!!"
-"V-vale!!"
+")V-vale!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -345,7 +353,7 @@ Inaba\n
 //　　扉を　閉鎖している　　　　－
 \n
 //- The door is sealed tight by the heavy bar. -
-- La puerta se ha sellado con el cierre. -
+- Est{ cerrado por la viga. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

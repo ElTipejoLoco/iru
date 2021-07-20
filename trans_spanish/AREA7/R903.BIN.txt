@@ -24,7 +24,7 @@
 //　　込めているとしか思えない！
 Inaba\n
 //"This is not normal! Someone's trying to keep us trapped here!
-"Esto no es normal! Alguien esta intentando encerrarnos aqui!
+")Esto no es normal! )Alguien est{ intentando encerrarnos aqu&!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -33,7 +33,7 @@ Inaba\n
 //　　誰かが・・・・・・。　　　」
 \n
 //But who...?"
-Pero quien...?"
+Qui}n...?"
 
 <$FA><$FF>
 <$F8><$FF>

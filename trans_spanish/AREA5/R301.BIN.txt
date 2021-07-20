@@ -21,7 +21,7 @@ Kyoko
 //　　開けてよ、理恵！　　　　　」
 \n
 //"Rie!! Open the door, Rie!"
-"Rie!! Abre la puerta, Rie!"
+")Rie! )Abre la puerta, Rie!"
 
 <$F3><$FF>
 <$04><$00>
@@ -35,7 +35,7 @@ Kyoko
 //稲葉\n
 //　「京子ちゃん！　　　　　　　」
 Inaba\n
-"Kyoko!"
+")Kyoko!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -50,7 +50,7 @@ Kyoko
 //　「あ、先輩！　北条先生は！？」
 \n
 //"Ah, Inaba! Where's Ms. Hojou?!"
-"Inaba! Donde esta Ms. Hojou?!"
+")Inaba! )(D[nde est{ Ms. Hojou?!"
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -62,7 +62,7 @@ Kyoko
 //　「すぐ来てくれるって！　　　」
 Inaba\n
 //"She'll be here soon!"
-"Ella llegara pronto!"
+"!Ya la he avisado!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>
@@ -82,7 +82,7 @@ Inaba\n
 //　　く、来るな！来るなーっ！！」
 Inaba\n
 //"Wha- Rie...? W-wait! N-no, stay back! STAY BACK!"
-"Pero... Rie? Es-espera! No, vete! ALEJATE DE MI!"
+"Pero... (Rie? )E-espera! )No, vete! )AL#JATE DE MI!"
 <$F8><$FF>
 <$F5><$FF>
 <$F1><$FF>
@@ -96,8 +96,8 @@ Inaba\n
 //稲葉\n
 //　「・・・いない！？
 Inaba\n
-//"...she's gone!?
-"...Se ha ido!?
+//"...she's gone?!
+")(...Se ha ido?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -107,7 +107,7 @@ Inaba\n
 //　　夢でも見てたっていうのか？」
 \n
 //What the hell? Did I imagine all of that?"
-Que demonios? Ha sido una alucinacion?"
+(Qu} demonios? (Ha sido una alucinaci[n?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -123,7 +123,7 @@ Que demonios? Ha sido una alucinacion?"
 //　－　鏡に　自分が映っている　－
 \n
 //- You see your reflection. -
-- Ves tu reflejo en el espejo. -
+- Contemplas tu reflejo. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -155,7 +155,7 @@ Inaba\n
 //\n
 //　－　鏡に　自分が映っている　－
 \n
-//- You see your reflection. -
+- You see yourself in the mirror. -
 - Ves tu reflejo en el espejo. -
 
 <$FA><$FF>
@@ -167,7 +167,7 @@ Inaba\n
 //　　背後から感じる、
 Inaba\n
 //"...there's no one behind me in the mirror, but it feels like someone's there
-"...no hay nadie detras de mi, pero siento una especie de presencia
+"...no hay nadie detr{s de m&, pero siento una especie de presencia
 
 <$FF><$FF>
 <$14><$00>
@@ -196,7 +196,7 @@ Inaba\n
 //\n
 //　　やっぱり誰もいない、
 //there's no one else here... right
-no hay nadie mas aqui... verdad
+no hay nadie m{s aqu&... (verdad
 
 <$FF><$FF>
 <$14><$00>
@@ -219,7 +219,7 @@ no hay nadie mas aqui... verdad
 //　　個室に　しっかり付いている　－
 \n
 //- The door is firmly attached, as if nothing happened -
-- La puerta esta sujeta, como si no hubiese ocurrido nada -
+- La puerta est{ sujeta, como si nada -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -263,8 +263,8 @@ no hay nadie mas aqui... verdad
 
 //\n
 //　　ホントに夢だったのかな？　」
-was it really just a dream?"
-ha sido una alucinacion?"
+//was it really just a dream?"
+(Ha sido una alucinaci[n?"
 
 <$FA><$FF>
 <$F8><$FF>

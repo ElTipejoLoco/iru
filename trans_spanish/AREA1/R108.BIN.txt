@@ -29,7 +29,7 @@
 //　　後ろから　何か音が聞こえた
 \n
 //- You hear something behind you. -
-- Suena un ruido detras de ti. -
+- Suena un ruido detr{s de ti. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -44,7 +44,7 @@
 //－　壁にカギ状のフックが付いて\n
 //　　いる
 //- There's a hook sticking out of the
-Hay un gancho que sobresale en la
+- Hay un gancho que sobresale en la
 
 <$FF><$FF>
 <$3C><$00>
@@ -54,7 +54,7 @@ Hay un gancho que sobresale en la
 //　　モノみたいだ　　　　　　　　－
 \n
 //wall. It seems like it's meant to hold a picture. -
-pared. Parece que habia una pintura colgada aqui. -
+pared. Parece que hab&a una pintura colgada aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -71,7 +71,7 @@ pared. Parece que habia una pintura colgada aqui. -
 //　　掛けてある　　　　　　　　　－
 \n
 //- There are portraits of previous principals hung here. -
-- Hay retratos de otros directores colgados por aqui. -
+- Hay retratos de otros directores colgados por aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -114,7 +114,7 @@ Inaba\n
 //　　ある　　　　　　　　　　　　－
 \n
 //- It's the flag for Kirigaoka High. -
-- Es la bandera del instituto Kirigaoka. -
+- La bandera del instituto Kirigaoka. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -131,7 +131,7 @@ Inaba\n
 //　　書物が無いか調べてみた　　　－
 \n
 //- You open the case and look for anything interesting. -
-- Abres la caja buscando alguna cosa interesante. -
+- Abres el mueble buscando alguna cosa interesante. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -152,7 +152,7 @@ Inaba\n
 //　　浮き彫られている　　　　　　－
 \n
 //There's a yellow symbol embossed on the cover. -
-Tiene un simbolo amarillo grabado en la portada. -
+Tiene un s&mbolo amarillo grabado en la portada. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -161,7 +161,7 @@ Tiene un simbolo amarillo grabado en la portada. -
 //　「な、なんだ。この本は？　　」
 Inaba\n
 //"W-what is this book?"
-"Q-que es este libro?"
+"(Q-qu} es este libro?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -172,7 +172,7 @@ Inaba\n
 //　　読んでみた
 \n
 //- The title is "The King in Yellow." You timidly start reading the book.
-- Se titula "El rey de Amarillo." Timidamente comienzas a leer el libro.
+- Se titula "El rey de Amarillo." T&midamente comienzas a leer el libro.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -183,7 +183,7 @@ Inaba\n
 //　　モノではなかった
 \n
 //The contents of the book are very difficult for you to understand, 
-El contenido del libro es muy dificil para que puedas entenderlo,
+El contenido del libro es muy dif&cil para que puedas entenderlo,
 
 <$FA><$FF>
 <$F8><$FF>
@@ -193,7 +193,7 @@ El contenido del libro es muy dificil para que puedas entenderlo,
 //　　物語とでも言おうか
 \n
 //but you feel a strange sensation, a dream-like feeling of the story floating in your head.
-pero sientes una sensacion rara, una sensacion onirica comienza a flotar en tu cabeza.
+pero sientes una sensaci[n extra]a, una sensaci[n on&rica comienza a flotar en tu cabeza.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -204,7 +204,7 @@ pero sientes una sensacion rara, una sensacion onirica comienza a flotar en tu c
 //　　込んでいった
 \n
 //Even though you can hardly read the book, you find it harder and harder to pull yourself away.
-Aunque te sea casi imposible leer el libro, te cuesta cada vez mas dificil apartar la mirada.
+Aunque te sea casi imposible leer el libro, ni siquiera te planteas apartar la mirada de el.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -214,7 +214,7 @@ Aunque te sea casi imposible leer el libro, te cuesta cada vez mas dificil apart
 //　　言い様のない寒気を感じた
 \n
 //...at some point, you notice a chill has filled the room.
-...en algun momento, notas escalofrios llenando el cuarto. 
+...en alg=n momento, notas escalofr&os llenando el cuarto. 
 
 <$FA><$FF>
 <$F8><$FF>
@@ -225,7 +225,7 @@ Aunque te sea casi imposible leer el libro, te cuesta cada vez mas dificil apart
 //　　のか・・・・・・
 \n
 //You realize you're entranced by something that should never have been read...
-Te das cuenta de que estas embelesado con algo que no deberias haber leido...
+Te das cuenta de que est{s embelesado por algo que no deber&as haber le&do...
 
 <$FA><$FF>
 <$F8><$FF>
@@ -236,7 +236,7 @@ Te das cuenta de que estas embelesado con algo que no deberias haber leido...
 //　　なかった
 \n
 //However, you betray your instincts and keep reading.
-Aun asi, traicionas tus instintos y continuas leyendo.
+Aun as&, traicionas tus instintos y continuas leyendo.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -247,7 +247,7 @@ Aun asi, traicionas tus instintos y continuas leyendo.
 //　　感じらるようになった
 \n
 //The cold grows without signs of stopping, and a foul odor floats through the air.
-El frio crece sin signos de detenerse, y un olor fetido flota en el ambiente.
+El fr&o se hace cada vez mas presente en la sala y un olor f}tido aflora de la nada.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -257,7 +257,7 @@ El frio crece sin signos de detenerse, y un olor fetido flota en el ambiente.
 //　　ていき・・・
 \n
 //The more you read, the colder the room becomes...
-Cuanto mas lees, mas fria se vuelve la habitacion...
+Cuanto m{s lees, m{s fr&a se vuelve la habitaci[n...
 
 <$FA><$FF>
 <$F8><$FF>
@@ -267,7 +267,7 @@ Cuanto mas lees, mas fria se vuelve la habitacion...
 //　　気配を感じるようになった　　－
 \n
 //Before long, you can feel the presence of something behind you. -
-Al poco tiempo, puedes sentir la presencia de algo detras de ti. -
+Al poco tiempo, sientes una presencia estra]a detr{s de ti. -
 
 
 <$FA><$FF>
@@ -277,7 +277,7 @@ Al poco tiempo, puedes sentir la presencia de algo detras de ti. -
 //　「こ、このままじゃ、まずい！」
 Inaba\n
 //"I-I need to stop!"
-"Ne-necesito para ya!"
+")Ne-necesito parar!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -287,7 +287,7 @@ Inaba\n
 //　　思いっきり閉じ　急いで本棚\n
 //　　に　しまった　　　　　　　　－
 //- With your mind screaming at your body, you manage to tear your eyes off the "King in Yellow" and slam it back on the shelf. -
-- Con la mente luchando contra tu cuerpo, arrancas los ojos del "Rey de Amarillo" y lo devuelves de un golpe a la estanteria. -
+- Con la mente luchando contra el cuerpo, arrancas los ojos del "Rey de Amarillo" y lo devuelves de un golpe a la estanter&a. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -298,7 +298,7 @@ Inaba\n
 //　　助かった、
 Inaba\n
 //"W-what the hell was that<$20>
-"De donde demonios ha salido<$20>
+"(De d[nde demonios ha salido<$20>
 
 <$FF><$FF>
 <$1E><$00>
@@ -315,7 +315,7 @@ ese libro...?
 //　　恐ろしさを　感じていた
 \n
 //- A cold sweat flows down your face. You feel something malevolent in the room.
-- Un sudor frio te recorre la cara. Sientes algo malevolo en la habitacion.
+- Un sudor frio te recorre la cara. Sientes algo mal}volo en la habitaci[n.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -325,7 +325,7 @@ ese libro...?
 //　　何者かの気配が　残っていた　－
 \n
 //Whatever came out of the book hasn't left the room. -
-Lo que salio de ese libro no ha abandonado la sala. -
+Lo que sali[ de ese libro no ha abandonado la sala. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -342,7 +342,7 @@ Lo que salio de ese libro no ha abandonado la sala. -
 //　　いいな。　　　　　　　　　」
 Inaba\n
 //"I shouldn't go near that bookshelf again..."
-"No deberia acercarme mas a esa estanteria..."
+"No deber&a acercarme m{s a esa estanter&a..."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -358,7 +358,7 @@ Inaba\n
 //　「この本棚は危険がいっぱい！」
 Inaba\n
 //"That bookshelf is dangerous!!"
-"Esa estanteria es peligrosa!!"
+"))Esa estanter&a es peligrosa!!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -375,7 +375,7 @@ Inaba\n
 //　　書物が無いか調べてみた　　　－
 \n
 //- You open the case and look for anything interesting. -
-- Abres la caja buscando alguna cosa interesante. -
+- Abres el mueble buscando algo interesante. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -385,7 +385,7 @@ Inaba\n
 //　　本を　見つけた　　　　　　　－
 \n
 //- You find one that catches your attention. -
-- Encuentras algo que capta tu atencion. -
+- Encuentras algo que capta tu atenci[n. -
 
 
 <$FA><$FF>
@@ -405,7 +405,7 @@ Inaba\n
 //　　なって始まっている
 \n
 //- This document looks like a family tree for the "Murabe" family.
-- El documento parece un arbol genealogico de la familia "Murabe".
+- El documento parece un {rbol geneal[gico de la familia "Murabe".
 
 <$FA><$FF>
 <$F8><$FF>
@@ -440,7 +440,7 @@ Ese es el apellido de Yuma."
 //　　のが“村辺幸三”という人物\n
 //　　で
 //- At the end of the "Murabe" line is the name "Murabe Kouzou." From there,
-- Al final de la linea "Murabe" aparece "Murabe Kouzou". A partir de ahi,
+- Al final de la linea "Murabe" aparece "Murabe Kouzou". A partir de ah&,
 
 <$FF><$FF>
 <$0A><$00>
@@ -459,7 +459,7 @@ puedes ver la rama de los "Aikawa." -
 //　　校長先生の名前だ。
 Inaba\n
 //"Murabe Kouzou. That's the principal, right?
-Murabe Kouzou. Es el director, no es cierto?
+Murabe Kouzou. (El director se apellida asi, no?
 
 <$FA><$FF>
 <$F8><$FF>
@@ -479,8 +479,8 @@ Murabe Kouzou. Es el director, no es cierto?
 //　　ってことは、やっぱりこれは\n
 //　　校長先生の家の家系図か！？
 \n
-//then, this is the principal's family tree!?
-es este el arbol genealogico del director!?
+//then, this is the principal's family tree?!
+)(Es este el {rbol geneal[gico del director?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -491,7 +491,7 @@ es este el arbol genealogico del director!?
 //　　が相川ってことだ。　　　　」
 \n
 //The principal's daughter married into the Aikawa family, then the Aikawa I know is that couple's daughter."
-La hija del director se junto con la familia Aikawa, entonces, la Aikawa que conozco es hija de esa pareja".
+La hija del director se uni[ a la familia Aikawa, entonces, la Aikawa que conozco es hija de esa pareja".
 
 <$FA><$FF>
 <$F8><$FF>
@@ -502,7 +502,7 @@ La hija del director se junto con la familia Aikawa, entonces, la Aikawa que con
 //　　いないようだ　　　　　　　　－
 \n
 //- There doesn't seem to be much information on "Ichinomiya" in this family tree. -
-- No parece haber mucha informacion sobre "Ichinomiya" en el arbol genealogico. -
+- No parece haber mucha informaci[n sobre "Ichinomiya" en el {rbol geneal[gico. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -512,7 +512,7 @@ La hija del director se junto con la familia Aikawa, entonces, la Aikawa que con
 //　　家系のことなのかな？
 Inaba\n
 //"Is this Ichinomiya family really the same as Yuma's?
-?Son los Ichinomiya la misma familia que la de Yuma?
+(Son los Ichinomiya la misma familia que la de Yuma?
 
 <$FA><$FF>
 <$F8><$FF>
@@ -543,7 +543,7 @@ Nunca he oido a Yuma mencionar nada de eso.
 //　　何か関係ありそうだけど。　」
 \n
 //It does seem like there's some connection between her and Kirigaoka High School's founding."
-Parece que debe haber alguna conexion entre ella y la fundacion del instituto Kirigaoka".
+Parece que debe haber alguna conexi[n entre ella y la fundaci[n del instituto Kirigaoka".
 
 <$FA><$FF>
 <$F8><$FF>
@@ -552,7 +552,7 @@ Parece que debe haber alguna conexion entre ella y la fundacion del instituto Ki
 //　－　本棚に　その書物を戻した　－
 \n
 //- You return the book to the shelf. -
-- Dejas el libro en la estanteria. -
+- Dejas el libro en la estanter&a. -
 
 <$FA><$FF>
 <$F8><$FF>

@@ -23,8 +23,8 @@ Youko\n
 //いやぁぁー！\n
 //　　どうしてこんな目に遭うの！？\n
 //　　お願いよ・・・助けてぇ
-//No!!! Why is this happening to me!? I'm begging you, help me
-No!! Porque me esta ocurriendo esto!? Ayudame te lo suplico
+//No!!! Why is this happening to me?! I'm begging you, help me
+)No! )(Porqu} me est{ pasando esto?! Ay=dame, ))te lo suplico
 
 <$F3><$FF>
 <$68><$00>
@@ -48,7 +48,7 @@ Hojou\n
 //　　大丈夫だから、必ず助けて\n
 //　　あげるから
 //Get a hold of yourself! It'll be okay, I'll make sure we get out of this alive
-Confia en ti mismo! Todo saldra bien, me asegurare de que salgamos vivos de aqui
+)Conf&a en ti! Todo saldr{ bien, ))Me asegurar} de que salgamos vivos de aqu&
 
 <$F3><$FF>
 <$04><$00>
@@ -84,7 +84,7 @@ Hojou\n
 //稲葉くん！　無事だったのね。\n
 //　　良かった
 //Inaba! Oh good, you're safe
-Inaba! Menos mal que estas bien
+)Inaba! Menos mal que est{s bien
 
 <$F3><$FF>
 <$04><$00>
@@ -105,7 +105,7 @@ Inaba! Menos mal que estas bien
 //あなたも早くこの学校から\n
 //　　逃げなさい
 //You need to hurry and escape the school as well
-Necesitas darte prisa y escapar de la escuela
+)Debes darte prisa y escapar de esta escuela
 
 <$F3><$FF>
 <$04><$00>
@@ -126,7 +126,7 @@ Necesitas darte prisa y escapar de la escuela
 //私も生き残ってる人を外に\n
 //　　連れていくから
 //I'm going to look for more survivors and make sure they get outside
-Voy a buscar mas supervivientes y me asegurare de que salgan fuera
+))Voy a buscar supervivientes y me asegurar} de que escapen todos
 
 <$F3><$FF>
 <$04><$00>
@@ -190,7 +190,7 @@ Hojou\n
 //　　方法はあるけど・・・それを\n
 //　　知っているのは私だけ
 //...it can't be stopped. I mean, there's a way, but... only I know it
-...no hay manera de pararlo. Bueno, hay una, pero... solo yo la conozco
+...no hay manera de pararlo. Bueno, una, pero... solo yo la conozco
 
 <$F3><$FF>
 <$04><$00>
@@ -212,7 +212,7 @@ Hojou\n
 //しつこく私を探して\n
 //　　いるでしょうね
 //They're probably searching for me right now
-Probablemente me esten buscando ahora mismo
+Probablemente me est{n buscando ahora mismo
 
 
 <$F3><$FF>
@@ -280,7 +280,7 @@ Youko\n
 //パパ・・・ママ・・・助けて、\n
 //　　早く助けに来てよぉ
 //Daddy... Mommy... Help me, please
-Papa... Mama... ayudadme, por favor
+Pap{... Mam{... ayudadme, por favor
 
 <$F3><$FF>
 <$04><$00>
@@ -337,7 +337,7 @@ Youko\n
 
 //逃げるって言ったって
 //She said to run away, but
-Me dijo que huyera, pero
+Me dijo que huyese, pero
 
 <$F3><$FF>
 <$04><$00>
@@ -361,7 +361,7 @@ Me dijo que huyera, pero
 //　　森先生も・・・さっき。　　」
 Inaba\n
 //"Ms. Hojou! People are dying left and right and Mr. Mori... just..."
-Ms. Hojuo! Han asesinado a varios estudiantes y Mr. Mori... ha..."
+)Ms. Hojuo! Han asesinado a varios estudiantes y Mr. Mori... ha..."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -378,7 +378,7 @@ Hojou\n
 //　　気をしっかり持つのよ！！\n
 //　　冷静にならないと
 //Inaba! Keep it together! If you panic, you're as good as dead
-Inaba! Calmate! Si entras en panico no vas a conseguir nada
+)Inaba! )C{lma! Si entras en p{nico no mejorar{ la situaci[n
 
 <$F3><$FF>
 <$04><$00>
@@ -422,7 +422,7 @@ Youko\n
 //なんで出られないの？\n
 //　　ここから出して
 //...why can't we get out? I just wanna go home
-...Porque no podemos salir? Quiero irme a casa
+)...Porqu} no podemos salir? Quiero ir a casa
 
 <$F3><$FF>
 <$04><$00>
@@ -503,14 +503,14 @@ nooo--!!!
 //\n
 //　　くっ
 \n
-A-
+))A-
 
 <$FF><$FF>
 <$14><$00>
 
 //来るな
 //stay ba
-Alejate
+Al}jate
 
 <$FF><$FF>
 <$14><$00>
@@ -556,7 +556,7 @@ e
 //　　この中で何とかできないか？」
 Inaba\n
 //"I'm stuck in here now! I need to find a way to hide before it's too late!"
-"Estoy atrapado! Necesito encontrar un sitio para esconderme ahora mismo!"
+")Estoy atrapado! )Necesito encontrar un sitio para esconderme r{pido!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -573,7 +573,7 @@ Inaba\n
 //　　隠れられない！　　　　　　」
 Inaba\n
 //"There's no way I could hide on this bookshelf!"
-"No puedo esconderme dentro de la estanteria!"
+")No puedo esconderme dentro de la estanter&a!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -590,8 +590,8 @@ Inaba\n
 //　　ゴミ箱なんかに隠れられるわけ\n
 //　　ない！　　　　　　　　　　　」
 Inaba\n
-//"What the hell am I thinking!? I'm not trash!"
-"Pero que demonios pienso!? Yo no soy basura!"
+//"What the hell am I thinking?! I'm not trash!"
+")(Pero en qu} pienso?! )Yo no soy basura!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -607,7 +607,7 @@ Inaba\n
 //　「コピー機？
 Inaba\n
 //"A copy machine?
-"Una fotocopiadora?
+"(En la fotocopiadora?
 
 <$FF><$FF>
 <$3C><$00>
@@ -615,7 +615,7 @@ Inaba\n
 //\n
 //　　・・・どうしようもないな。」
 //...alright, next."
-...vale, siguiente."
+... mejor... no."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -633,7 +633,7 @@ Inaba\n
 //　　し・・・。　　　　　　　　」
 Inaba\n
 //"The chair's in the way! But it'll be too obvious if the chair's pulled out..."
-"La silla esta en medio! Sera demasiado obvio si la muevo para esconderme..."
+")La silla est{ en medio! ser{ demasiado obvio si la muevo para esconderme..."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -650,7 +650,7 @@ Inaba\n
 //　　隠れようがない！　　　　　」
 Inaba\n
 //"I can't hide in there, it's glass!"
-Es cristal! No puedo esconderme ahi!"
+)Es cristal! )No puedo esconderme ah&!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -667,7 +667,7 @@ Es cristal! No puedo esconderme ahi!"
 //　　暇なんてない！　　　　　　」
 Inaba\n
 //"I don't have time to make room for myself in there!"
-"No tengo tiempo para hacerme un hueco ahi dentro!"
+")No tengo tiempo para hacerme un hueco ah& dentro!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -682,15 +682,14 @@ Inaba\n
 //稲葉\n
 //　「！？
 Inaba\n
-"!?<$20>
-
+")(Eh?! 
 <$FF><$FF>
 <$1E><$00>
 
 //\n
 //　　ここなら隠れられそうだ！　」
 //I think I can hide in here!"
-Esto parece un buen escondite!"
+)Esto parece un buen escondite!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -709,7 +708,7 @@ Esto parece un buen escondite!"
 //　「助かった！　　　　　　　　」
 Inaba\n
 //"Phew, safe!"
-"Uf, por poco!"
+")Uf, por poco!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -726,7 +725,7 @@ Inaba\n
 //　　今出たらまずい！？　　　」
 Inaba\n
 //"They might be right outside the door, I can't leave now!"
-"Quizas esten todavia al otro lado, no puedo salir ahora!"
+")Quiz{s est}n todav&a al otro lado, no puedo salir ahora!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -753,7 +752,7 @@ Inaba\n
 //　　れるかな。　　　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Este seria buen sitio para esconderse."
+"Este ser&a buen sitio para esconderse."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -781,7 +780,7 @@ Inaba\n
 //　　特に　目を引く本は　ない　　－
 \n
 //- There doesn't seem to be any genre consistency with these books. Nothing catches your eye. -
-- Parece que la tematica de los libros es muy variada. No hay nada realmente interesante aqui. -
+- Parece que la tem{tica de los libros es muy variada. No hay nada realmente interesante aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -878,7 +877,7 @@ Inaba\n
 //　　れるかな。　　　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -903,7 +902,7 @@ Inaba\n
 //　「何もゴミが入ってないな。　」
 Inaba\n
 //"There's nothing but trash inside."
-"No contiene nada mas que basura."
+"No contiene nada m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -921,7 +920,7 @@ Inaba\n
 //　　　プリントが　貼ってある　－
 \n
 //- There's a bulletin labelled "This Month's Guiding Principles" pinned to the board. -
-Hay un boletin llamado "Principios rectores de este mes" clavado en el tablero. -
+- Hay un bolet&n llamado "Principios rectores de este mes" clavado en el tablero. -
 
 <$FA><$FF>
 <$F8><$FF>

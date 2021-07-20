@@ -21,7 +21,7 @@
 //稲葉\n
 //　「・・・相・・川・・・？　　」
 Inaba\n
-"Ai... ka... wa...?"
+"(Ai...ka wa...?"
 
 <$FF><$FF>
 <$3C><$00>
@@ -40,7 +40,7 @@ Inaba\n
 //　　ある・・・。　　　　　　　」
 Inaba\n
 //"I... know this place..."
-"Co... conozco este sitio..."
+"Co... conozco este lugar..."
 
 <$FF><$FF>
 <$3C><$00>
@@ -59,7 +59,7 @@ Inaba\n
 //　　礼拝堂・・・。　　　　　　」
 Inaba\n
 //"A goddess statue... A chapel..."
-"La estatua... La capilla..."
+"La estatua... de la capilla..."
 
 <$FF><$FF>
 <$3C><$00>
@@ -78,8 +78,7 @@ Inaba\n
 //　　予感・・・。
 Inaba\n
 //"Is this... a premonition...?
-"Es esto... una premonicion...?
-
+"(Es... una premonici[n...?
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -90,7 +89,7 @@ Inaba\n
 //　　でないと・・・。　　　　　」
 \n
 //...no, I've seen this before. I have... to do... something..."
-...no, ya he visto esto antes. Debo... hacer... algo..." 
+...no, he visto esto antes. Debo... deber&a... hacer algo..." 
 
 <$FF><$FF>
 <$3C><$00>
@@ -109,7 +108,7 @@ Inaba\n
 //　　どうしていつも・・・。　　　」
 Inaba\n
 //"But I can't do anything... It's the same every time..."
-"Pero siempre ocurre lo mismo... No puedo hacer nada..."
+"Siempre es el mismo sue]o y... siempre acaba igual..."
 
 <$FF><$FF>
 <$3C><$00>
@@ -127,7 +126,7 @@ Inaba\n
 //　壁の窪みに宝石を　はめ込んだ！
 \n
 //- The jewel fit into the slot! -
-- La joya encaja en la ranura! -
+- )La gema encaja en la ranura! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -143,7 +142,7 @@ Inaba\n
 //　　　深紅の宝石を　はずした！
 \n
 //- You removed the crimson jewel. -
-- Retiras la joya roja. -
+- Retiras la gema roja. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -159,7 +158,7 @@ Inaba\n
 //－　　壁に不思議な窪みがある　　－
 \n
 //- There's a strange slot in the wall. -
-- Hay una ranura singular en la pared. -
+- Hay una ranura extra]a en la pared. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -176,7 +175,7 @@ Inaba\n
 //　　女神像だ
 \n
 //- A statue of the Goddess that watches over Kirigaoka High School.
-- La estatua de la Diosa cuida del instituto de Kirigaoka.
+- La estatua de la Diosa protege el instituto de Kirigaoka.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -187,7 +186,7 @@ Inaba\n
 //　　４メートルはある　　　　　－
 \n
 //The statue is two meters tall, but with the base, it's easily over four meters. -
-La estatua mide dos metros, pero con la base, probablemente mida cuatro metros. -
+La estatua mide dos metros pero con la base, probablemente mida cuatro metros. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -206,8 +205,8 @@ Inaba\n
 //　　いうか、信仰している宗教は\n
 //　　何なんだろう？
 \n
-//But, what religion does this school even observe?
-Pero, que religion es la que imparte esta escuela?
+//But, what religi[n does this school even observe?
+Pero, qu} religi[n es la que imparte esta escuela?
 
 <$FA><$FF>
 <$F8><$FF>
@@ -218,7 +217,7 @@ Pero, que religion es la que imparte esta escuela?
 //　　まず、ないし・・・。
 \n
 //There's a chapel, but this school never does any religious activities...
-Hay una capilla, pero esta escuela nunca hace actividades religiosas...
+Hay una capilla, pero esta escuela no realiza actividades religiosas...
 
 <$FA><$FF>
 <$F8><$FF>
@@ -228,7 +227,7 @@ Hay una capilla, pero esta escuela nunca hace actividades religiosas...
 //　　学校だな。
 \n
 //The more I think about it, the stranger this school gets.
-Cuanto mas lo pienso, mas raro se vuelve este lugar.
+Cuanto m{s lo pienso, m{s raro se vuelve este lugar.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -238,7 +237,7 @@ Cuanto mas lo pienso, mas raro se vuelve este lugar.
 //　　何か関係があるのかな？　　」
 \n
 //Maybe the school was originally founded for religious reasons?"
-Quizas el instituto tiene algun tipo de raices religiosas?"
+(Quiz{s el instituto sigue alg=n tipo de tradici[n religiosa?"
 
 <$FA><$FF>
 <$F8><$FF>

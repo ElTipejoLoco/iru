@@ -31,14 +31,14 @@ Canica Azul
 #WRITE(PTR, $00065C58)
 //　表面に小さな文字が刻まれた石球。
 //A blue gem with small letters<$20><$20><$20><$20><$20>carved on it.
-Joya azul con varias letras<$20><$20><$20><$20><$20>grabadas en ella.
+Canica azul con letras grabadas enella.
 <$00>
 
 // Ptr: 00003F00
 #WRITE(PTR, $00065C4C)
 //　　　　　ルルイエの子珠
 //R'lyeh Gem
-Joya R'lyeh
+Gema R'lyeh
 <$00>
 
 // Ptr: 00003EE8
@@ -53,7 +53,7 @@ Palanca
 #WRITE(PTR, $00065C8C)
 //　普通の釘抜き。
 //Just a normal crowbar.
-Una palanca corriente.
+Una palanca de acero.
 <$00>
 
 // Ptr: 00003EBC
@@ -81,7 +81,7 @@ Un retrato con las palabras
 #WRITE(PTR, $00065CC0)
 //　額縁になっている。
 //It's attached to a picture frame.
-Esta sujeto al marco del cuadro. 
+Est{ sujeto al marco del cuadro. 
 <$00>
 
 // Ptr: 00003E5C
@@ -111,7 +111,7 @@ Martillo
 #WRITE(PTR, $00065D28)
 //　釘を打つにしては大きすぎる金槌。
 //A hammer too large for pounding<$20><$20><$20>nails.
-Un martillo demasiado grande<$20><$20><$20>para clavos.
+Un martillo demasiado grande para clavos.
 <$00>
 
 // Ptr: 00003DF0
@@ -126,7 +126,7 @@ Jarro de Carne
 #WRITE(PTR, $00065D5C)
 //　グロテスクなゲル状の物の瓶詰め。
 //A jar full of a grotesque<$20><$20><$20><$20><$20><$20><$20><$20><$20>gelatinous substance.
-Jarro lleno de una sustancia<$20><$20><$20><$20><$20><$20><$20><$20><$20>gelatinosa asquerosa.
+Jarro lleno de carne con textura  gelatinosa.
 <$00>
 
 // Ptr: 00003DB4
@@ -141,7 +141,7 @@ Cerillas
 #WRITE(PTR, $00065D90)
 //　普通の箱入りのマッチ。
 //An ordinary box of matches.
-Una caja normal de cerillas.
+Una caja de cerillas.
 <$00>
 
 // Ptr: 00003D80
@@ -155,7 +155,7 @@ Llave Dorada
 #WRITE(PTR, $00065DBC)
 //　真っ赤な宝石が付けられている。
 //There's a deep red gem on the<$20><$20><$20><$20><$20>handle.
-Tiene una gema de color rojo<$20><$20><$20><$20><$20>en el mango.
+Tiene una gema de color rojo en elmango.
 <$00>
 
 // Ptr: 00003D40
@@ -206,14 +206,14 @@ Espejo de Notran
 #WRITE(PTR, $00065E58)
 //　古びた鏡。縁に奇麗な細工が施して
 //An old mirror with an exquisite<$20><$20><$20>green border.
-Un viejo espejo con un borde<$20><$20><$20>verde exquisito.
+Un viejo espejo con un borde verdeexquisito.
 <$00>
 
 // Ptr: 00003C84
 #WRITE(PTR, $00065E60)
 //　裏面に鏡は無い。縁には　やはり
 //There's nothing on the back. The
-No hay nada por detras. El borde
+No hay nada por detr{s. El borde
 <$00>
 
 // Ptr: 00003C68
@@ -244,14 +244,14 @@ Pagina del "Libro de Eibon"
 #WRITE(PTR, $000661A0)
 //　不思議な文字で書かれているメモ。
 //A memo written in a bizarre<$20><$20><$20><$20><$20><$20><$20>script.
-Una nota escrita en un idioma<$20><$20><$20><$20><$20><$20><$20>raro.
+Una nota escrita en un idioma muy extra]o.
 <$00>
 
 // Ptr: 00003BF0
 #WRITE(PTR, $00065EF0)
 //　　　　　　陶器の壷
 //Porcelain Vase
-Jarron de porcelana
+Jarr[n de porcelana
 <$00>
 
 // Ptr: 00003BCC
@@ -259,7 +259,7 @@ Jarron de porcelana
 #WRITE(PTR, $00065EFC)
 //　陶器で出来た壷。奇麗な彫刻が施さ
 //A porcelain vase with beautiful
-Jarron de porcelana con grabados
+Jarr[n de porcelana con grabados
 <$00>
 
 // Ptr: 00003BC0
@@ -282,7 +282,7 @@ Lagrimas de la Diosa
 #WRITE(PTR, $00065F30)
 //　陶器の壷に、女神像の流した赤い涙
 //A porcelain vase with red tears
-Jarron de porcelana lleno de
+Jarr[n de porcelana lleno de
 <$00>
 
 // Ptr: 00003B74
@@ -377,7 +377,8 @@ Fino polvo en una bolsa
 // Ptr: 00003A44
 #WRITE(PTR, $0006605C)
 //　　　　　　深紅の宝石
-Crimson Jewel
+//Crimson Jewel
+Gema Roja
 <$00>
 
 // Ptr: 00003A20
@@ -385,7 +386,7 @@ Crimson Jewel
 #WRITE(PTR, $00066068)
 //　手の平くらいの大きさの宝石。鮮や
 //A vibrant red jewel about the size
-Una vibrante joya roja tan grande
+Una vibrante gema roja tan grande
 <$00>
 
 // Ptr: 00003A08
@@ -415,7 +416,7 @@ Un gato de coche manual.
 #WRITE(PTR, $000660C4)
 //　　　　　　ロケット
 //Locket
-Medallon
+Medall[n
 <$00>
 
 // Ptr: 00003990
@@ -431,7 +432,7 @@ Un pendiente con la foto de
 #WRITE(PTR, $000660D4)
 //には二人の男性が写っている。
 //two young men inside.
-dos jovenes dentro.
+dos j[venes dentro.
 <$00>
 
 // Ptr: 00003958
@@ -445,7 +446,7 @@ Piedra Octogonal
 #WRITE(PTR, $000660FC)
 //　星形の紋章が刻まれた八角形の石。
 //An octagonal stone with a star<$20><$20><$20><$20>engraved on it.
-Una piedra octogonal con una<$20><$20><$20><$20>estrella grabada.
+Una piedra octogonal con una formade estrella grabada.
 <$00>
 
 // Ptr: 00003924
@@ -467,14 +468,14 @@ Carta
 #WRITE(PTR, $00066138)
 //　ぼろぼろの紙に文字が記されている
 //A beat-up piece of paper with a<$20><$20><$20>message written on it.
-Un trozo de papel antiguo con<$20><$20><$20>un mensaje escrito en el.
+Un trozo de papel antiguo con un  mensaje escrito en el.
 <$00>
 
 // Ptr: 000038D4
 #WRITE(PTR, $00066160)
 //　　　　　　喚魂の秘薬
 //Spirit Elixir
-Elixir espiritual
+Elixir esp&ritual
 <$00>
 
 // Ptr: 000038B8
@@ -482,20 +483,20 @@ Elixir espiritual
 #WRITE(PTR, $0006616C)
 //　液体の入った奇麗な小瓶。
 //A beautiful bottle filled with a<$20><$20>mysterious liquid.
-Una botella llena de un liquido<$20><$20>misterioso.
+Una botella llena de un l&quido   misterioso.
 <$00>
 
 // Ptr: 000038A0
 #WRITE(PTR, $00066194)
 //　　　　　　呪文のメモ
 //Incantation Memo
-Nota de invocacion
+Nota de invocaci[n
 <$00>
 
 // Ptr: 00003884
 #WRITE(PTR, $000661C8)
 //　　　　『ネクロノミコン』
-"Necronomicon"
+"Necronomic[n"
 <$00>
 
 // Ptr: 00003868
@@ -503,7 +504,7 @@ Nota de invocacion
 #WRITE(PTR, $000661D4)
 //　怪しげな邪気が漂う古書。
 //An old book with a dangerous aura.
-Un viejo libro que emite mala energia.
+Un viejo libro que emite mala energ&a.
 <$00>
 
 // Ptr: 00003854
@@ -554,14 +555,14 @@ Nota "Dios de R'lyeh"
 #WRITE(PTR, $000664AC)
 //　メモのようだ。何か文章が書かれて
 //Looks like a scrap of paper with amessage written on it.
-Parece un trozo de papel con un mensaje escrito en el.
+Parece un trozo de papel con un   mensaje escrito en el.
 <$00>
 
 // Ptr: 000037D8
 #WRITE(PTR, $00066264)
 //　　　　引き裂かれたページ
 //Torn Page
-Pagina rota
+Pagina Arrancada
 <$00>
 
 // Ptr: 000037B4
@@ -569,14 +570,14 @@ Pagina rota
 #WRITE(PTR, $00066270)
 //　不思議な文字で何か書かれている。
 //A memo written in a bizarre<$20><$20><$20><$20><$20><$20><$20>script.
-Nota escrita en un idioma<$20><$20><$20><$20><$20><$20><$20>raro.
+Nota escrita en un idioma raro.
 <$00>
 
 // Ptr: 00003790
 #WRITE(PTR, $00066298)
 //　「お前は誰だ…」と書かれた紙片
-//"Who are you!?"
-"Quien eres!?"
+//"Who are you?!"
+")(Quien eres?!"
 <$00>
 
 // Ptr: 0000376C
@@ -589,22 +590,22 @@ Nota escrita en un idioma<$20><$20><$20><$20><$20><$20><$20>raro.
 // Ptr: 00003748
 #WRITE(PTR, $00066300)
 //　「何が目的な…」と書かれた紙片
-//"What are you planning!?"
-"Que estas planeando!?"
+//"What are you planning?!"
+")(Que est{s planeando?!"
 <$00>
 
 // Ptr: 00003724
 #WRITE(PTR, $00066334)
 //　「危害を与え…」と書かれた紙片
 //"I do not wish you harm."
-"No te deseo ningun mal."
+"No te deseo ning=n mal."
 <$00>
 
 // Ptr: 00003700
 #WRITE(PTR, $00066368)
 //　「あんたには…」と書かれた紙片
 //"Do you know something?"
-"Quieres saber algo?"
+"(Quieres saber algo?"
 <$00>
 
 // Ptr: 000036DC
@@ -625,14 +626,14 @@ Nota escrita en un idioma<$20><$20><$20><$20><$20><$20><$20>raro.
 #WRITE(PTR, $00066404)
 //　「もし神の一…」と書かれた紙片
 //"The world will plunge into..."
-"El mundo se sumira en..."
+"El mundo se sumir{ en..."
 <$00>
 
 // Ptr: 00003670
 #WRITE(PTR, $00066438)
 //　「透明な魔物…」と書かれた紙片
 //"Those invisible monsters..."
-"Los montruos invisibles..."
+"Los monstruos invisibles..."
 <$00>
 
 // Ptr: 0000364C

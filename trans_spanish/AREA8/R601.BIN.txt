@@ -19,8 +19,8 @@
 //　「！？\n
 //　　もう１匹・・・いる！　　　」
 Inaba\n
-//"!? There's still one here!"
-"!? Todavia hay uno aqui!"
+//"?! There's still one here!"
+")(Eh?! )Todav&a hay uno aqu&!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -44,8 +44,8 @@ Inaba\n
 <$F1><$FF>
 
 //　　だ、誰だ！！　　　　　　　　」
-//W-who's there!?"
-Q-quien esta ahi!?"
+//W-who's there?!"
+)(Q-qui}n est{ ah&?!"
 <$FF><$FF>
 <$B4><$00>
 <$F8><$FF>
@@ -57,8 +57,8 @@ Q-quien esta ahi!?"
 //　「なんだ！　このバケモノ！？\n
 //　　く、来るなぁー！！　　　　」
 Inaba\n
-//"What the hell are those monsters!? S-stay back!!"
-"De donde han salido esos montruos!? A-alejaos!!"
+//"What the hell are those monsters?! S-stay back!!"
+")(De d[nde han salido esos monstruos?! ))A-alejaos!!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -76,7 +76,7 @@ Inaba\n
 //　　開かない　　　　　　　　　　－
 \n
 //- The lid is sealed tightly and won't open. -
-- La tapa esta cerrada y no parece moverse. -
+- La tapa est{ cerrada y no parece moverse. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -86,7 +86,7 @@ Inaba\n
 //　　かない、ってことか。　　　」
 Inaba\n
 //"Looks like there's no going back now... Time to press on, I guess."
-"Parece que ya no hay vuelta atras... Supongo que deberia pulsarlo."
+"Parece que ya no hay vuelta atr{s... Supongo que deber&a pulsarlo."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -110,7 +110,7 @@ Inaba\n
 //　　・・・代目、邪神、守人？
 \n
 //...ages past... evil god... savior...?
-...tiempo... Dios profano... salvador...?
+(...tiempo... Dios profano... salvador...?
 
 <$FA><$FF>
 <$F8><$FF>
@@ -120,7 +120,7 @@ Inaba\n
 //　　ことが出来ないな。　　　　」
 \n
 //It's been worn down considerably, so that's all I can make out."
-Esta todo muy desgastado, eso es lo unico que puedo leer..."
+Est{ todo muy desgastado, eso es lo =nico que puedo leer..."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

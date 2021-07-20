@@ -19,7 +19,7 @@ Hikawa\n
 
 //ヒッヒヒッヒャーヒャヒャ\n
 //　　ヒャ・・・！　　　　　　　　　」
-HYAHIHIHIHYAAAHIHIA...!"
+)HYAHIHIHIHYAAHIHIA...!"
 
 <$FF><$FF>
 <$3C><$00>
@@ -35,7 +35,7 @@ HYAHIHIHIHYAAAHIHIA...!"
 //\n
 //　－　机の上に　日記がある
 \n
-//- There's a diary on the table.
+//- There's a d&ary on the table.
 - Hay un diario en la mesa.
 <$FA><$FF>
 <$F8><$FF>
@@ -44,8 +44,8 @@ HYAHIHIHIHYAAAHIHIA...!"
 //　　日記を読むと　気になる\n
 //　　くだりがあった　　　　　－
 \n
-//As you read the diary, a specific passage catches your attention. -
-Mientras ojeas el diario, un pasaje parece que capta tu atencion. -
+//As you read the d&ary, a specific passage catches your attention. -
+Mientras ojeas el diario, un pasaje parece que capta tu atenci[n. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -63,7 +63,7 @@ Mientras ojeas el diario, un pasaje parece que capta tu atencion. -
 //　　怪しい書物を持ってきた。
 \n
 //That day, a friend of mine came by with the strangest of books.
-Ese dia, un amigo mio vino con el libro mas raro que he visto.
+Ese d&a, un amigo vino con el libro m{s raro que jam{s he visto.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -73,7 +73,7 @@ Ese dia, un amigo mio vino con el libro mas raro que he visto.
 //　　書物らしい。
 \n
 //That friend had desperately searched for this book for ages.
-Ese amigo llevaba buscando ese libro al menos una decada.
+Ese amigo llevaba buscando ese libro al menos una d}cada.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -82,7 +82,7 @@ Ese amigo llevaba buscando ese libro al menos una decada.
 //　　書物を読みふけっていた友人の\n
 //　　雰囲気が、次第に変わった。
 //Now finally able to read it, he happily read it with no care for anything else. I dare say the air about him gradually changed.
-Ahora que finalmente podia leerlo, lo leyo sin tener en cuenta absolutamente nada. Creo quehasta el aire que le rodeaba cambio.
+Ahora que finalmente pod&a leerlo, lo ley[ sin tener en cuenta absolutamente nada. Creo que hasta el aire que le rodeaba cambi[.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -92,7 +92,7 @@ Ahora que finalmente podia leerlo, lo leyo sin tener en cuenta absolutamente nad
 //　　た。
 \n
 //With no warning, my friend unleased a hellish screech and bolted out of the room.
-Sin previo aviso, mi amigo solto un grito infernal y salio corriendo de la sala.
+Sin previo aviso, mi amigo solt[ un grito infernal y sali[ corriendo de la sala.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -102,7 +102,7 @@ Sin previo aviso, mi amigo solto un grito infernal y salio corriendo de la sala.
 //　　命を落とした。
 \n
 //He fell down the stairs and tumbled to the very bottom. He was dead when I reached him.
-Se tropezo por las escaleras y cayo al fondo. Estaba muerto cuando llegue hasta el.
+Se tropez[ por las escaleras y cay[ al fondo. Estaba muerto cuando llegu} hasta }l.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -111,8 +111,8 @@ Se tropezo por las escaleras y cayo al fondo. Estaba muerto cuando llegue hasta 
 //　　その本　『ネクロノミコン』\n
 //　　だけが、この部屋に残った。
 \n
-//The only thing left now is that book he left behind, "The Necronomicon."
-Lo unico que me queda ahora es el libro que dejo, "The Necronomicon."
+//The only thing left now is that book he left behind, "The Necronomic[n."
+Lo =nico que me queda ahora es el libro que dej[, "El Necronomic[n."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -120,8 +120,8 @@ Lo unico que me queda ahora es el libro que dejo, "The Necronomicon."
 //　　『ネクロノミコン』は、最も\n
 //　　恐ろしい魔導書だということ\n
 //　　は、後に知ることだった。
-//I learned after that that the Necronomicon is one of the most terrifying, most horrible grimoires in existence.
-Despues aprendi que el Necronomicon es uno de los grimorios mas terrorificos y malvados que existen en el mundo.
+//I learned after that that the Necronomic[n is one of the most terrifying, most horrible grimoires in existence.
+Despu}s aprend& que el Necronomic[n es uno de los grimorios m{s terror&ficos y malvados que existen en el mundo.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -130,7 +130,7 @@ Despues aprendi que el Necronomicon es uno de los grimorios mas terrorificos y m
 //　　染まるという。
 \n
 //Anyone who reads it will descend into pure madness.
-Cualquiera que lo lea se volvera totalmente loco.
+Cualquiera que lo leyese se volver&a loco del todo.
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -146,7 +146,7 @@ Cualquiera que lo lea se volvera totalmente loco.
 //　　　ないか調べてみた　　　　－
 \n
 //- You look for anything interesting. -
-- Echas un vistazo buscando algo interesante. -
+- Echas un vistazo buscando algo. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -155,7 +155,7 @@ Cualquiera que lo lea se volvera totalmente loco.
 //－　魔導書と呼ぶのだろうか
 \n
 //- These seem like they could be grimoires.
-- Parece que podrian ser grimorios.
+- Parece que podr&an ser grimorios.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -164,7 +164,7 @@ Cualquiera que lo lea se volvera totalmente loco.
 //　　怪しい文字で書かれた表題\n
 //　　黄ばんでボロボロのページ
 //The books are bounded with heavy, thick hardcovers labeled with bizarre letters. The pages are rather worn out.
-Estos libros estan cubiertos de tapas duras marcadas con alfabetos bizarros. Las paginas estas bastante rotas.
+Estos libros est{n cubiertos de tapas duras marcadas con alfabetos bizarros. Las paginas est{n bastante rotas.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -183,7 +183,7 @@ Sientes como si este tipo de libros solo estuviesen expuestos en los museos.
 //　　ラテン語と思われる本まで\n
 //　　あり　読むことができない　　－
 //You try and read some, but the books are in various languages like English, French, and Latin. You can't understand any of them. -
-Intentas leer unos cuantos, pero los libros estan en varios idiomas como Ingles, Frances y Latin. No puedes entender ninguno. -
+Intentas leer unos cuantos, pero los libros est{n en varios idiomas como Ingl}s, Franc}s y Lat&n. No puedes entender ninguno. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -198,8 +198,8 @@ Intentas leer unos cuantos, pero los libros estan en varios idiomas como Ingles,
 //－　分厚いカバーの書物が　床に\n
 //　　落ちている
 \n
-- There's a thick, hardcover book that fell onto the floor. -
-
+//- There's a thick, hardcover book that fell onto the floor. -
+- Un libro denso con tapa dura se ha ca&do al suelo. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -207,8 +207,8 @@ Intentas leer unos cuantos, pero los libros estan en varios idiomas como Ingles,
 //　　その書物からは漆黒の障気と\n
 //　　でも　いうのだろうか
 \n
-Something that could be described as a jet black evil energy leaks out.
-
+//Something that could be described as a jet black evil energy leaks out.
+Tiene algo que podr&a describirse como energ&a maligna oscura.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -216,24 +216,24 @@ Something that could be described as a jet black evil energy leaks out.
 //　　冷気をおびた風が　書物から\n
 //　　吹き出ているように感じる　　－
 \n
-You feel a trace of a cold chill emanating from the book. -
-
+//You feel a trace of a cold chill emanating from the book. -
+Sientes una sensaci[n de frio emanando desde sus paginas. -
 <$FA><$FF>
 <$F8><$FF>
 
 //稲葉\n
 //　「こ、これを読んで、氷川は？」
 Inaba\n
-"D-did Hikawa read this!?"
-
+//"D-did Hikawa read this?!"
+")(H-ha le&do esto Hikawa?!"
 <$FA><$FF>
 <$F8><$FF>
 
 //\n
 //　－　表紙には　こう書いてある　－
 \n
-- The following words are written on the cover. -
-
+//- The following words are written on the cover. -
+- Tiene lo siguiente escrito en la portada. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -241,8 +241,8 @@ Inaba\n
 //　　　　　　　ＴＨＥ\n
 //　　　ＮＥＣＲＯＮＯＭＩＣＯＮ
 \n
-"The Necronomicon"
-
+//"The Necronomic[n"
+"El Necronomic[n"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -250,8 +250,8 @@ Inaba\n
 //　　分からなかったが　その書物\n
 //　　の放つ恐ろしさを　理解する\n
 //　　くらいのことは　できた　　　－
-- You don't know what the book contains, but the terrifying aura emitting from the book is easy enough to understand. -
-
+//- You don't know what the book contains, but the terrifying aura emitting from the book is easy enough to understand. -
+- No sabes lo que contiene el libro, pero el aura terror&fica que emite el libro lo hace f{cil de entender. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -259,8 +259,8 @@ Inaba\n
 //　「この本に、手を出しては、\n
 //　　いけないな。　　　　　　　」
 Inaba\n
-"I can't let myself touch that book!"
-
+//"I can't let myself touch that book!"
+")No deber&a ni tocar ese libro!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -275,8 +275,8 @@ Inaba\n
 //－　分厚いカバーの書物が　床に\n
 //　　落ちている
 \n
-- There's a thick, hardcover book that fell onto the floor. -
-
+//- There's a thick, hardcover book that fell onto the floor. -
+- Un libro denso con tapa dura se ha ca&do al suelo. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -284,7 +284,8 @@ Inaba\n
 //　　その書物からは漆黒の障気と\n
 //　　でも　いうのだろうか
 \n
-Something that could be described as a jet black evil energy leaks out.
+//Something that could be described as a jet black evil energy leaks out.
+Tiene algo que podr&a describirse como energ&a maligna oscura.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -293,7 +294,8 @@ Something that could be described as a jet black evil energy leaks out.
 //　　冷気をおびた風が　書物から\n
 //　　吹き出ているように感じる　　－
 \n
-You feel a trace of a cold chill emanating from the book. -
+//You feel a trace of a cold chill emanating from the book. -
+Sientes una sensaci[n de frio emanando desde sus paginas. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -301,16 +303,16 @@ You feel a trace of a cold chill emanating from the book. -
 //稲葉\n
 //　「なんだ、この本は？　　　　」
 Inaba\n
-"What's this book?"
-
+//"What's this book?"
+"(Y este libro?"
 <$FA><$FF>
 <$F8><$FF>
 
 //\n
 //　－　表紙には　こう書いてある　－
 \n
-- The following words are written on the cover. -
-
+//- The following words are written on the cover. -
+- Tiene lo siguiente escrito en la portada. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -318,8 +320,8 @@ Inaba\n
 //　　　　　　　ＴＨＥ\n
 //　　　ＮＥＣＲＯＮＯＭＩＣＯＮ
 \n
-"The Necronomicon"
-
+//"The Necronomic[n"
+"El Necronomic[n"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -327,7 +329,8 @@ Inaba\n
 //　　分からなかったが　その書物\n
 //　　の放つ恐ろしさを　理解する\n
 //　　くらいのことは　できた　　　－
-- You don't know what the book contains, but the terrifying aura emitting from the book is easy enough to understand. -
+//- You don't know what the book contains, but the terrifying aura emitting from the book is easy enough to understand. -
+- No sabes lo que contiene el libro, pero el aura terror&fica que emite el libro lo hace f{cil de entender. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -336,7 +339,8 @@ Inaba\n
 //　「この本に、手を出しては、\n
 //　　いけないな。　　　　　　　」
 Inaba\n
-"I can't let myself touch that book!"
+//"I can't let myself touch that book!"
+"No deber&a ni tocar ese libro!"
 
 <$FA><$FF>
 <$F8><$FF>

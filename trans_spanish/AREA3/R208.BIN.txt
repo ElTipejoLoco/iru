@@ -20,7 +20,7 @@ Mochizuki\n
 //そうは言ってるけど、実際、\n
 //　　おかしくなりそうだ
 //You say that, but, it's weird
-Tu dices eso, pero es raro
+))Debes entender lo que digo
 
 <$F3><$FF>
 <$04><$00>
@@ -72,7 +72,7 @@ Mochizuki\n
 //二階の廊下にいる奴を見たか？\n
 //　　・・・無形の落とし子だ。
 //Did you see that thing in the 2nd floor hallway? ...it's a Formless Spawn.
-Has visto la criatura en la segunda planta? ...Es un engendro sin forma.
+(Has visto la criatura de la seg=nda planta? ...Es un engendro sin forma.
 
 <$F3><$FF>
 <$04><$00>
@@ -89,7 +89,7 @@ Has visto la criatura en la segunda planta? ...Es un engendro sin forma.
 //あいつを呼び出した呪文がある\n
 //　　はずだ
 //The spell that summoned that thing should be around here somewhere
-El hechizo que ha invocado esa cosa debe de estar por aqui cerca
+)El hechizo que ha invocado esa cosa debe de estar por aqu& cerca
 
 <$F3><$FF>
 <$04><$00>
@@ -110,7 +110,7 @@ El hechizo que ha invocado esa cosa debe de estar por aqui cerca
 //それを手に入れられれば、なん\n
 //　　とかできるんだが
 //We might be able to send it back if we find it, but
-Podriamos enviarlo de vuelta si lo encontramos, pero
+podr&amos enviarlo de vuelta si lo encontramos, pero
 
 <$F3><$FF>
 <$04><$00>
@@ -118,7 +118,7 @@ Podriamos enviarlo de vuelta si lo encontramos, pero
 //・・・、\n
 //　　
 //... Damnit...
-... Maldicion...
+... maldici[n...
 \n
 
 <$F3><$FF>
@@ -126,7 +126,7 @@ Podriamos enviarlo de vuelta si lo encontramos, pero
 
 //クゥッ、また
 //not
-Otra vez
+)Otra vez
 
 <$F3><$FF>
 <$04><$00>
@@ -172,7 +172,7 @@ Mochizuki\n
 //い、稲葉か？\n
 //　　・・・無事で良かったな
 //I-Inaba? ...I'm glad you're safe
-I-Inaba? ...Me alegra verte
+(I-Inaba? ...Me alegra verte
 
 <$F3><$FF>
 <$04><$00>
@@ -187,7 +187,7 @@ I-Inaba? ...Me alegra verte
 //　「・・・ああ。　　　　　　　　」
 Inaba\n
 //"...yeah."
-"...si."
+"...Hola."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -205,7 +205,7 @@ Mochizuki\n
 //これ・・・見てくれ。\n
 //　　ポケットに入ってたんだ
 //Look at this... It was in my pocket
-Mira... Tenia esto en el bolsillo
+Mira esto... Estaba en mi bolsillo
 
 <$F3><$FF>
 <$04><$00>
@@ -224,7 +224,7 @@ Mira... Tenia esto en el bolsillo
 //　　ちょっとした間違いが起こった。
 \n
 //- To Mochizuki: Please stay calm and read this. There's been a slight mistake.
-- A Mochizuki: Por favor, calmate y lee esto. Ha habido un ligero error.
+- A Mochizuki: Por favor, c{lmate y escucha. Ha habido un ligero error.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -235,7 +235,7 @@ Mira... Tenia esto en el bolsillo
 //　　いただけると思う。
 \n
 //I'll be briefly borrowing your body, but you should be okay when I return it.
-Tomare prestado tu cuerpo un tiempo, pero estara bien cuando te lo devuelva.
+Tomar} prestado tu cuerpo un tiempo, no te asustes. Te lo devolver} intacto.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -245,7 +245,7 @@ Tomare prestado tu cuerpo un tiempo, pero estara bien cuando te lo devuelva.
 //　　くなるらしい。
 \n
 //It seems you won't have any memories when I take over.
-Creo que no tendras recuerdos de esto cuando acabe.
+Creo que no tendr{s recuerdos de esto cuando acabe.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -254,7 +254,7 @@ Creo que no tendras recuerdos de esto cuando acabe.
 //　　君が目覚めた時はその逆だ。\n
 //　　だから、君へメモを残す。　　－
 //The opposite is true for when you're in control again. To get around this, I thought we could communicate this way. -
-Lo contrario sera cierto cuando recuperes el control. Para evitar esto, creo que podemos hablar de esta manera. -
+Para m& ser{ igual cuando recuperes el control. As& que, para evitar esto, creo que podemos hablar con notas. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -272,7 +272,7 @@ Mochizuki\n
 //俺が変だったって\n
 //　　言ってただろ
 //you said I was acting weird, right
-dijiste que actuaba raro, verdad
+dijiste que actuaba raro, no
 
 <$F3><$FF>
 <$04><$00>
@@ -294,7 +294,7 @@ dijiste que actuaba raro, verdad
 //　　いんだ・・・こういう形で何\n
 //　　度か話して、状況が解った
 //Then, I probably wasn't 'me' at that time... I finally understand after talking to 'him' this way several times now
-Puede que no fuese del todo 'yo'... Ahora entiendo despues de haber hablado con 'el' varias veces de esta manera
+Puede que no fuese del todo 'yo'... Lo he entendido despu}s de hablar con 'el' varias veces con estas notas
 
 <$F3><$FF>
 <$04><$00>
@@ -316,7 +316,7 @@ Puede que no fuese del todo 'yo'... Ahora entiendo despues de haber hablado con 
 //　　しまったメモは、捨てている\n
 //　　みたいだから
 //'He' throws away the memos I've written after reading them
-'El' tira las notas que escribo despues de haberlas leido
+'#l' tira las notas que escribo despu}s de haberlas le&do
 
 <$F3><$FF>
 <$04><$00>
@@ -337,7 +337,7 @@ Puede que no fuese del todo 'yo'... Ahora entiendo despues de haber hablado con 
 //おまえも、こんなメモを見た\n
 //　　ことあるだろ
 //You've seen memos like that lying around, haven't you
-Has visto notas tiradas por la escuela, verdad que si
+Has visto notas tiradas por la escuela, (Verdad qu} si
 
 <$F3><$FF>
 <$04><$00>
@@ -376,7 +376,7 @@ Mochizuki\n
 //－　本棚にはカギが掛かっている
 \n
 //- The case is locked. There's a
-- El armario esta cerrado. Hay una
+- El armario est{ cerrado. Hay una
 
 <$FF><$FF>
 <$3C><$00>
@@ -412,7 +412,7 @@ gema roja al lado de la cerradura. -
 //　「特に、変わった物は無いな。」
 Inaba\n
 //"Nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -428,7 +428,7 @@ Inaba\n
 //　　　本棚のカギを　開けた！
 \n
 //- You unlocked the case! -
-- Has abierto el armario! -
+- )Has abierto el armario! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -444,7 +444,7 @@ Inaba\n
 //　－　カギは　すでに開いている　－
 \n
 //- You already unlocked the case. -
-- Ya has abierto el armario! -
+- )Ya has abierto el armario! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -469,7 +469,7 @@ Inaba\n
 //　「後は全部、ただのゴミだな。」
 Inaba\n
 //"Everything else here is just junk."
-"Todo lo demas no es mas que basura."
+"Todo lo dem{s no es m{s que basura."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -486,7 +486,7 @@ Inaba\n
 //　　てみた　　　　　　　　　　　－
 \n
 //- You look for anything interesting. -
-- Echas un vistazo buscando algo interesante. -
+- Buscas dentro algo interesante. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -495,7 +495,7 @@ Inaba\n
 //－　この本棚には　百科事典が\n
 //　　置いてあるようだ　　　　　－
 \n
-//- Looks like a few encyclopedias. -
+//- Looks like a few encycloped&as. -
 - Solo son varias enciclopedias. -
 
 <$FA><$FF>
@@ -523,7 +523,7 @@ Inaba\n
 //　　たくさん　連ねてある　　　　－
 \n
 //- It appears to be a bunch of literature books. -
-- Parecen un monton de libros de literatura. -
+- Parecen varios de libros de literatura. -
 
 <$FA><$FF>
 <$F8><$FF>

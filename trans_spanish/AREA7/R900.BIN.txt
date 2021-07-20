@@ -13,7 +13,7 @@
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La salida esta cerrada. -
+- La salida est{ cerrada. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -23,15 +23,15 @@
 //　　込めているとしか思えない！
 Inaba\n
 //"This is not normal! Someone's trying to keep us trapped here!
-"Esto no es normal! Alguien nos ha encerrado a todos aqui!
+")Esto no es normal! )Alguien nos ha encerrado a todos aqu&!
 <$FA><$FF>
 <$F8><$FF>
 
 //\n
 //　　誰かが・・・・・・。　　　」
 \n
-But who...?"
-Quien...?"
+//But who...?"
+(Qui}n...?"
 
 <$FA><$FF>
 <$F8><$FF>

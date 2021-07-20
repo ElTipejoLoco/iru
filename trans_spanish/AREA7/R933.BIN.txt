@@ -21,8 +21,8 @@ Nakanishi\n
 
 //こ、ここも！？\n
 //　　二階に用があるのに
-//H-here too!? I need to get to the 2nd floor already
-T-Tambien!? Necesito bajar a la segunda planta ahora
+//H-here too?! I need to get to the 2nd floor already
+)(Ce-cerrado?! )Necesito bajar a la seg=nda planta
 <$F3><$FF>
 <$04><$00>
 
@@ -53,7 +53,7 @@ Nakanishi\n
 
 //どうすっかなぁ
 //Hmm, what to do
-Mmm, como lo hago
+Mmm, c[mo lo hago
 <$F3><$FF>
 <$04><$00>
 
@@ -76,7 +76,7 @@ Mmm, como lo hago
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La persiana esta cerrada. -
+- La persiana est{ cerrada. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -85,7 +85,7 @@ Mmm, como lo hago
 //　　なにか、あったんだろうか？」
 Inaba\n
 //"Why is it closed? Did something happen?"
-"Porque esta cerrada? Que ha pasado?"
+"(Porqu} est{ cerrada? (Qu} ha pasado?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -100,7 +100,7 @@ Inaba\n
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- El cierre esta colocado. -
+- El cierre est{ colocado. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -110,15 +110,15 @@ Inaba\n
 //　　込めているとしか思えない！
 Inaba\n
 //"This is not normal! Someone's trying to keep us trapped here!
-"Esto no es normal! Alguien esta intentando encerrarnos aqui!
+")Esto no es normal! )Alguien est{ intentando encerrarnos aqu&!
 <$FA><$FF>
 <$F8><$FF>
 
 //\n
 //　　誰かが・・・・・・。　　　」
 \n
-But who...?"
-Quien...?"
+//But who...?"
+Qui}n...?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

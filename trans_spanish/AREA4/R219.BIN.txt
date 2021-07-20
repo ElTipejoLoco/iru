@@ -13,7 +13,7 @@
 //－　机を並べて布で装飾してある　－
 \n
 //- The desks are pushed together and decorated with table cloths. -
-- Los pupitres estan colocados y decorados con manteles. -
+- Los pupitres est{n colocados y decorados con manteles. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -23,7 +23,7 @@
 //　　られるかな。　　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -40,7 +40,7 @@ Inaba\n
 //　　たくさん　置いてある　　　　－
 \n
 //- There's a lot of tea bags and paper cups on the table. -
-- Hay muchas bolsas de te y vasos de papel en la mesa. -
+- Hay muchas bolsas de t} y vasos de papel en la mesa. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -57,7 +57,7 @@ Inaba\n
 //　　ある　学園祭で使うのだろう　－
 \n
 //- There's a coffee maker here for the school festival. -
-- Hay una cafetera aqui para el festival de la escuela. -
+- Hay una cafetera aqu& para el festival de la escuela. -
 
 <$FA><$FF>
 <$F8><$FF>

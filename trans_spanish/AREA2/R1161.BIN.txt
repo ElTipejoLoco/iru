@@ -14,7 +14,7 @@
 //　入れて　こじ開けた！
 \n
 //- You wedged the jack in and forced the shutter open! -
-- Insertas el gato y fuerzas el cierre de la persiana! -
+- )Insertas el gato para forzar la persiana! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -24,7 +24,7 @@
 //　　しゃがんで通れそうだ。　　」
 Inaba\n
 //"I should be able to get under here by crouching now."
-"Deberia poder pasar por aqui abajo si me agacho."
+"Deber&a poder pasar por aqu& abajo si me agacho."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -42,7 +42,7 @@ Inaba\n
 //　　間ができている　　　　　　　－
 \n
 //- The shutter is stuck. You can see a little bit of light coming in from the bottom. -
-La persiana esta atascada. Puedes ver algo de luz viniendo desde abajo en el fondo. -
+- La persiana est{ atascada. Puedes ver algo de luz saliendo desde abajo. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -76,7 +76,7 @@ La persiana esta atascada. Puedes ver algo de luz viniendo desde abajo en el fon
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -86,7 +86,7 @@ La persiana esta atascada. Puedes ver algo de luz viniendo desde abajo en el fon
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>

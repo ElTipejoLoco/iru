@@ -33,7 +33,7 @@ Inaba\n
 //　　なんだろうけど・・・。　　」
 \n
 //This door probably would have let me outside if it wasn't locked..."
-Esta puerta seguramente me llevaria fuera si no estuviese cerrada..."
+Esta puerta seguramente me llevar&a fuera si no estuviese cerrada..."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

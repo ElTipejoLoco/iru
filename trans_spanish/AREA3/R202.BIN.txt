@@ -13,7 +13,7 @@
 //|@–Ø” ‚ª–³‘¢ì‚É’u‚©‚ê‚Ä‚¢‚é@|
 \n
 //- There's a wooden crate here. -
-- Hay una caja de madera aqui. -
+- Hay una caja de madera aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>

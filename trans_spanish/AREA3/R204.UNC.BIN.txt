@@ -14,7 +14,7 @@
 //　残った！
 \n
 //- There's some powder in the bottom of the beaker! -
-- Hay un poco de polvo en el fondo del vaso! -
+- )Han quedado residuos en el fondo del recipiente! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -30,7 +30,7 @@
 //　　　ビーカーに涙を　注いだ！
 \n
 //- You poured the tears into the beaker! -
-- Echas las lagrimas dentro del vaso! -
+- )Viertes las lagrimas dentro del vaso! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -46,7 +46,7 @@
 //　　－　すでに火は付いている　－
 \n
 //- The flame's already lit. -
-- La llama esta encendida. -
+- La llama est{ encendida. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -63,7 +63,7 @@
 //　　火を付けた！
 \n
 //- You lit the lamp with the match! -
-- Enciendes la lampara con la cerilla! -
+- )Enciendes la lampara! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -80,7 +80,7 @@
 //　　が置いてある
 \n
 //- There's a beaker and an alcohol lamp here.<$20>
-- Hay un vaso y una lampara de alcohol aqui.<$20>
+- Hay un vaso y una lampara de alcohol aqu&.<$20>
 
 <$FF><$FF>
 <$3C><$00>
@@ -114,7 +114,7 @@ Parece que la han usado\npara destilar. -
 //　　られそうだな。　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -131,7 +131,7 @@ Inaba\n
 //　　今出たらまずい！！　　　」
 Inaba\n
 //"I need to hide, now!!"
-"Necesito esconderme!!"
+"))Debo esconderme!!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -148,7 +148,7 @@ Inaba\n
 //　　今出たらまずい！！　　　」
 Inaba\n
 //"I need to hide, now!!"
-"Necesito esconderme!!"
+"))Debo esconderme!!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -166,14 +166,14 @@ Inaba\n
 //　「ぎゃぁぁー！！\n
 //　　くっ
 Inaba\n
-"AHHH! A-
+")AHH! ))A-
 
 <$FF><$FF>
 <$14><$00>
 
 //来るな
 //stay ba
-alejate
+al}jate
 <$FF><$FF>
 <$14><$00>
 
@@ -218,7 +218,7 @@ e
 //　　何とかしないと！　　　　　」
 Inaba\n
 //"This is bad! I have to figure something out before it gets inside!"
-"Es horrible! Tengo que pensar en algo antes de que entre aqui!"
+")Dios! )Tengo que pensar en algo antes de que entre aqu&!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -235,7 +235,7 @@ Inaba\n
 //　　これじゃあ隠れられない！　」
 Inaba\n
 //"What about under the desk...? No, it's not gonna work!"
-"Debajo del escritorio quizas...? No, eso no funcionara!"
+"(Debajo del escritorio...? )Eso no funcionar{!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -252,7 +252,7 @@ Inaba\n
 //　　暇なんてない！　　　　　　」
 Inaba\n
 //"I don't have time to make room here!"
-"No tengo tiempo para hacer un hueco!"
+")No tengo tiempo para hacer hueco!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -269,7 +269,7 @@ Inaba\n
 //　　こんなところ・・・。　　　」
 Inaba\n
 //"Yeah, definitely couldn't hide here..."
-"Si, quizas podria esconderme aqui..."
+"Si, quiz{s podr&a esconderme aqu&..."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -284,7 +284,7 @@ Inaba\n
 //稲葉\n
 //　「！？
 Inaba\n
-"!?<$20>
+")(Eh?!
 
 <$FF><$FF>
 <$1E><$00>
@@ -292,7 +292,7 @@ Inaba\n
 //\n
 //　　ここなら隠れられそうだ！　」
 //I think I can hide under here!"
-Creo que puedo esconderme aqui!"
+)Creo que puedo esconderme aqu&!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -311,7 +311,7 @@ Creo que puedo esconderme aqui!"
 //　「助かった！
 Inaba\n
 //"I'm alive! B-but is Yuma
-"Estoy vivo! Pero estara
+")Estoy vivo! Pero (Estar{
 
 <$FF><$FF>
 <$3C><$00>
@@ -337,7 +337,7 @@ Yuma bien?"
 //　　今出たらまずい！！　　　」
 Inaba\n
 //"They might be right outside the door, I can't leave now!"
-"Podrian estar justo al otro lado, no puedo salir ahora!"
+")Podr&an estar justo al otro lado, no puedo salir ahora!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -365,7 +365,7 @@ Inaba\n
 //　　なんだか、わからないな。　」
 Inaba\n
 //"There's a lot of chemicals here that I don't recognize."
-"Hay muchos productos quimicos aqui que no reconozco."
+"Hay muchos productos qu&micos aqu& que no reconozco."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -382,7 +382,7 @@ Inaba\n
 //　　するのだろう　　　　　　　　－
 \n
 //- It's a water faucet used for cleaning experiment equipment. -
-- Es un grifo de agua utilizo para limpiar los equipos. -
+- Es un grifo de agua que se usa para limpiar los equipos. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -408,7 +408,7 @@ Inaba\n
 //　　られそうだな。　　　　　　」
 Inaba\n
 //"I could hide here in a pinch."
-"Esto seria un buen escondite."
+"Esto ser&a un buen escondite."
 
 <$FA><$FF>
 <$F8><$FF>

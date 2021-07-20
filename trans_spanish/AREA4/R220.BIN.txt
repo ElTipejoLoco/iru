@@ -20,13 +20,13 @@ Hojou\n
 
 //だ、誰なの
 //W-who's there
-Q-quien esta ahi
+)(Q-qui}n est{ ah&
 
 <$F3><$FF>
 <$04><$00>
 
 //！？　　　　　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -36,7 +36,7 @@ Q-quien esta ahi
 //　「！？\n
 //　　北条先生？　　　　　　　　　」
 Inaba\n
-"Ms. Hojou!?"
+")(Ms. Hojou?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -54,13 +54,13 @@ Hojou\n
 <$04><$00>
 
 //稲葉くん
-Inaba
+)(Inaba
 
 <$F3><$FF>
 <$04><$00>
 
 //！？　　　　　　　　」
-!?"
+?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -74,7 +74,7 @@ Inaba
 //　「大丈夫ですか？　　　　　　」
 Inaba\n
 //"Are you okay?"
-"Estas bien?"
+"(Est{s bien?"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -111,8 +111,8 @@ Lo siento... Solo soy una simple maestra
 //　　んですか？\n
 //　　どうすれば・・・！　　　　」
 Inaba\n
-//"Ms. Hojou... is there anything I can do? What *can* I do!?"
-"Ms. Hojou... hay algo que pueda hacer? Como puedo ayudar!?"
+//"Ms. Hojou... is there anything I can do? What *can* I do?!"
+"Ms. Hojou... (Hay algo que pueda hacer? )(C[mo puedo ayudar?!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -128,7 +128,7 @@ Hojou\n
 //一人でも多くの人と、\n
 //　　ここから逃げて
 //Run away from here, alone or with anyone you can help
-Sal corriendo de aqui, solo o con alguien que te ayude
+Sal corriendo de aqu&, solo o con alguien que te ayude
 
 <$F3><$FF>
 <$04><$00>
@@ -149,7 +149,7 @@ Sal corriendo de aqui, solo o con alguien que te ayude
 //残念だけどどうすればいいか\n
 //　　私にも解らない
 //I'm sorry, but apart from that, I really don't know what to do either
-Lo siento, pero aparte de eso, tampoco tengo idea de lo que puedo hacer
+Lo siento, pero aparte de eso, no se me ocurre que mas puedes hacer
 
 <$F3><$FF>
 <$04><$00>
@@ -213,7 +213,7 @@ Inaba... Perdoname... Lo siento... De veras, lo siento
 //　　・・・さ、行きましょう。　」
 Inaba\n
 //"Ms. Hojou... Come on, let's get going."
-"Ms. Hojou... Vamos, pongamonos en marcha."
+"Ms. Hojou... Vamos, pong{monos en marcha."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -255,7 +255,7 @@ Mi rodilla... un esguince. No puedo moverme
 //足手まといになるから、\n
 //　　あなたは、先に行きなさい
 //I'll just be a burden, go on without me
-Solo seria una carga, continua sin mi
+Solo ser&a una carga, )Sigue sin mi
 
 <$F3><$FF>
 <$04><$00>
@@ -285,7 +285,7 @@ Hojou\n
 //　　私も動けるようになったら\n
 //　　すぐに行くから
 //Hurry and go!! I'll catch up when I can move
-Date prisa!! Te alcanzare cuando pueda moverme
+)Date prisa! Te alcanzar} cuando pueda moverme
 
 <$F3><$FF>
 <$04><$00>
@@ -309,7 +309,7 @@ Date prisa!! Te alcanzare cuando pueda moverme
 //　　倉庫にしまっているのだろう　－
 \n
 //- There are three lockers here. Chances are they're broken and left here for now. -
-- Hay 3 casilleros aqui. Seguramente esten rotos y los hayan abanadonado aqui. -
+- Hay 3 casilleros aqu&. Seguramente est}n rotos y los hayan abanadonado aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -327,7 +327,7 @@ Date prisa!! Te alcanzare cuando pueda moverme
 //　　まとめて入れてあるのだろう　－
 \n
 //- There's a large cardboard box here with nothing very useful inside. -
-- Es una caja grande de carton con un monton de cosas inutiles dentro. -
+- Es una caja grande de cart[n con demasiadas cosas in=tiles dentro. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -343,7 +343,7 @@ Date prisa!! Te alcanzare cuando pueda moverme
 //　　の箱が　並べてある　　　　　－
 \n
 //- There's a wooden bookcase here with cardboard boxes on it. -
-- Es una estanteria de madera con cajas de carton en ella. -
+- Es una estanter&a de madera con cajas de cart[n en ella. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -361,7 +361,7 @@ Date prisa!! Te alcanzare cuando pueda moverme
 //　　入れてあるのだろう　　　　－
 \n
 //- There are wooden boxes here with a lot of small, miscellaneous things\ninside. -
-- Hay cajas de madera aqui con un monton de objetos de todo tipo dentro de ellas. -
+- Hay cajas de madera aqu& con muchos objetos de todo tipo dentro de ellas. -
 
 <$FA><$FF>
 <$F8><$FF>

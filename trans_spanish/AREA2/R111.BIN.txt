@@ -12,7 +12,7 @@
 //\n
 //　－　鏡に　自分が映っている　－
 \n
-//- You see your reflection. -
+//- You see yourself in the mirror. -
 - Ves tu reflejo en el espejo. -
 
 <$FA><$FF>
@@ -24,7 +24,7 @@
 //　　背後から感じる、
 Inaba\n
 //"...there's no one behind me in the mirror, but it feels like someone's there
-"...no hay nadie mas detras de mi en el espejo, pero siento una presencia aqui
+"...no hay nadie m{s detr{s de m& en el espejo, pero siento una presencia aqu&
 
 <$FF><$FF>
 <$14><$00>
@@ -52,8 +52,8 @@ Inaba\n
 
 //\n
 //　　やっぱり誰もいない、
-////there's no one else here... right
-...no hay nadie mas aqui... verdad
+//there's no one else here... right
+...no hay nadie m{s aqu&... (verdad
 
 <$FF><$FF>
 <$14><$00>

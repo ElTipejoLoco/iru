@@ -16,7 +16,7 @@
 //　　始まっているのか・・・　　」
 Inaba\n
 //"The ritual's already started!"
-"El ritual ya ha comenzado!"
+")El ritual ya ha comenzado!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -33,8 +33,8 @@ Inaba\n
 //稲葉\n
 //　「ゆ、由麻っ！！　　　　　　」
 Inaba\n
-//"Y-Yuma!!"
-"Y-Yuma!!"
+			
+"))Y-Yuma!!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -54,7 +54,7 @@ Inaba\n
 //　　今なら、由麻を助けられる。」
 Inaba\n
 //"They're too focused on the ritual and haven't noticed me! I just need to sneak over and save Yuma!"
-"Estan concentrados en el ritual para darse cuenta de que estoy aqui! Debo pasar y salvar a Yuma!"
+")Est{ demasiado concentrado en el ritual para notar mi presencia! )Debo acercarme y salvar a Yuma!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -73,8 +73,8 @@ Inaba\n
 //　　な、何だ！？\n
 //　　何かあるのか？　　　　　　」
 Inaba\n
-//"AH! W-what was that!?"
-"Ah! Que ha sido eso!?"
+//"AH! W-what was that?!"
+")AH! )(Qu} ha sido eso?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -93,7 +93,7 @@ Inaba\n
 //　　地下から這い出てくるとはな！
 Hikawa\n
 //"Inaba, huh? So you've crawled your way back to the surface!
-"Inaba, eh? Asi que conseguiste arrastrarte a la superficie!
+"(Inaba, eh? )As& que conseguiste arrastrarte a la superficie!
 <$FA><$FF>
 <$F8><$FF>
 
@@ -121,7 +121,7 @@ No hay manera de que puedas cruzar esta barrera.
 //　　短い命だ。
 \n
 //Your life will end just as the moon vanishes.
-Tu vida acabara justo cuando la luna se vaya.
+Tu vida acabar{ justo cuando la luna se vaya.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -130,7 +130,7 @@ Tu vida acabara justo cuando la luna se vaya.
 //　　見ているんだな！！　　　　」
 \n
 //Gaze upon your final moments and despair!"
-Contempla lo poco que te queda de vida!"
+)Contempla lo poco que te queda de vida!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -159,7 +159,7 @@ Hojou\n
 //　　無駄よ。
 \n
 //It's impossible for you to stop the ritual at this point.
-Es imposible que puedas parar el ritual en este punto.
+Es imposible que puedas parar el ritual a estas alturas.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -168,7 +168,7 @@ Es imposible que puedas parar el ritual en este punto.
 //　　崩す事は出来無いわ。
 \n
 //No human could break this barrier.
-Ningun humano puede parar esto ya.
+Ning=n humano puede detener esto.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -178,7 +178,7 @@ Ningun humano puede parar esto ya.
 //　　全てが生れ変るの・・・。
 \n
 //Hahaha... Everything will be reborn once the moon has vanished...
-Jajaja... Todo renacera una vez la luna de haya desvanecido...
+Jajaja... Todo renacer{ una vez la luna de haya desvanecido...
 <$FA><$FF>
 <$F8><$FF>
 
@@ -187,7 +187,7 @@ Jajaja... Todo renacera una vez la luna de haya desvanecido...
 //　　全てを見届けなさい。　　　」
 \n
 //Stand there and witness the end!"
-Quedate ahi y dislumbra el fin!"
+)Qu}date ah& y vislumbra el final!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -245,7 +245,7 @@ Inaba\n
 //　「ま、まさか。　その鏡は！！」
 Hikawa\n
 //"I-it can't be! That mirror!!"
-"N-no puede ser! El espejo!!"
+")No puede ser! ))El espejo!!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -265,7 +265,7 @@ Hikawa\n
 //稲葉\n
 //　「北条！！　　　　　　　　　」
 Inaba\n
-"Hojou!!"
+"))Hojou!!"
 
 <$FF><$FF>
 <$78><$00>
@@ -279,7 +279,7 @@ Inaba\n
 //　「ま、まさか。　その鏡は！！」
 Hojou\n
 //"I-it can't be! That mirror!!"
-"N-no puede ser! El espejo!!"
+")No puede ser! ))El espejo!!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -329,7 +329,7 @@ Inaba\n
 
 //お、
 //i-
-ha
+(Ha
 <$FF><$FF>
 <$05><$00>
 
@@ -361,7 +361,7 @@ todo...?"
 //稲葉\n
 //　「由麻っ、
 Inaba\n
-"Yuma!<$20>
+")Yuma! 
 
 <$FF><$FF>
 <$14><$00>
@@ -369,7 +369,7 @@ Inaba\n
 //由麻！\n
 //　　目を開けてくれよーっ！　　」
 //Yuma! Wake up!!"
-Despierta!!"
+))Despierta!!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -459,7 +459,7 @@ Inaba\n
 //稲葉\n
 //　「由麻っ、
 Inaba\n
-"Yuma!<$20>
+")Yuma!<$20>
 
 <$FF><$FF>
 <$14><$00>
@@ -467,7 +467,7 @@ Inaba\n
 //由麻！\n
 //　　目を開けてくれよーっ！　　」
 //Yuma, wake up!!"
-Despierta!!"
+))Despierta!!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -487,7 +487,7 @@ Inaba\n
 //\n
 //　　もしかしたら、この薬で。　」
 //Should I use that medicine...?"
-Deberia utilizar el elixir...?"
+(Deber&a =sar el elixir...?"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -539,7 +539,7 @@ Yuma\n
 //い、稲葉くん。\n
 //　　私たち、
 //I-Inaba? Is it...<$20>
-I-Inaba? Ha a...<$20>
+(I-Inaba? (Ha a...<$20>
 <$FF><$FF>
 <$1E><$00>
 
@@ -577,7 +577,7 @@ Si.<$20>
 //　　よ。
 
 //It's all over.
-Se acabo.
+Se acab[.
 <$F3><$FF>
 <$68><$00>
 
@@ -605,7 +605,7 @@ Se acabo.
 //　　あの力が、手に入る！！　　」
 Hikawa\n
 //"Finally! Finally that power is all mine!!"
-"Por fin! Al fin este poder es solo mio!!
+")Por fin! ))Al fin este poder es solo m&o!!
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -618,13 +618,13 @@ Hikawa\n
 //　「な、
 Hikawa\n
 //"B-
-"P-
+")(P-
 <$FF><$FF>
 <$05><$00>
 
 //なぜだ！！
-//but why!?
-porque!?
+//but why?!
+porque?!
 <$FF><$FF>
 <$0A><$00>
 
@@ -632,8 +632,8 @@ porque!?
 //　　なんで、いけにえを受け取ら\n
 //　　ない！！
 \n
-//Why didn't it accept the sacrifice!?
-Porque no ha aceptado el sacrificio!?
+//Why didn't it accept the sacrifice?!
+)(Porque no funciona el sacrificio?!
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -643,14 +643,14 @@ Porque no ha aceptado el sacrificio!?
 //　　ど、
 \n
 //There was nothing about this in the book!!
-El libro no explicaba nada acerca de esto!
+)El libro no explicaba nada acerca de esto!
 <$FF><$FF>
 <$05><$00>
 
 //どういうことだぁ！　　」
 \n
-//What's going on!?"
-Que ocurre!?"
+//What's going on?!"
+)(Qu} ocurre?!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -662,13 +662,13 @@ Que ocurre!?"
 //稲葉\n
 //　「う、
 Inaba\n
-"A-
+")))A-
 
 <$FF><$FF>
 <$0A><$00>
 
 //うわああぁぁ！！　　　
-AHHHHHHH!!!!!"
+AHHHHHHH!!"
 
 <$FF><$FF>
 <$78><$00>
@@ -692,7 +692,7 @@ AHHHHHHH!!!!!"
 //　　世界が始まろうとしている！」
 Hojou\n
 //"Inaba, bear witness to the end of mankind's rule! Watch as a new world is created before our very eyes!!"
-"Inaba, vas a presenciar el fin de la tirania del hombre! Vas a ver como comienza a renacer este mundo!!"
+"Inaba, )Presencia el fin de la tiran&a del hombre! ))Vas a ver renacer un nuevo mundo!!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -706,7 +706,7 @@ Hojou\n
 //　　我が主の鼓動をっ！！　　　」
 Hojou\n
 //"Listen to the beating of my master's heart!"
-"Escucha el latir del corazon del maestro!"
+")Escucha el latir del coraz[n del maestro!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -720,7 +720,7 @@ Hojou\n
 //　　主よ！　我らが一族と共に！」
 Hojou\n
 //"Hahaha! My master! Our clan welcomes you!!"
-"Mi Maestro!! El clan te da la bienvenida!!"
+"))Maestro!! ))El clan te da la bienvenida!!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -732,13 +732,13 @@ Hojou\n
 //稲葉\n
 //　「う、
 Inaba\n
-"A-
+")))A-
 
 <$FF><$FF>
 <$0A><$00>
 
 //うわああぁぁ！！　　　」
-AHHHHH!!!!"
+AHHHHH!!!"
 
 <$FF><$FF>
 <$78><$00>
@@ -757,7 +757,7 @@ AHHHHH!!!!"
 //　－　鏡に魔力が宿っていない　－
 \n
 //- The mirror's magic is inactive. -
-- El espejo magico no funciona. -
+- El espejo m{gico no funciona. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

@@ -14,7 +14,7 @@
 //　－　鏡に　自分が映っている　－
 \n
 //- You see your reflection. -
-- Ves tu reflejo en el espejo. -
+- Contemplas tu reflejo. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -29,7 +29,7 @@
 //　「だいぶ前髪が伸びたな。　　」
 Inaba\n
 //"My bangs are getting pretty long."
-"Deberia cortarme el flequillo."
+"Deber&a cortarme el flequillo."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

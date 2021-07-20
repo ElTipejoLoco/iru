@@ -15,8 +15,8 @@
 //　「も、望月！？\n
 //　　・・・おまえが？　　　　　　」
 Inaba\n
-"M-Mochizuki?! ...did you...?"
-
+//"M-Mochizuki?! ...did you...?"
+")(M-Mochizuki?! (Que has...?"
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -34,12 +34,12 @@ Mochizuki\n
 //い、稲葉！！　助けてくれ！！\n
 //　　ぼ、僕が、僕がやったのかな
 //I-Inaba!! Help me!! I-I... D-did I...
-I-Inaba!! Ayuda!! Y-yo... N-no he...
+))I-Inaba!! ))Ayuda!! )(Yo... No he...
 <$F3><$FF>
 <$01><$00>
 
 //！？
-!?
+?!
 
 <$FF><$FF>
 <$3C><$00>
@@ -53,7 +53,7 @@ I-Inaba!! Ayuda!! Y-yo... N-no he...
 
 //そうなのかな
 //...did I really
-...sido yo, no
+...sido yo, (No
 <$F3><$FF>
 <$01><$00>
 
@@ -67,7 +67,7 @@ I-Inaba!! Ayuda!! Y-yo... N-no he...
 
 //そ、そんな
 //...no, no I couldn't have
-...no, no he podido
+...no, ))No he podido
 <$F3><$FF>
 <$01><$00>
 
@@ -83,7 +83,7 @@ I-Inaba!! Ayuda!! Y-yo... N-no he...
 //　　いったい何をしてんだよ！　　」
 Inaba\n
 //"Calm down and take a deep breath. What happened?"
-"Calamate, respira profundo y dime, que ocurrio?"
+"C{lmate, respira profundo y dime, (Qu} ocurri[?"
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -101,7 +101,7 @@ Mochizuki\n
 //あのとき、誰かの声と共に、ひ、\n
 //　　ひどい頭痛におそわれて
 //I heard a voice, t-then a horrible headache came
-Escuche una voz y me entro mucho dolor de cabeza
+Escuch} una voz y me entr[ mucho dolor de cabeza
 <$F3><$FF>
 <$01><$00>
 
@@ -115,7 +115,7 @@ Escuche una voz y me entro mucho dolor de cabeza
 
 //そのまま意識が遠のいて
 //Then everything got fuzzy
-Todo se volvio borroso
+Todo se volvi[ borroso
 <$F3><$FF>
 <$01><$00>
 
@@ -134,7 +134,7 @@ Todo se volvio borroso
 //その後だ、気がついたら、ぼ、\n
 //　　僕はここにいた
 //When I came to, I-I was here
-Al despertar, e-estaba aqui
+Al despertar, e-estaba aqu&
 <$F3><$FF>
 <$01><$00>
 
@@ -148,7 +148,7 @@ Al despertar, e-estaba aqui
 //そして、\n
 //　　目の前で人が
 //Then, I-I saw this body in front of me
-Entonces, v-vi el cadaver aqui tirado
+Entonces, v-vi el cadaver aqu& tirado
 <$F3><$FF>
 <$01><$00>
 
@@ -167,7 +167,7 @@ Entonces, v-vi el cadaver aqui tirado
 
 //人が死んでいる
 //T-they're dead
-Estan muertos
+Est{n muertos
 <$F3><$FF>
 <$01><$00>
 
@@ -181,7 +181,7 @@ Estan muertos
 //ぼ、僕は\n
 //　　おかしくなってしまったのかな
 //A-am I going crazy
-Estoy enloqueciendo
+(Estoy enloqueciendo
 <$F3><$FF>
 <$01><$00>
 
@@ -197,7 +197,7 @@ Estoy enloqueciendo
 //　　うああぁ・・・まただ！\n
 //　　また頭があああぁ・・・。　　」
 //Argh... N-Not again! My head...!"
-Argh... O-otra vez! Mi cabeza...!"
+Aj... )O-otra vez! )Mi cabeza...!"
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>
@@ -216,7 +216,7 @@ Argh... O-otra vez! Mi cabeza...!"
 //　　　しっかり固定されている　－
 \n
 //- The desks are piled up and stuck firmly together. -
-- Los pupitres estan apilados firmemente aqui. -
+- Los pupitres est{n apilados firmemente aqu&. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -225,7 +225,7 @@ Argh... O-otra vez! Mi cabeza...!"
 //　　ないな。
 Inaba\n
 //"I can't get passed them like this.
-"No puedo pasar a traves de ellos.
+"No puedo pasar a trav}s de ellos.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -234,7 +234,7 @@ Inaba\n
 //　　としてるんだ？　　　　　　」
 \n
 //What the hell did Hikawa do this for?"
-Porque demonios ha hecho esto Hikawa?"
+(Porqu{ demonios ha hecho esto Hikawa?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -249,7 +249,7 @@ Porque demonios ha hecho esto Hikawa?"
 //－　防火シャッターが降りている　－
 \n
 //- The fire shutter is closed. -
-- La salida esta atascada. -
+- La salida est{ atascada. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -258,8 +258,8 @@ Porque demonios ha hecho esto Hikawa?"
 //　　なにか法則性がある閉まり方\n
 //　　を、しているのか！？　　　」
 Inaba\n
-//"Here too!? Did someone shut them all at once somehow!?"
-"Aqui tambien!? Alguien ha conseguido cerrar todas!?"
+//"Here too?! Did someone shut them all at once somehow?!"
+")(Aqu& tambi}n?! )(Alguien ha conseguido cerrar todas?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

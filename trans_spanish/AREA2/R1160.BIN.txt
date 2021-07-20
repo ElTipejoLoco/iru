@@ -31,7 +31,7 @@
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -41,7 +41,7 @@
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -55,7 +55,7 @@ Inaba\n
 
 //　　　　　　女子トイレ
 //Women's Restroom
-WC de Mujeres
+Ba]o de Chicas
 
 <$FF><$FF>
 <$3C><$00>
@@ -70,7 +70,8 @@ WC de Mujeres
 
 //　　　　　　　空き室\n
 //　　－　カギが掛かっている　－
-Empty Room\n
+//Empty Room\n
+Sala vac&a\n
 //- Locked -
 - Cerrado -
 

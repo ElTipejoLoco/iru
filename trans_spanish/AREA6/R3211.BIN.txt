@@ -23,12 +23,12 @@ Misa\n
 //最近の一樹・・・変だよ！\n
 //　　いったいどうしちゃったの
 //You've been... odd lately, Kazuki! What's going on
-Has estado... raro ultimamente, Kazuki! Que pasa
+Est{s muy raro =ltimamente, )Kazuki! )(Qu} pasa
 <$F3><$FF>
 <$04><$00>
 
 //！？」
-!?"
+?!"
 
 <$FF><$FF>
 <$78><$00>
@@ -47,7 +47,7 @@ Hikawa\n
 //うるせーなっ！\n
 //　　おまえには関係ないだろ
 //Shut up! It's got nothing to do with you
-Callate! No tiene nada que ver contigo
+)Calla! )Esto no tiene nada que ver contigo
 <$F3><$FF>
 <$68><$00>
 
@@ -71,7 +71,7 @@ Misa\n
 //一樹・・・何をやってんのか\n
 //　　わかんないけどさ
 //Kazuki... I don't know what it is you're obsessing over,
-Kazuki... No se nada de lo que te esta obsesionando,
+Kazuki... No se nada de lo que te est{ obsesionando,
 <$F3><$FF>
 <$04><$00>
 
@@ -91,7 +91,7 @@ Kazuki... No se nada de lo que te esta obsesionando,
 //もう、そんなワケわかんない\n
 //　　ことやめなよ
 //but just chill and be your usual self, okay
-pero calmate e intenta volver a ser tu, vale
+pero c{lmate e intenta a ser t= mismo, (Vale
 <$F3><$FF>
 <$04><$00>
 
@@ -148,7 +148,7 @@ Kazuki
 //　「痛っ！！　　　　　　　　　　」
 Inaba\n
 //"Ow!!"
-"Au!!"
+"))Au!!"
 <$FA><$FF>
 <$F6><$FF>
 <$F8><$FF>
@@ -156,7 +156,8 @@ Inaba\n
 
 //校長\n
 //　「
-Principal\n
+//Principal\n
+Director\n
 "
 
 <$F3><$FF>
@@ -165,7 +166,7 @@ Principal\n
 //・・・ああ、気を付けなさい。\n
 //　　遅くまでかかりそうなのかね
 //...ah, be careful in the hallways. Do you guys think you'll be working pretty late
-...ah, ten cuidado en los pasillos. Pensais seguir trabajando hasta mucho mas tarde
+...ah, ten cuidado en los pasillos. Pens{is seguir trabajando hasta mucho m{s tarde
 <$F3><$FF>
 <$04><$00>
 
@@ -180,13 +181,14 @@ Principal\n
 //　　終わり次第すぐに帰ります。　」
 Inaba\n
 //"Y-yes sir! We'll leave the moment we're done."
-"Disculpa! Nos iremos en cuantos acabemos."
+")Disculpa! Nos iremos en cuantos acabemos."
 <$FA><$FF>
 <$F8><$FF>
 
 //校長\n
 //　「
-Principal\n
+//Principal\n
+Director\n
 "
 
 <$F3><$FF>
@@ -195,7 +197,7 @@ Principal\n
 //いや、遅くなってもいいから、\n
 //　　最後までしっかりやりなさい
 //Ah, no, I don't mean to rush you. Do a good job until the end, okay
-Ah. No quiero meteros prisa. Quedaos lo que necesites, De acuerdo
+Ah. No quiero meteros prisa. Quedaos lo que necesites, (De acuerdo
 <$F3><$FF>
 <$04><$00>
 
@@ -223,7 +225,7 @@ Inaba\n
 //　　言うのに。
 Inaba\n
 //"That was weird. Normally he'd be rushing us out of here.
-"Que raro. Normalmente estaria deseando echarnos de aqui.
+"Que raro. Normalmente estar&a deseando echarnos de aqu&.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -246,8 +248,8 @@ Y... siento como si me hubese chocado con un muro."
 //　「い、今のは・・・北条先生？\n
 //　　まさか！？　　　　　　　　」
 Inaba\n
-//"W-was that... Ms. Hojou just now? Could it be!?"
-"E-era esa... Ms. Hojou? Como es eso posible!?"
+//"W-was that... Ms. Hojou just now? Could it be?!"
+"E-era esa... (Ms. Hojou?)(C[mo es eso posible?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -269,7 +271,7 @@ Misa\n
 //どこふらついてんの？\n
 //　　アイツ
 //Where the hell did that guy wander off to
-A donde demonios se ha ido ese tipo
+(D[nde demonios habr{ ido este chico
 <$F3><$FF>
 <$04><$00>
 
@@ -290,7 +292,7 @@ A donde demonios se ha ido ese tipo
 //　「氷川となにかあったの？　　」
 Inaba\n
 //"Did something happen between you and Hikawa?"
-"Ha ocurrido alguna cosa entre tu y Hikawa?"
+"(Ha pasado algo entre vosotros?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -305,7 +307,7 @@ Misa\n
 //何でもないよ。\n
 //　　おまえには関係ないだろ
 //It's none of your business, buzz off
-No es algo de tu incumbencia, pirate
+Deber&as meterte en tus asuntos, d}jame
 <$F3><$FF>
 <$04><$00>
 
@@ -332,7 +334,7 @@ Misa\n
 
 //いいからほっといてよ
 //Holy shit, leave me alone
-Dios santo, dejame en paz
+En serio, ))D}jame en paz
 <$F3><$FF>
 <$04><$00>
 
@@ -371,7 +373,7 @@ Dios santo, dejame en paz
 //　　されている　　　　　　　　－
 \n
 //- There are posters on the board. -
-- Hay posters en el tablon. -
+- Hay posters en el tabl[n. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -381,7 +383,7 @@ Dios santo, dejame en paz
 //　　ないな。　　　　　　　　　」
 Inaba\n
 //"There's nothing really interesting here."
-"No hay nada de interes por aqui."
+"No hay nada de inter}s por aqu&."
 
 <$FA><$FF>
 <$F8><$FF>
@@ -433,7 +435,7 @@ Inaba\n
 //　「今入るのは、やめておこう。　」
 Inaba\n
 //"I shouldn't go in there right now."
-"No deberia entrar dentro ahora."
+"No deber&a entrar dentro ahora."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -456,7 +458,7 @@ Inaba\n
 //　「今入るのは、やめておこう。　」
 Inaba\n
 //"I shouldn't go in there right now."
-"No deberia entrar dentro ahora."
+"No deber&a entrar dentro ahora."
 
 <$FA><$FF>
 <$F8><$FF>
