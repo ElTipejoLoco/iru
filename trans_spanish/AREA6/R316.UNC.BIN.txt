@@ -155,7 +155,7 @@ Hojou\n
 //と、突然、怪物に襲われて\n
 //　　・・・や、山下さん？
 //W-we were suddenly attacked by a monster... M-Misa?<$20>
-N-nos atac[ de repente un gran monstruo... (M-Misa? 
+N-nos atac[ de repente un gran monstruo... (M-Misa?<$20>
 <$FF><$FF>
 <$1E><$00>
 
@@ -714,7 +714,7 @@ Misa\n
 
 //ん？　ホントに知らないよ
 //What? Like I said, no one came by here
-(Qu}? Ya te he dicho que no vino nadie
+(Qu}? Ya te he dije que no vino nadie
 <$F3><$FF>
 <$04><$00>
 

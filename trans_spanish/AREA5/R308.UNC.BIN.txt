@@ -213,7 +213,7 @@ Ese espejo del suelo se llama 'Espejo de Notran'. Cuando se activa, se puede ver
 //　　奴と目が合った者は奴の\n
 //　　狩りの対象になるのだよ
 //But, those things live in the past. Just seeing them makes you a target for their hunt
-Pero, esas cosas viven en el pasado. Y si huele tu presencia pasar{s a ser su presa
+Pero, esas cosas viven en el pasado. Y si huelen tu presencia pasar{s a ser su presa
 <$F3><$FF>
 <$68><$00>
 

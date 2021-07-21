@@ -1360,7 +1360,7 @@ No voy a escuchar tonter&as
 //稲葉\n
 //　「！？
 Inaba\n
-")(Eh?! 
+")(Eh?!<$20>
 <$FF><$FF>
 <$1E><$00>
 

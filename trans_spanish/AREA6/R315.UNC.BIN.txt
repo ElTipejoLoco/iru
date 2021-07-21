@@ -362,7 +362,7 @@ Yuma
 //　「いや・・・・・・。
 Inaba\n
 //"Just talking to myself.<$20>
-"No... no es nada. 
+"No... no es nada.<$20>
 <$FF><$FF>
 <$3C><$00>
 //\n

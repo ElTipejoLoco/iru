@@ -400,7 +400,7 @@ Mochizuki\n
 
 //‰½‚Ì‚±‚Æ‚¾
 //What was what
-(Qu} fue eso
+(Qu} fue que
 <$F3><$FF>
 <$04><$00>
 
