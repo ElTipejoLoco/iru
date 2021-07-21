@@ -41,7 +41,7 @@ Mochizuki\n
 //俺の中に、もう一人の人格が\n
 //　　いるなんて
 //It's like there's another personality inside my mind
-Es como si hubiese otra personalidad dentro de mi
+Es como si hubiese otra personalidad dentro de m&
 
 <$F3><$FF>
 <$04><$00>

@@ -22,7 +22,7 @@ Mochizuki\n
 //『妖虫の秘密』さえあれば、\n
 //　　俺の中にいるアイツが
 //The person inside of me said that if I find the 'De Vermis Mysteriis,'
-La persona dentro de mi, dijo que buscasemos el 'De Vermis Mysteriis',
+La persona dentro de m&, dijo que buscasemos el 'De Vermis Mysteriis',
 <$F3><$FF>
 <$04><$00>
 

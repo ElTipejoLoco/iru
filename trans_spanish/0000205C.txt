@@ -465,7 +465,7 @@ hacer algo para sobrevivir, (No?
 //\n ‚±‚±‚Í„‚ğM‚¶‚Äè‚ğ‘İ‚¹B
 \n
 //Trust me, and let me help you."
-Conf&a en mi, y dejame ayudarte."
+Conf&a en m&, y d}jame ayudarte."
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
 // Pos: 00002C90

@@ -47,7 +47,7 @@ Mori\n
 
 //さぁ、早く帰りなさい
 //Now, get going
-Ahora, vete
+Vete de aqu&.
 <$F3><$FF>
 <$04><$00>
 
@@ -140,7 +140,7 @@ Hace mucho tiempo, su hermano desapareci[ cuando estudiaba en la escuela
 //真相は未だにわからないわ。\n
 //　　彼、私を慕っていてくれたの
 //We still don't know the truth. He... was also in love with me
-Todav&a no sabemos la verdad. #l... estaba enamorado de mi
+Todav&a no sabemos la verdad. #l... estaba enamorado de m&
 <$F3><$FF>
 <$04><$00>
 
@@ -292,7 +292,7 @@ Hojou\n
 
 //今度はどんな用事かしら
 //Do you need something else from me
-(Necesitas alguna cosa m{s de mi
+(Necesitas alguna cosa m{s de m&
 <$F3><$FF>
 <$04><$00>
 

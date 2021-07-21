@@ -91,7 +91,7 @@ Lo siento, Mochizuki pero yo no se nada
 //　　信じて
 \n
 //Please believe me. I'd tell you if I knew anything, I swear
-Debes confiar en mi. Te juro que si supiese algo te lo dir&a
+Debes confiar en m&. Te juro que si supiese algo te lo dir&a
 <$F3><$FF>
 <$68><$00>
 
@@ -215,7 +215,7 @@ No es nada, no te preocupes. Tengo demasiadas cosas en la cabeza
 //　　手伝ってくれよ。　　　　　」
 Inaba\n
 //"...hey man, we've still got some more work to finish."
-"...oye tio, tenemos mucho trabajo por delante."
+"...Oye tio, queda todav&a mucho trabajo por delante."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -231,7 +231,7 @@ Mochizuki\n
 //　　ちょっと、落ち着くまで待っ\n
 //　　てくれないか
 //Sorry. Can you give me a minute to calm down
-Si, perdona. (Te importar&a darme unos minutos
+Perdona... (Te importar&a darme unos minutos
 <$F3><$FF>
 <$04><$00>
 
@@ -272,7 +272,7 @@ Mochizuki
 //　　なにか知ってるんだ！　　　」
 \n
 //"You heard that, huh? ...she definitely knows something about my brother though!"
-"(Oiste la conversaci[n,no? )Estoy seguro de que sabe algo sobre mi hermano!"
+"(Oiste la conversaci[n, no? )Estoy seguro de que sabe algo sobre mi hermano!"
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>

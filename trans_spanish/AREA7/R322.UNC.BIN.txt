@@ -402,7 +402,7 @@ Hirose\n
 //でも～、帰りの遠～い道のり\n
 //　　がユウウツだなぁ
 //My home is so far though~ I'll never make it
-Mi casa est{ muy lejos~ No voy a lograrlo
+Mi casa est{ lejos~ No puedo aguantar mas
 <$F3><$FF>
 <$04><$00>
 
@@ -442,7 +442,7 @@ Hirose\n
 //　　これ、もらっていいの？\n
 //　　ホントに？　うわ～い
 //Oh! Really?? I can have it?? Yaaaay~
-(En serio? (Me lo das? )Vale!
+(En serio? (Me lo das? )))Vale!
 <$F3><$FF>
 <$04><$00>
 
@@ -461,7 +461,7 @@ Hirose\n
 
 //うわ～っ、後で食べよ～っ
 //Let's eaaat~ :D
-)Coomiidaa~ :D
+)Coomiidaa~
 <$F3><$FF>
 <$04><$00>
 
@@ -548,7 +548,7 @@ Hirose\n
 //　　本当に帰ろうとしてるのか？」
 Inaba\n
 //"We still have work to do! Were you just gonna leave us?"
-")Todav&a tenemos cosas que hacer! (Nos abandonas as&?"
+")Todav&a tenemos cosas que hacer! (Nos vas a dejar as&?"
 <$FA><$FF>
 <$F8><$FF>
 

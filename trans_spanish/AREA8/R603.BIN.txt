@@ -310,7 +310,7 @@ Siempre est{bamos juntos. Fueron d&as preciosos.
 //　　ていたと思う。
 \n
 //I was in love with her and thought that she loved me back.
-Estaba enamorado de ella y pens} que ella tambi}n de mi.
+Estaba enamorado de ella y pens} que ella tambi}n de m&.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -393,7 +393,7 @@ Masayoshi\n
 //　　正直に。
 \n
 //But, she trusted me and confided everything to me.
-Pero, confiaba en mi y me cont[ toda la verdad.
+Pero, confiaba en m& y me cont[ toda la verdad.
 <$FA><$FF>
 <$F8><$FF>
 

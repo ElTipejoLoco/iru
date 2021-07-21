@@ -82,7 +82,7 @@ Inaba\n
 //　　く、来るな！来るなーっ！！」
 Inaba\n
 //"Wha- Rie...? W-wait! N-no, stay back! STAY BACK!"
-"Pero... (Rie? )E-espera! )No, vete! )AL#JATE DE MI!"
+"Pero... (Rie? )E-espera! )No, vete! ))AL#JATE!!"
 <$F8><$FF>
 <$F5><$FF>
 <$F1><$FF>

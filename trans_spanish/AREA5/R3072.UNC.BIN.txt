@@ -92,7 +92,7 @@ Hikawa\n
 
 //‚±‚Á‚¿‚ªÏ‚ñ‚¾‚çs‚­‚©‚ç‚æB
 //I'll go see her once this is done.
-Ire a verla cuando acabe todo esto.
+Ir} a verla cuando acabe todo esto.
 <$F3><$FF>
 <$04><$00>
 

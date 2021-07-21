@@ -298,7 +298,7 @@ Ah, Inaba. (Has visto a Kazuki
 //　「一樹？　ああ、氷川か。
 Inaba\n
 //"Kazuki? Oh, you mean Hikawa.
-"(Kazuki? Quieres decir Hikawa.
+"(Kazuki? Te refieres a Hikawa, (Verdad?
 
 <$FA><$FF>
 <$F8><$FF>
@@ -309,7 +309,7 @@ Inaba\n
 //　　待ち合わせしてるらしいけど。」
 \n
 //He went to the career center with Yuma, er, Ichinomiya.
-Fue a orientaci[n laboral con Yuma, eh... Ichinomiya.
+Fue a orientaci[n laboral con Yuma, digo... Ichinomiya.
 <$FA><$FF>
 <$F8><$FF>
 

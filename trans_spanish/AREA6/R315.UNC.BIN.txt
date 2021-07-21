@@ -443,7 +443,7 @@ Un d&a se levant[ y se fue
 //　　のかな。　　　　　　　　　」
 Inaba\n
 //"...maybe she didn't really transfer."
-"...quiz{s no logr[ salir de aqu).."
+"...quiz{s no logr[ salir de aqu)."
 <$FA><$FF>
 <$F8><$FF>
 //由麻\n
@@ -893,7 +893,7 @@ Hirose\n
 //またぁ、僕をだまそうとしてる\n
 //　　んでしょ
 //Are you really trying to trick me again~
-(Est{s intentando reirte de mi otra vez~
+(Est{s intentando reirte de m& otra vez~
 <$F3><$FF>
 <$04><$00>
 //？
