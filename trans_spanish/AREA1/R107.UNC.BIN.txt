@@ -422,7 +422,7 @@ Youko\n
 //なんで出られないの？\n
 //　　ここから出して
 //...why can't we get out? I just wanna go home
-)...Porqu} no podemos salir? Quiero ir a casa
+)(Porqu} no podemos salir?! Quiero irme a casa
 
 <$F3><$FF>
 <$04><$00>
@@ -682,7 +682,7 @@ Inaba\n
 //稲葉\n
 //　「！？
 Inaba\n
-")(Eh?! 
+")(Eh?!<$20>
 <$FF><$FF>
 <$1E><$00>
 

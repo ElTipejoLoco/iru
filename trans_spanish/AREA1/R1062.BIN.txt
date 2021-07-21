@@ -152,7 +152,7 @@ Sala sellada
 //稲葉\n
 //　「！？
 Inaba\n
-")(Eh?! 
+")(Eh?!<$20>
 <$FF><$FF>
 <$3C><$00>
 

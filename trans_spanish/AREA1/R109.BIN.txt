@@ -30,7 +30,7 @@
 //　　女神の涙が　壷に溜まった！
 \n
 //- The vase is filled with the goddess's tears! -
-- )El jarr[n se llen[ de lagrimas de la Diosa! -
+- )El jarr[n se llen[ con las lagrimas de la Diosa! -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -46,7 +46,7 @@
 //－　女神像が置いてある
 \n
 //- There's a statue of a goddess here.
-- Hay una estatua de una Diosa aqu&.
+- Hay una estatua de una Diosa.
 
 <$FF><$FF>
 <$3C><$00>

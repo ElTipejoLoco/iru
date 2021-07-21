@@ -55,7 +55,7 @@
 //稲葉\n
 //　「・・・！？
 Inaba\n
-")(...?!
+")(Eh?!
 
 <$F1><$FF>
 <$F8><$FF>
@@ -89,7 +89,7 @@ Ahh
 //・・・！？\n
 //　　
 //...?! I-is that you,
-)(...?! E-eres t=,
+)(E-eres t=?!,<$20>
 
 <$F3><$FF>
 <$04><$00>
@@ -116,7 +116,7 @@ Ahh
 //　「よかった、大丈夫か？　　　」
 Inaba\n
 //"I'm glad to see you. Are you okay?"
-"Me alegra mucho verte. (Est{s bien?"
+")Me alegra mucho verte! (Est{s bien?"
 
 <$FF><$FF>
 <$3C><$00>
@@ -135,12 +135,13 @@ Yuma\n
 <$04><$00>
 
 //わ、私
-I-I
+//I-I
+)Y-yo
 <$F3><$FF>
 <$04><$00>
 
 //・・・！？
-)(...?!
+...!
 
 <$FF><$FF>
 <$3C><$00>
@@ -208,7 +209,7 @@ Inaba\n
 //　　図書室の中・・・か？　　　」
 Inaba\n
 //"W-what was that?! Is there something in the library...?"
-")(Q-qu} hes eso?! (Ha sonado dentro de la biblioteca...?"
+")(Q-qu} es eso?! (Ha sonado dentro de la biblioteca...?"
 
 <$FA><$FF>
 <$F8><$FF>

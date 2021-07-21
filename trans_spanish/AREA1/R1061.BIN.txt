@@ -100,7 +100,7 @@ Mochizuki\n
 //　「・・・僕達も殺されるのか？」
 Inaba\n
 //"...are we all going to die here?"
-"(...Vamos a morir todos aqu&?"
+"(...Vamos a morir aqu& dentro?"
 
 <$FA><$FF>
 <$F8><$FF>
