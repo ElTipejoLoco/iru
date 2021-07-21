@@ -24,7 +24,7 @@ Youko\n
 //　　どうしてこんな目に遭うの！？\n
 //　　お願いよ・・・助けてぇ
 //No!!! Why is this happening to me?! I'm begging you, help me
-)No! )(Porqu} me est{ pasando esto?! Ay=dame, ))te lo suplico
+)No! )(Por qu} me est{ pasando esto?! Ay=dame, ))te lo suplico
 
 <$F3><$FF>
 <$68><$00>

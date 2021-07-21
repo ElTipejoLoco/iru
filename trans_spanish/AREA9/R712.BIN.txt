@@ -295,7 +295,7 @@ La humanidad... se cubrir{ de oscuridad... )Inaba! Llevate la nota y el espejo d
 //|@–Ø” ‚ª–³‘¢ì‚ÉÏ‚Ü‚ê‚Ä‚¢‚é@|
 \n
 //- There's a carelessly placed wooden crate here. -
-- Hay un caj[n de madera descuidado por aqu&. -
+- Hay varias cajas de madera tiradas por aqu&. -
 
 <$FA><$FF>
 <$F8><$FF>

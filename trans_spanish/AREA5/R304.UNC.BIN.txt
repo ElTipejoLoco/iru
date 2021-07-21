@@ -518,7 +518,7 @@ Hojou\n
 //　　ウロウロして。\n
 //　　準備の方はもう終わったの
 //What are you hanging around here for Inaba? Are you already finished
-(Porqu} est{s dando vueltas por aqu& Inaba? (No hab&as terminado ya
+(Por qu} est{s dando vueltas por aqu& Inaba? (No hab&as terminado ya
 <$F3><$FF>
 <$04><$00>
 
@@ -1839,7 +1839,7 @@ Hojou\n
 //あなた望月君じゃないわね？\n
 //　　・・・か、神山！　なぜ
 //You're not Mochizuki, are you? ...K-Kamiyama?! But how
-(No eres Mochizuki? Pero, )(...K-Kamiyama?! )(Como has
+(No eres Mochizuki? Pero, )(...K-Kamiyama?! )(C[mo has
 <$F3><$FF>
 <$68><$00>
 
@@ -2374,7 +2374,7 @@ Inaba\n
 //　　黄ばんでボロボロのページ
 \n
 //There are strange letters on the thick books' hard covers. The pages are all yellow and worn.
-Hay letras raras en las gruesas tapas duras de los libros. Las paginas est{n viejas y rotas.
+Hay s&mbolos extra]os en las tapas duras de los libros. Las p{ginas est{n muy viejas y rotas.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -2420,7 +2420,7 @@ Ni siquiera una tienda de libros libros en este estado. -
 //　　黄ばんでボロボロのページ
 \n
 //There are strange letters on the thick books' hard covers. The pages are all yellow and worn.
-Hay s&mbolos extra]os en las tapas duras de los libros. Las paginas est{n muy viejas y rotas.
+Hay s&mbolos extra]os en las tapas duras de los libros. Las p{ginas est{n muy viejas y rotas.
 
 <$FA><$FF>
 <$F8><$FF>

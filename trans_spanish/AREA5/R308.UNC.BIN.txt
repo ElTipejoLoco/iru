@@ -436,7 +436,7 @@ Su cuerpo huele fatal y esta cubierto de algo azul pegajoso. -
 //　「あれ？　通じないぞ？　　　」
 Inaba\n
 //"Huh? Why would someone do that?"
-"(Porqu} har&a alguien algo as&?"
+"(Por qu} har&a alguien algo as&?"
 <$FA><$FF>
 <$F8><$FF>
 

@@ -440,7 +440,7 @@ Comprobaci[n fallida.
 #JMP($00003524)
 //　　　　　　を手に入れた！
 //added to your inventory!
-(a]adido a tu inventario!
+)A]adido a tu inventario!
 <$00>
 #WARN($0000353E, "WARNME")
 

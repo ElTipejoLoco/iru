@@ -533,7 +533,7 @@ Hirose\n
 
 //‚È‚ñ‚Å
 //Why
-(Porque
+(Por qu}
 <$F3><$FF>
 <$04><$00>
 

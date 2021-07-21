@@ -83,7 +83,7 @@ Nakanishi\n
 
 //誰が閉めたんだ
 //Why would someone lock it
-(Porqu} la han cerrado
+(Por qu} la han cerrado
 <$F3><$FF>
 <$04><$00>
 
@@ -116,7 +116,7 @@ Nakanishi\n
 //　　なにか、あったんだろうか？」
 Inaba\n
 //"Why is it closed? Did something happen?"
-"(Porqu} est{ cerrada? (Ha pasado algo?"
+"(Por qu} est{ cerrada? (Ha pasado algo?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

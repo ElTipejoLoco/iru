@@ -42,7 +42,7 @@ Oye, mira. Han cerrado la salida de incendios
 //どうなってんだ！？\n
 //　　誰かのイタズラか
 //Why's it closed?! Is someone playing a prank on us
-)(Porqu} est{ cerrada?! (Es una especie de broma
+)(Por qu} est{ cerrada?! (Es una especie de broma
 <$F3><$FF>
 <$04><$00>
 
@@ -108,7 +108,7 @@ Ugh, venga vale. Ir} al otro ala para usar las escaleras
 //　　なにか、あったんだろうか？」
 Inaba\n
 //"Why is it closed? Did something happen?"
-"(Porqu} est{ cerrada? (Ha pasado algo?"
+"(Por qu} est{ cerrada? (Ha pasado algo?"
 
 <$FA><$FF>
 <$F8><$FF>

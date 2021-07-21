@@ -72,7 +72,7 @@ Mochizuki\n
 //　　わからないのに、一人で準備\n
 //　　なんかしてられるか
 //When are you guys coming back? You want me to go back and work alone
-(Cuando vais a volver? (Quieres que vuelva hasta all& y trabaje solo
+(Cu{ndo vais a volver? (Quieres que vuelva hasta all& y trabaje solo
 
 <$F3><$FF>
 <$04><$00>
@@ -693,7 +693,7 @@ Mochizuki\n
 //　「何か知ってるのか？　　　　」
 Inaba\n
 //"Just why do you know all of this?!"
-")(Porqu} sabes tanto sobre esto?!"
+")(Por qu} sabes tanto sobre esto?!"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -880,7 +880,7 @@ Quiero que encuentres algo de comer y se lo des al Shoggoth
 //　　誰だおまえは！？
 Inaba\n
 //"You're not Mochizuki, are you...? Just who the hell are you?!
-"Tu no eres Mochizuki... (Puedes decirme quien eres?!
+"Tu no eres Mochizuki... (Puedes decirme qui}n eres?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1410,7 +1410,7 @@ Mochizuki\n
 //　　所になんで広瀬のヤツ行った\n
 //　　んだ
 //B-but why the hell did Hirose go to where that monster was
-Pero, (Porqu} demonios fue Hirose donde estaba el monstruo
+Pero, (Por qu} demonios fue Hirose donde estaba el monstruo
 <$F3><$FF>
 <$04><$00>
 

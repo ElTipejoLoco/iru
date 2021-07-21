@@ -145,7 +145,7 @@ Debe estar en una pared de las rocas grabado. Encu}ntralo y apri}talo
 //　　それよりここから出せ！！　」
 Inaba\n
 //"What the hell are you doing all this for?! Let me out already!!"
-")(Porqu} demonios est{s haciendo todo esto?! )D}jame salir ahora!"
+")(Por qu} demonios est{s haciendo todo esto?! )D}jame salir ahora!"
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>

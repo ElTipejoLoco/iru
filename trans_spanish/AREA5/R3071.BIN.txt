@@ -140,7 +140,7 @@ Hojou\n
 //　　なぜ殺されたって解るの！？　」
 \n
 //But Inaba, why do you say he was killed?"
-Pero Inaba, (Porque dices que ha muerto?" 
+Pero Inaba, (Por qu} dices que ha muerto?" 
 <$FA><$FF>
 <$F8><$FF>
 <$F6><$FF>

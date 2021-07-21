@@ -1138,7 +1138,7 @@ Hirose\n
 <$04><$00>
 //Ç¶Å`Ç¡ÅAÇ«Ç§ÇµÇÊÇ§
 //Aww... What should I do~
-Ahh... (Que debo hacer~
+Ahh... (Qu} debo hacer~
 <$F3><$FF>
 <$04><$00>
 //ÅB

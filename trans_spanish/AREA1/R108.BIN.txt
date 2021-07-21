@@ -315,7 +315,7 @@ ese libro...?
 //Å@Å@ã∞ÇÎÇµÇ≥ÇÅ@ä¥Ç∂ÇƒÇ¢ÇΩ
 \n
 //- A cold sweat flows down your face. You feel something malevolent in the room.
-- Un sudor frio te recorre la cara. Sientes algo mal}volo en la habitaci[n.
+- Un sudor fr&o te recorre la cara. Sientes algo mal}volo en la habitaci[n.
 
 <$FA><$FF>
 <$F8><$FF>

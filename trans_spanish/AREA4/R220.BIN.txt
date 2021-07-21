@@ -361,7 +361,7 @@ Hojou\n
 //　　入れてあるのだろう　　　　－
 \n
 //- There are wooden boxes here with a lot of small, miscellaneous things\ninside. -
-- Hay cajas de madera aqu& con muchos objetos de todo tipo dentro de ellas. -
+- Hay cajas de madera aqu& con objetos de todo tipo dentro de ellas. -
 
 <$FA><$FF>
 <$F8><$FF>

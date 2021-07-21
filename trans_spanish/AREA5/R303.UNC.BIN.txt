@@ -350,7 +350,7 @@ Era tan preciado y raro que nunca me dej[ que lo tocase...
 //　　だ！！\n
 //　　・・・それに・・・。　　　」
 //Why the hell does she have it?! That and--"
-)(Porqu} lo tiene ella?! Eso y ade--"
+)(Por qu} lo tiene ella?! Eso y ade--"
 <$F3><$FF>
 <$04><$00>
 <$FA><$FF>
@@ -492,7 +492,7 @@ I-Inaba
 //　　こんな時間に？\n
 //　　先輩も居残りですか
 //W-what's up? D-did you come to see--I mean, why are you still on campus
-(Q-qu} te cuentas? Has venido a ver--digo... (Porqu} sigues en la escuela
+(Q-qu} te cuentas? Has venido a ver--digo... (Por qu} sigues en la escuela
 <$F3><$FF>
 <$04><$00>
 
@@ -1319,7 +1319,7 @@ Ms. Hojou, qu} est{ ocurriendo?! Ese era H-Hirose, (No
 //　　遠くて解らなかったけど何で\n
 //　　あんな所で寝っ転がってるの
 //I couldn't tell from afar, but why was he on the ground
-No lo vi desde tan lejos, pero, (Porqu} estaba tendido
+No lo vi desde tan lejos, pero, (Por qu} estaba tendido
 
 <$F3><$FF>
 <$04><$00>

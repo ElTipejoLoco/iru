@@ -85,7 +85,7 @@ Mmm, c[mo lo hago
 //　　なにか、あったんだろうか？」
 Inaba\n
 //"Why is it closed? Did something happen?"
-"(Porqu} est{ cerrada? (Qu} ha pasado?"
+"(Por qu} est{ cerrada? (Qu} ha pasado?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

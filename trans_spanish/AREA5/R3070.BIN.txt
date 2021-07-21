@@ -236,7 +236,7 @@ Kyoko\n
 //どうしてなの！？\n
 //　　何があったの理恵
 //Why?! What happened, Rie
-)(Porqu}?! (Qu} ocurre, Rie
+)(Por qu}?! (Qu} ocurre, Rie
 <$F3><$FF>
 <$04><$00>
 

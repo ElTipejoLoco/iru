@@ -176,7 +176,7 @@ Una llave hecha de oro.
 #WRITE(PTR, $00065DF8)
 //　重厚な書物。
 //An intense-looking book.
-Un libro bastante denso.
+Un libro muy extra]o.
 <$00>
 
 // Ptr: 00003CFC
@@ -234,7 +234,7 @@ tiene un bonito grabado.
 #WRITE(PTR, $00065EBC)
 //　　　『エイボンの書』の断片
 //"Book of Eibon" Torn Page
-Pagina del "Libro de Eibon"
+P{gina del "Libro de Eibon"
 <$00>
 
 // Ptr: 00003C08
@@ -562,7 +562,7 @@ Parece un trozo de papel con un   mensaje escrito en el.
 #WRITE(PTR, $00066264)
 //　　　　引き裂かれたページ
 //Torn Page
-Pagina Arrancada
+P{gina Arrancada
 <$00>
 
 // Ptr: 000037B4
@@ -577,7 +577,7 @@ Nota escrita en un idioma raro.
 #WRITE(PTR, $00066298)
 //　「お前は誰だ…」と書かれた紙片
 //"Who are you?!"
-")(Quien eres?!"
+")(Qui}n eres?!"
 <$00>
 
 // Ptr: 0000376C
@@ -591,7 +591,7 @@ Nota escrita en un idioma raro.
 #WRITE(PTR, $00066300)
 //　「何が目的な…」と書かれた紙片
 //"What are you planning?!"
-")(Que est{s planeando?!"
+")(Qu} est{s planeando?!"
 <$00>
 
 // Ptr: 00003724

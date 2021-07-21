@@ -16,7 +16,7 @@
 //　　・・・おまえが？　　　　　　」
 Inaba\n
 //"M-Mochizuki?! ...did you...?"
-")(M-Mochizuki?! (Que has...?"
+")(M-Mochizuki?! (Qu} has...?"
 <$FF><$FF>
 <$3C><$00>
 <$F8><$FF>

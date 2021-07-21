@@ -318,7 +318,7 @@ permitir{ leer el texto sagrado."
 Inaba\n
 //"This page was torn from the 'Book of\n
 //Eibon'!"
-")Esta pagina fue arrancada del 'Libro\n
+")Esta p{gina fue arrancada del 'Libro\n
 de Eibon'!"
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -350,7 +350,7 @@ legible!
 \n
 //The page is full of what appears to be\n
 //spell incantations with no context. -
-La pagina est{ llena de lo que parecen\n
+La p{gina est{ llena de lo que parecen\n
 hechizos encantados sin contexto. -
 <$FA><$FF><$F8><$FF><$F5><$FF><$00><$00>
 
@@ -372,7 +372,7 @@ de papel:
 //"Who are you?! Get out of my head!\n
 //A-are you trying to take over my\n
 //body?!
-")(Quien eres?! )Sal de mi cabeza!\n
+")(Qui}n eres?! )Sal de mi cabeza!\n
 )(Est{s intentando apropiarte de\n
 mi cuerpo?!
 <$FA><$FF><$F8><$FF>
@@ -381,7 +381,7 @@ mi cuerpo?!
 //Or do you have something different in\n
 //mind?! Who are you working with?!
 )(O est{s intentando algo diferente con\n
-mi cuerpo?!)(Para quien trabajas?!
+mi cuerpo?!)(Para qui}n trabajas?!
 <$FA><$FF><$F8><$FF>
 //\n Ç±ÇÍÇÕñlÅAñ]åéìNóYÇÃëÃÇ»ÇÒÇæ!
 \n

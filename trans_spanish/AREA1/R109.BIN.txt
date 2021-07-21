@@ -74,7 +74,7 @@ Parece poder sujetar alg=n tipo de recipiente. -
 //　　あったのか・・・。　　　　」
 Inaba\n
 //"W-what the? Why's there a room like this in the school...?"
-"(Pero...? (Porque hay un sitio como este en la escuela...?"
+"(Pero...? (Por qu} hay un sitio como este en la escuela...?"
 
 <$FA><$FF>
 <$F8><$FF>

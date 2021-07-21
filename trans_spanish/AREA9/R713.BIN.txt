@@ -45,7 +45,7 @@ Hikawa\n
 //　　くだりがあった　　　　　－
 \n
 //As you read the d&ary, a specific passage catches your attention. -
-Mientras ojeas el diario, un pasaje parece que capta tu atenci[n. -
+Mientras ojeas el diario, uno de los pasajes capta tu atenci[n. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -82,7 +82,7 @@ Ese amigo llevaba buscando ese libro al menos una d}cada.
 //　　書物を読みふけっていた友人の\n
 //　　雰囲気が、次第に変わった。
 //Now finally able to read it, he happily read it with no care for anything else. I dare say the air about him gradually changed.
-Ahora que finalmente pod&a leerlo, lo ley[ sin tener en cuenta absolutamente nada. Creo que hasta el aire que le rodeaba cambi[.
+Ahora que finalmente pod&a leerlo, lo ley[ sin tener ning=n tipo de cuidado. Dir&a que hasta el aire que le rodeaba cambi[.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -102,7 +102,7 @@ Sin previo aviso, mi amigo solt[ un grito infernal y sali[ corriendo de la sala.
 //　　命を落とした。
 \n
 //He fell down the stairs and tumbled to the very bottom. He was dead when I reached him.
-Se tropez[ por las escaleras y cay[ al fondo. Estaba muerto cuando llegu} hasta }l.
+Se tropez[ por las escaleras y se desplom[ en el fondo. Estaba muerto cuando llegu}.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -121,7 +121,7 @@ Lo =nico que me queda ahora es el libro que dej[, "El Necronomic[n."
 //　　恐ろしい魔導書だということ\n
 //　　は、後に知ることだった。
 //I learned after that that the Necronomic[n is one of the most terrifying, most horrible grimoires in existence.
-Despu}s aprend& que el Necronomic[n es uno de los grimorios m{s terror&ficos y malvados que existen en el mundo.
+Mas tarde investigu} y entend& que el Necronomic[n es uno de los grimorios m{s terror&ficos que existen.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -130,7 +130,7 @@ Despu}s aprend& que el Necronomic[n es uno de los grimorios m{s terror&ficos y m
 //　　染まるという。
 \n
 //Anyone who reads it will descend into pure madness.
-Cualquiera que lo leyese se volver&a loco del todo.
+Todos los que lo han le&do han enloquecido por completo.
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -164,7 +164,7 @@ Cualquiera que lo leyese se volver&a loco del todo.
 //　　怪しい文字で書かれた表題\n
 //　　黄ばんでボロボロのページ
 //The books are bounded with heavy, thick hardcovers labeled with bizarre letters. The pages are rather worn out.
-Estos libros est{n cubiertos de tapas duras marcadas con alfabetos bizarros. Las paginas est{n bastante rotas.
+Estos libros est{n cubiertos de tapas duras marcadas con s&mboloso bizarros. Las p{ginas est{n bastante rotas.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -174,7 +174,7 @@ Estos libros est{n cubiertos de tapas duras marcadas con alfabetos bizarros. Las
 //　　ような本が　たくさんある
 \n
 //You feel like you wouldn't even see these kinds of books in a used book store.
-Sientes como si este tipo de libros solo estuviesen expuestos en los museos.
+Da la sensaci[n de que estos libros deber&an estar expuestos en un museo.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -183,7 +183,7 @@ Sientes como si este tipo de libros solo estuviesen expuestos en los museos.
 //　　ラテン語と思われる本まで\n
 //　　あり　読むことができない　　－
 //You try and read some, but the books are in various languages like English, French, and Latin. You can't understand any of them. -
-Intentas leer unos cuantos, pero los libros est{n en varios idiomas como Ingl}s, Franc}s y Lat&n. No puedes entender ninguno. -
+Intentas leerlos, pero los libros est{n escritos en Ingl}s, Franc}s y Lat&n. Como solo sabes Japon}s no logras entender nada. -
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -199,7 +199,7 @@ Intentas leer unos cuantos, pero los libros est{n en varios idiomas como Ingl}s,
 //　　落ちている
 \n
 //- There's a thick, hardcover book that fell onto the floor. -
-- Un libro denso con tapa dura se ha ca&do al suelo. -
+- Un libro gordo con tapa dura est{ tirado en el suelo. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -208,7 +208,7 @@ Intentas leer unos cuantos, pero los libros est{n en varios idiomas como Ingl}s,
 //　　でも　いうのだろうか
 \n
 //Something that could be described as a jet black evil energy leaks out.
-Tiene algo que podr&a describirse como energ&a maligna oscura.
+Emite algo que solo podr&a describir como un tipo de energ&a oscura.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -217,7 +217,7 @@ Tiene algo que podr&a describirse como energ&a maligna oscura.
 //　　吹き出ているように感じる　　－
 \n
 //You feel a trace of a cold chill emanating from the book. -
-Sientes una sensaci[n de frio emanando desde sus paginas. -
+Sientes una sensaci[n de fr&o emanando desde sus p{ginas. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -276,7 +276,7 @@ Inaba\n
 //　　落ちている
 \n
 //- There's a thick, hardcover book that fell onto the floor. -
-- Un libro denso con tapa dura se ha ca&do al suelo. -
+- Un libro gordo con tapa dura est{ tirado en el suelo. -
 <$FA><$FF>
 <$F8><$FF>
 
@@ -285,7 +285,7 @@ Inaba\n
 //　　でも　いうのだろうか
 \n
 //Something that could be described as a jet black evil energy leaks out.
-Tiene algo que podr&a describirse como energ&a maligna oscura.
+Emite algo que solo podr&a describir como un tipo de energ&a oscura.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -295,7 +295,7 @@ Tiene algo que podr&a describirse como energ&a maligna oscura.
 //　　吹き出ているように感じる　　－
 \n
 //You feel a trace of a cold chill emanating from the book. -
-Sientes una sensaci[n de frio emanando desde sus paginas. -
+Sientes una sensaci[n de fr&o emanando desde sus p{ginas. -
 
 <$FA><$FF>
 <$F8><$FF>
@@ -340,7 +340,7 @@ Inaba\n
 //　　いけないな。　　　　　　　」
 Inaba\n
 //"I can't let myself touch that book!"
-"No deber&a ni tocar ese libro!"
+")No deber&a ni tocar ese libro!"
 
 <$FA><$FF>
 <$F8><$FF>

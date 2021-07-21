@@ -15,7 +15,7 @@
 //　　時計塔の中なんだ。　　　　」
 Inaba\n
 //"This is... a machine room? That means we're in the clocktower after all."
-"(Una sala de maquinas? Supongo que estoy en la torre del reloj."
+"(Una sala de m{quinas? Supongo que estoy en la torre del reloj."
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>
@@ -155,7 +155,7 @@ Inaba\n
 //　　ジャンプするか！？　　　　」
 Inaba\n
 //"Can I make it over if I leap for it?!"
-")(Podr} llegar all& de un salto?!"
+")(Podr} llegar de un salto?!"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

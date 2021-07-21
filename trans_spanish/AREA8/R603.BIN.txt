@@ -208,7 +208,7 @@ Inaba\n
 //　　しまったんですか？　　　　」
 Inaba\n
 //"Why were you dropped in this place?"
-"(Porqu} acabaste t= en este sitio?"
+"(Por qu} acabaste t= en este sitio?"
 <$FA><$FF>
 <$F8><$FF>
 

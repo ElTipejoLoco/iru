@@ -327,7 +327,7 @@ Mochizuki\n
 //　　いると思う？
 \n
 //Why did you think they built such an elaborate school on this lonely island?
-(Porqu} piensas que construyeron una escuela en esta isla alejada de todo?
+(Por qu} piensas que construyeron una escuela en esta isla alejada de todo?
 <$FA><$FF>
 <$F8><$FF>
 

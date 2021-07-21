@@ -25,7 +25,7 @@ Director\n
 //Å@Å@âΩÇ≈Ç±ÇÒÇ»èäÇ…ÅH
 Inaba\n
 //"You're... the principal?! What happened?!
-")(Eres... el director?! )(Que ha pasado?!
+")(Eres... el director?! )(Qu} ha pasado?!
 <$FA><$FF>
 <$F8><$FF>
 
