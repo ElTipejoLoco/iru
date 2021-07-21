@@ -1175,7 +1175,7 @@ Hikawa quer&a que llevase a Mochizuki a la sala de juntas
 //　　ないからって鍵も渡せって言\n
 //　　われてるんだ
 //He also said the door might be locked, so he trusted me with the key
-#l tambi}n dijo que estar&a cerrada, as& que me dejo aqu& la llave
+Tambi}n dijo que estar&a cerrada, as& que me dejo aqu& la llave
 <$F3><$FF>
 <$04><$00>
 //。
