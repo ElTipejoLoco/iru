@@ -119,7 +119,7 @@ Hirose\n
 //　　そ、それに僕、ヤダなんて一言\n
 //　　も言ってないよ
 //T-that's not what I meant! I never said I wouldn't do it
-)No-no quiero decir eso!)No digo que no vaya a ayudarte
+)No-no quiero decir eso! )No digo que no vaya a ayudarte
 <$F3><$FF>
 <$68><$00>
 
@@ -820,7 +820,7 @@ Hiwaka me pidi[ que hiciese algo muy importante, as& que ir} una vez lo termine
 //　　に来るんだよ。　　　　　　」
 Inaba\n
 //"Hey, how long are you planning on taking?"
-"Oye, (Cuanto tiempo te va a llevar eso?"
+"Oye, (Cu{nto tiempo te va a llevar eso?"
 <$FA><$FF>
 <$F8><$FF>
 
@@ -908,7 +908,7 @@ Eso hara m{s f{cil para mi hacer lo que Hikawa quer&a
 //　　に来るんだよ。　　　　　　」
 Inaba\n
 //"Hey, how long are you planning on taking?"
-"Oye, (Cuanto m{s tiempo va a llevarte eso?"
+"Oye, (Cu{nto m{s tiempo va a llevarte eso?"
 <$FA><$FF>
 <$F8><$FF>
 

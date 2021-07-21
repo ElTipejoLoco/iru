@@ -292,7 +292,7 @@ Hojou\n
 
 //今度はどんな用事かしら
 //Do you need something else from me
-(Necesitas alguna cosa m{s de m&
+(Necesitas alguna cosa mas de m&
 <$F3><$FF>
 <$04><$00>
 
@@ -432,7 +432,7 @@ Director\n
 //　　分かりましたね、北条先生。\n
 //　　頼みますよ
 //understand, Ms. Hojou
-?...Entendido, Ms. Hojou
+(...Entendido, Ms. Hojou
 <$F3><$FF>
 <$68><$00>
 
@@ -455,7 +455,7 @@ Hojou\n
 
 //はい、すみませんでした
 //Yes. I'm sorry, sir
-Si. Disc=lpeme.
+Si. Disc=lpeme
 <$F3><$FF>
 <$04><$00>
 
@@ -672,7 +672,7 @@ Hojou\n
 
 //時間ができたら見に行くわ
 //I'll drop by if I get a moment
-Me pasare} dentro de un rato
+Me pasar} dentro de un rato
 <$F3><$FF>
 <$04><$00>
 
@@ -698,7 +698,7 @@ Me pasare} dentro de un rato
 //　　私の気持ちに答えて下さい。
 Mori\n
 //"Please understand Ms. Hojou, no, Saeko. I want you to answer my feelings.
-"Ms. Hojou... o mejor dicho, Saeko. deber&a corresponder mis sentimientos.
+"Ms. Hojou... o mejor dicho, Saeko. Deber&a corresponder mis sentimientos.
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -727,7 +727,7 @@ Hojou\n
 
 //なんのお話ですか、一体
 //What could you possibly be talking about
-(De qu} demonios estan hablando estos dos
+(De qu} demonios est{n hablando estos dos
 <$F3><$FF>
 <$68><$00>
 
@@ -812,7 +812,7 @@ no siento lo mismo, no puedo hacer--
 //北条\n
 //　「！？
 Hojou\n
-")(Eh?! 
+")(Eh?!<$20>
 
 <$FF><$FF>
 <$1E><$00>
@@ -1041,7 +1041,7 @@ Hojou\n
 
 //さっきの続き
 //You've got more to say
-Tienes algo que decir
+(Tienes algo que decir
 <$F3><$FF>
 <$04><$00>
 
@@ -1056,7 +1056,7 @@ Tienes algo que decir
 //　　た？　　　　　　　　　　　」
 Inaba\n
 //"No, but have you seen those two at all?"
-"No, (Pero has visto a esas dos chicas?"
+"No, (Pero ha visto a esas dos chicas?"
 <$FA><$FF>
 <$F8><$FF>
 

@@ -301,13 +301,13 @@ D}jame, Hikawa...<$20>
 <$68><$00>
 
 //稲葉君
-)(Inaba!
+)(Inaba?
 
 <$F3><$FF>
 <$68><$00>
 
 //！？　　　　　　　　」
-?"
+!"
 
 <$FF><$FF>
 <$78><$00>
@@ -329,7 +329,7 @@ Hikawa\n
 //　　ずーっとそこにいたのか？\n
 //　　へっ、まあいいけどよ
 //Hey! How long have you been there?! Whatever, it doesn't matter
-)T=!)(Cuanto tiempo llevas parado ah&?! Da igual, no me importa
+)T=! )(Cu{nto tiempo llevas parado ah&?! Da igual, no me importa
 <$F3><$FF>
 <$04><$00>
 
@@ -397,7 +397,7 @@ Es solo m&a, y en m{s maneras de las que imaginas
 //手を出すな。\n
 //　　・・・わかってるよな
 //So step off. Got it?
-As& que olvidat{. (Vale?
+As& que olvidat}. (Vale?
 <$F3><$FF>
 <$04><$00>
 

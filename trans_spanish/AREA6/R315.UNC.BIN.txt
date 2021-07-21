@@ -443,7 +443,7 @@ Un d&a se levant[ y se fue
 //　　のかな。　　　　　　　　　」
 Inaba\n
 //"...maybe she didn't really transfer."
-"...quiz{s no logr[ salir de aqu)."
+"...quiz{s no logr[ salir de aqu&."
 <$FA><$FF>
 <$F8><$FF>
 //由麻\n
@@ -680,7 +680,7 @@ Venga ya tio, )No necesitas tratarme con desprecio! Somos colegas, (No
 //　　を捜してますぅ、だァ？\n
 //　　それって死んだって事だろ
 //You're still searching for your brother who went missing some years ago, right? That's what I'm talking about
-Sigues buscando a tu hermano que desapareci[ hace mucho tiempo, (Verdad que si? Eso es de lo que te hablo
+Sigues buscando a tu hermano, el que desapareci[ hace a]os aqu&. (Verdad que si? Eso es de lo que te hablo
 <$F3><$FF>
 <$04><$00>
 //？
@@ -697,7 +697,7 @@ Sigues buscando a tu hermano que desapareci[ hace mucho tiempo, (Verdad que si? 
 <$04><$00>
 //あきらめろよ、なっ
 //Let that shit go already
-)Olvida eso de una vez
+)Olvida ya esa historia
 <$F3><$FF>
 <$04><$00>
 //！？　　」
@@ -747,7 +747,7 @@ deja de ignorarme ya, ))Estupido
 //口で言ってもわかんねぇ\n
 //　　ヤツには違う方法で
 //I know how to make people who don't listen understand me, got it
-Se lo que tengo que hacer para que la gente me escuche, (Lo pillas
+Se lo que tengo que hacer para que la gente me haga caso, (Lo pillas
 <$F3><$FF>
 <$04><$00>
 //・・・。」
@@ -769,7 +769,7 @@ Hikawa\n
 <$04><$00>
 //ちっ・・・稲葉
 //Damnit... Inaba
-Maldita sea... )Inaba
+Mierda... )Inaba
 <$F3><$FF>
 <$04><$00>
 //！　　」
@@ -991,7 +991,8 @@ Por cierto, (Has visto a Mochizuki? Hikawa me pidi[ que le buscase
 //　　って言っとけ、ッて頼まれてる\n
 //　　んだぁ
 //He said to find Mochizuki then to bring him to the meeting room
-Dijo que encontrase a Mochizuki y lo llevase a la sala de juntas
+Dijo que buscase y llevase a Mochizuki a la sala de juntas
+
 <$F3><$FF>
 <$04><$00>
 //。
@@ -1274,7 +1275,7 @@ Mochizuki\n
 //おい、広瀬は何時になったら\n
 //　　来るんだよ
 //Hey, how late is Hirose gonna make us stay here
-Oye, (Cuanto m{s quiere Hirose que estemos aqu&
+Oye, (Cu{nto m{s quiere Hirose que estemos aqu&
 <$F3><$FF>
 <$04><$00>
 //？　　　　　　　」
@@ -1571,7 +1572,7 @@ Yuma\n
 //　　いい方法があるよ！　　　　」
 Inaba\n
 //"Hmm... Oh! I'll run to the nurse's office then! They might have something we can use."
-"Mmm... )Oye!)Voy a la enfermer&a! Quiz{s all& tengan vendas o algo que podamos usar."
+"Mmm... )Oye! )Voy a la enfermer&a! Quiz{s all& tengan vendas o algo que podamos usar."
 <$FA><$FF>
 <$F8><$FF>
 //由麻\n
@@ -1707,7 +1708,7 @@ Te he estado buscando, Ichinomiya
 //氷川君も、生徒指導室で生徒\n
 //　　会の仕事するんだけど
 //You and Hikawa have student council business in the counseling room
-Hikawa y tu ten}is reuni[n consejo estudiantil en la consejer&a
+Hikawa y tu ten}is reuni[n del consejo en la sala de orientaci}n laboral
 
 <$F3><$FF>
 <$68><$00>

@@ -687,7 +687,7 @@ Misa\n
 
 //Ç∫Å[ÇÒÇ∫ÇÒ
 //Nope, it's been dead quiet
-No, no ha venido nadie
+No, !No ha venido nadie
 <$F3><$FF>
 <$04><$00>
 

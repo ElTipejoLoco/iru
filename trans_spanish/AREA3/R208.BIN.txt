@@ -72,7 +72,7 @@ Mochizuki\n
 //二階の廊下にいる奴を見たか？\n
 //　　・・・無形の落とし子だ。
 //Did you see that thing in the 2nd floor hallway? ...it's a Formless Spawn.
-(Has visto la criatura de la seg=nda planta? ...Es un engendro sin forma.
+(Has visto la criatura de la segunda planta? ...Es un engendro sin forma.
 
 <$F3><$FF>
 <$04><$00>

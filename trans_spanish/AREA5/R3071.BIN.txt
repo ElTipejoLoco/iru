@@ -15,7 +15,7 @@
 //　「痛っ！！　　　　　　　　　　」
 Inaba\n
 //"Ow!!"
-"Au!!"
+"))Au!!"
 
 <$FA><$FF>
 <$F6><$FF>
@@ -34,7 +34,7 @@ Director\n
 //・・・ああ、気を付けなさい。\n
 //　　遅くまでかかりそうなのかね
 //...ah, be careful in the hallways. Do you guys think you'll be working pretty late
-...ah, ten cuidado en los pasillos. Sabes si vais a seguir trabajando hasta tarde
+...Ve con cuidado por los pasillos. (Sabes si vais a seguir trabajando hasta tarde
 <$F3><$FF>
 <$04><$00>
 

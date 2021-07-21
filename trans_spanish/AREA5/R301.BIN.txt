@@ -97,7 +97,7 @@ Inaba\n
 //　「・・・いない！？
 Inaba\n
 //"...she's gone?!
-")(...Se ha ido?!
+")(...Pero...?!
 
 <$FA><$FF>
 <$F8><$FF>

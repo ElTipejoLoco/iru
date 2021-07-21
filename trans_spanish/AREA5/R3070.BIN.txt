@@ -12,7 +12,7 @@
 //稲葉\n
 //　「！？
 Inaba\n
-"?!
+")(Eh?!
 
 <$FA><$FF>
 <$F8><$FF>
@@ -156,7 +156,7 @@ Kyoko\n
 //　　さっきから何も答えてくれな\n
 //　　いんです
 //Inaba, what do I do?! She won't answer me any more
-)(Inaba, que hacemos?! Ha dejado de responder
+Inaba, )(Qu} hacemos?! Ha dejado de responder
 <$F3><$FF>
 <$04><$00>
 
@@ -266,7 +266,7 @@ Kyoko\n
 //　「・・・トイレの中か！？　　　」
 Inaba\n
 //"...from inside the stall?!"
-")(...le habr{ dejado entrar?!"
+")(...Le habr{ dejado entrar?!"
 
 <$FA><$FF>
 <$F8><$FF>

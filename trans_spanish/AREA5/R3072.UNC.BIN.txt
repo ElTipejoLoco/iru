@@ -746,7 +746,7 @@ Inaba\n
 //　　としてるんだ？　　　　　　」
 \n
 //What is Hikawa up to?"
-(Qu} est{ haciendo Hikawa?"
+(Qu} est{ tramando Hikawa?"
 
 <$FA><$FF>
 <$F8><$FF>

@@ -425,7 +425,7 @@ Rie\n
 //　　よ、先輩・・・。
 Kyoko\n
 //"But you've got to do something! Inaba's graduating this year...
-"Pero tienes que hacer algo! Inaba se va a graduar este curso...
+")Pero tienes que hacer algo! Inaba se va a graduar este curso...
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>
@@ -470,7 +470,8 @@ Rie\n
 <$04><$00>
 
 //せ、先輩
-I-Inaba
+//I-Inaba
+))I-Inaba
 
 <$F3><$FF>
 <$04><$00>
@@ -883,7 +884,7 @@ Rie\n
 //由麻先輩ですか？\n
 //　　来てませんけど
 //Yuma? No, she's hasn't come by
-(Yuma? No, ella no vino por aqu&
+(Yuma? No, ella no pas[ por aqu&
 <$F3><$FF>
 <$04><$00>
 
