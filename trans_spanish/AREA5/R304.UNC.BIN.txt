@@ -292,7 +292,7 @@ Hojou\n
 
 //今度はどんな用事かしら
 //Do you need something else from me
-(Necesitas alguna cosa mas de m&
+(Necesitas alguna cosa m{s de m&
 <$F3><$FF>
 <$04><$00>
 
@@ -984,7 +984,7 @@ Ya me lo hab&as mencionado antes, (Verdad que si
 //　　行ってて。\n
 //　　私もすぐに行くから
 //Alright. I'll go check on her in a second. Go stay with her for now
-Est{ bien. Ir} a echar un vistazo mas tarde. De momento, )Ve con ella
+Est{ bien. Ir} a echar un vistazo m{s tarde. De momento, )Ve con ella
 <$F3><$FF>
 <$04><$00>
 
@@ -2007,7 +2007,7 @@ Mochizuki\n
 //　　この星の正当なる支配者と\n
 //　　やらの復活を
 //The end of this world... no, the revivial of this planet's true ruler
-El fin de este mundo... no, ))El renacimiento del gobernante del planeta
+El fin del mundo... o mejor, ))El renacer del gobernante de la tierra
 <$F3><$FF>
 <$04><$00>
 

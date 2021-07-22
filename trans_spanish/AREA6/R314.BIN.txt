@@ -110,7 +110,7 @@ Inaba\n
 //　　何かの足音みたいだ。　　　」
 Inaba\n
 //"H-huh? Footsteps?"
-"(Eh? )Se oyen pasos!"
+"(Eh? ) Suenan pasos!"
 <$FF><$FF>
 <$78><$00>
 <$F8><$FF>

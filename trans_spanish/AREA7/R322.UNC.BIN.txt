@@ -24,7 +24,7 @@ Hikawa\n
 //　　たいした用じゃねえだろ？\n
 //　　頼む
 //Hey man, do me a favor, will ya? It's no big deal, it'll just take you a second
-Oye tio, hazme un favor, (Vale? No es gran cosa, )Solo te llevar{ un segundo
+Escucha, hazme un favor, (Vale? No es gran cosa, )Solo te llevar{ un segundo
 
 <$F3><$FF>
 <$04><$00>

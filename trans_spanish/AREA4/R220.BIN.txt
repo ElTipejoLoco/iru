@@ -149,7 +149,7 @@ Sal corriendo de aqu&, solo o con alguien que te ayude
 //c”O‚¾‚¯‚Ç‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚©\n
 //@@„‚É‚à‰ğ‚ç‚È‚¢
 //I'm sorry, but apart from that, I really don't know what to do either
-Lo siento, pero aparte de eso, no se me ocurre que mas puedes hacer
+Lo siento, pero aparte de eso, no se me ocurre que m{s puedes hacer
 
 <$F3><$FF>
 <$04><$00>

@@ -593,7 +593,7 @@ Mochizuki\n
 //しつこいな！\n
 //　　そんな話は聞きたくない
 //Holy shit, I don't want to hear it, go away
-Dios santo, no quiero escucharte mas, ))Vete
+Dios santo, no quiero escucharte m{s, ))Vete
 <$F3><$FF>
 <$04><$00>
 
@@ -1036,7 +1036,7 @@ Esto es lo que pone en el papel que te da Mochizuki:
 //　　うやつらと暮らし・・・
 \n
 //...now he's stuck with the flesh-eating monsters that live in the darkness of the underground caves...
-...ahora est{ atrapado con esos monstruos come-carne que viven en esas oscuras cuevas subterraneas.
+...ahora est{ atrapado con esos monstruos come-carne que viven en esas oscuras cuevas subterr{neas.
 
 <$FA><$FF>
 <$F8><$FF>
@@ -1134,7 +1134,7 @@ Oye, (Alguna vez oiste el rumor que hablar sobre los monstruos
 //　　話を。\n
 //　　そいつらと一緒に兄さんが
 //live in an underground cave below the school? My brother could be trapped there with them
-que viven en una cueva subterranea bajo la escuela? )Mi hermano podr&a estar atrapado all&
+que viven en una cueva subterr{nea bajo la escuela? )Mi hermano podr&a estar atrapado all&
 
 <$F3><$FF>
 <$04><$00>

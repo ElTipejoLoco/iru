@@ -323,7 +323,7 @@ Inaba... (Has disfrutado la siesta?
 //こんなところで寝てると風邪\n
 //　　ひいちゃうよ
 //You'll catch a cold if you sleep here, you know
-Ademas, )Te vas a resfriar si sigues durmiendo aqu&
+Adem{s, )Te vas a resfriar si sigues durmiendo aqu&
 <$F3><$FF>
 <$04><$00>
 //！　　　　　　」
@@ -1572,7 +1572,7 @@ Yuma\n
 //　　いい方法があるよ！　　　　」
 Inaba\n
 //"Hmm... Oh! I'll run to the nurse's office then! They might have something we can use."
-"Mmm... )Oye! )Voy a la enfermer&a! Quiz{s all& tengan vendas o algo que podamos usar."
+"... )Ya se! )Voy a la enfermer&a! Quiz{s all& tengan vendas o algo que podamos usar."
 <$FA><$FF>
 <$F8><$FF>
 //由麻\n
@@ -1586,7 +1586,7 @@ Yuma\n
 //　　ここにいるから、必ず帰って\n
 //　　来てね
 //okay, I'll wait here then. You better come back for me, okay
-Vale, te espero aqu&. Mas te vale que vuelvas a por mi, (Ok
+Vale, te espero aqu&. m{s te vale que vuelvas a por mi, (Ok
 <$F3><$FF>
 <$04><$00>
 //・・・。　　　　　　」

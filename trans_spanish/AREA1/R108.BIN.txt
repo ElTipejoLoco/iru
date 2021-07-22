@@ -247,7 +247,7 @@ Aun as&, traicionas tus instintos y continuas leyendo.
 //Å@Å@ä¥Ç∂ÇÁÇÈÇÊÇ§Ç…Ç»Ç¡ÇΩ
 \n
 //The cold grows without signs of stopping, and a foul odor floats through the air.
-El fr&o se hace cada vez mas presente en la sala y un olor f}tido aflora de la nada.
+El fr&o se hace cada vez m{s presente en la sala y un olor f}tido aflora de la nada.
 
 <$FA><$FF>
 <$F8><$FF>

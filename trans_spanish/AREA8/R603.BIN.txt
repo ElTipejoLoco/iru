@@ -62,7 +62,7 @@ Masayoshi\n
 //　　彼らに心を開いていった。
 \n
 //The longer I lived with them down here, the more they opened up to me.
-Cuanto m{s tiempo pasaba con ellos aqu&, m{s aceptaban mi presencia.
+Cuanto m{s tiempo pasaba con ellos aqu&, m{s aceptaron mi presencia.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -218,7 +218,7 @@ Inaba\n
 //　　突き落とされたんだ。
 Masayoshi\n
 //"...a lot happened. A woman named Hojou threw me down here.
-"....Uf, es complicado. La profesora Hojou me encerr[ aqu&.
+"....Es complicado.Una mujer llamada Hojou me encerr[ aqu&.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -227,7 +227,7 @@ Masayoshi\n
 //　　通りだ。　　　　　　　　」
 \n
 //...the rest is as you heard."
-...el resto es como has oido."
+...el resto ya lo conoces..."
 <$FA><$FF>
 <$F8><$FF>
 
@@ -290,7 +290,7 @@ Inaba\n
 //　　没頭していた。
 Masayoshi\n
 //"Together with a student named Kamiyama, the three of us devoted ourselves to archaeology.
-"Juntos con un estudiante llamado Kamiyama, los tres quer&amos dedicarnos a la arqueologia.
+"Juntos con un estudiante llamado Kamiyama, los tres quer&amos dedicarnos a la arqueolog&a.
 <$FA><$FF>
 <$F8><$FF>
 
@@ -489,7 +489,7 @@ Despu}s de esto, te acechar{ el mal.
 //　「ん、まだいたのか？　　　　」
 Masayoshi\n
 //"Hmm? You're still here?"
-"(Mmm? (Sigues aqu& abajo?"
+"(Ehh? (Sigues aqu& abajo?"
 <$FA><$FF>
 <$F8><$FF>
 <$F5><$FF>

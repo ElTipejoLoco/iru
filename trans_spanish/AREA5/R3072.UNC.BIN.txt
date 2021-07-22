@@ -149,7 +149,7 @@ Nakanishi\n
 //しかしどうやって動かそう\n
 //　　かなぁ？　無理かなぁ
 //Hmm, they're really jammed in there and won't budge
-Mmm, est{n totalmente atascados y no puedo moverlos
+Ehh... est{n muy atascados y es imposible moverlo
 <$F3><$FF>
 <$04><$00>
 
@@ -527,7 +527,7 @@ Nakanishi\n
 //　　稲葉、机がないぞーっ！！\n
 //　　ここから逃げれる
 //Hey, Inaba! The desks are gone, we can finally escape
-)Oye, Inaba! Han quitado los pupitres, ))Podemos escapar
+)Mira Inaba! Han quitado los pupitres, ))Podemos escapar
 <$F3><$FF>
 <$04><$00>
 

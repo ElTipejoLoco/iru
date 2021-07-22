@@ -32,7 +32,7 @@ Inaba\n
 //　　も危ないぞ！　　　　　　　」
 \n
 //If I get any closer, that monster will get me too!"
-)Si me acerco mas, ese monstruo me matar{ tambi}n!"
+)Si me acerco m{s, ese monstruo me matar{ tambi}n!"
 
 <$FA><$FF>
 <$F8><$FF>
@@ -49,7 +49,7 @@ Inaba\n
 //　　も危ないぞ！　　　　　　　」
 Inaba\n
 //"If I get any closer, that monster will get me too!"
-)Si me acerco mas, ese monstruo me matar{ tambi}n!"
+)Si me acerco m{s, ese monstruo me matar{ tambi}n!"
 
 <$FA><$FF>
 <$F8><$FF>

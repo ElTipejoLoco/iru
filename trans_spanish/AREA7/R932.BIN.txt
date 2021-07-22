@@ -22,7 +22,7 @@ Nakanishi\n
 //おい、これ見ろよ。\n
 //　　防火シャッターが降りてるぜ
 //Hey, check this out. The fire shutter's down
-Oye, mira. Han cerrado la salida de incendios
+Mira, han cerrado la salida de incendios
 <$F3><$FF>
 <$04><$00>
 
