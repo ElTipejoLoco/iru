@@ -397,7 +397,7 @@ Kazuki, has tardado... Aj, (Qu} quieres ahora Inaba
 //　　してたよ。　　　　　　　　」
 Inaba\n
 //"If you mean Hikawa, he was just in front of the B side men's bathroom working on something."
-"Si buscas a Hikawa, est{ justo en frente del ba]o de los chicos en el otro ala de la escuela."
+"Si buscas a Hikawa, est{ justo en frente del ba]o de los chicos en la otra ala de la escuela."
 <$FA><$FF>
 <$F8><$FF>
 

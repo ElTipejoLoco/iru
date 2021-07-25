@@ -75,7 +75,7 @@ Nakanishi\n
 //　　まあ、いいや、反対側の階段\n
 //　　を使おう
 //Ugh, jeez. Fine, I'll just use the stairs on the other side
-Ugh, venga vale. Ir} al otro ala para usar las escaleras
+Ugh, venga vale. Ir} a la otra ala para usar las escaleras
 <$F3><$FF>
 <$04><$00>
 

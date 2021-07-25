@@ -1708,7 +1708,7 @@ Te he estado buscando, Ichinomiya
 //氷川君も、生徒指導室で生徒\n
 //　　会の仕事するんだけど
 //You and Hikawa have student council business in the counseling room
-Hikawa y tu ten}is reuni[n del consejo en la sala de orientaci}n laboral
+Hikawa y tu ten}is reuni[n del consejo en la sala de orientaci[n laboral
 
 <$F3><$FF>
 <$68><$00>
