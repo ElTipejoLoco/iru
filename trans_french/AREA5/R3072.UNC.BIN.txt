@@ -1,0 +1,857 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000104C)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「あれっ氷川、こんな所で\n
+//　　何してるんだ？　　　　　　」
+Inaba\n
+"Hikawa? What're you doing here?"
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F1><$FF>
+
+//氷川\n
+//　「・・・
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//明日の準備だよ、\n
+//　　悪りいか？\n
+//　　ここは今通れねぇからな
+Preparing for tomorrow. Got a problem? You'll have to find another way down
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「由麻に用事があるんじゃない\n
+//　　のか？　　　　　　　　　　」
+Inaba\n
+"Don't you have business with Yuma?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//氷川\n
+//　「・・・
+Hiwaka\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ああ
+That I do
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000138
+#WRITE(MYPTR, $00001140)
+<$F5><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//こっちが済んだら行くからよ。
+I'll go see her once this is done.
+
+<$F3><$FF>
+<$04><$00>
+
+//」
+"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000174
+#WRITE(MYPTR, $00001388)
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//最後は机かぁーっ！！\n
+//　　俺は下へ行くんだ！\n
+//　　机全部どけてやるぅー
+And then this way's blocked by desks!! I need to get down a floor, what the hell! I'm breaking this down
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000001E0
+#WRITE(MYPTR, $00001398)
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//しかしどうやって動かそう\n
+//　　かなぁ？　無理かなぁ
+Hmm, they're really jammed in there and won't budge
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000238
+#WRITE(MYPTR, $000013C8)
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//こんなに机積んであるし、\n
+//　　停電で真っ暗じゃ、もう\n
+//　　お手上げだね
+There's all these chair piles, locked shutters, and now a power outage!?<$20>Fuck it, I'm done with this
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002AC
+#WRITE(MYPTR, $0000161C)
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//入って見てきたか
+Did you really just check in there
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「ああ、\n
+//　　でもなにもなかった・・・。」
+Inaba\n
+"Yeah, but I couldn't find anything."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//えーっ！　おまえ女子便所に\n
+//　　入って、なに探してきたんだ\n
+//　　よ
+What the hell were you hoping to find in the girl's bathroom
+
+<$F3><$FF>
+<$04><$00>
+
+//！？　　　　　　　　　　」
+!?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「ち、ちがうよ！\n
+//　　さっき言ってた死体だよ！　」
+Inaba\n
+"N-nothing like that! I was checking for the dead body, like I said!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003CC
+#WRITE(MYPTR, $0000162C)
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//まだ言ってるのか？\n
+//　　それ、ひっかからないって
+You're still going on about that, huh? No one's going to fall for that
+
+<$F3><$FF>
+<$04><$00>
+
+//！」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000041C
+#WRITE(MYPTR, $00001658)
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//どうした
+What's up
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「二年生の女の子見なかった？」
+Inaba\n
+"Have you seen two 2nd year girls around?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//いや、見なかったぞ
+Nope, can't say I have
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000004B0
+#WRITE(MYPTR, $00001668)
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//見かけたらおまえが探してた\n
+//　　って言っとくよ
+I'll tell them you were looking if they come this way
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000508
+#WRITE(MYPTR, $00001690)
+<$F5><$FF>
+
+//稲葉\n
+//　「二年生の女の子がその友達に\n
+//　　殺されたんだ！！　　　　　」
+Inaba\n
+"One of the 2nd year girls just killed her friend!!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ど、どこで
+W-where
+
+<$F3><$FF>
+<$04><$00>
+
+//！？　　　　　　」
+!?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「廊下の反対側の\n
+//　　女子トイレだ！！　　　　　」
+Inaba\n
+"In the women's bathroom down the hall!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//本当かよ！　よし、\n
+//　　行ってみ・・・っと待った
+Oh man... Alright I'll go-- wait a minute
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//そうやって女子トイレに\n
+//　　入らせようって魂胆だろ
+You're just trying to get me in trouble by going into the women's bathroom, aren't you?
+
+<$F3><$FF>
+<$04><$00>
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//いくらなんでもそんなのには\n
+//　　ひっかからないよ
+You had me for a second, but no way I'm falling for something like that
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000006A4
+#WRITE(MYPTR, $000016B4)
+<$F5><$FF>
+
+//稲葉\n
+//　「本当なんだ！！　　　　　　」
+Inaba\n
+"I'm telling the truth!!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//じゃあおまえが行って見て\n
+//　　来いよ！\n
+//　　行けないだろう
+Fine, then you go in there and check! I bet you can't, can you
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000734
+#WRITE(MYPTR, $0000178C)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//中西\n
+//　「
+Nakanishi\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//おーい！\n
+//　　稲葉、机がないぞーっ！！\n
+//　　ここから逃げれる
+Hey, Inaba! The desks are gone, we can finally escape
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　」
+!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「な、中西！　う、う、後ろ！」
+Inaba\n
+"N-Nakanishi! B-b-behind you!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//中西\n
+//　「えっ？　う、うわぁーっ！\n
+//　　た、たすけ・・てく・れ・・・\n
+//　　ぎぇ！　ぎゃぁぁーー！！　　」
+Nakanishi\n
+"Huh? W-waaahh!! H-help me!! Inaa---arugghhh!!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「・・・何だ！？　こいつ・・・\n
+//　　どうなってるんだ、ここは！？」
+Inaba\n
+"What the fuck is that thing!? What the hell is going on!?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 0000089C
+#WRITE(MYPTR, $0000183C)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「ヒィッ！　く、来るな・・・」
+Inaba\n
+"AHH! S-STAY BACK!"
+
+<$F1><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「イヤだっ！　イヤだーっ！！」
+Inaba\n
+"Nonononono!!"
+
+<$F1><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「あっ！　ギャ、ギャーッ！！」
+Inaba\n
+"AHHHHHHHHHHHH!!!!"
+
+<$F1><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+
+//\n
+//
+\n
+
+<$FF><$FF>
+<$37><$00>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000940
+#WRITE(MYPTR, $00001910)
+<$F2><$FF>
+<$F6><$FF>
+<$F5><$FF>
+
+//\n
+//　肉塊の入った瓶を　ショゴスの前\n
+//　の床に置いた！
+\n
+- You set the jar of flesh in front of the Shoggoth! -
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$FF><$FF>
+<$3C><$00>
+<$F6><$FF>
+<$FF><$FF>
+<$B4><$00>
+<$F6><$FF>
+<$F1><$FF>
+<$FF><$FF>
+<$D2><$00>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000998
+#WRITE(MYPTR, $0000196C)
+<$F5><$FF>
+
+//稲葉\n
+//　「これ以上近づいたら、あぶな\n
+//　　いな。　　　　　　　　　　」
+Inaba\n
+"It'd be dangerous to get any closer."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000009E8
+#WRITE(MYPTR, $00002514)
+<$F5><$FF>
+
+//稲葉\n
+//　「鍵がかかっている。　　　　　」
+Inaba\n
+"It's locked."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000A1C
+#WRITE(MYPTR, $00002640)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+- There are posters on the board. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+"There's nothing really interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000AB0
+#WRITE(MYPTR, $0000276C)
+<$F5><$FF>
+
+//\n
+//　－　机が積み上げられていて\n
+//　　　しっかり固定されている　－
+\n
+- The desks are shoved firmly into a pile blocking the path.-
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「これじゃ、どかしようが\n
+//　　ないな。
+Inaba\n
+"I guess I can't get through this way.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　氷川は、いったい何をやろう\n
+//　　としてるんだ？　　　　　　」
+\n
+What is Hikawa up to?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000B74
+#WRITE(MYPTR, $00002898)
+<$F5><$FF>
+
+//\n
+//　－　机が積み上げられていて\n
+//　　　しっかり固定されている　－
+\n
+- The desks are shoved firmly into a pile blocking the path.-
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「これじゃ、どかしようが\n
+//　　ないな。
+Inaba\n
+"I guess I can't get through this way.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　いったい誰が、こんなことを\n
+//　　したんだ？　　　　　　　　」
+\n
+Who the hell did this?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000C38
+#WRITE(MYPTR, $00002A18)
+<$EF><$FF>
+
+//　　　　　　　会議室
+Meeting Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000C58
+#WRITE(MYPTR, $00002AC0)
+<$F0><$FF>
+
+//　　　　　　　会議室\n
+//　　－　カギが掛かっている　－
+Meeting Room\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000C98
+#WRITE(MYPTR, $00002B68)
+<$F0><$FF>
+
+//　　　　　　　小会議室\n
+//　　－　カギが掛かっている　－
+Small Meeting Room\n
+- Locked -
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000CD8
+#WRITE(MYPTR, $00002C10)
+<$F0><$FF>
+
+//　　　　　　　空き室\n
+//　　－　カギが掛かっている　－
+Empty Room\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000D18
+#WRITE(MYPTR, $00002CA0)
+<$EF><$FF>
+
+//　　　　　　男子トイレ
+Men's Restroom
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($00000D3A, "WARNME")

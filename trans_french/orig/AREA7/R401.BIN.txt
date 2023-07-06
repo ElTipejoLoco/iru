@@ -1,0 +1,20 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP(-1)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000198)
+<$EF><$FF>
+
+//　　　　　　　テラス
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+

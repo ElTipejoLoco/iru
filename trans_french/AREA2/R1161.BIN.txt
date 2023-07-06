@@ -1,0 +1,178 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00000B40)
+<$F5><$FF>
+
+//\n
+//　シャッターの隙間に　ジャッキを\n
+//　入れて　こじ開けた！
+\n
+- You wedged the jack in and forced the shutter open! -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「これだけ隙間が開いていれば\n
+//　　しゃがんで通れそうだ。　　」
+Inaba\n
+"I should be able to get under here by crouching now."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000094
+#WRITE(MYPTR, $00000C9C)
+<$F5><$FF>
+
+//\n
+//－　シャッターが　完全に閉まり\n
+//　　きっておらず　下に少し透き\n
+//　　間ができている　　　　　　　－
+\n
+- The shutter is stuck. You can see a little bit of light coming in from the bottom. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000104
+#WRITE(MYPTR, $00000ED0)
+<$F5><$FF>
+
+//\n
+//－　生徒会が作った　学園祭の\n
+//　　ポスターだ　　　　　　　　－
+\n
+- It's a poster for the school festival made by the student council. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000150
+#WRITE(MYPTR, $00001000)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+- There are posters on the board. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+"There's nothing really interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000001E4
+#WRITE(MYPTR, $0000132C)
+<$F0><$FF>
+
+//　　　　　　　１－４\n
+//　　－　カギが掛かっている　－
+1 - 4\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000224
+#WRITE(MYPTR, $000013D4)
+<$F0><$FF>
+
+//　　　　　　　１－３\n
+//　　－　カギが掛かっている　－
+1 - 3\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000224
+#WRITE(MYPTR, $0000147C)
+<$F0><$FF>
+
+//　　　　　　　１－３\n
+//　　－　カギが掛かっている　－
+1 - 3\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 00000264
+#WRITE(MYPTR, $0000150C)
+<$EF><$FF>
+
+//　　　　　　　１－２
+1 - 2
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000284
+#WRITE(MYPTR, $0000159C)
+<$EF><$FF>
+
+//　　　　　　生徒用玄関
+Student Entrance
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 000002A8
+#WRITE(MYPTR, $0000162C)
+<$EF><$FF>
+
+//　　　　　　　礼拝堂
+Chapel
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($000002C8, "WARNME")

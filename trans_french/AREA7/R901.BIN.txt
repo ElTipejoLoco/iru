@@ -1,0 +1,268 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000052C)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「も、望月！？\n
+//　　・・・おまえが？　　　　　　」
+Inaba\n
+"M-Mochizuki?! ...did you...?"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$01><$00>
+
+//い、稲葉！！　助けてくれ！！\n
+//　　ぼ、僕が、僕がやったのかな
+I-Inaba!! Help me!! I-I... D-did I...
+
+<$F3><$FF>
+<$01><$00>
+
+//！？
+!?
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+
+//　　
+\n
+
+<$F3><$FF>
+<$01><$00>
+
+//そうなのかな
+...did I really
+
+<$F3><$FF>
+<$01><$00>
+
+//？\n
+//　　・・・
+...? 
+\n
+
+<$F3><$FF>
+<$01><$00>
+
+//そ、そんな
+...no, no I couldn't have
+<$F3><$FF>
+<$01><$00>
+
+//！！　　　　」
+!!"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「落ち着けって、冷静になれ！\n
+//　　いったい何をしてんだよ！　　」
+Inaba\n
+"Calm down and take a deep breath. What happened?"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$01><$00>
+
+//あのとき、誰かの声と共に、ひ、\n
+//　　ひどい頭痛におそわれて
+I heard a voice, t-then a horrible headache came
+
+<$F3><$FF>
+<$01><$00>
+
+//・・・\n
+//　　
+...
+\n
+
+<$F3><$FF>
+<$01><$00>
+
+//そのまま意識が遠のいて
+Then everything got fuzzy
+
+<$F3><$FF>
+<$01><$00>
+
+//・・・。
+...
+
+<$FF><$FF>
+<$5A><$00>
+<$F8><$FF>
+
+//　　
+
+<$F3><$FF>
+<$01><$00>
+
+//その後だ、気がついたら、ぼ、\n
+//　　僕はここにいた
+When I came to, I-I was here
+
+<$F3><$FF>
+<$01><$00>
+
+//・・・
+...
+\n
+
+<$F3><$FF>
+<$01><$00>
+
+//そして、\n
+//　　目の前で人が
+Then, I-I saw this body in front of me
+
+<$F3><$FF>
+<$01><$00>
+
+//・・・。
+...
+
+<$FF><$FF>
+<$5A><$00>
+<$F8><$FF>
+
+//　　
+\n
+
+<$F3><$FF>
+<$01><$00>
+
+//人が死んでいる
+T-they're dead
+
+<$F3><$FF>
+<$01><$00>
+
+//・・・
+...
+\n
+
+<$F3><$FF>
+<$01><$00>
+
+//ぼ、僕は\n
+//　　おかしくなってしまったのかな
+A-am I going crazy
+
+<$F3><$FF>
+<$01><$00>
+
+//\n
+//　　・・・。
+...?
+\n
+
+<$FF><$FF>
+<$5A><$00>
+<$F8><$FF>
+
+//　　うああぁ・・・まただ！\n
+//　　また頭があああぁ・・・。　　」
+Argh... N-Not again! My head...!"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000002EC
+#WRITE(MYPTR, $00000A1C)
+<$F5><$FF>
+
+//\n
+//　－　机が積み上げられていて\n
+//　　　しっかり固定されている　－
+\n
+- The desks are piled up and stuck firmly together. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「これじゃ、退かしようが\n
+//　　ないな。
+Inaba\n
+"I can't get passed them like this.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　氷川は、いったい何をやろう\n
+//　　としてるんだ？　　　　　　」
+\n
+What the hell did Hikawa do this for?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003B0
+#WRITE(MYPTR, $00000B48)
+<$F5><$FF>
+
+//\n
+//－　防火シャッターが降りている　－
+\n
+- The fire shutter is closed. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「ここも！？\n
+//　　なにか法則性がある閉まり方\n
+//　　を、しているのか！？　　　」
+Inaba\n
+"Here too!? Did someone shut them all at once somehow!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000438, "WARNME")

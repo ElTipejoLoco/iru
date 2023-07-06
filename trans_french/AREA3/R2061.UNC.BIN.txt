@@ -1,0 +1,310 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000086C)
+<$F2><$FF>
+<$F6><$FF>
+<$FF><$FF>
+<$64><$00>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000014
+#WRITE(MYPTR, $000008EC)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 0000001C
+#WRITE(MYPTR, $000009C0)
+<$F2><$FF>
+<$F5><$FF>
+
+//　恐る恐る　青い小玉を口に含み、\n
+//　『エイボンの書』に書かれていた\n
+//　通り　神聖文字で書かれている\n
+//　呪文を終わりから逆に唱えた！
+- You timidly place the blue jewel in your mouth and recite the spell written in the "Book of Eibon" backwards! -
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000000B0
+#WRITE(MYPTR, $00000ADC)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「・・・！？
+Inaba\n
+"...!?
+
+<$F1><$FF>
+<$F8><$FF>
+
+//\n
+//　　・・・由麻！？　　　　　　」
+\n
+...Yuma!?"
+
+<$FF><$FF>
+<$5A><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//由麻\n
+//　「
+Yuma\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//きゃぁっ
+Ahh
+<$F3><$FF>
+<$04><$00>
+
+//・・・！？\n
+//　　
+...!? I-is that you,<$20>
+
+<$F3><$FF>
+<$04><$00>
+
+//い、稲葉くんなの
+Inaba
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　」
+?"
+
+<$FF><$FF>
+<$5A><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「よかった、大丈夫か？　　　」
+Inaba\n
+"I'm glad to see you. Are you okay?"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//由麻\n
+//　「
+Yuma\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//わ、私
+I-I
+<$F3><$FF>
+<$04><$00>
+
+//・・・！？
+...!?<$20>
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//きゃぁっー
+Ahhh--
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　　　　　」
+!!"
+
+<$FF><$FF>
+<$28><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「由麻！！　　　　　　　　　」
+Inaba\n
+"Yuma!!"
+
+<$FF><$FF>
+<$28><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000224
+#WRITE(MYPTR, $00000B24)
+<$F5><$FF>
+
+//稲葉\n
+//　「これ以上近づいたら、あぶな\n
+//　　いな。　　　　　　　　　　」
+Inaba\n
+"It'd be dangerous to get any closer."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000274
+#WRITE(MYPTR, $00000CC8)
+<$F5><$FF>
+
+//稲葉\n
+//　「な、何だ！？\n
+//　　図書室の中・・・か？　　　」
+Inaba\n
+"W-what was that!? Is there something in the library...?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000002B8
+#WRITE(MYPTR, $00001924)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+- There are posters on the board. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+"There's nothing really interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000034C
+#WRITE(MYPTR, $00001AE0)
+<$F0><$FF>
+
+//　　　　　　理科準備室\n
+//　　－　カギが掛かっている　－
+Science Club Office\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 0000038C
+#WRITE(MYPTR, $00001B70)
+<$EF><$FF>
+
+//　　　　　　　理科室
+Science Club
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 0000038C
+#WRITE(MYPTR, $00001C00)
+<$EF><$FF>
+
+//　　　　　　　理科室
+Science Club
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 000003AC
+#WRITE(MYPTR, $00001CA8)
+<$F0><$FF>
+
+//　　　　　　　図書室\n
+//　　－　カギが掛かっている　－
+Library\n
+- Locked -
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$00><$00>
+
+
+//Pos : 000003EC
+#WRITE(MYPTR, $00001D38)
+<$EF><$FF>
+
+//　　　　　　　図書室
+Library
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($0000040C, "WARNME")

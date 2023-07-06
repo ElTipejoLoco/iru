@@ -1,0 +1,189 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $0000081C)
+<$F0><$FF>
+
+//　　　　　　　職員室
+Staff Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「脱出方法を捜しながら、少し\n
+//　　時間をあけて、また様子\n
+//　　を見に来よう。　　　　　　」
+Inaba\n
+"I should check back here later; searching for an exit is more important right now."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000008C
+#WRITE(MYPTR, $00000830)
+<$F0><$FF>
+
+//　　　　　　　職員室
+Staff Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「先生はなにか知ってる！！\n
+//　　しかし、どういう事だ！？
+Inaba\n
+"What isn't Ms. Hojou telling me!?<$20>What's going on!?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　誰のことだ？　とめるって？\n
+//　　この事件と関係あるのか？
+\n
+Who? Stop what? Is it related to what's happenning now?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　そして、先生は味方なのか？\n
+//　　それがはっきりするまでは\n
+//　　近づくべきじゃないな。　　」
+\n
+And, is Ms. Hojou on our side? I shouldn't approach her until I know for sure."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000198
+#WRITE(MYPTR, $0000095C)
+<$F5><$FF>
+
+//\n
+//－　掲示板にプリントが　掲示\n
+//　　されている　　　　　　　　－
+\n
+- There are posters on the board. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に目を引くような掲示物は\n
+//　　ないな。　　　　　　　　　」
+Inaba\n
+"There's nothing really interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000022C
+#WRITE(MYPTR, $00000A34)
+<$EF><$FF>
+
+//　　　　　　　職員室
+Staff Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 0000024C
+#WRITE(MYPTR, $00000AC4)
+<$EF><$FF>
+
+//　　　　　　　校長室
+Principal's Office
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 0000026C
+#WRITE(MYPTR, $00000B54)
+<$EF><$FF>
+
+//　　　　　　開かずの間
+Sealed Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「！？
+Inaba\n
+"!?<$20>
+
+<$FF><$FF>
+<$3C><$00>
+
+//　あっ、開いてる！\n
+//　　いつもは絶対に開いてない\n
+//　　“開かずの間”なのに？　　」
+I-it opened! But this 'Sealed Room' has always been a locked mystery?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 000002FC
+#WRITE(MYPTR, $00000BF0)
+<$EF><$FF>
+
+//　　　　　　開かずの間
+Sealed Room
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+//Pos : 00000320
+#WRITE(MYPTR, $00000C80)
+<$EF><$FF>
+
+//　　　　　　男子トイレ
+Men's Restroom
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$EE><$FF>
+<$00><$00>
+
+
+#WARN($0000031E, "WARNME")

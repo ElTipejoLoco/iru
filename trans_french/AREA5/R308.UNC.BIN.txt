@@ -1,0 +1,513 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000374)
+
+//Pos : 00000374
+#WRITE(MYPTR, $00003EA4)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//うっ、うわぁー
+A-AHHHHHH
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　　」
+!!"
+
+<$FF><$FF>
+<$3C><$00>
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+
+//広瀬\n
+//　「
+Hirose\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//な、なんだ！？\n
+//　　こ、こいつ・・・あわわっ、\n
+//　　来るな！来るなぁー
+W-what the hell? N-no, s-stay back! STAY BACK
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　」
+!!"
+
+<$FF><$FF>
+<$3C><$00>
+<$FF><$FF>
+<$3C><$00>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//不用意に近づくなんて馬鹿な\n
+//　　ヤツだ
+It's his fault for approaching something like that haphazardly
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//ティンダロスに追われること\n
+//　　も知らないで
+It seems he didn't know about the Hounds of Tindalos either
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//まぁ知らんから見たんだろう\n
+//　　がな
+Well, how would he have known
+
+<$F3><$FF>
+<$68><$00>
+
+//。　　　　　　　　　　」
+?"
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F1><$FF>
+
+//稲葉\n
+//　「なんだ今のは！？\n
+//　　ティ、ティンダロス？？　　」
+Inaba\n
+"What the hell was that!? A Hound of T-Tindalos!?"
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//時間の角。私達の想像すら\n
+//　　できない場所に住んでいる、\n
+//　　血に飢えた凶獣のことだ
+They come from the corners of time. Those crazed, bloodthirsty beasts live in those unimaginable places
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//はるかに遠い過去の時間\n
+//　　の角には危険が潜んでいるの\n
+//　　だよ。誰も知らない事だ
+Danger lurks in the long past corners of time. Things that no one should know
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//あの、床に転がる鏡は名を\n
+//　　『ノートランの鏡』と言い、\n
+//　　呪文を使えば過去が見られる
+That mirror on the ground is called 'Notran's Mirror.' When activated, you can view the past
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//奴は必ずその過去にいる。\n
+//　　奴と目が合った者は奴の\n
+//　　狩りの対象になるのだよ
+But, those things live in the past. Just seeing them makes you a target for their hunt
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//そうなれば、何人も、どんな\n
+//　　状況でも逃げられない。\n
+//　　奴はしつこく追ってくる
+They'll chase you to the ends of the Earth without question. Your death will be inevitable
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//鏡にかけられた呪文の効果が\n
+//　　しばらくは続くだろう。\n
+//　　近づかない方が身のためだ
+The mirror will still be active for a while longer. I can't say I recommend testing it out
+
+<$F3><$FF>
+<$68><$00>
+
+//。」
+."
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「何言ってんだよ！\n
+//　　広瀬が、広瀬が。　　　　　」
+Inaba\n
+"What the hell are you talking about!?<$20>Hirose... he's..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//フーム、この鏡を人殺しの\n
+//　　道具に使うとはなぁ
+Still, I'm impressed that someone used this mirror as a murder weapon
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//好奇心を逆手に取る。\n
+//　　この事を知っていても覗く\n
+//　　かもしれないな
+It uses someone's curiosity against them. Even if they know what it does, they might look anyway
+
+<$F3><$FF>
+<$68><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$68><$00>
+
+//しかし、こいつは豪華な仕掛\n
+//　　けだな
+It's a bit extravagant though for my taste
+
+<$F3><$FF>
+<$68><$00>
+
+//！　　　　　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「どうしちゃったんだよ！\n
+//　　望月！　　　　　　　　　　」
+Inaba\n
+"Mochizuki! What the fuck are you talking about!?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//さっき君と会ったのは確か、\n
+//　　資料室だったかな、フム
+I just met you in the Reference Room, right
+
+<$F3><$FF>
+<$68><$00>
+
+//。　」
+?"
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000984
+#WRITE(MYPTR, $00003F54)
+<$F2><$FF>
+<$F1><$FF>
+
+//\n
+//
+\n
+
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000990
+#WRITE(MYPTR, $0000409C)
+<$F5><$FF>
+
+//\n
+//　　－　　広瀬が死んでいる　　－
+\n
+- Hirose is dead. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　体中の水分が　全て吸われて\n
+//　　しまったようにしぼんでいる
+\n
+- It looks like all the water has been drained from his body.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　死体には　異臭を放つ青い\n
+//　　液体が　べったり付いている　－
+\n
+His body is covered in a foul-smelling, sticky, blue liquid. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000ABC
+#WRITE(MYPTR, $000044C0)
+<$F5><$FF>
+
+//\n
+//　　－　　回線が切れている　　－
+\n
+- The line has been cut. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「あれ？　通じないぞ？　　　」
+Inaba\n
+"Huh? Why would someone do that?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//
+
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000A48
+#WRITE(MYPTR, $000044D0)
+<$F5><$FF>
+
+//\n
+//　　－　　回線が切れている　　－
+\n
+- The line has been cut. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「せめて、下と内線で連絡を\n
+//　　とりたかったんだけど。　　」
+Inaba\n
+"I can't even call other phones in the school with this."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000B14
+#WRITE(MYPTR, $000044E0)
+<$F5><$FF>
+
+//\n
+//　　－　　回線が切れている　　－
+\n
+- The line has been cut. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「ちくしょう！\n
+//　　外と連絡がとれれば・・・。」
+Inaba\n
+"Damnit! If only I could reach the outside world!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000B7C
+#WRITE(MYPTR, $0000460C)
+<$F5><$FF>
+
+//稲葉\n
+//　「鍵がかかっている。　　　　　」
+Inaba\n
+"It's locked."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00000BAE, "WARNME")

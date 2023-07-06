@@ -1,0 +1,2554 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $00003848)
+<$F5><$FF>
+
+//森\n
+//　「・・・
+Mori\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//な、なんだね君は。\n
+//　　北条先生だったら留守だよ
+W-what do you want? If you're looking for Ms. Hojou, she stepped out
+
+<$F3><$FF>
+<$04><$00>
+
+//。」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000058
+#WRITE(MYPTR, $00003858)
+<$F5><$FF>
+
+//森\n
+//　「
+Mori\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//さぁ、早く帰りなさい
+Now, get going
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000090
+#WRITE(MYPTR, $000038D0)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「望月、どうしたんですか？　」
+Inaba\n
+"What happened with Mochizuki?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//さっきのことね・・・。\n
+//　　彼のお兄さんのこと、知って\n
+//　　る
+That, huh... How much do you know about his brother
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　　　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「いえ・・・。　　　　　　　」
+Inaba\n
+"Not a thing, actually."
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//彼のお兄さん、３年ほど前\n
+//　　この学校に在籍中、行方不明\n
+//　　になったの
+Well, around 3 years ago, his brother went missing while attending this school
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//真相は未だにわからないわ。\n
+//　　彼、私を慕っていてくれたの
+No one on the faculty knew, but he... was also in love with me
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//でも何もしてあげられなかっ\n
+//　　た・・・教師として今でも\n
+//　　責任を感じているわ
+As a teacher, I couldn't reciprocate his feelings. I feel his disappearance was partially my fault
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//望月くんもあの時からずっと\n
+//　　思い詰めているのね
+Mochizuki, as you saw, feels the same way about it
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//だから、責められても仕方が\n
+//　　ないわ・・・ね
+Mochizuki's brother trusted me, so I can't blame him for distrusting me, you know
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「・・・。　　　　　　　　　」
+Inaba\n
+"..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 0000034C
+#WRITE(MYPTR, $0000396C)
+<$F6><$FF>
+<$F1><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//えっ、人手を捜してるの？\n
+//　　広瀬君だったら時計の間に\n
+//　　いたと思うんだけど
+You said you're looking for your classmates? I think I saw Hirose by the center clock tower
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//いなかった
+Did you not see him there
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000003F8
+#WRITE(MYPTR, $00003B7C)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//今度はどんな用事かしら
+Do you need something else from me
+
+<$F3><$FF>
+<$04><$00>
+
+//？　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「由麻・・・一ノ宮さんを\n
+//　　捜してるんですけど・・・。」
+Inaba\n
+"I'm looking for Yuma, have you seen her around?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ああ、一ノ宮さんなら、\n
+//　　さっき職員室まで用事を\n
+//　　頼んだから
+Ahh, I asked Ms. Ichinomiya to take care of something for me in the Staff Room
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　　　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000004E0
+#WRITE(MYPTR, $00003B8C)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//もうそろそろ帰ってきても\n
+//　　いい頃ねぇ
+She's probably back by now I'd imagine
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000538
+#WRITE(MYPTR, $00003CE8)
+<$F2><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「・・・
+Hojou\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//なんとかするのよ
+I'll figure something out
+
+<$F3><$FF>
+<$04><$00>
+
+//！　」
+!"
+
+<$FF><$FF>
+<$78><$00>
+<$F6><$FF>
+<$F8><$FF>
+<$F1><$FF>
+
+//校長\n
+//　「
+Principal\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//はい。　おまかせ下さい。
+Right. I'm counting on you.
+
+<$F3><$FF>
+<$68><$00>
+
+//　」
+"
+
+<$FF><$FF>
+<$78><$00>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//校長\n
+//　「・・・
+Principal\n
+"...
+
+<$F3><$FF>
+<$68><$00>
+
+//ですな。\n
+//　　分かりましたね、北条先生。\n
+//　　頼みますよ
+understand, Ms. Hojou
+
+<$F3><$FF>
+<$68><$00>
+
+//。　　　　　　　」
+?"
+
+<$FF><$FF>
+<$78><$00>
+<$F6><$FF>
+<$F8><$FF>
+<$F1><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//はい、すみませんでした
+Yes. I'm sorry, sir
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+."
+
+<$FF><$FF>
+<$78><$00>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+<$F2><$FF>
+
+//校長\n
+//　「
+Principal\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//部屋に入るときは、ノック\n
+//　　くらいしなさい
+Remember to at least knock before entering a room
+
+<$F3><$FF>
+<$68><$00>
+
+//。　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F6><$FF>
+
+//稲葉\n
+//　「あ、はい。　すみません！　」
+Inaba\n
+"Ah, yes. Sorry sir."
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//稲葉くん、こんなところを\n
+//　　ウロウロして。\n
+//　　準備の方はもう終わったの
+What are you hanging around here for Inaba? Are you already finished
+
+<$F3><$FF>
+<$04><$00>
+
+//？」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「先生、なんか美術部の理恵\n
+//　　ちゃんの様子がおかしいんで\n
+//　　すよ。　　　　　　　　　　」
+Inaba\n
+"No, Rie from the Art Club is acting a little strange. I was hoping to get a teacher's help."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「・・・
+Hojou\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//様子がおかしい？\n
+//　　どういうことかしら
+acting strange? What do you mean
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・？」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「何というか・・・こう・・・\n
+//　　うまく言えないんですけど。」
+Inaba\n
+"She was, um... well... I'm not really sure how to explain it..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//そう・・・。\n
+//　　どこか具合が悪いのかしら
+I see. Did she seem ill or something
+
+<$F3><$FF>
+<$04><$00>
+
+//？」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「いえ、具合が悪いとかじゃ\n
+//　　ないんですけど・・・。　　」
+Inaba\n
+"No, she didn't look sick per se..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000008D8
+#WRITE(MYPTR, $00003EC0)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//思ったより早かったわね
+It's happening faster than I thought
+
+<$F3><$FF>
+<$04><$00>
+
+//。　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「？　何か言いましたか？　　」
+Inaba\n
+"Huh? Did you say something?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//ううん、何でもないの
+Ah no, it's nothing
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000096C
+#WRITE(MYPTR, $00003ED0)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//時間ができたら見に行くわ
+I'll drop by if I get a moment
+
+<$F3><$FF>
+<$04><$00>
+
+//。」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000009A4
+#WRITE(MYPTR, $0000405C)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+<$F2><$FF>
+
+//森\n
+//　「いい加減わかって下さい。\n
+//　　北条先生、いや、冴子さん。\n
+//　　私の気持ちに答えて下さい。
+Mori\n
+"Please understand Ms. Hojou, no, Saeko. I want you to answer my feelings.
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　色々と知ってるんですよ、\n
+//　　あなたのことを。　　　　　」
+\n
+Remember that I know a lot of 'things' about you.
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//なんのお話ですか、一体
+What could you possibly be talking about
+
+<$F3><$FF>
+<$68><$00>
+
+//？　」
+?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//森\n
+//　「
+Mori\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//しらばっくれてもわかってます。\n
+//　　教師という聖職に就きながら\n
+//　　あんな事をするなんてね
+Feigning ignorance won't stop me. To do something so vile while acting in the noble role of a teacher
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//知ってるのは私だけでしょう。\n
+//　　言いませんよ、誰にも。\n
+//　　言うことを聞いてくれればね
+I'm the only one who knows. And I plan on keeping it that way, if you catch my drift
+
+<$F3><$FF>
+<$04><$00>
+
+//。」
+."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//北条\n
+//　「・・・
+Hojou\n
+"...
+
+<$F3><$FF>
+<$68><$00>
+
+//いい加減にして下さい。\n
+//　　さもなくば
+you need to lay off, otherwise I'll--
+
+<$F3><$FF>
+<$68><$00>
+
+//・・・。　　　　　」
+"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「！？
+Hojou\n
+"!?<$20>
+
+<$FF><$FF>
+<$1E><$00>
+
+//・・・
+ 
+<$F3><$FF>
+<$68><$00>
+
+//稲葉君！\n
+//　　そこで何してるの
+Inaba! What are you doing here
+
+<$F3><$FF>
+<$68><$00>
+
+//。　　　　」
+?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//稲葉\n
+//　「す、すみません！\n
+//　　立ち聞きするつもりは・・・」
+Inaba\n
+"I-I'm sorry! I didn't mean to eavesdrop..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//森\n
+//　「・・・
+Mori\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//また来ますよ、分かっ\n
+//　　てくれるまでは
+I'll keep coming back until you understand
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　」
+."
+
+<$FF><$FF>
+<$78><$00>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000CC4
+#WRITE(MYPTR, $00004218)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//助かったわぁ。\n
+//　　何なのアレ
+That was good timing for you to enter. What the hell was wrong with him
+
+<$F3><$FF>
+<$68><$00>
+
+//・・・？　　　　」
+...?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000D10
+#WRITE(MYPTR, $00004354)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「先生！　大変なんです！　　」
+Inaba\n
+"Ms. Hojou! It's bad!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//稲葉くん、落ち着いて。\n
+//　　停電は
+Calm down, Inaba. It's just a power outage--
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・　　　　　　　」
+"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「そうじゃなくて！\n
+//　　理恵ちゃんが、何か、その、」
+Inaba\n
+"Not that! Rie's, well, umm..."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//さっきも聞いたわよ
+You said something like this earlier too, right
+
+<$F3><$FF>
+<$04><$00>
+
+//？
+?
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　・・・・・・。
+\n
+...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//そう・・・分かったわ、先に\n
+//　　行ってて。\n
+//　　私もすぐに行くから
+Alright. I'll go check on her in a second. Go stay with her for now
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　　」
+!"
+
+<$FA><$FF>
+<$F6><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000E78
+#WRITE(MYPTR, $00004448)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//どうしたのかしら
+What's going on
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000EB0
+#WRITE(MYPTR, $0000471C)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//さっきの続き
+You've got more to say
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「いえ、あの二人見ませんでし\n
+//　　た？　　　　　　　　　　　」
+Inaba\n
+"No, but have you seen those two at all?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//美術室にいるんじゃない
+Aren't they in the Art Room
+
+<$F3><$FF>
+<$04><$00>
+
+//？　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000F64
+#WRITE(MYPTR, $0000472C)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//クラスの作業をおわらせて\n
+//　　早く帰りなさい
+Please wrap up your preparations so you can head home
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000FBC
+#WRITE(MYPTR, $00004758)
+<$F5><$FF>
+
+//稲葉\n
+//　「先生、理恵ちゃんか\n
+//　　京子ちゃんを見かけませんで\n
+//　　したか？　　　　　　　　　」
+Inaba\n
+"Ms. Hojou, have you seen Rie or Kyoko?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//あっ、ごめんなさい！\n
+//　　さっき行くって言ったのに、\n
+//　　忙しくて
+Oh, I'm sorry! I said I'd go check on them, but I was just so busy
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//美術室にいない
+Are they not still in the Art Room
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　」
+?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000010AC
+#WRITE(MYPTR, $00004768)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//どうしたのそんな顔して
+Is something wrong? You look flustered
+
+<$F3><$FF>
+<$04><$00>
+
+//？　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000010E4
+#WRITE(MYPTR, $00004790)
+<$F5><$FF>
+
+//稲葉\n
+//　「先生、助けて下さい！　　　」
+Inaba\n
+"Ms. Hojou, help me!!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//どうしたの！？\n
+//　　そんなに慌てて
+What's wrong!? You're in such a panic
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「理恵ちゃんが京子ちゃんを\n
+//　　殺して、僕にも襲いかかって\n
+//　　きたんです！！　　　　　　」
+Inaba\n
+"Rie killed Kyoko and is coming for me next!!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//あまり良い種類の冗談とは\n
+//　　言えないわね
+If that was a joke, I'm not laughing
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「冗談なんかじゃないです！\n
+//　　本当なんです！！　　　　　」
+Inaba\n
+"I'm not joking around, it's the truth!!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//あの子達がそんなことすると\n
+//　　思う？　冗談じゃなければ\n
+//　　悪質なイタズラよ
+Do you really think those two friends would kill each other? I expected better from you, Inaba
+
+<$F3><$FF>
+<$04><$00>
+
+//！？　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「で、でも本当に・・・　　　」
+Inaba\n
+"B-but, I'm not--"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//いい加減にしないと\n
+//　　怒るわよ
+You better stop talking now if you don't want to make me mad
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　　　　　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000133C
+#WRITE(MYPTR, $000047B4)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//聞く耳持ちません
+No, I'm not listening anymore
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00001374
+#WRITE(MYPTR, $00004914)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「！？
+Inaba\n
+"!?<$20>
+
+<$FF><$FF>
+<$1E><$00>
+
+//・・・ま、まさか\n
+//　　理恵ちゃんじゃ？　　　　」
+C-could that be Rie!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「とりあえず、ここに・・・。」
+Inaba\n
+"I'll hide here for now."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//女の声\n
+//　「どうだ、進み具合は？　　　」
+Woman's Voice\n
+"How are the preparations going?"
+
+<$FF><$FF>
+<$78><$00>
+<$F6><$FF>
+<$F8><$FF>
+
+//氷川\n
+//　「
+Hikawa\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//順調に進んでいます。\n
+//　　ご心配なく
+Things are progressing smoothly, do not worry yourself
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　　」
+."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//女の声\n
+//　「私は最終的な儀式の準備に\n
+//　　入る。\n
+//　　後は任せたぞ！　　　　　　」
+Woman's Voice\n
+"I'll be preparing for the final ritual. The rest is up to you!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//氷川\n
+//　「・・・
+Hiwaka\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//はい
+Yes ma'am
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　　　」
+."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「フッ、せいぜい頑張って\n
+//　　下さいよ。\n
+//　　この俺さまのために・・・！」
+Hiwaka\n
+"Haha, make sure to do your best. I'll be reaping the rewards myself, however!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00001574
+#WRITE(MYPTR, $000049E4)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+<$F2><$FF>
+
+//北条\n
+//　「・・・
+Hojou\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//志・・・あ、あなたが\n
+//　　悪いのよ・・・すべて
+Masayoshi... T-this is all... my fau
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・」
+..."
+
+<$FF><$FF>
+<$78><$00>
+<$F6><$FF>
+<$F8><$FF>
+<$F1><$FF>
+
+//稲葉\n
+//　「聞き取れなかったけど望月の\n
+//　　兄さんの名前じゃ・・・。　」
+Inaba\n
+"I couldn't make it all out, but Masayoshi is Mochizuki's brother's name, right...?"
+
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00001628
+#WRITE(MYPTR, $00004BE4)
+<$F5><$FF>
+
+//稲葉\n
+//　「せ、先生！\n
+//　　む、向こうの階段に！\n
+//　　ば、化け物が！　　　　　　」
+Inaba\n
+"M-Ms. Hojou!! T-the stairs! There's a m-monster!!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//化け物
+A monster
+
+<$F3><$FF>
+<$04><$00>
+
+//！？\n
+//　　・・・
+!? Just calm down,
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//落ち着いて、稲葉くん
+Inaba
+
+<$F3><$FF>
+<$04><$00>
+
+//」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000016CC
+#WRITE(MYPTR, $00004D44)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「・・・
+Hojou\n
+"...
+
+<$F3><$FF>
+<$04><$00>
+
+//フフフ、すべて、\n
+//　　すべてが浄化される
+hahaha! If the blood ceremony to revive our god succeeds
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+,
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//この血の儀式の終りに神を\n
+//　　蘇らせれば
+all the filth in the world will be purged
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・、
+!
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//私の苦悩も・・・悲しみも\n
+//　　消えて無くなるのよ
+All my suffering, my sadness... All will be washed away
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　」
+!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「神？　まさか！？　　　　　」
+Inaba\n
+"Her god? Could it be!?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000017EC
+#WRITE(MYPTR, $00004DC0)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//－　写真がある。　三年前の日付だ。\n
+//　　写真に三人の人物が写っている。\n
+//　　それぞれ、北条・望月・神山と\n
+//　　書いてある　　　　　　　　　－
+- There's a photo here dated three years ago. There are three people, with Hojou, Masayoshi, and Kamiyama written below. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 0000188C
+#WRITE(MYPTR, $00004E28)
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「！？\n
+//　　・・・写真が抜き取られてる。」
+Inaba\n
+"...the picture is missing."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000018D0
+#WRITE(MYPTR, $00004ED8)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//も、望月くん
+M-Mochizuki
+
+<$F3><$FF>
+<$68><$00>
+
+//！？　　　　　　」
+!?"
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//冴子、久しぶりだな。\n
+//　　俺だよ
+Saeko, long time no see! I'm back
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。　　　　　　　」
+..."
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//な、何を言っているの？\n
+//　　望月くん
+W-what are you talking about, Mochizuki
+
+<$F3><$FF>
+<$68><$00>
+
+//・・・。　　　　　　」
+...?"
+
+<$FF><$FF>
+<$5A><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//クックックッ・・・おまえ、\n
+//　　あれを蘇らせようとしている\n
+//　　んだろ
+Hahaha... You're planning to revive that 'thing', right
+
+<$F3><$FF>
+<$04><$00>
+
+//？
+?
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//最愛の裏切り者に対して、\n
+//　　いや、この世界すべてへの\n
+//　　報復か
+Is this revenge against the man who betrayed your love? Or anger against this cruel world
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　　　　　　　」
+?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//あなた望月君じゃないわね？\n
+//　　・・・か、神山！　なぜ
+You're not Mochizuki, are you? ...K-Kamiyama!? But how
+
+<$F3><$FF>
+<$68><$00>
+
+//！？」
+!?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//そうさ、帰ってきたんだよ！\n
+//　　はるかな次元の旅から。\n
+//　　なぜか、こいつの体にな
+That's right, I've returned from a journey in a far off dimension by using this boy's body
+
+<$F3><$FF>
+<$04><$00>
+
+//！！
+!!
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//おっと、誤解するなよ・・・\n
+//　　俺はおまえの邪魔しようって\n
+//　　んじゃない
+Oh, don't misunderstand me by the way. I don't mean to interrupt your ritual
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//ただ、高みの見物をさせて\n
+//　　もらうだけさ
+I just want to be here to see it happen is all
+
+<$F3><$FF>
+<$04><$00>
+
+//。
+.
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//あれから俺はあらゆるものを見\n
+//　　てきたが
+I've seen all kinds of things since then
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・。
+...
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//宇宙の真理・・・狂気への\n
+//　　探求心を満たすためなら\n
+//　　死んでもかまわん
+Ah, the truth of the universe... I'd gladly die if it satisfies my unquenchable curiosity
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　　　」
+!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//北条\n
+//　「・・・・・・。　　　　　　　」
+Hojou\n
+"..."
+
+<$FF><$FF>
+<$3C><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//望月\n
+//　「
+Mochizuki\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//クックックッ・・・じゃあな！\n
+//　　ゆっくり見させてもらうよ
+Hahaha!! Well then, I'll be watching everything unfold very closely
+
+<$F3><$FF>
+<$04><$00>
+
+//！
+!
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　
+\n
+
+<$F3><$FF>
+<$04><$00>
+
+//この世の終わり・・・いや、\n
+//　　この星の正当なる支配者と\n
+//　　やらの復活を
+The end of this world... no, the revivial of this planet's true ruler
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　　　」
+!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00001DA4
+#WRITE(MYPTR, $000050F0)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//稲葉くん、無事なのね。\n
+//　　・・・よかったぁ
+Inaba, you're safe. ...I'm glad
+
+<$F3><$FF>
+<$04><$00>
+
+//。　　　　　」
+."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00001DFC
+#WRITE(MYPTR, $00005300)
+<$F5><$FF>
+
+//稲葉\n
+//　「北条先生！\n
+//　　ま、また変な化け物が！
+Inaba\n
+"Ms. Hojou! A-another monster appeared!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　いったい、この学校で何が起き\n
+//　　てるんですか！　　　　　　　」
+\n
+What the hell is happening at this school!?"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//落ち着いて、稲葉君・・・。\n
+//　　とにかく、落ち着くのよ
+Calm down, Inaba. Just breath...
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00001ED4
+#WRITE(MYPTR, $00005310)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//落ち着いて、稲葉君・・・。\n
+//　　とにかく、落ち着くのよ
+Calm down, Inaba. Just breathe...
+
+<$F3><$FF>
+<$04><$00>
+
+//！　　」
+!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00001F30
+#WRITE(MYPTR, $00005520)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//逃げ道は見つかった？\n
+//　　見つけたらすぐにここから\n
+//　　逃げるのよ
+Did you find a way out? Don't hesitate if you do and run
+
+<$F3><$FF>
+<$04><$00>
+
+//！！　　　　　　」
+!!"
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「それが見つかっても・・・\n
+//　　まだ由麻が、この校舎に残っ\n
+//　　てるんです。　だから・・・」
+Inaba\n
+"Even if I find one... I can't just leave Yuma behind here."
+
+<$FA><$FF>
+<$F8><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//い、一ノ宮さん
+Ms. I-Ichinomiya
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・！？　」
+...!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000203C
+#WRITE(MYPTR, $00005530)
+<$F5><$FF>
+
+//北条\n
+//　「
+Hojou\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//彼女を見つけなきゃ
+We need to find her
+
+<$F3><$FF>
+<$04><$00>
+
+//・・・　」
+..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002074
+#WRITE(MYPTR, $000060FC)
+<$F5><$FF>
+
+//\n
+//－　本棚にはカギが掛かっている
+\n
+- The case is locked. There's a bright
+
+<$FF><$FF>
+<$3C><$00>
+
+//\n
+//　　カギ穴の横に真っ赤な宝石が\n
+//　　付いている　　　　　　　　　－
+\n
+red jewel next to the keyhole. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000020E8
+#WRITE(MYPTR, $000061F0)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物がないか　調べてみた　　－
+\n
+- You open the case and look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「特に、変わった物は無いな。」
+Inaba\n
+"There's nothing interesting here."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002160
+#WRITE(MYPTR, $000063D4)
+<$F5><$FF>
+
+//\n
+//　　　本棚のカギを　開けた！
+\n
+- You unlocked the case! -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002188
+#WRITE(MYPTR, $00006414)
+<$F5><$FF>
+
+//\n
+//　－　カギは　すでに開いている　－
+\n
+- The case is already unlocked. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000021B8
+#WRITE(MYPTR, $000065A0)
+<$F5><$FF>
+
+//北条\n
+//　「稲葉君、何をしているの。\n
+//　　ダメよ。　むやみに、そこら\n
+//　　辺のモノをいじっちゃ。　　」
+Hojou\n
+"Inaba, what are you doing? Please don't just haphazardly flip through my things."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002228
+#WRITE(MYPTR, $00006860)
+<$F5><$FF>
+
+//\n
+//－　変わった書物がないか　調べ\n
+//　　てみた　　　　　　　　　　　－
+\n
+- You look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　本棚には　英語で書かれた本\n
+//　　フランス語　ラテン語と思わ\n
+//　　れる本まで　ある　　　　　　－
+\n
+- There are many books in what you think are English, French, and Latin. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「北条先生って、語学が堪能\n
+//　　なんだな。　アメリカに留学\n
+//　　してたって話だし。　　　　」
+Inaba\n
+"Ms. Hojou must be really good at learning languages. She did mention studying abroad in America."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002348
+#WRITE(MYPTR, $0000698C)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物がないか調べてみた　　　－
+\n
+- You open the case and look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　魔導書と呼ぶのだろうか
+\n
+- These look almost like grimoires.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　分厚いハードカバー表紙に\n
+//　　怪しい文字で書かれた表題\n
+//　　黄ばんでボロボロのページ
+\n
+There are strange letters on the thick books' hard covers. The pages are all yellow and worn.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　古本屋に行っても　そうは\n
+//　　ないんじゃないか　という\n
+//　　ような本が　たくさんある　－
+\n
+Even a used book shop wouldn't have tattered books like these. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002478
+#WRITE(MYPTR, $00006AB8)
+<$F5><$FF>
+
+//\n
+//－　本棚の戸を開けて　変わった\n
+//　　書物がないか調べてみた　　　－
+\n
+- You open the case and look for anything interesting. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//－　魔導書と呼ぶのだろうか？
+\n
+- These look almost like grimoires.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　分厚いハードカバー表紙に\n
+//　　怪しい文字で書かれた表題\n
+//　　黄ばんでボロボロのページ
+\n
+There are strange letters on the thick books' hard covers. The pages are all yellow and worn.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　古本屋に行っても　そうは\n
+//　　ないんじゃないか　という\n
+//　　ような本が　たくさんある　－
+\n
+Even a used book shop wouldn't have tattered books like these. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「北条先生のコレクション、
+Inaba\n
+"Is this Hojou's collection?
+
+<$FF><$FF>
+<$1E><$00>
+
+//\n
+//　　かな？　凄い量だな。
+\n
+There's sure a lot of them...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　こういう本が、こんなにある\n
+//　　んじゃ、望月が言っていた\n
+//　　『妖虫の秘密』って本も
+\n
+With all these ancient books, maybe the 'De Vermis Mysteriis'
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　北条先生が、もともと持って\n
+//　　いたって可能性が高いんじゃ\n
+//　　ないかな？　　　　　　　　」
+\n
+originally belonged to Ms. Hojou in the first place?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000026B0
+#WRITE(MYPTR, $00006BE4)
+<$F5><$FF>
+
+//\n
+//－　ロッカーが置いてある　中に\n
+//　　は何も入ってないようだ　　　－
+\n
+- There's nothing in the lockers. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002700
+#WRITE(MYPTR, $00006D10)
+<$F5><$FF>
+
+//\n
+//－　ロッカーが置いてある　中に\n
+//　　は何も入ってないようだ　　　－
+\n
+- There's nothing in the lockers. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「いざって時、この中に隠れら\n
+//　　れるかな。　　　　　　　　」
+Inaba\n
+"I could hide here in a pinch."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002798
+#WRITE(MYPTR, $00006E3C)
+<$F5><$FF>
+
+//\n
+//　－　　　北条先生の机だ　　　－
+\n
+- Ms. Hojou's desk. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「他人の机を勝手に調べるのは\n
+//　　良くないな。　　　　　　　」
+Inaba\n
+"It's not good to rummage through other people's things."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00002810
+#WRITE(MYPTR, $00006F6C)
+<$F5><$FF>
+
+//\n
+//－　薄気味悪い絵画が　壁に掛け\n
+//　　てある　　　　　　　　　　　－
+\n
+- There's an uncanny painting on the wall. -
+
+<$FA><$FF>
+<$F8><$FF>
+
+//稲葉\n
+//　「北条先生の趣味かなぁ？　　」
+Inaba\n
+"Does Ms. Hojou like these kinds of things?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($00002888, "WARNME")

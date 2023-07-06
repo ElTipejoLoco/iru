@@ -1,0 +1,766 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($0000000C)
+
+
+//Pos : 0000000C
+#WRITE(MYPTR, $00003A38)
+<$F2><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「もう儀式は\n
+//　　始まっているのか・・・　　」
+Inaba\n
+"The ritual's already started!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000050
+#WRITE(MYPTR, $00003B44)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「ゆ、由麻っ！！　　　　　　」
+Inaba\n
+"Y-Yuma!!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000088
+#WRITE(MYPTR, $00003B54)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「儀式に集中して、\n
+//　　僕に気づいてない！\n
+//　　今なら、由麻を助けられる。」
+Inaba\n
+"They're too focused on the ritual and haven't noticed me! I just need to sneak over and save Yuma!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000000EC
+#WRITE(MYPTR, $00003B64)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「あっ！！\n
+//　　な、何だ！？\n
+//　　何かあるのか？　　　　　　」
+Inaba\n
+"AH! W-what was that!?"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000290
+#WRITE(MYPTR, $00003B80)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「稲葉か。\n
+//　　地下から這い出てくるとはな！
+Hikawa\n
+"Inaba, huh? So you've crawled your way back to the surface!
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　だが、お前には何も\n
+//　　出来やしない。
+\n
+But, there's nothing you can do.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　この結界に\n
+//　　手を出せるヤツは\n
+//　　いやしねぇからな。
+\n
+There's no way for you to get past this barrier.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　この月が消えるまでの、\n
+//　　短い命だ。
+\n
+Your life will end just as the moon vanishes.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　そこで、指でもくわえて\n
+//　　見ているんだな！！　　　　」
+\n
+Gaze upon your final moments and despair!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000144
+#WRITE(MYPTR, $00003B90)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「稲葉君、来てしまったのね。\n
+//　　・・・でも、\n
+//　　あなたは何も出来無い。
+Hojou\n
+"So you found your way here, Inaba. But alas, there's nothing you can do.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　儀式を止めようとしても\n
+//　　無駄よ。
+\n
+It's impossible for you to stop the ritual at this point.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　人間がこの結界を\n
+//　　崩す事は出来無いわ。
+\n
+No human could break this barrier.
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　フフフ・・・\n
+//　　この月が消えたら、\n
+//　　全てが生れ変るの・・・。
+\n
+Hahaha... Everything will be reborn once the moon has vanished...
+
+<$FA><$FF>
+<$F8><$FF>
+
+//\n
+//　　あなたもそこで\n
+//　　全てを見届けなさい。　　　」
+\n
+Stand there and witness the end!"
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000003B8
+#WRITE(MYPTR, $00003BA8)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000003C4
+#WRITE(MYPTR, $00003CF4)
+<$F2><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「由麻を置いていく\n
+//　　わけには・・・　　　　　　」
+Inaba\n
+"I can't just leave Yuma behind..."
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 0000047C
+#WRITE(MYPTR, $00003E38)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「氷川！！　　　　　　　　　」
+Inaba\n
+"Hikawa!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「ま、まさか。　その鏡は！！」
+Hikawa\n
+"I-it can't be! That mirror!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 0000040C
+#WRITE(MYPTR, $00003E48)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「北条！！　　　　　　　　　」
+Inaba\n
+"Hojou!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「ま、まさか。　その鏡は！！」
+Hojou\n
+"I-it can't be! That mirror!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000004EC
+#WRITE(MYPTR, $00003E58)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$FF><$FF>
+
+//ｼ
+//Aria: Patched in these two bytes that got misread
+<$BC><$02>
+<$F5><$FF>
+
+//稲葉\n
+//　「
+Inaba\n
+"
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//お、
+i-
+
+<$FF><$FF>
+<$05><$00>
+
+//終わった、
+is it all<$20>
+
+<$FF><$FF>
+<$05><$00>
+
+//のか？」
+over...?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000704
+#WRITE(MYPTR, $00003E74)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「由麻っ、
+Inaba\n
+"Yuma!<$20>
+
+<$FF><$FF>
+<$14><$00>
+
+//由麻！\n
+//　　目を開けてくれよーっ！　　」
+Yuma! Wake up!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「由麻・・・。　　　　　　　」
+Inaba\n
+"Yuma..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「
+Inaba\n
+"
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//・
+.
+
+<$FF><$FF>
+<$05><$00>
+
+//。　　　　　　」
+."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000544
+#WRITE(MYPTR, $00003E84)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「由麻っ、
+Inaba\n
+"Yuma!<$20>
+
+<$FF><$FF>
+<$14><$00>
+
+//由麻！\n
+//　　目を開けてくれよーっ！　　」
+Yuma, wake up!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「！？
+Inaba\n
+"
+
+<$FF><$FF>
+<$1E><$00>
+
+//\n
+//　　もしかしたら、この薬で。　」
+Should I use that medicine...?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「由麻・・・。　　　　　　　」
+Inaba\n
+"Yuma..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//由麻\n
+//　「ウ、
+Yuma\n
+"U-
+
+<$FF><$FF>
+<$14><$00>
+
+//ウーン・・・・・・。　」
+ugh..."
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//由麻\n
+//　「
+Yuma\n
+"
+
+<$F3><$FF>
+<$04><$00>
+
+//い、稲葉くん。\n
+//　　私たち、
+I-Inaba? Is it...<$20>
+
+<$FF><$FF>
+<$1E><$00>
+
+//助かったの
+over
+
+<$F3><$FF>
+<$04><$00>
+
+//？　　　」
+?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F6><$FF>
+<$F1><$FF>
+
+//稲葉\n
+//　「
+Inaba\n
+"
+
+<$F3><$FF>
+<$68><$00>
+
+//ああ。\n
+//　　由麻、
+Yes.<$20>
+
+<$FF><$FF>
+<$14><$00>
+
+//もう全部終わったんだ\n
+//　　よ。
+
+It's all over.
+<$F3><$FF>
+<$68><$00>
+
+//　　　　　　　　　　　」
+"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000920
+#WRITE(MYPTR, $00003F50)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「これで、これで力が！\n
+//　　あの力が、手に入る！！　　」
+Hikawa\n
+"Finally! Finally that power is all mine!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//氷川\n
+//　「な、
+Hikawa\n
+"B-
+
+<$FF><$FF>
+<$05><$00>
+
+//なぜだ！！
+but why!?
+
+<$FF><$FF>
+<$0A><$00>
+
+//\n
+//　　なんで、いけにえを受け取ら\n
+//　　ない！！
+<$20>Why didn't it accept\nthe sacrifice!?
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+
+//\n
+//　　こんな記述はなかったぞ！\n
+//　　ど、
+\n
+There was nothing about this in the book!!
+
+<$FF><$FF>
+<$05><$00>
+
+//どういうことだぁ！　　」
+\n
+What's going on!?"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「う、
+Inaba\n
+"A-
+
+<$FF><$FF>
+<$0A><$00>
+
+//うわああぁぁ！！　　　
+AHHHHHHH!!!!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 000007E0
+#WRITE(MYPTR, $00003F60)
+<$F2><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「稲葉くん、見なさい！！\n
+//　　人類の歴史は終わり、新しい\n
+//　　世界が始まろうとしている！」
+Hojou\n
+"Inaba, bear witness to the end of mankind's rule! Watch as a new world is created before our very eyes!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「聞きなさい！\n
+//　　我が主の鼓動をっ！！　　　」
+Hojou\n
+"Listen to the beating of my master's heart!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//北条\n
+//　「フフフフ、主よ！\n
+//　　主よ！　我らが一族と共に！」
+Hojou\n
+"Hahaha! My master! Our clan welcomes you!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$F5><$FF>
+
+//稲葉\n
+//　「う、
+Inaba\n
+"A-
+
+<$FF><$FF>
+<$0A><$00>
+
+//うわああぁぁ！！　　　」
+AHHHHH!!!!"
+
+<$FF><$FF>
+<$78><$00>
+<$F8><$FF>
+<$F5><$FF>
+<$F6><$FF>
+<$F1><$FF>
+<$00><$00>
+
+
+//Pos : 00000A54
+#WRITE(MYPTR, $00004084)
+<$F5><$FF>
+
+//\n
+//　－　鏡に魔力が宿っていない　－
+\n
+- The mirror's magic is inactive. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+
+#WARN($00000A80, "WARNME")

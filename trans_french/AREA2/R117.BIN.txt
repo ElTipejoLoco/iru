@@ -1,0 +1,56 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(MYPTR, CUSTOMPOINTER)
+#CREATEPTR(MYPTR, "LINEAR", -4680, 16)
+#JMP($00000004)
+
+//Pos : 00000004
+#WRITE(MYPTR, $000002AC)
+<$F5><$FF>
+
+//\n
+//－　掃除用具を入れるロッカーだ　－
+\n
+- It's a locker full of cleaning equipment. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 00000034
+#WRITE(MYPTR, $000003DC)
+<$F5><$FF>
+
+//\n
+//－　木箱が置いてある　劇に使う\n
+//　　小道具などが　入っているの\n
+//　　だろう　　　　　　　　　　　－
+\n
+- There's a box full of acting props here. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+//Pos : 000000A4
+#WRITE(MYPTR, $0000050C)
+<$F5><$FF>
+
+//\n
+//－　パイプ椅子が　きれいに並べ\n
+//　　られている　　　　　　　　　－
+\n
+- There's a lot of neatly organized folding chairs here. -
+
+<$FA><$FF>
+<$F8><$FF>
+<$F5><$FF>
+<$00><$00>
+
+
+#WARN($000000F2, "WARNME")
