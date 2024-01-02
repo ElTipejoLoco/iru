@@ -1,6 +1,6 @@
 del error.txt
 del /s /q ins\*.bin
-xcopy /s /q orig\* ins
+xcopy /s /q orig\* ins\*
 ECHO  ins\AREA1\R101.BIN >> error.txt
 tools\atlas ins\AREA1\R101.BIN format\AREA1\R101.BIN.txt >> error.txt
 ECHO  ins\AREA1\R103.BIN >> error.txt

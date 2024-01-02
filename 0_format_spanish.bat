@@ -1,1 +1,0 @@
-tools\iru_script_format.exe trans_spanish format code_spanish\iru_vwf.asm 276
