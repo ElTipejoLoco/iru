@@ -14,7 +14,7 @@ del cd\iru\AREA7\*.BIN
 del cd\iru\AREA8\*.BIN
 del cd\iru\AREA9\*.BIN
 
-xcopy /s /q ins\* cd\iru
+xcopy /s /q ins\* cd\iru\*
 
 tools\iru_scene_compress.exe graphics\TIM\ANTIM_PAK\0000_00000038.tim graphics\TIM\ANTIM_PAK\0000_00000038.bin 05
 tools\iru_scene_compress.exe graphics\TIM\ANTIM_PAK\0001_00000784.tim graphics\TIM\ANTIM_PAK\0001_00000784.bin 0B
