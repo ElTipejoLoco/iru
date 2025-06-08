@@ -1434,7 +1434,7 @@ Voz de mujer\n
 
 //氷川\n
 //　「・・・
-Hiwaka\n
+Hikawa\n
 "
 
 <$F3><$FF>
@@ -1461,7 +1461,7 @@ De acuerdo
 //　「フッ、せいぜい頑張って\n
 //　　下さいよ。\n
 //　　この俺さまのために・・・！」
-Hiwaka\n
+Hikawa\n
 //"Haha, make sure to do your best. I'll be reaping the rewards myself, however!"
 "Jaja, aseg=rate de dar lo mejor. )Aunque ser} yo quien recoger{ los frutos!"
 <$FF><$FF>
@@ -2006,7 +2006,7 @@ Mochizuki\n
 //この世の終わり・・・いや、\n
 //　　この星の正当なる支配者と\n
 //　　やらの復活を
-//The end of this world... no, the revivial of this planet's true ruler
+//The end of this world... no, the revival of this planet's true ruler
 El fin del mundo... o mejor, ))El renacer del gobernante de la tierra
 <$F3><$FF>
 <$04><$00>
@@ -2084,7 +2084,7 @@ Hojou\n
 
 //落ち着いて、稲葉君・・・。\n
 //　　とにかく、落ち着くのよ
-//Calm down, Inaba. Just breath...
+//Calm down, Inaba. Just breathe...
 C{lmate, Inaba. )Respira...
 <$F3><$FF>
 <$04><$00>
@@ -2112,7 +2112,7 @@ Hojou\n
 
 //落ち着いて、稲葉君・・・。\n
 //　　とにかく、落ち着くのよ
-//Calm down, Inaba. Just breath...
+//Calm down, Inaba. Just breathe...
 C{lmate, Inaba. )Respira...
 
 <$F3><$FF>

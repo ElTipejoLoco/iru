@@ -528,7 +528,7 @@ ello.
 <$FA><$FF><$F8><$FF>
 //\n この島には神の一族でも\n いるのかもしれない。
 \n
-//There might a descendent of a god\n
+//There might a descendant of a god\n
 //on this island.
 Quiz{s hay un descendiente de un Dios\n
 en esta isla.
@@ -536,7 +536,7 @@ en esta isla.
 //\n 君の兄さんの行方不明も\n 関係があると見た方が\n 自然だろう。
 \n
 //I can't say, but your brother's\n
-//disappearence could very well be\n
+//disappearance could very well be\n
 //related."
 Y quiz{s la desaparici[n de tu\n
 hermano tambi}n est} relacionada\n

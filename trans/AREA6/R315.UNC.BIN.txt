@@ -845,7 +845,7 @@ Mochizuki\n
 //でも、なんで俺が兄さんに\n
 //　　ついて調べていること、氷川\n
 //　　が知ってるんだ
-But, how did he even know I was looking into my brother's disappearence
+But, how did he even know I was looking into my brother's disappearance
 
 <$F3><$FF>
 <$04><$00>

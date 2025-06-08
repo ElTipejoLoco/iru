@@ -109,7 +109,7 @@ Counseling Room
 <$EF><$FF>
 
 //　　　　　　男子トイレ
-Women's Restroom
+Men's Restroom
 
 <$FF><$FF>
 <$3C><$00>

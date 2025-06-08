@@ -1430,7 +1430,7 @@ Woman's Voice\n
 
 //氷川\n
 //　「・・・
-Hiwaka\n
+Hikawa\n
 "
 
 <$F3><$FF>
@@ -1457,7 +1457,7 @@ Yes ma'am
 //　「フッ、せいぜい頑張って\n
 //　　下さいよ。\n
 //　　この俺さまのために・・・！」
-Hiwaka\n
+Hikawa\n
 "Haha, make sure to do your best. I'll be reaping the rewards myself, however!"
 
 <$FF><$FF>
@@ -2001,7 +2001,7 @@ Hahaha!! Well then, I'll be watching everything unfold very closely
 //この世の終わり・・・いや、\n
 //　　この星の正当なる支配者と\n
 //　　やらの復活を
-The end of this world... no, the revivial of this planet's true ruler
+The end of this world... no, the revival of this planet's true ruler
 
 <$F3><$FF>
 <$04><$00>
@@ -2079,7 +2079,7 @@ Hojou\n
 
 //落ち着いて、稲葉君・・・。\n
 //　　とにかく、落ち着くのよ
-Calm down, Inaba. Just breath...
+Calm down, Inaba. Just breathe...
 
 <$F3><$FF>
 <$04><$00>

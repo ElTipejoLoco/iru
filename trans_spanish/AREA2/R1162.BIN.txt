@@ -115,8 +115,8 @@ Sala de orientaci[n
 <$EF><$FF>
 
 //　　　　　　男子トイレ
-//Women's Restroom
-Ba]o de Chicas
+//Men's Restroom
+Ba]o de Chicos
 
 <$FF><$FF>
 <$3C><$00>

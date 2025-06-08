@@ -55,7 +55,7 @@ Inaba\n
 
 //氷川\n
 //　「・・・
-Hiwaka\n
+Hikawa\n
 "
 
 <$F3><$FF>

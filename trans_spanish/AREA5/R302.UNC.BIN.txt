@@ -620,7 +620,7 @@ Mochizuki\n
 
 //ぐずぐずしてると、手遅れに\n
 //　　なるぞ
-//If you keep dwaddling, it'll be too late
+//If you keep dawdling, it'll be too late
 Si sigues paseando, ser{ demasiado tarde
 <$F3><$FF>
 <$04><$00>
@@ -1025,8 +1025,8 @@ Esto es lo que pone en el papel que te da Mochizuki:
 //－　博志にすべてを打ち明けた。\n
 //　　彼なら、大丈夫だと・・・
 \n
-//I told Masayoshi everything. I though maybe it'd be okay...
-- Le dije todo a Masayoshi. Crei que todo estar&a bien. 
+//I told Masayoshi everything. I thought maybe it'd be okay...
+- Le dije todo a Masayoshi. Cre& que todo estar&a bien. 
 
 <$FA><$FF>
 <$F8><$FF>

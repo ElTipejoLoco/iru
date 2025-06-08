@@ -796,8 +796,8 @@ Hirose\n
 //氷川君の用事の方がちょっと\n
 //　　重要なんだぁ～、だから\n
 //　　それ先にしたら行くねぇ～
-//Hiwaka asked me to do something very important, so I'll be back one I finish that
-Hiwaka me pidi[ que hiciese algo muy importante, as& que ir} una vez lo termine
+//Hikawa asked me to do something very important, so I'll be back one I finish that
+Hikawa me pidi[ que hiciese algo muy importante, as& que ir} una vez lo termine
 
 <$F3><$FF>
 <$04><$00>
